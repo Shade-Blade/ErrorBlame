@@ -1,0 +1,23 @@
+Don't forget this area ...|next,-4,Flustered|I cant see anything! Where are we going? !|next,-6|We need to find a way. Pay attention to the environment.
+Wow! Do you like this deficiency?|next,1000|The ball! So when he plays, he comes out ...|next,-4|Who is this person?|next,caller|Oh, a little bit of knowledge.|next,1000|MAD world, there are no safety standards or principles!|next,caller|Oh, my actions hurt everyone ... the bad guys.|next,1000|... Time does not decrease.|next,caller|Everything is going smoothly, there is an explanation. It must be bad.|next,-5|We entered the empire at that time. Otherwise, all of the complainants will |line|regret!|minibubble,2,1000||next,caller|What is strong? At least it did not help me.|next,-6|Any suggestions would be very helpful to a thousand supporters ...|next,caller|There is nothing we can do ...|next|Is this city full of garbage? An error occurred while remembering the |color,1|correct path|color,0|.|next|If not, this is just a new product for you!|next,1000||destroyminibubble|Patton ... Thanks for your help.|next,caller|Now a shelter ...|next,1000|We believe when the kingdom is safe. Temporary maintenance of equipment.|next,caller|OK. If you want to see it, stop it!
+Kabu.
+According to the |color,1|common|color,0| rules, you must reach the maximum ...|next|Open your eyes! Very easy.|next|See you again? Is there a queen?
+|align,left,true||face,caller,-1||flag,581,true|Hello my friend! Can you find a way?|next,-5|Is that correct. thank you for your help.|next,caller|Ha ha ha. You can't see the Dynamic Queen anymore ... Do you think you might be interested in my business?|next,-6|I cannot say for sure. This is too dark.|next,caller|You are wrong, my friend. correctly!|next|My job is to |color,1|change numbers|color,0|.|next|Did you get the wrong money to build a head? How can I help?|next|Of course, the costs must be paid.|wavy|Ha ha ha ...|wavy||next,-4,Angry|I don't like it ... but I think it's worth it.|next,caller|The |color,1|situation|color,0| and |color,1|medicine|color,0| are changing.|next|This can give you all the benefits and benefits of simulated statistics and turn you into a drug!|next|What about the focus box? But my second job is to replace drinks.|next|This allows you to transfer one type of wine to another. This way you can exchange money.|next,-5|What is "verification"?|next,caller|Sir! Of course this does not |size,0.5|hurt|size,1| a friend!|next|Think about it, right? Find out where to find me|next,-5,WeakBattleIdle|... I'm half-hearted.
+|hide||event,197|
+|align,left,true||face,caller,-1||showmoney|Friend! What can you do for yourself?|prompt,map,0,3,-11,-11,16,@Statistical records 75 - Perry,@Wine: 15,17|
+|showmoney|Do you |wavy|really|wavy| believe? You do not have all the gifts!|prompt,yesno,-11,16|
+|showmoney||wavy|Ha ha!|wavy| What is this site? Super HP, Super TP or MP Chef. It can be taken with anyone.|pickitem,1,-11,16|
+There is no change in the number. The principles of physics have no role.
+Do not spin. We found something to use it!
+|showmoney|What makes |string,0||line| one of them?
+No ... look at your things, beer!|break||goto,19|
+Excuse me. There is no money. I can't do anything.
+Well let's go!
+I changed my mind!
+|wavy|So ...|wavy| amen. If you change your mind, come back!
+Thank you, but I will listen to you!
+Not now!
+If you need more service, come back! |wavy|Ha ha ha ...
+|tail,-4|This mask is amazing.|next,-6|Do you think he just brought him to the office?|next,-4,Happy|I do not know that I want to try!|next,-5|Something is wrong here ...|next|It all depends on their safety.
+|checkflag,581,4||align,left,true||face,caller,-1|My friend good news! I am Bulgarian again!|next|There are books that prove it. Look! ? Try this certificate in Burma!|next,-5|Congratulations, Button! Thank you Queen again for your support.|next,-6|Yes, what happens next?|next,caller|More science, really!|next,-4|... ... no ... not motivated? This is not the kingdom of ants ...|next,caller|WOW! Sorry, there's something wrong with that!|next|All certified is a kingdom called this earth!|next,-6|Donations|next,caller||wavy|Wow ...|wavy| It is good to return home.|next,-5|Wa-huh ...|next,-4|The big advantage is...|flag,676,true|
+|boxstyle,4||spd,0|You can find bills and many wall approval documents.|next|Elias Patton's patent application ...|line|Counter clockwise.|next|"Checked" - Okay.|next|Attorney John Patent ... Snakemouth Oil.|next|Jerry -1 "real" spy card (unique).

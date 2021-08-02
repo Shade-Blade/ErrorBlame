@@ -1,0 +1,19 @@
+|name,kabbu|@Test for global tag system@
+|name,vi|Ok Kabbu, that's nice. Look at this: @Woooah!
+
+--formatted--
+
+
+Test for global tag system
+
+
+Ok Kabbu, that's nice. Look at this: 
+Woooah!
+
+--tags--
+|name,kabbu|
+@
+@
+|name,vi|
+@
+--line--

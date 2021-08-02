@@ -1,0 +1,12 @@
+Perhaps they were like us who entered this door yesterday.|next,-5|In the current situation, the garbage is very strong.|next,-4|Swallow it well. An incredible wall.|next,-5|Imagine being in an ant field!|next,-6|No, Kabu.
+Like him. |color,1|Sand removal|color,0|.|next|We check the king's order. It opens upon completion.
+Anyway, the Queen of Discovery will pass you by. Homepage|next|Rapid theft has increased in recent years.|next|Follow a |color,1|large tree base|color,0| in the |color,1|northwest|color,0| to make an extraordinary turn.|next|The hornet kingdom comes north. |line|St
+This little ant protects the lost door.|next,-6|We are here.|next,-5|I do not know what to say.|next,-4|Do not be late! Stay with us!
+!
+However, if you want to cross the desert, try it and now no one can go there.|next|With a net, you must leave the Queen of Ants.|next|Wow! Hi!
+Oh, the door is open!|next|Do not recommend traveling to the desert.|next|If you cross the desert, remember that this desert is much larger than now.|next|Go there. Do not forget when planning the cross!
+There are so many mistakes on the beach today!|next|How do you find the treasure? I can run quickly ...
+The founding Queen maintains a balance between Middle Street and Street. Can I rent a speedboat?|prompt,yesno,10,11|
+Is the temperature increasing?|next,-6|I give you peace.|next,-4|But I think this is not enough.
+OK.|break||warp,60,-22,0,1|
+OK.

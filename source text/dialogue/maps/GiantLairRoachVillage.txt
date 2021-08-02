@@ -1,0 +1,78 @@
+|checktrue,586,19|Let's eat it ...|next,-6|This is ...?
+|tail,-4|Is this ... a city?
+|tail,guard1|Like him! If you have a disease!
+|tail,maki|...! This is ridiculous!|next,-4|There is no other choice!|next,-6|Some were arrested.
+|tail,elder|He already lives here. But this is the only game.|next,elizant|Explain the situation to us. Our time is difficult.|next,guard2|No comment. Today we are all behind the tree!|next,maki|Is this wood? OK?|minibubble,@...,elizant||next,elder||flip,elder|Don't worry, talk too much!|next,guard2|NDO|next,elder||flip,elder|Is this a lie?|next,elizant|Not him! Explain on behalf of people ...
+|tail,elder|Do you understand ...|next|After reading several generations of conservative wood, I think ...|next|Many people return during the day.|next,guard1|"Weak" when the king leads his army.|next,guard2|They use it as a phone call ... they have no age.|next,mothiva|What an unfortunate experience for those who support this belief!|next,-4||flip,-4|Hey, great!|next,maki||flip,-4|Zorro Van!|next,elder|What to do if you have it?|next|Why do we use our sacred treasure! ???|minibubble,@...,-6|
+|tail,elizant|... The goods ...|next|I will use my strength to achieve my goals ...|next|But this yearning for rights only exacerbated Bockaria's concerns.|next|Destruction!
+|tail,-6|But ... what about your mother?|next,elizant||face,elizant,-6|Add it to my wishlist. I am full of it.|next|Searchers are searching for the best treasure in every city.|next|I'm pround of it. You need to rest.|next,elder||face,elizant,elder|How are you? The sacred tree grows holy!|next,guard1|Grandfather! They will perish ... what shall we do? What is our goal?|next,elder|The shoes are angry, but they do not harm treasures like us! Malta!
+Our grandchildren protect generations.|next|His job of debugging is very strong ... so we are the ultimate heroes of this country.|next|Quick disappear. We cannot be alone.
+I think the house lives in another country.|next|Where did you go and what is your destination without trees?
+Our culture warns that the use of wood can be destroyed.|next|Our ancestors are another comic who loves his power.|next|Why do comedians understand the little tree in the snake's mouth?
+|checkflag,532,10|... ... you are old. Have you seen its development before?|next|When our ancestors used sticks, spiders attacked them.|next|I can only imagine the afterlife and forgiveness. I came here.
+"Ax" man ... Isn't this the real ax?
+Hey rubbish ... take off our old clothes!|next|It is not a cultural monument, but should be closed rather than abandoned ...
+Did you do it? He is a handsome guy, I think he plays magic |line|cockroaches. Where did you find it?|anim,-6,WeakBattleIdle|
+Fortunately, I do not like my skin.
+The elevator is connected to an old door. You can jump|prompt,yesno,17,18|
+|hide||event,201|
+It is your responsibility to pay attention to this publicity. Always asking.
+So, some cuckoo is still alive ...|next,-6|This is according to our time.|next,-4,Sad|How long have you been with the washing machine?
+I also respect this city ...|next|But we have time to travel. We catch animals.
+Therefore, elders in the valley of the tree.
+A waste of time ... Get ready to fight Maggie!
+|wavy|Make sure ...
+A little bit here ... but I went the wrong way.|next|I can go here for extraordinary things!
+It's good here, but we can't rest. Can the pattern be protected from the future?
+I don't remember the last time I saw a funny smile, so I hope I can get a better place.
+|tail,guard2|The directors listen. Does not change. ear infection!|next,-4,Angry|We knocked on the door.|next,-5|Not him! Do not solve this!|next,elizant|Of course, they are through loyalty.|next,-6||face,elizant,-6|Elizabeth, our queen ... we help. We will justify this case again.|next,zasp,Angry|I think everyone wants you to feel comfortable.
+|break||anim,this,Idle||end|
+Sit back and see how beautiful this country is.|next|But we will not encourage you.
+It looks like it won't take long. Show me what you know ...
+Trust yourself! Closer!
+We eat at least once a day. It is from us.|next|What about the hops and their numbers, right? I want to know what this is ...
+Are scorpions dangerous? Forgive me. Compared to the president who |line|died, his name is Dhamers.
+|hide||event,202|
+|tail,elder|I have finished! We cannot pass!|next,maki|Requests!|next,elizant||face,party,elizant|Snake muscle. What do you think?|next,-4|Yes, the name is Beamer-|anim,-5,Angry||flip,-5||minibubble,@Like him!,-5||fwait,0.5||anim,-4,Flustered|!!!!|next,-6|Yes, couples can see us.|next,elizant|... Sorry.
+|tail,-6||flip,-5,false|.|flip,-5,false|.|flip,-5,false|.|flip,-5,false||next|Vi and Kabu know this, but not now.|next|We first worked under Queen Elizabeth.|next,elizant|What are you doing ?|next,maki|That's right, keep going! !|next,-5|Yes, this is no secret.|next,-6|The world collapses and goes to Bulgaria.|next|They saw us and knew they were all gone. But no one knows why.|next||checktrue,532,37||goto,38|
+But when we did a tour, we found a laboratory ...|next|This chicken is testing the devil with someone else!|next,elder|What are you doing ...?|next,-6|I want to increase the strength of some seeds!|next,-6||goto,39|
+However, because the group is gone, it is not a beetle.|next,elder|What do you think?|next,-6||goto,39|
+What is the value of the factory on this satellite?|next|Investigators risk. Now the devil is stupid ...|next|The promise of eternal life is also given to his future wife. Looking forward to more!|line|You are!|next|Stay in this forgotten place and save yourself from old temptations!|next,elder|...|next,elizant||face,party,elizant|Life ... Thank you for the information.|next||face,party,elder|Didn't you think about that for a long time?|next,elder|...|next|"Agriculture is the most important thing," my mother said when I was born.|next|"Good, bad ... everything is made of wood. Sacred."|next|So we want to protect it. "|next|We are older ...|next|But is it good? How can you benefit from that?|next|Every time a child walks, they can't see him anymore ...|next|This is your brother! In the end!|next,-5|Sorry, see! !!|next,null||bleep,@37|More!
+|tail,guard|Grandfather! ! What is going on! !|next,elder|Let's get to a new destination!|next|People cannot lead a life full of violence.|next|Enjoy another planet!|next,maki||flip,elder|Thank you.|next,elizant|Welcome to our country.|next,guard|I do not believe ...|next,elder|We will take you to the desert.|next|He destroyed the tree. Our approach is based on this.|next,-4|You can do it quickly! Let's do it!|next,-5|There are no laws?|next,-6|We have hands. Like him.
+|tail,elder|... They are. Eternal fruit no longer exists ...
+|tail,roachguy||flip,elder|How old are you? What do you protect?|next,elizant||flip,elder|Whether it is wood or not, it is still a building. It can protect your heart.|next|But if you want to visit ...|next|Welcome to Bucharest. May your entire kingdom live.|next,elder|Narrated by Bukhari ... We hear the story of our ancestors.|next|I am afraid of the city.|next|I live.|next,roachguy|Ancient ...|next,elder||flip,elder|Each! Do not miss this country.|next|No need to fight the devil.|next|Do not spread rumors of hunger,|next|Those who want to go to Bucharest are not afraid of me.|next|Anyway, you can leave at any time!|next,roachguy|... Thank you. Well, adults!|next,otherroach|This is not a crime, but it is not here!|next,bigroach|I will not leave mud, but thank you for the end.|next,otherroach|I miss you but I miss the world!|next,-6|Hey girl, you hear that.|next,-4|Because they are now in danger!|next,-5|Hey, Bukhari is heading here!|next,elizant||flip,elizant|This is a group! Distance! I have a party!|next|We hope you do not mind!|next,mothiva|Anyway, I must have started a program with you!|next,maki|Type a lot of information, so ...|next,kina|This will help you! Do not eat!
+|tail,zasp|Hello Motiva.|next|We are happy to be alive. Thank you.|next,-5|You also help! Good job!|next,zasp|... Sometimes we work together.
+|tail,-4|Why can't I use Motiva?|next,-6|I do not know proud or what?|next,-5|Glad to know how you feel!|next,-6|I talk a lot, but ... let's party together.|next,-4|The girl's face! I am hungry!|next,-5|Thank you V for helping me lead a long life.|next||anim,-5,WeakBattleIdle|I hope our team is happy to find it now.|next,-6|Not just a pride.|next,-4|Yes, now a great inventor!|next,-5,Happy|... Yeah. No, I'm a great team member!|next|Let's finish our last mission: let's go to the big house!
+|color,4|A group of foxes fought between a rubber prison and landfall and found the village of Roche.|next||color,4|He decided to destroy the eternal tree and go to the Hornet.|next||color,4|So after a long journey and difficult struggle, Snakemouth and his friends defeated Hornet.|next||color,4|The tree head went permanent, but a new head started.|next||color,4|... It's snowing!
+|anim,this,Sad|Only |currency,var,1| remain in |line||string,0|!|line|Do you agree?|prompt,yesno,47,48|
+|checkmoney,var,10,49||checkinvqtd,0,full,50||money,var,-,10||additem,0,var,0||anim,this,Happy|Yeah.|call,28|
+Pico! Normally!|call,28|
+|anim,this,Sad|Excuse me. You have to pay for the care of strawberries!|call,28|
+|anim,this,Sad|Y- Your bag is full!|anim,this,Happy|B- Please ... I will help you!|call,28|
+|checkmapflag,0,55,true|I don't trust strangers ... Do I go on vacation?|prompt,yesno,52,53|
+I hope you don't find the treasure ...|break||mapflag,0,true||innsleep|
+Don't do this alone.
+|checkmapflag,0,55,true|Threads. We need rest|prompt,yesno,52,53|
+Everyone works ... I hope they get some relief.
+Are you looking for parents? Walk.
+Looking for |string,0|?|line|I think this is worth |currency,var,1|.|line|OK?
+|prompt,yesno,58,59||checkmoney,var,10,61||checkinvqtd,0,full,62||money,var,-,10||additem,0,var,0||goto,31|
+Oh, you can play ...
+My sister said that I did not miss eating. The tree is gone! ???|next|Finally, we can explore other cities ... We can save on travel costs.|next|Your kingdom is full of strawberries. Please!|next|Click |button,4| next to what you want to buy.
+Hey, the contract only works if you have enough strawberries! Please!
+Finally I got a "customer" and took my bag ...?
+|tail,42|GG ...|next,43|We have some! But still!|next,42|We believe in you! Could you!
+I think I'm an adult! But this city is harsh ...|next|I gave it to Snakemouth authorities about the future |line|of the Old Kingdom.
+Che I am so happy to find Louis. It always saves me|next|We have to improve!
+All my friends have left.|next,-6|Without them, the injury will be repeated.|next,-4,BattleIdle|R ... this stupid manna causes all damage! Evil!
+GC ... the power of the state ... forced to loot homes ...!
+|tail,-6|Dead and wounded ...|next,-5,Angry|Queen print response!
+|shaky|The king decides the power of the wild beast ...!
+|wavy|A race|wavy| Therapist ... etc ...
+|tail,-4|Not just a monkey?|next,-6|Think. He seems to respect everyone.|next,-5|The queen was chosen by the people ... There is an organization in the north ...
+An hour without trees ... I can't imagine ...
+|tail,-4|Scorpions like pets! ??? Stupid!|next,-5|Eczema is more common.|next,-6|I hope you don't see me in the desert.|next,-5,Surprized|Girl! I do not ask!|next||anim,-5,Idle|Have you ever had a shoulder injury?|next,-4,Sad|OK ...|next,-6|Look well. But thanks for your attention.
+Life, your words help. You can do this without accident!
+|tail,-6|Even in the wrong country, there were very few people who saw the ship.|next,-4|There are these animals ...|next,-5|It is desirable that this disease be severe. This is for all fun!
+|tail,-4|Scary but very tasty ...|next,-6|Do you use it when you are in danger?|next,-4|There is no other choice! I cannot accept the dead master!|next,-5|But they have no other choice.
+|tail,-6|We invite Mrs. Kahraman! !|next,-4,Surprized|Hey! Ready!|next,-6|Dedication to their work!|next,-5,WeakBattleIdle|Well, but sorry ...

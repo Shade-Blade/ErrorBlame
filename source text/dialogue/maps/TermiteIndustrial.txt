@@ -1,0 +1,112 @@
+|tail,-4|Exceptional! They have links on Earth!|next,-6|And very comfortable. I need to move a few words a day.|next,-5|The air is thick. Fire or tobacco?|next,-4|There are a lot of tubes and materials here. I smoke.|next,-6|We do not know where the scholars are.
+Where are you going?
+Already on earth!
+Ala mbu
+Second floor
+House 5
+Roof
+|boxstyle,3||spd,0|Catch! Call, come, hello!
+Sometimes I wonder why ...|next|How is the weather ...
+|anim,caller,Idle|Piraccanai.|call,33|
+|flag,387,true||define,31,s||define,32,d||flip,d,false||flip,s,false||igcolmove,31||igcolmove,32||parent,31||align,left,true,2.5||tail,s,instant|Yes I want to see you.|next,-5|My class! Say it! What are you doing here?|next,d|You'll find the remains of the trip!|next|They remember Bulgaria's mistakes and then say that the ants will go to the kingdom.|next,-6|We heard him say this. They immediately fled to the area. This is a scary place.|next,s|It looks like a sack covered with ropes.|next|As if they were lying on their feet.|line|So let us continue.|next,d|Yes, be careful if you suddenly run away! These bugs are like problems!|next,-4|What is the matter? No, because we don't think about |line|going or anything.|next,d|There are strong winds. We must head west.|next|...... However. Be careful now.|next,-5|The results of this are not taken into account. Thank you for the information!
+You should take your bag before leaving the historical center.|next|I am not happy here.
+Go west to the old city.|next|But be careful! This is a fatal mistake!
+|checkanim,caller,100,14||mapflag,1,true||checkmapflag,0,15|Not him! It's a beautiful hotel. This results in five fruits per day,|line|15 per crime, then 3 fruits! Will I stay?|showmoney||prompt,yesno,16,17|
+|hide||anim,caller,101||fwait,0.5||hide||anim,caller,0||flag,400,true||goto,13|
+Hope you sleep now!
+|checkmoney,15,18||money,-15|Fifteen here! Your room is on the second floor, you and your dreams come true!|break||goto,19|
+Trust me again!
+Excuse me. It looks like it won't take long.
+|mapflag,0,true||innsleep,-36.7,9,14.65,true,-41.45,9,11,-34.5,9,16|
+This feature can be improved. Is there anything else you can do?|break||blank||checktrue,407@409,21||end|
+|flag,408,true||event,true||align,left,true||flip,caller,false||tail,-5|... ... A favour. Did we admit it?|next,-4|I saw him before people came here ...|next,-6|Oh, the hotel sign.|next,caller|Excuse me? Refugees? Can someone say that there is evidence of resistance?|next,-5|License! Excellent!|next,caller|Did you sign up? People ...|next,-4|I am very happy to be here.|next,caller|I want to offer a warm and profound life experience in the world.|next|However, it is still a welcome thing for most tourists.|next|The disadvantage is that many people in our system are dissatisfied.|next|I know my wife did this to me because I didn't want to.|next,-4|Because it came.|next,caller|....|next,-6|Unfortunately, this is not widely available.|next,-5|If you missed!|next,caller|...... Yes. I am not stupid, ...|next|I've got it all, left.|next|Saul is against the |line|administration if requested. |line|I think the first time I will return!|next,-6|Perhaps we will meet at the source of the controversy.|next,-5,Happy|(He will be happy!)|breakend||event,false|
+Thanks for calling me. Your future ...
+|tail,-4|What are you looking for? The hand disappeared.|next,-6|Some call it a dream.|next,-4,Happy|I think you are rich and famous!|next,-5|Let's start.|next,-4,Idle|I wish your dreams become true. I want!|next,-6|(Sometimes it is not bad.)
+|tail,-6|Wow, if you are with a man, it will spread slowly.|next,-5|Very strong and flexible.|next,-4,Angry|If you get everything, you are afraid of rebels!|next,-5,WeakBattleIdle|Continue? Tired of war ...
+Welcome to Rome! Will he be the twenty-fourth hero today?
+Piraccanai.|next,-5|Sorry Sorry ...|next,caller|Piraccanai.|next,-6|We have heard that your color is the best. I'm curious.|next,caller|Adus ... The mirror is famous.|next,-4,Sad|Perfect! But we like to paint!|next,caller|Piraccanai.|next,-5|Hey, put it here.|next,-6|We need kebab.|next,-5|I know, but we do not know ...|next|Ask if the link is no longer acceptable.|flag,433,true||call,33|
+Piraccanai.|next,-5|Ask if the link is no longer acceptable.|call,33|
+... There is no other exchange between us. Abroad.|call,33|
+Piraccanai.|setvar,0,0||pickitem,1,30,30|
+|checkvar,0,138,31|........ If you want to come here tomorrow better ...|call,33|
+.......!|next,-4|We will get the answer!|next,caller|........ very nice. This is the color. But I put my head on you.|break||removeitem,1,138||giveitem,1,139,32|
+... There is no other exchange between us. Abroad.|next,-4|Forgive me.|next,-5|Ready image.|flag,434,true||call,33|
+|break||anim,caller,100||end|
+See you at the hotel? How do we go to college? We are welcome.
+Supervision in Tajikistan
+Fabulous. why not
+The new church? With all kinds of differences.|next|Kyosha knot, do it, do it, do it, do it, but do it.
+A fairly narrow gray picture awaits an item.
+Finally, I started to believe in gold.|next|Lostfu is not fun in a forgotten city, but it's nice to see what the |line|city has to offer!
+Black ... why?|next|He knows his age. What to do if something happens?
+|align,right,true||face,caller,-1||tail,-4|Uh! Who borrows?|next,caller|???? Will Tajikistan be the world's choice?|next,-5|We are the Snakemouth team. Is yours.|next,caller,Idle|Is that correct? Thanks for the email!|next,-6|Have you thought about Umo Petro? Back home. This card.|next,caller|Nijo is not interested in Tujitimot. You will find that it works quickly.|next|... With enthusiasm of excitement helped reluctantly return home.|next,-5|Do you believe in free!|next,caller|This is the only way. I know I have a lot to ask, but ...|next,-4,Happy|This would be great! We did nothing!|next,caller|Thank you, we include.|next,-5|Is Nero your favorite place?|next,caller|My favorite statue |color,1|in the south|color,0|.|next|Do you know where it is?|next,-6|Yes, we met when we got here. so let's go|next,caller|Mint leaves.|break||flag,465,true||follow||end|
+|tail,-6|IHE.|next,-5|There is no such thing! !!!!!!! Can not be released ??????????|next,-4|Fire! Brother .................|next,-6|Booklet. Supervision in mother language companies.|next,-5|The journey will come ...
+I want to go to the team. An enlightened actor.|next|Driving, choose it.
+|tail,43||face,43,44|I said! Every single time in the native language!|next,44|Million km. Divine art!|minibubble,@Believe me.,43||breakend|
+What to do, I do not think! Leave without food!|next|So finding it will hurt.
+Whatever it is. Government researchers are buying Colos!|next,-5|Hey! I see your question. Do you eat?|next,caller|I always fear! The opportunity is exhausted.|next|This product cannot be exported today. I work. If you give it to me, I will produce good fruits.|next,-4|Trust yourself! Why not.|next,caller|Umm ... in a forgotten country, you have a bed today.|next|He traveled west until his death.|next|This is awesome ... but fast.|break||giveitem,1,145,47|
+|tail,-6,instant|It smells good.|next,caller|It's annoying, but I loved it! This is my lifeline!|next,-5|Leave us alone!|flag,475,true|
+When the famine started, the famine spread west and spread to the point where the banks indicated.
+See you, brother! ... thanks.
+I can't believe I forgot to eat ... there is always time to |line|communicate together, there is anger!
+Bear. Have you heard of a creature named "Miao"?|next|Bucharest is different and everywhere, so there are many entries!|next|I want to list them all, but I can't get out of here ...
+Good morning! Do you live?|next,-4|Are you not the true God?|next,-4,Happy|We have been fighting trees for years!|next,caller|Trust yourself! They may not be aware of the changes and |line|work tools.|next|So I hope you collect information about my actions! But we are not worried about that. This is simple.|next|Win the battle and record your experience!|next|Add 50 pieces to each product category.|next|Call us a little, I recommend!|next,-6|This is simple. Get rid of them.|next,-5,WeakBattleIdle|(50 ... extreme violence!)
+Is not this right? You do it.|next|Good job! Enough study! Thank you so much!|next|I do this to say thank you. I think this really helps your |line|business.
+Is not this right? You do it|next|... Not enough information ...|next|@var@ people have now grown to complete the test! Check the number of books in the library.
+|hide||event,160|
+|tail,-4||anim,-4,Happy|Hey, I know Miao will one day do a good job!|next,caller|Thank you again!|completequest,47|
+Your help with fruit testing will make a lot of progress.|next|Hope the reward is more than that!
+Looks like you can use this app for cooking. Do you want to |line|donate?
+Which car do you want to park?
+Need to add something else?
+Press |button,5| to cancel the service.
+Want to cook with |line|@VAR1@ and @VAR2@?
+Do you like to cook for |line|@VAR1@?
+You go and win the cross! ? I can not forgive ...
+Raco. Suddenly, the traveler became the 24th winner!
+|wavy|Look|wavy| ... no matter what you've been doing lately, Terry isn't laughing!|minibubble,67,24||breakend|
+|wavy|*Grumble*
+Why do you love her?|next,-5|This can have a negative effect on you. I can help?|next,caller|No, you do not know. Area.|next,-5|Stop ...|next,25|Throwing it away is usually nasty!|next|There are heroes in the Roman arena to see tea from them.|next,-6|You too.|next,-4,Angry|What do you think?|next,-5|... Wall ...|flag,515,true|
+....
+|align,right,true||tail,25,instant|Are you not a foreign hero?|next,24|C head? Ras ...|next,-6|I think we follow the rules.|next,24|Not just a hero! As someone who sees something negative!|next,-4|Heart? Do we know what the tag is?|next,25|There is no need ... anger over the elderly.|next|This is a program everyone has been talking about since.|next,24|I do not know you well!|next,-4|Yeah.|next,-6|Excuse me. Ocpaco.|next,24|.|next,-5|Did you tell him this is a problem?|next,24|Y-You laugh.|next,-4|Jump with Kabu without an appointment.|next,24|Do not look at strawberries for a month.|next|I want to buy |color,1|green Ranger silk|color,0|! Only ten of them.|minibubble,@...,-5||next|But I think someone stole it on that day! IM angry!|next,-6|Fur.|next,-4|Dana, we help ...|next,-5||destroyminibubble|Let's see what we can do. Happy right?|next,24|Easy ...|flag,516,true|
+It would be better to buy Terry ... but hard ...
+What is that?|pickitem,1,73,69|
+|checkvar,0,25,74|Is this a gift? Because I dont want to.
+|align,right,true||removeitem,1,25||tail,-4,instant||face,-4,-5||face,-5,-6|Raco|next,-6|Kabu, do you believe? The boy you just saw?|next,-5||face,-5,-4|Don't worry about the team.|next|The guards gave me strength to investigate.|next|By the way ... I don't want to anymore. Think about what we have.|next|Caves, cars, thieves ... animals.|next|This is a good trip.|next|We protect witnesses.|next|When it's time to replace a new baby, he wants a new baby!|next,-6|....|next,-4|Fog.|next,caller||face,party,caller|What's new?|next,-5|You have!|next,caller,Happy||anim,25,Happy|There is no other choice! May May!|next,25|Yes see you again.|next,caller|Am I right?|next,-5|Normally! One day, he can be strong like him!|next,25|Rule?|next,caller|I want to save you!|next,-5|Thank you, do not worry.|next|Make delicious food with tomatoes!|next,caller|Is that correct ...?|next,-4|Yes, at home!|next,-6|But we need to pay attention to that.|next,caller|I am doing! You move every day!|next,25|Fortunately, we do not face challenges like these every day!|next,-5|No more.|next,-4|They say that money cannot make you happy.|next,-6|His head is beautiful, too ...|next,-5|Hope our good work develops!|flag,410,true|
+I always come back! I will not leave!
+Life is enjoyable now, thank you!
+|tail,-4|Does Wantsney want to know the seeds of ignorance?|next,-6|First of all, it's beautiful.|next,-5|We think it's great!
+|tail,-4|The guards are here. What should I do?|next,-6|It became clear after the war.|next,-5|Help spread the word!|next,-4||wavy|Iurenko.|wavy|
+I will never forget to eat!|next,-6|Confidence.|next,-4|Beautifully.|next,-5|... OK.
+|checktrue,408,92|Don't you see her anywhere?|next,-4|He is? I do not know ...|next,-6|Hmm, let's just say I've seen better.
+|tail,-4,Angry|15 strawberries! Why is it so expensive!|next,-6|Is there a high-speed phone?|next,-5|We also save a lot of money when traveling.|next,-4,Flustered|Just because you are rich doesn't mean you have to earn more money! ! !
+|tail,-4|Does the building attract passengers? Not very special ... insurance ...|next,-6|Separated.|next,-5|The journey was difficult, but the kingdom prohibited it.|next,-4|Yes, our team has no limits!
+|checktrue,410,84|The boy was seriously injured.|next,-6|Go to the warehouse and do not stop.|next,-4|Not for |wavy|long|wavy|!
+|tail,-6|Strong castle, Kabu. Play.|next,-4|Yes ... quotes for the supreme power of details!|next,-5|How happy! "Are you saying it is useless?"|next,-4|Yeah.|minibubble,@Yeah.,-6||breakend|
+|checktrue,410,84||tail,-6|This group is ripe, but I think they are fighting for the wrong.|next,-5|Is this part of production?|next,-4|Or it is competitive!|next,-5|... Instead of discussing their situation, we are trying to do more!
+Small
+Yeah! If!|line||wavy|M ~!|wavy|
+Are you born as a soldier? Not for sale. They call me for war ...
+|tail,-4|If you don't want to fight, it won't tell you!|next,-6|I think you are a fraudster artist.|next,-4|But I am happy to fight! I do it because I want to!|next,-5|I think we all choose our destiny.|next,-6|It is easier said than done.
+This is a real decision! Do not leave me here!|next,-6,BattleIdle|However!|anim,-5,Hurt| |line||shaky|Yeah! If!|anim,-5,Surprized||line|M ~!|shaky||next,-5,WeakBattleIdle|I insake you! X-fast! But me ...|anim,-5,Angry||shaky|Sorry!|shaky||minibubble,@... Very nice.,-4||breakend|
+|align,right,true||face,caller,-1||tail,-4|He is here! ???|next,caller|Is the road empty?|next|Unfortunately, the atmosphere in the final kingdom varies.|next|Technical and comfortable, but small ...|next,-5|Kenny, did you find what you were looking for?|next,caller|Yes, I'd love to see the beautiful world.|next,-6|Where are you from?|next,caller|Suppose the end is the beginning.|next,-4|We meet here.|next,caller|Yes, I go there after the stadium. There is another hope.|flag,602,true|
+(From Tiffany's source !!)
+|currency,var,10|.|prompt,yesno,94,95|
+|checkmoney,var,10,96||checkinvqtd,0,full,97||money,var,-,10||additem,0,var,0|... Deceive.
+....
+... Insurgent.
+... Inappropriate.
+The bomb is a big mistake! End shopping!
+Another day without a crack!
+The shade is wonderful. Sorry, I am not a researcher.
+|tail,-6|Companies in the north must be respected.|next,-4|The real value!|next,-5|I am happy with the health of snakes.
+Also ... requires a lot of work.|next|I want to know if there's more research here ...
+Are there fruits?|showmoney||prompt,yesno,104,105|
+|checkmoney,1,95||money,-1|Thank you.|flag,649,true|
+|tail,-5|Sorry, maybe Naihu will come next time.|next,caller|RENDBEN ...
+... Thanks to our ancestors depends on you.
+|tail,-5|The beautiful Colosseum! Even if Antella Palace can reach this far.|next,-6|This is a big building to celebrate this war ...|next,-4|Let's see what happens!|next,-5|I think it depends on the soldiers ’preferences ...|next,-6|Neat ... how do you feel about the building?|discovery,43||flag,655,true|
+|boxstyle,4||spd,0|The Coliseum is one of the hottest places in real time.
+|tail,-4||anim,-4,Sad|....|next,-6|What will you do for new students?|next,-4|If you like strawberries, eat them!|next|... but the good is definitely bad, but fun ...|next,-5|Hey ... what should we leave!|anim,-4,Idle||minibubble,@Yeah!,-4||breakend|
+|boxstyle,3||spd,0|I discovered a mysterious tragedy. Will be back before lunch!
+|tail,-6|The shop is not very crowded?|next,-5|The explosives were sold but received.|next,-4|There is no. Dealers for sale!

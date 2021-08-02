@@ -1,0 +1,57 @@
+|checktrue,299,51|We didn't expect anything from this trip ...|next,-4|This helped me become a princess ...|next,-6|This is another task. Let's watch a movie, let's see.
+|boxstyle,3||spd,0|This includes the honey treatment area.
+|boxstyle,3||spd,0|Go to this trusted oil depot.
+|boxstyle,3||spd,0|He mentioned.
+|shaky|Usudi: There's nothing to be ashamed of ... well!|next|HP joins us ... he knows ...!
+|hide||event,80|
+|wavy|Ah neooooooooooo ...|wavy||next|I have work and everything is ruined. BB!|next|Why does this happen |wavy|so often|wavy|? !|next|When the deal ends, you don't sell anything to get your share, you get fired! |wavy|Not him!|wavy||next,-4|In the event of an accident, management must determine ...|next,caller||wavy|Make sure ...|wavy||next,-5|You know, some people don't get hurt. Sorry if you want, we love shopping here.|next,caller|Yeah.|next||anim,caller,Idle|Well, if there is a buyer, they will never find it! Come shopping!
+How to get to the destination, but only the road can be opened.|next|... a point I have not seen before. I wonder how.
+Come on, eat it! There is a service provider! You will not be able to enter the shelter without pregnancy!
+The path to the right leads to the small intestine.|next|Do you want more help?
+Look for your head. However, at least I didn't get off without explaining myself first.
+... my eyes are embarrassing, but I ...
+Or ... did the investigator come here?
+It is closed and looks like a card. where is she?
+|shaky|My training does not include this section ...
+He entered the store before closing the mold.|next|Maybe they have a company?
+|boxstyle,6||color,5||glitchy|
+Wow! Many passengers! This is a famous honey company!|next|Is it beautiful?|line|Here we write bakery oil!|next|Ignore this call. Some detective here.|minibubble,18,16||next|At the same time! This is good evidence, Dwayne. It would be great if a great doctor could create a new president!|next,13|Uh! I can not imagine!|next,11||face,party,11|I think Lika is a good choice, right? Amazing science, but not the |line|best game to follow.|next|@EVENT@She saved everything after the trip.|next|Pasha Waves!|next,-5|Thank you doctor. We loved it!|next,-6|You can learn how to make this oil ... you ... |line|we will not miss this opportunity.|next,-4|Good news ...|next,-5||face,-5,-4|It might be a sentence. An amazing experience!|next,-4,Happy|This is good, very good.
+Eye|fwait,1.5||blank|Come on, eat it!
+Eh, let's just say I saw better.
+Opposite! Opposite!|next|We were stolen from society! 32 warning code working!|next|The ideal key for a factory!
+|shaky|K K K K K NSO?|shaky||next,11|What are you doing ...? However, code 32 ...|next,-4,Flustered||face,party,11|Book! How are you today!|next,11,Idle|Code 32 ... means that the enemy forces are attacking this community!|next|But how? We don't see him here ...|next,-5,Idle|Doctor, let's go! Artists can download later!|next,11|Clear. In addition, there is no need to transport passengers and guards abroad.|next||face,party,17||anim,-6,Idle||anim,-4,Angry|Do you know where the guides and supervisors are?|next,17|Not him! It's time to shake and move forward!|next,11|... If there is no screen, then there will be a problem.|next,-4,Flustered||face,13,11||face,14,11||face,party,11||shaky|What are you doing ?|shaky||next,11|Code 32 blocks all trees for a week.|next|Specifically, if the administrator does not specify a generic code.|next,-6|Business travel is very useful as a security guard.|next,11|... Great idea! Solve all our problems.|next,13|Hi!|next,11||anim,-4,Idle|You can join a team of experienced researchers.|next|You are now responsible for your own changes. We need to focus on |line|the recovery feature.|next,14,Idle|Let's do it!|next,-4|Do you understand the purpose? Leave it to us.|flip,-4||next||anim,-4,Flustered||flip,-5||flip,-6||flip,13|Hey, which one is sharp?|next,13|Hey, he left ...|next,-4,Flustered|I know they did!|next,-6|Impossible. I think we need to find it.|next,-4|Because we are not perfect ... Tim!
+Come on, thank you Shizu!|next,13|No, this is not a dark time, husband! They have nothing to do.|next,14|Yes No.|next,13|Break It is just a factory! We will do the best!
+Hmmm ... the company is amazing! Guarding robots can be found everywhere!|next,-5|What are you doing ? We understand!
+|boxstyle,6||color,5||glitchy|Welcome to the beautiful shops of Bukhara!
+|checktrue,299,53|Poor parents are in prison too!|next,-6|Thank you for recommending the deletion of important data.|next,-5|Think about your feelings!|next,-4|I don't know, yes ... I don't know what happened?|next,-6|Otherwise, we will probably say.
+|tail,-6|Notice the breakup.|next,-5|OMG ... come on, look!|next,-4|This is like a trash can. Is this a new topic?|next,-5|Do not think about the end!
+|checkflag,176,28||checktrue,299,52||tail,-4|(Ruby) .. why do you say the cup? You need to |line|buy something now.|next,-5|Vi, it should not be left until the project is complete. |line|Many tips that can help!|next,-4|I don't think there is a bag here.|next,-6|If you eat fruit, it will be difficult for you.|next,-5|So we have a lot of work to do to get a research base.
+Hungry this poor cow we-|fwait,0.2||blank||tail,-4|Yes, let's talk about it.
+|checktrue,299,56||tail,-4|Two poor people ...|next,-5|As evidence, this is difficult.|next,-6|Which company? We are the destroyers of crime ...
+At least ...|next,-6|It would be better if everyone accepted the agreement.
+Oh, this is a popular gift shop!|next|If your teeth are soft, stand next to it and press the |button,4| button.
+Sell ​​|currency,var,1| with |line||string,0|! Want to know?|prompt,map,2.3,2,33,34,@Come and see!,@He is waiting for me|
+|checkmoney,var,1,35||checkinvqtd,0,full,36||money,var,-,1||additem,0,var,0|Thank you for your help!
+Yes, it's free ...
+Excuse me. Burn it when it ends!
+Hey, you need space!
+Sorry, I'm afraid of the blockade. I think it will take years ...
+I see my head for the first time!|next|... Nothing special. RENDBEN ...
+Adam This volume is my favorite program ...
+I finished the movie on time! Egle, Vi.|next|He disappeared after a few minutes. You owe me a favor!
+Motivation and the others are back! They are a little confused. |line|Oil, it will pull you out.
+I went to the bar to make sure everything was going well. But it is a shame everywhere!|next|You know how much cleaning! ???
+We can help. We know where the president is ...
+Oh, Jasper and Motiva ... sorry?
+I've never heard of this before, but genes are different from animal eyes.|next|I don't think this key is good ...
+Wow, I love the engine! Do you know why he's angry?
+We don't owe him anything.
+How can I get back home! Found a small stomach!
+It takes a long time! Let's do this stupid approach!
+32 I hope there is a duplicate code.
+I like the key.|next,-6|Now you can understand how honey is made.|next,-4|If we do what we can.
+|tail,-4,Angry|Well, the store price is very high!|next,-6|If we need this honey, we can do it ourselves.|next,-5,Angry|Thief! Like |wavy|him|wavy|!
+I am glad that Mrs. Amber helped me.|next,-6|Do you think that the bee association pushes it?|next,-4|I wondered if I could pay for the device ...
+OK? I think he spoke to his boss.
+I hope other team members will join you ...|next,-4|They must fill our heads to get a good mix!|next,-6|How much do you want more? We will work together to solve the problem.|next,-4|Well if you do that ...
+Dwayne happy!|next,-6|He was surprised that he did not answer.|next,-4|It was amazing ...

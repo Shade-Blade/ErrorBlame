@@ -1,0 +1,1 @@
+|tail,-4|Hey ... there is something in the old domain!|next,-6|Hmm, was this car used to find a place for Elisant to live?|next|It looks like they were injured. Maybe he left here|next,-5|So let's go to a country with a long history! This is really an honor!|next,-4|Let me know.|minibubble,@The truth is..., -5||breakend|

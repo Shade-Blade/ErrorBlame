@@ -1,0 +1,28 @@
+We all support our journey.|next,-6|We cannot be alone.|next,-4|OK! You look better together!|next,-6|... Sarah are you.|next,-5|Come on cut!|next,-4,Happy|... Thank you.
+Are you ready for this event?
+|tail,16||face,16,-4||face,17,-4|Yes in deed!|next,17|Sorry, this does not help ... we owe you!
+|tail,16||face,16,-4||face,17,-4|Mus Snake, we really did it!|next,17|I want to be a better researcher. Thank you so much!
+|tail,14||face,14,-4||face,15,-4|This kingdom is not good. Finally released!|next,15|I can't do it without you ... Thank you
+|tail,15||face,14,-4||face,15,-4|We did it! ... I think we all need rest.|next,14|Ha ha! Stupid. We work together to ensure peace!
+Kabu, buddy ... I don't think so!
+The dead are still alive! ??? |anim,caller,Flustered|I have a lot of research!
+This will help us after leaving the company.
+Do you want to control canola plants?|next,-6|Suppose we know.
+Hello sir! Pump ...
+The teacher cannot send cards to other people.|next|Sometimes experiences are not good. Thank you all!
+... I feel comfortable. thanks.|next|Of course this wasn't a problem when I stayed ... but it was nice to see that everything was going well.
+United B ... You owe it. Calm your heart.
+Every kingdom ... but my family cares for you. There are not enough words.
+I must say that everyone is protected!|next|Hey ... I make an oven. Do not forget to eat!|next,-6|... Yeah. Yes Moses. Look well.|anim,-5,Happy||anim,-4,Happy|
+Wow! My mom is amazing! The key is the best!|next,-6|Thank you|anim,-5,Happy||anim,-4,Happy|
+Is your family big?|next|We need to tell you your story! How was your night?|next,-6|Beat folk music. Hope you are ready at that time.|anim,-5,Happy||anim,-4,Happy|
+Can you rest? I feel comfortable today.
+...|next,-5|Wake up, thanks for the help!|next,caller|...! light |wavy|Not!|wavy| this is no thing!|next|..... .....|anim,caller,Angry|..... .....|anim,caller,Hurt|..... .....|anim,caller,Idle||next|Thank you|anim,-4,Surprized||anim,-5,Surprized||anim,-6,BattleIdle|
+Thanks Venus ... I will discuss!
+The weather is good! ... thank you for your help!
+Happy ally today! my dear!
+Vi, Kabu, Life. The field of physics represents its greatest glory and gratitude.|next|I'm very proud! Everything is open!|next,-4,Happy|Ah ha ha ha ... yes! I did this!|next,caller|Dear, I hope you will always meet me.
+|anim,caller,Happy|You know ... the best researcher you know?|next,-4|We need a better picture! The most talented animal in the world!|next,-4,Happy|When did you start production?|next,caller|Ha ha ha ha! Sir! This is in your show
+My people are free ... I do not thank them.|next,-6|I do not like it. OK.|next,caller|Humility! We hope to visit our kingdom while collecting dust.
+|tail,-5|OK|next,caller|... Let's start again after this party.
+We cannot stop the passage of Lyra ...|next|But he is grateful. Madam!

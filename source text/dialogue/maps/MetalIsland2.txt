@@ -1,0 +1,35 @@
+I have never seen this exceptional hotel!|next,-6|The place goes to the sea and there.|next,-4|We did not know what to expect.
+|boxstyle,3||spd,0|Government analysts only!|line|Go to the end of the salon and enter West India quickly!
+|checkmapflag,0,7|... The hotel room.|next||showmoney|He was brought up overnight in three homes with a history of 40 years and includes special |line|packages for teachers and doctors.|next|Do you want to spend the night with us?|prompt,map,3,2,3,4,@What do we need?,5|
+|checkmoney,40,4||money,-40|... Thank you for choosing. Your room is the first hotel. Good morning!|break||event,122|
+....|next,null||boxstyle,4||spd,0|Forget them.
+Not him!
+|boxstyle,4||spd,0|A lock.
+Good night! Join the future.
+|boxstyle,1||shaky|Like him!|shaky| Only people |color,1|familiar|color,0| with the card system can access it.|prompt,map,2,3,9,10,11,@Prove That!,@Did you try?,@Sorry ...|
+So let her go!|pickitem,1,0,true,false,12,11|
+Those who get |color,1|all points on a Bukhari card|color,0| and test their abilities can bypass this section!|next|If there is no evidence, try it for yourself!
+You do not need to complete the test! This is!
+|checkvar,0,104,13||checkvar,0,25,16|... What is that ? This is not a test! do not be late!
+....|break||event,122|
+O professor, forgive the past.|next|Welcome to the Cards House conference. Start.
+Keep attending card games.
+... I speak my native language!|next,-5,Hurt||boxstyle,0|G-woman? !|next,-4|Come on, terrible!|next,caller|Do not be late! Fact. Look back today!
+Come see and enjoy yourself! The channel is over!|next|Home benefits. I hope to help you too!
+Magical creative channel content. The island is personal.|next|Millions of women enter.|line|Jewelry and identity level.
+|wavy|You know!|wavy| You watched blackjack from afar!|next|Suppose you have to press four heads to prove yourself.|next|But before fear, one must click on it.|next|Interesting! Special!|line||wavy|You know!|wavy|
+-Yes
+What are you doing here? ! this is my home!|next||shaky|A hero! Click on the wall! I don't care if you are rich! ???|shaky||next|How are you doing? I think you really are in pain!|next,-5,WeakBattleIdle|Sorry! I see a hole. I think the cable is important!|next,-4,Angry|Yes, I complained about this message.|next,caller|You can even blame the hotel for this mistake!|next,-6|Yeah ...|next,caller||shaky|IM angry! We are in class!
+Whatever it is. You can win, you know ...|next,-6|I'm sorry, no.|next,caller|....|wavy|Balloon|wavy|.He said something else that should be managed.|next,-5|Sorry!|next,caller|What happens is ready to play.
+Do you think I will tell you that?|next||wavy|Balloon|wavy| ...I know this game.
+|tail,-6|Carmina has a hard disk.|next,-4|You can still play well!|next,-5|In other words, do we see comments far from home?
+I heard that the best Bulgarian card player is looking for his opponent.|next|What this means is that if you do not have thousands of tomatoes, it is a way to call it out.
+Ask yourself. We are happy to have this place back.
+I have lived a wonderful life since I was born. It is everywhere ... Does anyone have the wealth of life?|next|They know there is nothing special ... it is annoying ...
+|tail,-4||anim,-4,Angry|... It is unfortunate|anim,-4,Flustered| to insult others!|next,-5||anim,-4,Angry|Why?|next,-4|All I can say is that he loves to eat strawberries! Can!|next,-6|We think it's not expensive here because it's so expensive ...
+... Common weapons? Do you want to track your card?|next,-6|Do you recommend a spy card?|next,-5|Land.|next,-4|Of course not! This is a card game for kids!|next,-6|Stupid.
+|tail,-4|....|next,-6|How are you today do you like fake butterflies?|next,-4|I think that's a mystery. I work for myself and others ...|next,-5|She is beautiful and happy. Will this be your dream?|next,-4|Perhaps ... if you do not understand
+|tail,-6|Do you think the staff of these ants are suspicious?|next,-4|This is.|next,-5|This is a small sacrifice. I understand the guests!
+|tail,-4|He has all complaints ... sorry.|next,-6|Ask ... no.|next,-5|We don't know what this is ...|next||anim,-5,WeakBattleIdle|Does this mean that we cannot be compassionate?
+|tail,-6|What is going on?|next,-5|Hey, I'm a fan! It recently became popular.|next|Quickly decomposes and fresh air in front of you!|next,-6|An interesting tool ...|next,-4|But it is not hot here. If you see me ...
+I hope Mrs. Amber will have a good trip on this trip.|next,-4|You can pay millions of fruits that come here.|next,-6|Without a billion?

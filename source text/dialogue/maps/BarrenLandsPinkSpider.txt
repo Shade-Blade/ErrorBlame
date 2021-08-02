@@ -1,0 +1,21 @@
+|checktrue,451,6||tail,-6|It looks like we're about to die.|next,-5|Cable ... do you need to check or see?
+|boxstyle,4||spd,0|There are strong symptoms. We write good articles.|next||spd,0||boxstyle,3||center|Leave it|line||halfline|                     Car
+|boxstyle,4|Are there holes in the wall?|prompt,map,1.8,2,3,5,@Mail.,@Left.|
+|checkinvqtd,0,0,4|What do you want to give?|pickitem,0,1,true,false,-11,5|
+|setvar,1,-1|There is no
+|setvar,1,-1||end|
+So… can you give this spider something?|next,-4,Surprized|This is more rewarding than a shop! Rich!
+Black!
+Ninja is right!
+Very nice ...|next,1000,Happy||flip,1000|Thank you for healing one! Nero is my best friend ...
+Ninja is right! Ninja is right!
+Confirmed? What is that?|next,-5|He seems to be wearing a hot hat! This is different from what we do,|next,1000|Oh Nero, will you go long?|next,-4|Is the mushroom different?|next,1000||face,1000,-4|Not really. But I have to complement the family’s adult heritage!
+Very useful. This is the most beautiful pet.|next,1000||face,1000,-4|This is not just love, he is your best friend!|next||anim,1000,Happy|Hey, you can land now!|next|I don't always want to be in the world.|next,-4|I really look forward to it ...|next,1000,Idle|You have a lot of work to do before returning home. Let's all know this place is beautiful!|next,1000||flip,1000|Do you really care?
+... Yeah. There is no.|face,1000,-4|Will this continue?
+When I look around I see it, the contents are amazing!|next,-4,Angry|School! ??? Land escape-|next,-5|There she is! We hope you enjoy and enjoy your trip!|next,1000|We will return and will not grow again.|next|When you return to the city, do not forget to count!|next,-6|Hello black.
+|anim,-4,Flustered|Stop, Gates's book is useless!|anim,-4,Angry||next,-5|Practical books, Vi. Let me know.|next,-6|I think there is a lot of culture.|next,-4,Angry|It does not matter if someone else wants to buy it! Why is the |line|school rented?|next,-5|... Continue. You still have to do this.
+|shaky|Did not |line|matter!
+|bleep,13,1.75|Return to the city.|prompt,yesno,18,19|
+Then he left|break||warp,174|
+Oh my.
+|tail,-4|With your friend who lives here?|next,-6|At least he seemed to know the river. Every time we come here, ask for his help.

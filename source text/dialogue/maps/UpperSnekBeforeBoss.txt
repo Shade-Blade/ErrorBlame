@@ -1,0 +1,7 @@
+|checktrue,532,5||tail,-6||anim,-6,WeakBattleIdle|D-Things ... lead us astray ...|next,-5|I hate it! This is your answer!
+|boxstyle,4||spd,0||glitchy|Guard: M-001 on Tuesday|line|Two boys: 361|line|Status: On request
+|boxstyle,4||spd,0||glitchy|Protector: V-012 "Venus"|line|Age: 358 years|line|Status: On request
+|boxstyle,4||spd,0||glitchy|Protector: P-183 Pluto|line|Age: 34 years old|line|Conditions: On request
+|boxstyle,3||spd,0|"Stop, it doesn't matter"
+|tail,-6||anim,-6,WeakBattleIdle|If we go |minibubble,@...,-4||minibubble,@...,-5|home then ...|breakend|
+Mail station ...? Find the answer.

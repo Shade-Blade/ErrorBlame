@@ -1,0 +1,12 @@
+|checktrue,400,5||checktrue,216,7|Are they generals and husbands?|next,-6|Show that there is a problem. We must be careful.
+Wedge! This is a group!|next,17|Please! Sorry!
+Oh ... we still need you.|next,-4,Angry|Maybe at home ...|next,-5|Eat the river.|next,-6|What do you do to scare Caraway?|next,16|Ready? Do we want to stop him?
+I came to see him when he was sick. But they get hurt!|next,-4,Idle|This place is a great place, you don't have to go there!|next,-5|We must return to memory. I can.|next,16|More! We can help! Stupid!|next,17|Here we push the key. Then a person can pass!|next,-6|We are surprised. Great idea.|next,16|Plus, pay for it!|next,-5|Game, don't do that|minibubble,4,-4||next|But is it good? What if they leave?|next,-6|This is not dangerous.|next,17|Do you trust us? Keep it up! Hit me and press the |button,9| button!
+|anim,-4,Angry|Beautifully. Sports.
+|hide||switch,2||checkminibubble,-11||minibubble,6,17||end|
+It cannot be changed!
+|checkflag,213,11|Without the general and her husband, you wouldn't be able to get out of here. Now great.|next,-6|He cannot help us.|next,-4,Angry|Not here! Abroad!
+Press |button,9| to change the location.
+I know when I'm going, I can!
+Do you want to try it? Press |button,9| to tell me when to change the location!|flag,400,true|
+Without the general and her husband, you wouldn't be able to get out of here. Now great.|next,-6|He cannot help us.|next,-4|Do they live here? Asking for help!

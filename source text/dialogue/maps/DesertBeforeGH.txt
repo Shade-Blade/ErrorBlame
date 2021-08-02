@@ -1,0 +1,1 @@
+|tail,-4,WeakBattleIdle||anim,-5,WeakBattleIdle|You ... then ...|next,-5|There is a GB key in the nearby mountains ...|next,-6|(We do not dry out, but we can not be proud ...)

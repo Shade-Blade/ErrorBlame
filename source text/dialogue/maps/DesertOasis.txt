@@ -1,0 +1,9 @@
+|tail,-6|Many things are happening in the desert now.|next,-4,Happy|Watch out! I did everything by mistake!|next,-5,Happy|I have no reason to eat my facial expressions!|next,-6|Check the source.
+Can't we see it?|next,-4|We must use it!|next,-6|(Could I?)
+|wavy|B ...|wavy|He fell completely. Is over!|next|People want to be a hole.|next,-5|Sorry, right?|next,caller|Yeah... |face,caller,-1||fwait,0.75||blank||anim,caller,Surprized||wavy|Risk ...|wavy||next,-5|There is a problem.|next,caller|Okay, slow! J- Rest in the spring! |wavy|Yes Yes!|wavy||minibubble,3,caller||next,-6|Really "budget".|flag,264,true||breakend|
+(Won't you forget me?)
+|anim,caller,Surprized||face,caller,-1|D- You didn't say anything! Rest here!|next,-5|Oh, we forgot.
+|flag,495,true||define,8,s||define,9,d||flip,d,false||flip,s,false||igcolmove,31||igcolmove,8||parent,9||align,left,true,2.5||tail,s,instant|Good morning!|next,-4|And therefore! I want to see!|next,d|Normally! Are you looking for this mountain here?|next,-6|Even between them. What can you tell us?|next,s|This is a test. This oil is called because it comes from water.|next|Giant sea monsters are said to be very large here. So do some research.|next,-5|Meat?|next,d|Yes, I do not know, but it's annoying!|next|Be careful when walking. Lots of big creatures!|next,-6|But we are full of treasure. Thank you all.|next,-4,Happy|Trust yourself! Treasure!|next,s|Is this beautiful? If you think so, we cannot complain.
+We don't know what this demon is, but we understand it is very powerful.|next|Do not blame us for the error.
+It is full of water here. Very nice! I do not want to cut my wings!
+Stratus and Delilah.|next,-4|I want to know what they are doing ...

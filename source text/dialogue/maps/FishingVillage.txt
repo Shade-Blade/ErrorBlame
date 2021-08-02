@@ -1,0 +1,20 @@
+|checktrue,509,1|I don't think there is anything we can do! This is a nice place.|next,-4|Very interesting explanation! There are secrets everywhere!|next,-6|She is beautiful ... we know?
+This is a peaceful place. After all, this is not a solid idea.|next,-4|Very interesting explanation! People meet a lot of strangers!|next,-6|(... but has it changed?)|minibubble,@(Yeah),-5||breakend|
+OK? Will you come back weak? Good morning.
+Is this the best day for sports hunters?
+Wh- which side? Where are the results?
+You protected us all this time! But you also have to eat. I hope there won't be much pressure ...
+... she looks like a nice person, but you are beautiful. Let us make peace.
+Yes, you are from Tasha.|next,-5|To be kind.|next,caller|Is that correct! ??? There is a really sweet and sweet prison! ???|next,-6|This baker. You can do the same.|next,caller|Good job! While my father was fishing, the brothers brought him food every day.|next|But you can also eat very salty foods. Like a nut biscuit!|next,-5||minibubble,8,-4|No connection required. We do!|addquest,51,1||flag,510,true||breakend|
+Now there are more|line|than a dozen bishops ...
+There is a beautiful coconut cake over the cake! ???|setvar,0,-1||pickitem,0,10,10|
+|checkvar,0,73,11|Not you ...
+|removeitem,0,73|Good job! ! !|next,6||face,6,-1|Choice, what is this? ??? What happened to my sister?|next,-4|Only bread.|next,caller|Super cake!|next,6|Cake ...|next,-5|You do not know what is in the oven.|next,6|This is not the case.|next,-6|Forced. Try it here.|next,6|Wow!|next,-4|Look at the best chocolates!|next,caller|Ha ha ha thanks I want to share it with my brother too!|next,6|I want to go to the city and buy something for my father ...|next,caller|Hey, I found it! You can get it!|break||giveitem,3,41,12|
+Thank you so much! I can't eat anymore! Eat well!|completequest,51||flag,511,true|
+...
+... What are you doing? Look at me!|next|Do not tell anyone that I am coming. Shut up.|break||giveitem,2,74,15|
+Keep it confidential.|flag,575,true|
+This is such a small town!|next,-6|She is beautiful ... we know?
+|checkflag,509,16||tail,-4||anim,-4,Flustered|That fish sucks!|next,-6||anim,-4,Angry|Negative. You just have to be more distinguished by the help you give to others.|next,-5|Definitely. Fish can relax and feed!|next|The audience chatting.|next,-4,Sad|... respect, but it will fail.
+Insert rickroll here.
+|checkflag,509,16||tail,-4|Why did you follow? There is nothing wrong with that.|next,-5|Yes fishing ...|next,-4|... We have!|next,-6|He had never seen a good city, so as much as he knew.|next,-4|... Is he working?

@@ -1,0 +1,200 @@
+|tail,-6|Business is booming.|next,-4|There are many types that are difficult to say.|next,-5|We can't call it a bakery!|next,-6|I think more. Shipping guarantees the safety of small items.
+|tail,-4|Hi Kabu, are you a father?|next,-5|How is this six so different!|next,-6|Adults are like us.|next,-5|Excuse me? The use of green is completely different!|next,-4|Hmmm ... every eraser sees the same thing.|anim,-5,Angry||next,-6|Wow, this is like a bee.|next,-4,Flustered|Hey!
+I can't make money.
+Thank you for your interest. But we can not give more.
+It is like darkness.|next,-4|I understand he is one of the most annoying people I've ever met!
+Not for sale and closed.|next|I think all I have to do is wait.
+Thanks to this shop. He poisoned wood first.|next|If you are interested in pain, enter your voice and press |button,4|!
+Crane and ... is it a |string,0|?|line||currency,var,1|.|prompt,map,1.5,2,8,9,@I am doing!,@Thank you} but I'll give you one.|
+|checkmoney,var,1,10||checkinvqtd,0,full,11||money,var,-,1||additem,0,var,0|Thanks.
+Association a
+H? Do I not have money? If you do not sell!
+Kiran, where are you going? ???
+Hey! Welcome to the best crunchy bakery in town! Well, one thing.|regionalflag,10,true||next|Bread. We did a great job with this!|goto,13,keep|
+|prompt,map,3.5,4,14,15,16,17,76,77,78,79|
+|checkinvqtd,0,0,24|You know, but what do we cook?|flag,12,false||pickitem,0,0,true,false,20,17|
+|checkinvqtd,0,1,24|Well, send first!|flag,12,false||pickitem,0,0,true,false,18,17|
+The real situation? She did a number of things and left them on the stove and several others.|next|So I think it would be amazing! You can get to know them better |line|by clicking |button,4|.
+|anim,this,Sad|Oh,|anim,this,Idle| crust is always open!|break||checkflag,12,-11||additem,0,var,0||flag,12,false||end|
+|clonestring,0,1||removeitem,0,var,0||flag,12,true|Hi!|pickitem,0,1,true,false,21,17|
+Crispy Anabata. Thank you so much! Would you like to cook|goto,13,keep|
+Can I cook in |color,1||string,0||color,0|?|line|Can be trained!|goto,22,keep|
+So choose |color,1||string,0||color,0||line|and |color,1||string,1||color,0|? This would be a |line|good practice!|goto,22,keep|
+|prompt,map,0.5,2,23,17,@Yeah,@There is no|
+Well, start! Hi!|break||event,3|
+|anim,this,Sad|No, I have food to eat.
+Ah ... I'm trying ... sorry.
+Hey! This is the best!
+|anim,this,Idle|Are you still coming to think!
+|anim,this,Happy|You can buy |currency,var,1| for an |line||color,1||string,0||color,0|!|line|D- Is it good?|prompt,map,1.5,2,29,17,@I am doing!,@Thank you} but I'll give you one.|
+|checkmoney,var,1,30||checkinvqtd,0,full,31||money,var,-,1||additem,0,var,0||anim,this,Happy|Thank you for listening.
+|anim,this,Sad|Sorry, I want to sell this for free, but I don't know ...
+|anim,this,Idle|In the name of God. Do you have a lot of these bags you must remove first.
+Ah, I see your eyes flying over |string,0|.|line|Are there |currency,var,1|?|prompt,map,1.5,2,33,34,@I am doing!,@Thank you} but I'll give you one.|
+|checkmoney,var,1,2||checkinvqtd,0,full,3||money,var,-,1||additem,0,var,0|Thanks.
+See more products.
+Good morning! If you are interested in my product, review the product and click |button,4| on your favorite brand.|next|Or you have a career.|prompt,map,3.35,2,37,34,@I have something to sell.,@in the city.|
+Oh, the skin is old. Glad to meet you here.|next,-6|At the same time?|next,-5|I had to be here the first day.|next|They must tell me that the food has cured!|next,-6|Really, let's try it now ...|next,-4|Boiled oil ...
+|checkinvqtd,0,0,38|What do you offer?|pickitem,0,0,true,true,39,34|
+I have nothing to give
+You can buy |currency,var,10||line| with |string,0|. Want to know.|prompt,map,0.7,2,40,34,@Yeah,@Not|
+|money,var,10||removeitem,0,var,0|Thank you for checking in at any time! |break||checkinvqtd,0,0,-11|Is there anything else?|pickitem,0,0,true,true,39,34|
+|event,true||checkvar,22,0,47|Hey! Have you returned my order still valid?|next|You want to write?|prompt,map,1.75,2,42,44,@Forgive me.,@Thank you} but I'll give you one.|
+|showmoney|What kind of magic do you like?|prompt,map,4,5,43,43,43,49,44,@Strawberry - 10 strawberry chips,@Add fruit and cherries -20,@Forty-four pieces,@How does a talisman work?,@I don't care now.|
+|event,81||end|
+Did something happen?|break||event,false||end|
+Sorry, but I can't do anything without fruit.|break||event,false||end|
+Confidence! Let's do it!
+Beauty! Come to the store below.|next|The plants used here during the war changed and were very effective.|next|I have more amulets and how long they last. It lasts longer and produces more fruit!|next|Do I feel curious?|break||goto,42|
+Let's get rid of everything now.|next|Does anyone know how this can help? It can be private!|next|If you want to be a magician, come back later!
+Relax! If you get magic, magic will be used in battle.|next|Depending on the time, different effects can occur.|next|For example, it increases the intensity of attacks or increases the resistance of enemies.|next|Return to HP or DP.|next|However, this rule only applies for a limited time. Once you |line|get there, you can return to your success.|next|The Taliban differ only in the length of the bracelet, but you can get large dollars and buy a lot.|next|Why do I care?|break||goto,42|
+|checktrue,370,147|Yes it would be better to buy if all the tourists came back from vacation.
+I want to protect the data in your group from infection.|next|M got used to health problems. Thank you.|next,-4|There is no problem! Ask me now.|next,-5||anim,-4,Angry|This is no thing! We look forward to hearing from you soon.|minibubble,@Sign up.,-6||break||flag,151,true||destroyminibubble||end|
+... What are you doing? Trust the shadows. Cannot see.|next,-5|Sorry ...
+Passengers ... body parts in battle.|next,-4|Make sure ...|next,caller|Don't worry, I have help. I have a tough fruit.|next,-6|How strong is this?|next,caller|You can deactivate this feature to increase fruit consumption.|next|You really can't participate. You have to decide which one |line|to eat.|next,-5|This is very useful.|next,-4|This wise man and the merchant saved us ...|next,caller|Traveler, read carefully. HP Boosting |color,1|Heart Berry|color,0| is now available.|line|100 tomatoes.|next,-4,Angry|Wow! ???|next,-6|HP, Vi.|next,-4,Angry|Think of fifty fruits and leaves!|next,-5|Sir, I decided to come back later.|next,caller|This is not much time. Novosny knows when to go?
+A traveler. Come to HP to promote your |color,1|Heart Berry|color,0| product? |line|Grab 100 pieces of fruit.
+|showmoney|Walker, use.
+No problem, traveler. We hope you will miss this opportunity soon.
+... Passengers, I explained the journey. I will not shake.
+Travelers like to sell strawberries. If you have any questions, please come back.
+A traveler. Are you coming here for a |color,1|berry dip|color,0|? There will be |line|ten hundred fruits.
+I don’t have much fruit, but more will be known in the future. Come back
+Tourist. Are |color,1|peppers|color,0| here to fight super? There will be forty-five seeds.
+I don't care about other things. Safety, passenger.
+Tourist. Can you give |color,1|canned fruit|color,0| here? There are eight |line|new developments.
+|hide||event,155|
+
+We wish you a pleasant journey and love doing business with you.
+Kill thieves ... I can't forgive what happened. Do not forgive me if you see |line|anything.
+|tail,-6|This contractor made rapid progress.|next,-4|The best place to add and restore logic. They lost a lot of good things!|next,-5|You know ...|next,-6|When talking about money, don't be surprised.|next,-4|Yes, knowledge is bad!
+Some seem to have received a signal.|next,-4|I met him until he left that winter, but he was still happy.|next,-6|This is not what happened in his life. We should not be angry.|next,-5|B- Instead of sharing, help others!|next,-6|...|next,-5,WeakBattleIdle|Is that correct ...
+|tail,-6|Dry bread is good ...|next,-4|Create?|next,-5|Do you want to be fair?|next,-6|Over there ...|next,-4|The problem cannot be solved.|next,-6|Delicious eating. I know.
+|tail,-4|Is this medicine or something else?|next,-6|This is a very good question. If not, how do we get there?|next,-5|Maybe they repeat time, repeat things ...|next,-4|Is it bitter?|next,-6|I do not know.|anim,-4,Angry|
+|tail,-4|There are mosquitoes everywhere.|next,-6|Yes, a good juice and juice seller in a golden house.|next,-5|Is that correct. You know, you shouldn't be every member!|next,-4,Sad|Excuse me.
+|tail,-6|So, this name is real. There is a lot of fat in the community.|next,-4|So ... where and when did you hear that?|next,-6|Curt said. Toxic toxins that go beyond imagination.|next,-5|Can I ask?|next,-6|We see. I will buy it. I'm confused|next,-4|There is no other choice! Use fruit!
+|tail,-5|Oh, Ballina! Want to buy one!|next,-6|I don't think he's interested in the economy ...|next,-5|I saw these works with my own eyes. Not happy.|next,-6|Hmmm ... then there can only be one.
+|prompt,map,3.5,5,80,14,15,16,17,@This will help the train.,76,77,78,79|
+Use one for cooking.
+Bake in two ingredients.
+Is there anything for sale?
+Not.
+|hide||event,92|
+Hey! Welcome to Crispie! Is this person entitled to accept my |line|request? How are you today?|goto,75,keep|
+|align,right,true,2||flag,12,false||face,caller,-1||checktrue,187,83,true||checkregional,10,19,true||goto,12|
+|checkvar,23,0,81||checkvar,23,1,84||checkvar,23,2,85||checkvar,23,3,99|
+Hey! Welcome to Crispie! After you find |color,1|delicious fruit|color,0|, be ready!|goto,75,keep|
+Understand! He dropped the |color,1|deadly bomb|color,0| on |color,1|Apomonium|color,0|!|next|You can do this by removing used materials!|goto,75,keep|
+I have a dream to eat ... I need a |color,1|frying pan|color,0|. You did well! Make sure ...
+Yes, it is very good!
+I do not think so.|anim,caller,Idle|From the solution!
+I'm going. Hi!
+Don't worry, find it!
+Ha ha! Flora succeeds ... Try it!
+What is that?|next,-6|In fact, very beautiful.|next,caller|Y is ready to double your hard work! Small.|next|Let's see ... bring |color,1|strawberries|color,0|. We prepare delicious food!
+|color,1|Ceylon tomatoes|color,0| ... will be amazing! is found
+I am happy to tell the truth ... Strawberry at meal time |line|reveals its true taste!
+Ok better. I know anyway.|line|Good check!|minibubble,@F ban? .,-5||next|First, you need |color,1|red bread|color,0| to make "delicious" food!|minibubble,@???,-6||next,-4,Sad|And ... the bomb?|next,caller|Then stop |color,1|opium|color,0|! Enjoy!|next,-4,Angry|Durability! The girl's face! ! He added a bomb ... of course! ???|next,-6|We want to know, but there is a lot of fear.|next,caller,Sad|There is a risk ... but there are reports that this honey can take |line|you to a higher level!|next|I was afraid to try ... but I did a lot of training!|line|I think I can download it!|next,-5|Let's go to Crispie! If not, why did you do that?|next,-4,Sad|I think you are right ...|next,-6|This is good if it is blocked. Let's start.|next,-4,Flustered|My Lord! Come on,|anim,-4,Idle| but bye ...|next,caller,Happy|Thank you so much! I promise you will not be average!
+Do they hold |color,1|spice bombs|color,0| and |color,1|automatic pistols|color,0|?
+|anim,caller,Idle|But it would be nice to find something else ...|next|.
+By saying that ... preparing the dining room!
+Yeah?|next||anim,caller,Happy|Congratulations on the |color,1|deadly bomb|color,0| launched by |color,1|Abomoni|color,0|! The final step is ready!
+No ... tm, am I talking?
+... I do not understand. I think everything is fine ...|next,-4,Angry|Starving! No matter how many pictures you draw!|next,caller|Excuse me. I do not think that all boundaries are related to the movie.|next,-5||anim,-4,Idle|Yes, even if you don't have fast food, you can still get a good harvest!|next,-6|So we cannot get enough of our anger.|next,caller,Idle|Um ... wait a minute? I want to try again Do not follow the legend! This dish is my uncle!
+Thank you all! |color,1|I|color,0| want to be great.
+|tail,-5||anim,-4,Happy|Fresh and cool! Ah ... |wavy|listen|wavy|!|next,caller|I do something for everyone!|next,-4|Say OK!|next,-6,BattleIdle|Great ... we did a better job!|next,caller,Happy|Thank you for your help! Bring |color,1|convenience stores|color,0| and |color,1|flour|color,0| to make more milk bags!|next,-6,Idle|You will receive a gift.|next,-4|Hey, see you later!|next,-5|Beware of eating anymore ...|minibubble,@Give me more,-6||next,caller|We are good friends now I can dry it anywhere|breakend|
+|anim,this,Idle|However! Delicious Food!
+Swallow it well. Don't worry, let's go first! I can't wait to start!
+|align,left,true|... Short. What about card holders?|next,-6|I can do this on time. Have you ever talked about MasterCard?|next,caller|In one word.|anim,-6,BattleIdle||next,-5|Is that correct?|next,caller||flag,244,true||goto,107|
+|align,left,true|Ready? I don't want to make it easy for you.|prompt,map,2,2,108,109,@Come on,@Come again|
+|anim,caller,BattleIdle|Fun game!|break||blank||cardbattle,this,-1,@0||tail,caller||battlewon,115||goto,110|
+|anim,caller,Idle|D, do not hesitate.
+... Lost a new person! ???|next,-6|Less confident.|next,caller|I have a partner. Shay, I have to raise my card to respect my struggle.|break||event,106|
+You can beat other winners too. But this is not good for me.|next|There are several good ways to do this. "Someone will feel shy, but he will change completely and withdraw you."|next,-5|I cannot say that there is no shame in this kingdom.|line|Thank you for your help.|next,caller,Idle|There is no problem. Let me know if you want to participate in |line|other sports. I will fight well.|next,-6|Always, Shaw
+With this full card, no one is allowed to win against Metal Island.|next,-4,Happy|We did it! Has the money come?|next,caller|You can show me this card in the old water and make a lot of money in the spring. I came to swim.|next,-6|Fortunately, it's time for the stars to test our knowledge.|next,-5,Idle|Come on island!
+|align,left,true|Ready for the next game?|prompt,map,2,2,114,109,@Come on,@Come again|
+|align,left,true||anim,caller,BattleIdle|Enjoy the game a little!|break||blank||cardbattle,this,-1,@0||tail,caller||battlewon,115||goto,116|
+|anim,caller,Idle||anim,-6,WeakBattleIdle||tail,-6|GC ... solid.|next,caller|No one can take this card. Please try again later.
+|anim,caller,Idle|How to kill him again ... this is your job. Any suggestions |line|are welcome.|break||giveitem,-1,10,-11|
+I think you are not ready for me.|next,-4,Flustered|How is that?|next,caller|I can't wait to go back to work ... I can refuse.|next,-5|Excuse me. I think I will come back later.
+The girl's face! One hidden in the well!|next,-4|??|next,caller|In fact he is one of the dead thieves! They move in the countryside.
+In other words, avoid the southeastern part of the thief!|next|No matter what they do ... it always hurts others.
+Thieves are modest, but they are angry.|next|Someone will deal with them! I do it myself ...
+...! You are!|next,-5|Been confirmed?|next,caller|... What do you see?|pickitem,1,0,true,false,124,125|
+...
+|tail,-4|Yes, this man is very popular.|minibubble,@Dr?,-5||next,-6|Can ...|breakend|
+|checkvar,0,57,126|This is not the case. I realized early on that I didn't have much time.
+Mail must find and complete the "object".
+|removeitem,1,57|Yes, thank you for this gift.|break||giveitem,1,83,127|
+This did not even happen. I am going now.|next,-6|Do not go in the direction of fear.|completequest,25||flag,189,true|
+|boxstyle,3||spd,0|I will be back soon when updating!
+Hey! Some see old houses!|line|She instead went to fetch |color,1|magic snow|color,0|.|next|Want to have ten pieces in this |color,1|magical snow|color,0| that will never melt! Great recipe!|showmoney||prompt,yesno,130,131|
+|checkmoney,10,132||checkinvqtd,0,full,134||money,-10|Not! Thank you so much!|break||giveitem,0,42,133|
+|anim,caller,Angry|It's cold.
+Hey! There she is!|next|Yes, every time I go, I have to risk my life to get extraordinary things in this house.|next|I want to hear more fruits ...
+Glad that you worked!
+More! How to wear? Buy before selling!
+Hmmm ... I don't agree with that. How is this oil made?
+|align,right,true||face,caller,-1||tail,-5|Miss Boot, I found your list!|next,caller|Yes, the Supreme Analyst? Did you see the dark red color?|pickitem,1,0,true,false,137,138|
+|checkvar,0,98,139|No, that is not true.
+Been confirmed? Hope the results are good!
+|removeitem,1,98||anim,caller,Happy|...! Yes that's right! I found it!|next,-6|OK.|next,caller|Sorry, I need time to act.|next|He loves this valley.|break||flip,caller||goto,143|
+|tail,-4,Happy|Your parents, right?|anim,-5,WeakBattleIdle||minibubble,@Very nice!,-5||next,caller,Idle|Not! Sorry ... I think it will convince your people!|next,-5|W- We have done. Thank you miss.|completequest,22||flag,321,true|
+I don't know what my job is!
+Miss Boot! Honor!|next,-4|A stranger? Do you do stats?|next,-5|Well, but we still have a lot to say. I want!|next|Take everything calmly and try not to focus too much on the problem.|next|They call it stone!|next,-6|It must be fake now ...
+|hide||fadein||fwait,1||flip,caller||sound,Pickax2||fwait,0.5||sound,Pickax2||fwait,0.5||sound,Pickax2||fwait,0.5||sound,Pickax||fwait,0.75||fadeout||fwait,1||hide||goto,144|
+Excellent! Swallow it well. Do you want to use it as a gift?|break||giveitem,2,77,140|
+|boxstyle,3||spd,0|Yes, black.
+Archery has tightened the rules of combat equipment! Some of my work!|next|I hope you will not fight ...
+Canceling the blackboard emphasized trade.
+Give it to me.
+Come again.
+Do you agree with my question?|next,-6|We have. Are they against fraud?|next,caller|Yes, this thief will not forgive you ...|next|I do not want a reason. Plus, I don't have a weapon either.|next,-5,Angry|Educate the guilty person!|next,caller|Fortunately, you have to win at least ten times.|next|Everything happens. Either channel, it may be a woman or one of them.|next|Search for citizens in the cup crisis! You are right!|next,-4|Get ready for a refund!|next,caller|It will only get worse if they don't act against us. After winning 20 camps.
+You need to know how to help others. Kill 20 thieves.|next,-5|A very good test is recommended. How many of us should win!
+|hide||event,160|
+Thank you all. thanks.
+Can I say that their mistakes have been reduced. good job!|next,-5|Justice is over!|next,caller|I hope there will be more results.
+Thank you again. At least for now, this will be effective.|next,-6|There is no problem. Take care of yourself.|next,caller|It will be easy now. Calm home.
+|hide||event,162|
+I will stay here for some time. They do the next thing.|next|Looking forward to your visit!
+Nice place. I found great things to change!|next,-6|Will you show us?|next,caller|Normally!
+Beauty?|next,-5|Normally! He wants to be good ...|next,-4|OK. where did you find it?|next,caller|Of course here, but the last ...|next,-4|Not win?|next,-6|We are always looking for something like this.|next,caller|Make sure ...|next,-5|Can we trade without money?|next,caller|Badly.|next|Think.|next|For the first time, Ante came to Andy You, but he didn't pick up anything.|next|Is it possible to change clothes or gifts like this?|next,-6|Yeah.|next,-4|Yes, we live here!|next,caller|Oh really? Then they will be fine!|next|I will stay here for some time. They do the next thing.|next|Looking forward to your visit!
+Did you bring anything from the kingdom?|pickitem,1,161,162|
+|checkvar,0,142,163|Do you believe me excuse me ...
+If you find something, you know where it is!
+|removeitem,1,142||flag,443,true||align,left,true||face,caller,-1|A small game! Very nice!|next,-4|Is this good?|next,caller|My house is big and I can't wait for the group!|next|Here is the bed you need.|break||giveitem,1,141,164|
+|tail,-5,instant|Thank you so much!|next,-6|Frankly, we can finally achieve our goals.|next,-4,Happy|Your door! Sign up.|next,caller|Several years!
+I can't prove this to be a partner! Thank you so much!
+Hey, have fun! Maybe you get the precious silk!|pickitem,1,167,168|
+|checkvar,0,108,169|Not! I dont hate!
+|tail,-5|I'm sorry, no.|next,caller|Forgive me for taking it? I get sick if I leave
+|hide||removeitem,1,108||event,173|
+I have a son! I make premium quality silk with my own hands!|next,-6|Glad that you are here.|next,-5|Miss Carly, have you written a lot with your writing style?|next,caller|Yes, I wear silk and beautiful clothes, my |shaky|bad|shaky| job.|next,-4|They will be happy! No wonder he stole it.|next,caller|OK? Ha ha! I do not appreciate these things.|next|... Say, my flow is high.
+This place is awesome. I have never seen a wheel this big!|next,caller||shaky|More!|shaky| This oil is the best for you, a gift from a customer in the region.|next,-5||face,party,caller|Shocking. I am very happy with your work!|next,-6|Sorry, I don't need it anymore ...|next,caller|Because I want to work ...|next|It will pay for everything I do in the store.
+He is tired. Respiratory infections should be reduced and restored.|next,-5|Thank you so much!
+??! Interesting ... p ...
+Tusciu!@EVENT@ Tusciu!@EVENT@ Tusciu!@EVENT@ Project! |next,-6|@EVENT2@Be cerfull!
+Atco!
+Unfortunately, this behavior is dangerous.|next,caller||boxstyle,1||shaky|AAAAAAAAAAAAAAAAAH !!|shaky||next|Mug concept.|minibubble,@Oh lana.,-6||next||anim,caller,Angry|Destroy, destroy and |shaky|hide|shaky|! Oh, today is the worst day of my |shaky|life|shaky|!|next,-4,Sad||boxstyle,0|Sorry!|next,caller||boxstyle,1|Sorry, not enough! It's time to move on and move forward!
+Tusciu!|wait,0.2| Tusciu!|wait,0.2| Like him!|wait,0.2| Forgive me!|next,-6||shaky|What is that|next,-5||shaky|... N-N ... Vi, Life!
+Strangely, my computer was handled.|next|Buy my story and win!|next,-6|Kabu, what do you do inside?|next,-4,Flustered|Good with us! ??? |shaky|Furthermore! ???|shaky||next,-5||wavy|I can't control ... my body ...|wavy||next,caller|Now he is a puppy. Let's start. Is it beautiful.
+Nice place ...|next,-5||wavy|Hannah ... inside ... why ...?|line|My body ...
+There is no point in saying that now - I don't want to spoil the surprise. White can be replaced.|next,-5,Hurt|This is not a bar! My body was examined!|next,-4,Sad|Sorry, the smoke is white. I can not say ...|next,caller,Idle|...|next|...|next|...*|wavy| Supra |wavy|** Good. This is America's oil.|next|I am not in a bad mood.|next||flip,-5||anim,-5,Idle|Are we close? There is water on the cap. You can't fix the Potuma pot ...|next,-6|We do a good job. We are too lazy to work.|next,-4,Flustered|I avoid the hard end, I think so!|next,-5|Despite the economic crisis, we see this cow and silk!|next,caller|Therapy. The best effort, I think.|next|... Get it from my market if you want.
+Cell phone ...
+Well, this button is a miracle! Do not touch this person.|minibubble,@Sorry ...,-4||breakend|
+I can not believe that! My heart! I make premium quality silk with my own hands!|next,-6|It should be empty. Cerekoti?|next,caller|What do you need? Am I angry?|next,-4|We came to the rescue!|next,-5|There is no more pain. Why do you say that?|next,caller|Ah ... grandpa! Excuse me. There is a problem.|next|I have reason to believe that thieves make silk!|next|Not on the site? It takes a lot of time and fruit!|next,-6|Pranksters also work hard.|next,-5|Leave us alone! You can do it again!|next,caller|Exceptional! Come back before you lose it!|next,-4,Happy|You're right, get ready for a prize!|flag,472,true|
+Bring your community! The most popular product.|next,-4|I am happy because the price is too expensive.|next,-6|We are beautiful.|next,-5|Been confirmed?
+|anim,caller,Happy|Ha ha ha! this is the picture! There is no|next|I look forward to a new game! I'm raw!
+|shaky|Where are my big feet? ??? ! ???|shaky||next,-6|Wow.|next,-4|How are you leaving that morning?|next,caller|This is the ax! I know they have a job!|next,-5|Are there any thieves?|next,caller|Unconventional villains seem to know my game!|next|The wind will work fine if not too bad for the trumpet!|next,-6|You don't know, right?|next,caller|We see. It must be in the |color,1|field|color,0| or in the meadow.|next|If you find a researcher! ???|next,-5|Don't be fooled, your feet will get wet!|flag,635,true|
+|shaky|Are you surprised? !!?|shaky||pickitem,1,189,188|
+Look for ...
+|checkvar,0,175,190|Are they like your feet? |shaky|Then I dress! !|shaky||next,-4,Sad|Hey! Something is not right ...
+|removeitem,1,175||anim,caller,Happy|Yeah ... |shaky|Yeah|shaky|!!! Feeling that we are running out of fuel emotionally.|next,-5|Engera, this is for you!|next,-4|Are we fragmented?|next,caller|Well it will take some time, but there are models like this ...|break||giveitem,2,61,191|
+|anim,caller,Idle||tail,-6|Thank you.|next,caller|Hey ... if you think the quality is good, stay away from what I'm doing!|completequest,58||flag,636,true|
+|anim,caller,Happy|Hey, you can see the real beauty now!
+Where are my legs|line||shaky|Where are my big feet? ??? ! ???|shaky|
+|checktrue,39,195||tail,-6|Good mark.|next,-4|I do not know what this is.|next,-5|Black ... very important if it helped!
+|checktrue,636,196||tail,-6|Poured. Attractions for food.|next,-4|Do you have a big problem? May I ask another question?|next,-5|Will he retire soon?|next,-4,Angry|... Very nice.
+|tail,-6|Good mark.|next,-4|I do not know what this is.|next,-5|Black ... very important if it helped!
+|tail,-6|To be the leader of this storm, ...|next,-4|Wear hijab? It is different.|next,-5|Heat tolerance is called ...
+|tail,-4|The ice is melting!|next,-5|I wish I met more papers.|minibubble,@Yeah.,-6||breakend|
+The peace package works very well.

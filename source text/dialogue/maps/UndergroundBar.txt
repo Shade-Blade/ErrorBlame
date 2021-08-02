@@ -1,0 +1,94 @@
+|tail,-4|OK! This is a safe place for dangerous people!|next,-6|... But do you think he is a member of the club?|next,-5|The symbol of struggle ...|next,-4,Happy|What?
+|checktrue,588,92|Come to the altar and get the most famous treasure. |shaky|Yeah!|shaky||prompt,map,0,3,7,-199,8,@Why sell you?,-195,@Let's go.|
+|anstring,0| |string,0| component!|wait,0.1||line||var,10| |icon,110,0.6| for tea ...|prompt,map,2.25,2,3,4,@Give it to me here.,@Not yet.|
+|checkvar,atleast,14,var10,5||setvar,sub,14,var,10||shaky|Yeah! I really love being here ...|shaky||removebadgeshop,1,var,0||kill,caller||giveitem,2,var,0,6|
+It looks good.
+|wavy|A hero!|wavy| Children! |shaky|Children!|shaky||line||wait,0.1|I think this is so scary!
+If there are other fruits, learn! |wavy|Yeah!
+|shaky|Yeah!|shaky| That's all I have to offer!|line|Click |button,4|!|next|It is difficult to say a lot. Stay with us! |wavy|Continue.|wavy||next|Do you love anything? |shaky|Ha ha ha ha!|shaky||next|Oh, there are |icon,110,0.6| |color,1|crystals|color,0| here! Do not give me bad fruit! |line||shaky|Yeah!|shaky|
+Trust yourself! Trust yourself! |shaky|Yeah!|shaky| In any case, you at least did not go down without explaining yourself first.|wavy|Ha ha ha ha!|wavy|
+|tail,-4|Shadow continues.|next,-5|You know ... because of the nature of the place, can you be sure it is legal?|next,-4|Decide where to go!|next,-6|If you think it helps ...
+|tail,-4|That's all ... bears should work hard today.|next,-6|If not ... eh? Weird to hear.|next,-5|In addition to white bees, they move around in the mountains.|next,-4|Believe me, unfortunately, where are you from?|next,-6|The rebel bee does what he wants. Such as.|next,-4|Hey, they are good!
+|tail,-4|The show is amazing!|next,-6|This is useless.|next,-5|I know I agree, but ... start a cleaning project!
+|tail,-4|Can you use it? Allergic body.|next,-6|We all know the cause of the accident ...|next,-5|... Nature. Given this situation, of course, is no exception.|next,-4|I have nothing! I forgot my password!|next,-6|Ben Port.
+|tail,-5|... Oh, I need help. I don't know what this girl is doing ...|next,-6|Um ... maybe it is an illness?|next,-4|There is no other choice.|next,-6|We can ask him ...|next,-5|Not him! This seems a minority in the tradition! But you do not know ...
+|tail,-4|Sometimes you see this in the kitchen. Eat everything.|next,-6|Very delicious. Maybe a factor as to why they do it so badly.|next,-4|Yes, you are all terrible.|next,-6|....
+Oh, I can say I can't play ...!
+|align,left,true||face,caller,-1|OK.|next,-6|????|next,caller|Are you still a researcher?|next,-4|Is there information here?|next,caller|All I can say is ... I'll give you a lot of money. Excellent.|next,-5|This is very frustrating and they seem to have heard the process.|next,caller|Is it cold? Omg this i really!|next|You can forget about the enemy ...|next|Some tomatoes provide information about the fruit.|line|Personal Data.|next,-6|Issue? How it works?|next,caller|Nzuzu Ahia.|next,-4|Umm ... I will return immediately.|next,-5|(Friday)|flag,65,true|
+|hide||event,65|
+Eme mph, Vi. Even if I don't see you, my job is scary.|next,-6|Yes, good job.|next,-4,Angry||face,-4,-6|You can be sure that I can't do anything.|next,-5|Be careful, we will guarantee your ideal condition.
+|showmoney|Thanks. Do you think it is an old fruit juice? There will be twelve tomatoes.|prompt,map,2.5,2,20,21,@It clearly depends.,@I'm not.|
+|checkmoney,12,22||checkinvqtd,0,full,23||money,-12|The water is good!|next||giveitem,0,39,24|
+Trust me if you are thirsty, call me.
+Well, don't release you!
+Yes, it makes you angry. Holler later said
+Trust me, repeat if thirsty.
+Yes, do you have spy information?
+Something you do not have ... like |currency,var,0|? Energy
+Oh, there is an amazing spy, he's not there yet!|next|Small, so what happens to |currency,var,0|? Energy?
+Sorry, nothing at the moment.
+Oh, so bad.
+Good job!
+In the next time?
+Thank you, have a good relationship with you!
+Thanks for helping me solve the red problem.|next|After the injury recovered, |anim,caller,WeakBattleIdle|we continued the study.
+|tail,-5|Celia, can I ask you a question?|next,caller|Is this a pumpkin?|next,-5|Do you know the woman who lives here?|next,caller||shaky|!! Do not say that the body was burned!|shaky||next,-5|Excuse me.|next,-6|We got "no".
+So Levi is exceptional.|next,-6|This is frustrating.|next,-5|I may not be the best researcher, but I still see ...|next,-4|Top live this life completely!|next|And you live here. So I don't always win.|next,-5,WeakBattleIdle|... OK ...|minibubble,37,-5||break||destroyminibubble||end|
+I want to know the number of familiar ants.|next,-4|Mad. I have seen something before.|next,-5|I dont mean ...|next,-4|This is a secret message from the pumpkin to hear our voice for the |line|first time.|next,-6|We want more.
+|wavy|* * Very nice.
+|shaky|NFH!|shaky| Call me a thief!|next,caller||boxstyle,0||shaky|Yeah ...|shaky| OK? What?|next,-4|How many problems do you have?|next,4|Ha, ha, ha, this is about doing business here. Before you ask.|line|I will never pay for that! |shaky|Ha ha ha ha!|shaky||next,-4,Angry|!|next,-6|Oh, is this your friend?|next,-4|However.|next,4|Where is she?|next,-5|Shadow ... sells medals and jewelry.|next,-6|This is a very unique type.|next,4||shaky|Yeah!|shaky| Dear friends, my best friend!|next|Welcome to the rare shade store selling the best branded products!|next,-5|This can steal, but ...! It looks like they are eating a lot of fruit!|next,4|The strawberry? Not! No, Rebecca.|next|Here we only get the |line||icon,110,0.6| |color,1|best tomatoes|color,0|!|next|Simple fruits are fun for children, and processed tomatoes are fun for children.|next,-6|We saw a little ... but do you really live with a thief?|next,4|If, unfortunately, you are happy, not everyone will steal from you ...|next,-4,Happy||face,-4,-5|... But for this service?|next,-5||wavy|Rey Audi ...|wavy| Trust me at work.|next,4||shaky|There is a price!|shaky| You have chosen the right amount to increase your attractiveness!|next|Press |button,4| release and no place! |shaky|Ha ha ha ha!|shaky||next,-5|I'm right.|next,-6|Traveling in a cup. The creator.
+|hide||event,83|
+|face,caller,-4|Hey, that's what the wind brings.|next,-4,Angry|Hitop|next,-6|Another girl? How is the nose ...|anim,-4,Sad||face,caller,-5||minibubble,@!,caller||next,-5||face,-5,-6|What is life? Twins are the right place.|next,-6|From the neighborhood.|next,-5|What?|next,-6|... Not. this is no thing.|next,-4,Idle||face,-5,-4|By the way, Toby! This can cause alcoholism.|next,caller|I know this gives people more freedom. Rovtiar.|next,-5|If ... Doppel, what will you say?|next,caller|Excuse me. Apply things not found in others. This is dangerous for new browsers.|next|In response, we won with the help of the Queen.|next,-4,Happy|Too much fruit!|next,-6|Preta is very good. What is that?|next,caller|Unit freely up.|next,-5|....|next,caller|You are not afraid.|next,-4|That's it!|next,caller|Contact your team for more information. See the table.|next|If you are one of them, come to me.|next,-5|Come on Tim to stop this blow.|next,-6|A ...|next,-4|Good job! Rich!|next,-4,Idle|Hmmm .. be careful!
+More will come?
+There are other costs. So we paranglishalaymys about awards.
+Intrigued by this project?|prompt,map,2.25,2,44,45,@Your avar!,@However.|
+Yeah believe me.
+They are not worried.
+Do you benefit from this site? If you have questions, contact this business with us!
+|hide||event,90|
+Your friend joined the war?|prompt,map,3.8,3,50,49,51,@Play time!,@Can you explain the other rules?,@Thank you} but sorry.|
+Not!
+Very soon it will be a duet book!
+You have ...
+... Not enough.|next|You can return if you have a |color,1|secret card|color,0|, two |color,1|short cards|color,0|, or two |color,1|enemy cards|color,0|.|next|If you are interested in espionage agents.|minibubble,57,-4||next||destroyminibubble||end|
+If everything goes well, then we will leave.
+|tail,14|Two brothers? Choose the head. Generalize it.|next,-4|What?|next,-5|Is this glue?|next,14|Are you wasting time? God is dead.|next|If not, keep in touch.|next,-6|Preta is very good. Can you tell me more? We might be surprised.|next,14|Do you want to study elementary school?|next|Definitely. I am disappointed today.|next|The first step is to make the right card.|next,-4,Angry|We will not buy a single shred of corn.|next,14|This is based on the |color,1|hostile intelligence|color,0|. You should save it now.|next,-5,Happy|This is good! There are so many spies!|next,14||anim,-5,Idle|You need two |color,1|puzzle cards|color,0|, two |color,1|secret cards|color,0| and at least one |color,1|enemy card|color,0|.|next|They say when they are ready. I want to fight.|flag,236,true|
+|flag,237,true|Yes, everything is alright. I can't call it a type.|next,-6|Will they fight for us?|next,14|Right Now? I think you need an institution.|prompt,map,2.2,2,49,56,@Ask us.,@We found.|
+|tail,-6|I do not want. We read this game by remembering cards.|next,14|Isn't this dear to you? Hope "learning" works better.|next|When you're ready, you can fight!
+|anim,-4,Flustered||wavy|Not him!
+This helps immediately.|next,-6|We will see you next time.
+...! I will not miss you! ???|next,-6|Watch a good match.|next,14,100|Ha ha ha ... |wavy|Ha ha ha|wavy|
+I fight well, papers.|next,-4|What can we do about this?|next,-6|Greed and similar war.|next,14|This is a game of hope. I think they are playing with me ...|next|But if you want to win a prize, there will be strong competition in |color,1|Metal Island|color,0|.|next|We got it wrong while watching a boat match.|next|The project is expensive but worth the price.|next,-4|Stop, can you pay with blackjack?|next,-6|Interesting. I can come.|next,14|Takes.
+You have to finish this result ...|next|Find |color,1|4 wonderful cards|color,0| of Bukhara. Just know.|next,-5|At least you know? Bukaria is very beautiful ...|next,14|Definitely. Why not? The first cardholder ... a long time ago. Good luck.
+Look! You deserve a prize!|next,-6|Storage. We fight for glory.|minibubble,63,-5|
+Do not forget the prophets ...
+Durability!
+Oh ... I think he broke the |line||color,1||string,0||color,0|...|next|Will the crystal fall?
+Yes, that's a good thing. This is your trap.
+|hide||fwait,0.5||giveitem,-1,50,-11|
+I look forward to working together. If you win another prize, you will win a prize.
+|align,left,true|??? ! ??? Physically ...!|next|Do you like black cherry?|next,-5|What are you doing?|next,caller||anim,-4,Surprized||anim,-5,Surprized||anim,-6,BattleIdle||shaky|Not him!|shaky||line|Uh! We |shaky|see|shaky|!|minibubble,@President.,-6||next|There are some black cherries here. See ... maybe a few miles away!|next|Very difficult ... dear, sell fifty pieces!|next,-4,Angry|What? ! Can it be reduced a little?|next,caller|This apple is not easy! My professional nose too!|next|45 pieces. This is a steal.|next,-6|Hear great cooking ... well ...|next,caller||wavy|Adventure, adventure, adventure, adventure, adventure, adventure!|wavy| Think about it, cherry blossoms! It is amazing!|flag,378,true|
+Oh an apple! Show, I admit ... there are fifty in this glass!|showmoney||prompt,map,0,3,71,82,72,@Let's take one.,@What can we do?,@Lots!|
+|checkmoney,50,73||checkinvqtd,0,full,75||money,-50|Yeah! Thank you friend! Come on, eat it!|break||giveitem,0,121,74|
+|wavy|Hey|wavy|, this is a free world! I chose the price carefully.|next|However, it is not easy to find this kind of cherry! I will be friends soon!
+Forgive me! Not to mention the departure of cherries! Is there another love?
+I also sell many varieties of cherries. Cherry lovers are always with you!
+This is something you can't get! Is there another love?
+|checktrue,378,77||tail,-4|The man is new.|next,-6|He sees us ... we can see what he needs.
+This rare plant appears to betray black cherry.|next,-6|It is delicious and unique. Don't you know where to see so many people?|next,-4|There must be hidden gardens everywhere!|next,-6|The park will be found soon.|next,-5,Angry|... Cannot be stolen.
+|tail,-4,Angry|Hi Reid.|next,caller|You know ... what do you need?|next,-5|Am I an artist friend?|next,caller|To move? Qualification challenges given without organization?|next,-6|We ask them. He asked them if it was very colorful.|next|But the business owner did not contact us.|next,caller|Nguta. I know I need a bowl, but ...|next|I don't want that to happen.|next|I may be a strong man, but he is my wife. No one cares.|next|But because you're looking for them ... I think they can help.|next|I know this person, but we fell ... so I can't do anything.|next|If he did not do it but he was sad for a long time.|next|Come here.|break||giveitem,1,138,79|
+Do not try to open it. It contains detailed information. |line|The message is black.|next|Do not lie.|next,-6|You know, to our surprise a message.|next,-4,Idle|Question, leave. OK? I don't want to sleep anymore, I know this is happening to us.|next,caller|Stay tuned and everything will be fine.|next|How will I learn from it?|next,-4|Yes you know, I'm out.|next,caller|That.|next,-5|(The darkness ...)|flag,432,true|
+Make it happen. Programmers who have already tried it.|next,-4|Mother.
+Fascism.|next,-4,Angry|Red, always give me a break.|next,caller|... Count. Thank you.|minibubble,@...!,-4||anim,-4,Happy||breakend|
+Yes, many things! These bonds are not the easiest way to make money.|next|Try bread and explosives.|next|Less expensive and more, so you don't need to try too much! |wavy|Gary.|wavy||next|Mixed differently! Oh, no ... maybe Perry? |wavy|Gary.
+What you do is good.|next,-4,Happy|License! Worst!|next,-6|This is not fun, it's hard to solve Doppler.|next,-5|I know that Bukhari is not good for demons!|next,caller|... not good. I will expand on all questions.
+|tail,-4,instant||anim,-4,Happy|Kpochapu! Thank you Toby!|next,caller|Be careful and confident.
+The pirate service is good. Let's see if the queen sees ...
+|tail,-6|This is an advanced software suite. Fortunately we found it in |line|our mail.|next,-4,Sad|Really in every way ...|next,-5|They are happy to see the demon that was sent to us ...|next|Thank you, but fine |anim,-5,Angry|That's it! Silver! |anim,-4,Surprized|Give me drinking water!
+I take the devil seriously.|next|Sorry, I do not like that. Yeah.
+Kill him by the game! Excellent!|next|Oh, so the Bukhari tour is over!
+LadyBox is available at Colin for free! Receive me.|next|... But I know. I do not think so.
+He was scared since he touched the Queen's collar.|next|... Looks very scary. Hope you relax without trees
+Now everything is fine and you have to swim |line|with Levi and Celia.|next,-6|However, there is a circle for them. Do you remember what |line|they did to save Niu?|next,-4|This is the first time you have caught Scarlett!|next,-5,Happy|That's all for now! He ... uh, give me 5 pieces!
+Yes are you kidding?|next,-4,Happy|An error occurred while selling real money!|next,caller||wavy|Where|wavy| ... new icon ... "|color,1|NAME|color,0|"|next,-6|But we can actually add ...|next,caller||shaky|No|shaky| ... you can add a "list".|next,-5|I do not understand ...|next,caller|Excuse me. I'm here.|next|Thank you all! |shaky|Yeah.
+What happened to him ...|next,-6|They look like cards. Time to finish?|next,-4|I think you can use your card ...|next,-5,Surprized|Vi, you are not alone! ???|next,-4|Not.|next,-6|We do not know.|next,-5,WeakBattleIdle|Hmmm ... now I have a "card" ...

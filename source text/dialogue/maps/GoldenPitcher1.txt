@@ -1,0 +1,1 @@
+|tail,-4|Hey, this is filthy!|next,-5|It has already been deleted, and it is clear that all other content should be visible to detergent.|next,-6|Right? Continue.

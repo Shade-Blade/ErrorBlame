@@ -1,0 +1,3 @@
+|tail,-4|What happened?|next,-5|Detention center? ...|next,-6|A good water surface. Maybe we could use this path as well.
+|boxstyle,3||spd,0|Mark, if you want ...
+|boxstyle,3||spd,0|“ZB-43 is understandable, look at me.”

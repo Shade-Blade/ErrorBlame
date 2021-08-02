@@ -1,0 +1,162 @@
+|tail,-4|This is the best shopping area in history!|next|Award-winning store, chef ...|next|This butterfly girl! Compare with other stores!|next||tail,-6|Enjoy e-commerce.|next||tail,-4||checktrue,140,158|Hey, there is something, but I can't say that!|next||tail,-5|Suddenly nothing is seen ...
+Very clean. Then it can be purchased and used.
+Yeah
+Not
+|checkflag,140,26|Visit. I did not do that.|next||tail,-4|Don't worry, I'm here
+Accept that store costs increase quickly.|line|There are many.|prompt,map,2,3,9,12,11,6,7,8|
+I want to buy it!
+Love to sell!
+Of course not.
+To buy something, put it in front of the item and press |button,4|.|next|Can you do this alone?
+|string,0|???|line|I can get |currency,var,10|.|line|Is there a contract?|prompt,map,0.7,2,19,18,2,3|
+She is very beautiful. Hope appears ...
+|checkinvqtd,0,0,13|What do you want to sell?|pickitem,0,0,true,true,10,18|
+|wavy|Ha ha ha|wavy|... Nothing came of it. Do not waste your time.
+|anstring,var0| |string,0|.|line|There are |currency,var,1|.|line|Do you agree?|prompt,map,0.7,2,16,18,2,3|
+I'm a fan! Not enough strawberries! Return the product if possible.
+|checkmoney,var,1,15||checkinvqtd,0,full,17||money,var,-,1||additem,0,var,0|Good job. Enjoy and have fun!
+How are you doing? I put the bag in place so I put my hand on it.
+She is very beautiful. If you have other questions, contact me.
+|money,var,10||removeitem,0,var,0|They are paradise.|checkinvqtd,0,0,20| Do you want to sell something?|pickitem,0,0,true,true,10,18|
+No need to buy anything. Back.
+|tail,-4|Merap has a supermarket! Travel to collect treasure!|next||tail,-6|On sale now.|next||tail,-5|Is that correct. Strange that he gives me the land, but I do not judge.|next|However, it was very helpful on our trip.|next,-4,Happy|Travel, resources and strength! Live now!
+This is my wife.|fwait,0.2||blank||tail,-4|This butterfly at the best prices in our country!|next||tail,-5||wavy|How do|wavy||next||tail,-4|Excuse me. I am still happy to be here.|next|Everything, dear blonde lady is very beautiful!|next|I know he's rich ...|next||tail,-6|Everyone has value.|next||tail,-5|Is that correct. Don't forget to buy what you want.
+Surprisingly, insects are on the floor.|next,-4|I want to know what they are doing here.|next||tail,-6|Maybe we have a home.|next||tail,-5|Work site, Life. Impossible.|next||tail,-4|Explanation. This is the house we need!|next||tail,-5|... I want to end the conversation.
+|tail,-4|According to Fry the source|next|The chefs came from most of the royal family, but they decided to work here.|next|I do not understand. You can find a lot of money at home.|next,-5|This suddenly shameless.|next,-6|Yeah ...|next||tail,-4|It should be good to eat. Let's eat!|next||tail,-6|You can also search for mojo salads.|next,-5|I love to eat.|next||tail,-4|What's wrong with them, most of them are fried eggs!|next,-5|First, identify and prioritize.
+|tail,-4|Amber is a dog that works in a safe harbor.|next,-6|The bag is very heavy.|next,-5|Ants carry cargo several times. Make me happy.|next,-6|This energy ... maybe bad ...|next,-4|No need to complain, you can ski!|next,-5|Do not fight in front of Miss Amber. His work is tired.
+Special cover in a good place. I would like to know what is below.
+|event,true||align,right,true,2.2||tail,-5|Been confirmed? Where is that place?|next,-4|Hey!|next||hide||minibubble,@{wavy{The clock ...,caller||waitminibubble||tail,caller|Enter the code.|next||tail,-4|2-4-0-5!|next||tail,caller|Signs of its |wait,0.2|decline last month. Use the new code.|next||tail,-4||anim,-4,Flustered||shaky|Wow! ???|shaky||next||tail,-6|Good for you|next||tail,-4||face,-4,-6|Open your mouth!|next||face,-4,caller|Hey, get out of me! I am the fifth! |anim,-4,Angry|Contact Shadow if you want to |line|request information or have other questions about me!|next||tail,caller|Nobody knows this symbol. Next to.|next||tail,-5|This place ... is too dark.|next||hide||minibubble,129,caller||waitminibubble||hide|Excuse me. What is this place?|next||tail,caller|Vi...! Take it to someone else! ???|next||tail,-4||anim,-4,Flustered|Wow! Then you know! Now open! If not, let me tell you everything! |shaky|Elpusztítlak|shaky|!|next||tail,caller|Attempt. He did not stay up all night.|anim,-4,Sad||minibubble,@E-IIPI!,-4||next,-5|What is that?|next,caller|If you know what is best for you, it is best to stay away. all of us|next,-6||face,-6,-4|This is an interesting game.|line|Thank you for the right time.|next,-4|Well ... I think I can find a new symbol somewhere.|next|Someone help us!|next,-5||face,-5,-4|Well Well. But you don't see much.|flag,8,true||break||event,false||end|
+Oh, Suzuki! Someone came to our sister?|next,-5|This is really Louis. What makes us anxious?|next,21|Hmmm ... believe me, Li Wei? This is dangerous ...|next,20||flip,20|Celia, Kabu and others have found enough strength to show |line|their talents.|next,-4||flip,20|Oh, tell me what happened. |anim,-4,Happy|Is it beautiful?|next,21|Oh, great value.|next,20||anim,-4,Idle|Therefore ... we are in the name of |color,1|mentioned faith|color,0|.|next|Sometimes I ask the leader for help.|next|Eating destroyed with researchers and good energy.|next,-6|We expect a thief or something.|next,21|So, unfortunately, we will. This is the reason for the |line|ancient reclamation cave on the Golden Mountain!|next|It has caused us many problems.|next,-5,Angry|This person has more value. We will help you achieve the future!|next,20||anim,-5,Idle|We have gathered a lot of useful information because |line|this is the old section.|next,-4,Angry|Is it true that a person can hide in the hallway?|next,20||anim,-4,Idle|This will definitely help us recover.|next|... Sorry nobody can return.|next,-6|Ah agriculture. Cold weather advantages.|next,-5|Surrender, O our people!|minibubble,@Think!,-4||next,20|Finally released! Are there real people you trust?|next,21||anim,-4,Idle|At least wait for the rest to be sure!|next|Were we not in that war? Call us and get started!|next,-6||destroyminibubble|We meet here.
+|size,0.5|This application applies |line|to all candidates.|fwait,1|
+Next to.|anim,-4,Angry|
+|hide||event,77|
+|hide||event,61|
+|flip,caller,true||align,right,true,2||checkregional,1,54,true||regionalflag,1,true|Ready for your life? Bring what I know!|next|Yes, we made it filthy! Give me what you want!|goto,55,keep|
+|anim,this,Happy||checktrue,587,144|Good morning! Interested in medals? How can I help?|prompt,map,0,4,35,36,-199,37,@What do you sell?,@How do you appear?,-195,@We are the best.|
+Hi! You will see something beautiful! It is very valuable!|next|Using this app will have a huge impact on new procedures and problems from simple changes!|next|Join the team and feel different!|next|Change the list from time to time and then come back again!
+Relax! Click |button,8| to enter the menu.|next||icon,109,0.4| MP / Coins / Equipment Required, different number for each currency. Group members are divided into groups.|next|Some achievements can affect team players and some of them |line|simultaneously!|next|Don't forget to replace the equipment you need to use |button,2| and |button,3|!|next|Attach abundant credentials to succeed in any situation.
+She is beautiful! Look at my product! Start and click |button,4|!
+|anim,this,Happy|Suitable for |string,0| icon!|line|I hope to get |currency,var,1|.|line|Can I finish it?|prompt,map,0.7,2,39,40,2,3|
+|checkmoney,var,1,41||money,var,-,1|Good luck, chance!|break||removebadgeshop,0,var,0||kill,caller||giveitem,2,var,0,42|
+|anim,this,Idle|Therapy. Do not try other products!
+|anim,this,Idle|Forgive me. It is not sold at this price. All are small!
+Find another product!
+|checkinvqtd,0,0,45|Empty! Tell me who it is!|flag,12,false||pickitem,0,0,true,false,46,44|
+|anim,caller,Angry|Isn't this strange? Go back and press a little. I will be there when my stomach hurts!|anim,caller,Idle|Ha ha ha ha!|break||checkflag,12,64||additem,0,var,0||end|
+|anim,caller,Angry|Wait a minute, everything is not enough! If nothing happens, how do you |line|expect to eat it?|break||anim,caller,Idle||checkflag,119,82||end|
+|anstring,0| |color,1||string,0||color,0|?|line|Do you think? No refunds!|prompt,map,2.63,2,48,44,49,50|
+Come on ...
+See what the teacher is doing!|break||event,3|
+Give me food to eat it!
+I changed my mind.
+Complex! All meat!
+|anim,caller,Angry|Yes, he gave me bad things, but nothing can be saved!
+|anim,caller,Idle|Back! Good for me!
+Hey! Do you want to be cured? I can help.|goto,55,keep|
+|flag,12,false||checkflag,41,60||prompt,map,5,3,43,61,44,58,59,47|
+Eh, let's just say I saw better. Delicious Food ...|next,-6|Is it not toxic?|next,caller|Toxic like mine.|next,-6|We are trying ...|next,-4|Not good.
+|tail,-4|This place is built. Eat everything.|next,-6|Ah, the most reliable restaurant. Maybe a factor as to why they do it so badly.|next,-4|Yes, you are all terrible.|next,-6|...
+Use one for cooking.
+Bake in two ingredients.
+|prompt,map,2.5,2,43,44,@This is my job!,47|
+|checkinvqtd,0,1,45|There is hunger! The most important things first!|flag,12,false||pickitem,0,0,true,false,62,44|
+|clonestring,0,1||removeitem,0,var,0||flag,12,true|The second part!|pickitem,0,1,true,false,63,44|
+What about |color,1||string,1||color,0||line| and |color,1||string,0||color,0|?|line|Do you think? No refunds!|prompt,map,2.63,2,48,44,49,50|
+|end|
+Yes, but I'm afraid to see someone ...|next|Can I go to the city to learn more about it?
+|tail,-4|In fact, his brain is still alive.|next,-5|Disclosed.|next,-4|Yes, not good!|next,-6|They can not speak
+|goto,random,68,69,70,71,72|
+Cooking ... or adding honey ... two types ...|wavy|zzz ...
+Con ... It has been fixed in two ways, but ...|wavy|zzz ...
+Awesome ... write three ... |wavy|zzz ...
+Beams, leaves, eggs ... |wavy|zzz ...
+Honey is honey ...... |wavy|zzz ...
+What right is this?|next,-6|Excellent ...|next,-4|Hmmm, let's just say I've seen better, but I think we can let it be.
+|tail,-6,instant|They treat him ...|next,-6,WeakBattleIdle||face,-6,-5||shaky|... not me ... I'm hungry ...|shaky||next,-4|...|next,-5||face,-5,-6|L-Life, stay tuned!|next,-4|...|next,-6|Finally ...|next,-5,105||shaky|Mona Ray! ! !|shaky||next,-4,Flustered||face,-4,-6||face,-4,caller|I love everything! Glad I helped you! Do not be afraid!
+Do not fry it!|next,-6||face,-6,-4|We are loyal!|next,-5,Idle||face,-5,-4|... Do your job.|next,-4,Angry||face,-4,-5|... Explain important benefits quickly|next|It seems slow.|next,-6,Idle|You know what you know ... Thank you.|next,caller|Ha ha ha ha! What a beautiful friendship! Put it on the table!
+|tail,-6|Yes, beauty. Thank you|next,-4|You will not see this in your missing years!|next,-5|I am glad to be able to share this ...
+|tail,-4|This smell is the best! Aim, but good!|next,-5|Hmmm, maybe they just have fun.|next,-6|I don't eat anything but pumpkin.
+|tail,-5|Oh ... better than the sound of ordinary smokers. Hello but good ...|next,-4|But this is boring to eat. I need this oil!|next,-6|Thank you now.
+|tail,-6|Oh ... the best. Smile fate.|next,-5|This text works better!|next,-4|... a little delicious. We must release this honey!
+|anim,-6,WeakBattleIdle||anim,-5,WeakBattleIdle||tail,-6|Tsk ... we are looking for energy. We have no other choice ...|next,-5|GC ... so we eat ...|next,-4|(A small thing. I was born!)
+|anim,-6,Idle||anim,-5,Idle|Anyway ... we enjoyed. We have been writing for years because we eat. |line|Soon our stomach is hungry.|next,-5|I will eat again. Very glad that we participated.|next,-4|Frita is awesome. But it is time to return to the missionary work!|next|Go south to break the gold! Distance!
+|flag,119,true||event,3||end|
+We hope Levy and Celia won't wait long.|next,-6|Let's start this meeting.
+This is a group! OK? Join us!
+Hey! My order only?|next|Now come on, I have an idea for a good price ...|next|A fun mix of joy ...|next|Who in this world!|next|You need two glasses that you don't want to see anywhere else. |line|This food contains this information!|next|Meet and bring to me! Pay! Ha ha ha!|flag,196,true|
+|align,right,true,2|Hey! Did you bring the goods? What about cooking?|prompt,map,5,4,87,43,61,44,@Ask here.,58,59,47|
+|hide||event,92|
+But does this work? Well, did you bring two episodes?
+Malta! Do not waste time on these things.
+... I do not know! You will need the |color,1|sweetest|color,0| and |color,1|most delicious|color,0| food to cook!|next|Let's start with these two things and work hard.
+Sir! You really are! idea!|next|This salad is perfect for a perfect dish!|next|Let's do it!
+Welcome to |color,1|Dermagade|color,0|.|next|Are they still there? Our starting points are some basic principles to get started.|break||var,1,15||giveitem,1,110,93|
+|removeitem,1,110|You can check the ticket number from the |color,1|"Guide"|color,0| menu.|next|Enjoy Dermacade.|flag,351,true||discovery,42|
+Enjoy with Dermagade.
+|boxstyle,3||spd,0|Mountains that raise the |color,1|Derma Gate|color,0|!|next||spd,0|Play at a special price and get the ball! This is Dermacad!
+Good morning! Welcome to Dermacade Transition! How can I help?|showmoney||showtokens||prompt,map,2.5,4,97,98,120,100,@Buy another one.,@Code conversion.,@I speak.,@We are the best.|
+Normally! Pay 3 tomatoes for each entry. How much money do you want to spend? (Click |button,5|.)|numberprompt,0,3,101,100|
+Here is a list of all our prizes! Press the |button,4| button to select an item, then press the |button,5| button.|pickitem,26,0,true,false,99,100,5|
+|event,121|
+Dermagade goes here.
+They eat |checkvar,0,0,100||var,1,3||var,0| egg(s) in the oven for |currency,var,1|.|line|Is it possible to do business?|prompt,yesno,102,100|
+|checkmoney,var,1,103||money,var,-,1||addvar,27,v0||showtokens|Come on up to |var,27| million people!|next||goto,100|
+Oops ... sorry, it looks like you lost the fruit!|next|Have a nice day in Dermagad!
+Appearance? Get your peers to start the Dermagate!
+|tail,29||face,29,-1||face,party,29|Is this your first time? Ask a colleague before you get started!
+|tail,29||face,29,-1||face,party,29||checkflag,351,105|Interested in "|color,1|Super Night|color,0|"?|line|There are 25 tickets available for one!|showtokens||showtokens||prompt,map,0,3,109,110,115,@{menu}5{,@{menu}6{,160,$1|
+|tail,29||face,29,-1||face,party,29||checkflag,351,105|
+|tail,29||face,29,-1||face,party,29||checkflag,351,105|
+|checkvar,atleast,27,25,111||addvar,27,-25||showtokens|Enjoy!|next||face,party,caller||showtokens,null||dungeongame||goto,141|
+OK! Check out our other games!
+Bad thing! Excuse me. Not enough tickets! Worth buying for |line|your brother!
+Enjoy! This is a game ticket!|break||giveitem,1,110,113|
+|showtokens|You now have |var,27| page(s)! Thanks for joining Dermagade!
+Welcome to Dermagade! If you have questions about our game, we will help you here! I can help.|prompt,map,0,3,115,138,100,160,161,@We are the best.|
+Help him, "|color,1|end the night|color,0|" and enter the "night can" section.|next||button,0|, |button,1|, |button,2| and |button,3|!|next|Press the |button,4| button to raise shield, stop enemy attacks and move without spinning!|next|Take revenge before they attack your enemy! Go and get a degree!|next|For storage, |color,1|alcohol|color,0| is now available. But the most important thing...|next|Everyone is here to find the |color,1|golden key|color,0| to open the door!|next|Please |color,1|yuttursynunion|color,0|. This guide seems to help!|next|It can be removed easily without damaging the game. Yeah. |line|High score test!|next||goto,100|
+Excuse me. Gifts are not enough!|break||goto,100|
+Unfortunately, this product has already been sold out.|break||goto,100|
+|string,0| weighs at least |var,0|!|line|Do you want to replace it?|prompt,yesno,-11,100|
+Think! Good job!
+|termacadecheck,147,149||checkvar,59,2,149||checkvar,59,1,150|Excuse me. I cannot tell you at work. Will we meet again after reaching the top?|break||goto,100|
+Wow! I can't turn blue anymore! Before you buy this product!|break||goto,100|
+Ha ha ha here! delicious Food!
+This is the |color,1|only food they can do!|color,0||next|Take this food as much as possible to eat!|next|Thank you so much!
+I think I want a medal. I tell you ...|next|After receiving the opposition award, he said, "Beef! Are you going? I don't want to!" He said.|next|Of course, they have a hidden feeling! If so, eating something will affect your attitude ...|next|All we can say is that the test results should be clear.
+Ibo people! In fact, you have a chance to win a medal!|next,-4|This gift is great! I thought it was cheap, but ...|next,-6|Reducing MP costs is not bad.
+Ha ha! The weapon was bought and imported three times ...|next|Wandzny now needs energy and berries! ???|shaky|Welcome!|shaky|
+|checktrue,345,156||tail,-4|Do I like to grow? Your child can do that!|next,-6|This tool is also sufficient. In the name of God.|next,-5,Angry|Can I judge?
+No ... I am fighting for war. So I cut the fruit because it is bad ...|next|Maybe I ... but is the Devil very scary and has a lot of income ...?
+|wavy|The clock ...
+Poor. If you pay attention to the flight, it will be difficult.|next,-6|This is the goal of financial analysts. Submit interviews or other content.|next,-4|But take the money!|next,-6|Instead of eating strawberries in a tree?|anim,-4,Angry||minibubble,@Look well.,-4||breakend|
+Like him! Not this!
+??? ! ??? I think we're kidding! ???|next,e2|Researchers do not lie! See again!|next,amber|I know what I'm doing! Do not try to lie!
+|shaky|Snake d!|shaky||next,-5|How are you today?|next,eri|They want to steal amber!|next,e2|Not him! Try our guarantee!
+Doesn't that help the team?|next,-6|... This is a lie
+What do you say ?|next,-4|OK?|next,-6|There is no decision yet. Of course, I didn't know how it felt.|next,-5|Thieves and thieves are running away! ??? You are the cause of crime!|next,gen|Here, here, we don't know ...|next,e1,BattleIdle||anim,e2,BattleIdle|Let's invite you to this!
+Let's run away.
+Oh, thank you, I can't pay you.|next,-5|Don't worry, Miss Amber, your service is very helpful.|next,gen||face,party,gen|This is not the case. They have returned to power!|next,eri|But we do not know where they went ...|next,-4|Is the license fake? Maybe they tried to steal it?|next,gen|Then see the vicinity of people!|next,-5|We are all one. Acceleration!
+He sees dust in the "|color,1|flower path|color,0|" and controls the pieces!|next|You need to press |button,4| to avoid the island and start!|next|You can record or collect |color,1|flowers|color,0| slowly during the game!|next|The more you ask, the better!
+|tail,29||face,29,-1||face,party,29||checkflag,351,105|Interested in |color,1|flower arrangements|color,0|?|line|Each ticket has 10 votes!|showtokens||prompt,map,0,3,140,110,138,@{menu}5{,@{menu}6{,161,$1|
+|checkvar,atleast,27,10,111||addvar,27,-10||showtokens|Enjoy!|next||face,party,caller||showtokens,null||beegame||goto,142|
+|face,party,29||battlewon,112||goto,143|
+|goto,143|
+Get |var,0| points in this game, |var,1| chips here! good job!|break||giveitem,1,110,113|
+Think! I bought everything! Collector would be a good donation!
+|hide||scorecheck||end|
+|align,left,true||face,caller,-1||tail,-5|Bye ... What can I ask for your name?|next,caller|Good morning! This is Kenny. But Vi, nightmare, message?|next,-4|Oh, the news is everywhere!|next,-6|We asked if it was too late for some people to come to the colony.|next,caller|Welcome to life there are many traditions.|next,caller|Before you ask, I thought I was not here.|next,-6|Do you need time?|next,caller|Everything I went through was very good. Throw yourself over|next,-4, Happy|Hi!|flag,601,true|
+|checkmapflag,0,150,true|Wow! Toy? This is really a "sports fan"!|next|I want to know if they can win many matches!|mapflag,0,true|
+You are a big fan, but I hope you still love DermaGate!
+|checkmapflag,0,148,true|Wow! All notes have been written! Download the latest game!|next|You should give them this code. "|color,1|play|color,0|"!|next|They say that there are lists like this.|next|In the same way! We believe our work deserves real games!|mapflag,0,true|
+I want to know if they can win many matches!
+Some call it a journey, not an assignment. What is my goal?
+|tail,-6|The best ants should make them work.|next,-4|I can't even imagine selling this game!|next,-5|I can be very happy! Here?
+Dermagate is the best! This is the power of science!|next,-4|This is not the honey industry.|next,-6|Six years in the company of your company?|next,-4|Make sure ...|next,-6|Therma door is slanted. Time to get more points.
+I ... with this shield ... I can't hold it anymore ...
+Not! Now that peace has been restored, I'm still a fan!
+|checktrue,555,157||tail,-6|Don't forget when the ant falls ...|next,-4|Yes, he's trying to help ...|next,-5|(Proud!)
+|tail,-4|Do I like to grow? Your child can do that!|next,-6|This tool is also sufficient. In the name of God.|next,-5,Angry|Can I judge?
+This thing!|next,-5|I hope I can do more shopping and fresh air ...
+Buy all gifts! ??? I wish someone like you ...|next||color,1|Secret?|color,0| ""|next,-4|??|next,caller|You have to ...
+Above the result.
+See the flowers.

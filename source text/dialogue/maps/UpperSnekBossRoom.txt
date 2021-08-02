@@ -1,0 +1,17 @@
+|checktrue,532,16||tail,-6||anim,-6,WeakBattleIdle|Wow ... we can see it all over the house.|next,-6,Idle|How do we feel?
+This tank.|next,-5|Warning! ???|next,-6,WeakBattleIdle|Excuse me.|next,-4,Angry|I'm finally here! !|next,-6,Idle|It is difficult to say a lot.|next|Forbidden. Many people ask other questions.|next,-4,Idle|Think of the last possible queen?|next,-6|Not.|next|Are you looking for a snake taste? Do the search.|next|... If you don’t think you can report the wrong gadget.|next,-5|No complaints!|next,-6|We will be back in time. You have to think a lot.
+What are you doing? Soon!
+|shaky|... Brother RCke! ??? As much as you excited ... !!!|shaky||next,-5,BattleIdle|Two brothers! ??? Life, are you talking about my brother?
+D- No!|next,-6||boxstyle,1||shaky||size,1.5||line|...! ! !|shaky||size,1||next,-5,BattleIdle|! Ready! Let's protect Life!
+Download tamil!|next,1|Quick killer!
+! "Time for that!"|next,2|Not me ... my sister! Animal looks like!|next,1|How are you doing? That is mine ...
+|wavy|I am ...|wavy||next,-4,Flustered|Rest assured! Great!|next,-5|Are you saying yes?
+|anim,-4,Sad||boxstyle,2|Annie 2048 ...|next,5|This failed. Leave one ...|next,6|If we continue, our magazine ...|next,5||hide||fwait,0.5||hide||wavy|Nag.|wavy| Ignore the rest. Talk me.
+Correct ... yes I ...|next,null||hide||fwait,0.5||hide||boxstyle,2|Keep your videos safe from 3851-AZD ...
+One day we killed a mouse.|next,-4|H? both of us!|next,-6,Idle|Not me, this is a real surprise for us.
+I am another member of Jommot.|next,-4|....|next,-5|....|next,-6|Moose, Ali Ali and everyone else|next|Good page ...|next|About spiders ...|next|I want to take care of them. Unconscious ...|next|She also began to believe in life.
+It should be noted that the company conducted research on phloem layers.|next|We all see cruelty and brutality here.|next,-4|Yes, but no! Look at this handsome guy!|next,-6|Is the letter "good"?|next,-4|Hmmm ... I can't ...|next|But what did you not know before? We are always good friends.|next|If "you" or "letter" why not?|next,-6|... Is that correct?|next|He ... loves you, like.|next,-5|It is true! You have chosen the page key!|next|Then to the letter!|next,-6,102|Cheer up, I'm not cruel!|next||anim,-6,Idle||flip,-6|Just ... guess what.|next,-4,Flustered|We don't know the page yet, amazing!|next,-6||flip,-6|What about your family?|next,-5|Are you still interested? Are you curious?|next,-6|....|next|... Yeah. We appreciate all of your work. However ... very interesting.|next,-5|Your condition should not be determined now.|next|In fact, the situation is strange.|next|But you are our friend! Good job!|next,-4,Idle|Yes correct?|next,-6||flip,-6|......|next|OK. I am not fighting for anything.|next|....|next,-6||flip,-6|Mint leaves. When we see a family, we think about a number of things.|next,-4|Simple isn't it?|next,-5|If you ask for something, ask!|next,-6|Thank you, put it here.|break||goto,15|
+|boxstyle,4|I think it is broken.
+|boxstyle,3||spd,0|"Every fool is here, the father is sick, his body looks like a miracle."|next|"We will jump and try hard."
+|tail,null||boxstyle,4||spd,0|Will the ants return?|prompt,yesno,-11,-11|
+|tail,-6||anim,-6,WeakBattleIdle|Somers ... I ... Nick ...|next|....|next|We cannot go ahead.|minibubble,@...,-4||minibubble,@...,-5||breakend|

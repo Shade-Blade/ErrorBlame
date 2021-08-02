@@ -1,0 +1,49 @@
+|checktrue,411,1|For a beautiful cave.|next,-4|......... OK! Pebble!|next,-6|... Has a cave miracle. He does something.
+Great tool! view photo!|next,-4|I saw something like this in Khiva. They are really amazing!|next,-6|... Can a soldier resign?
+|tail,-4||anim,-4,Surprized|Wow! Isn't that cool?|next,-6|Just a hint.|next,-5||checktrue,414,3|However, that feeling is real!
+Are you starting to talk about good holograms? Everyone is ready!
+|boxstyle,3||spd,0|There is no information. Contact your Holo representative if you need assistance.
+|boxstyle,3||spd,0|
+|hide||event,156|
+|call,9|Priscinniri? U mo noir Killah! U mo noir Killah! Many thanks for the movie!|next,-5||call,10|Oh, ash!|next,-4,Flustered|Life! We have to go back!|next,-6|Wow, that looks great. Come and see ...|next,caller||call,9|Teranto told him not to run away.|next||color,5|Attempt ...|next||color,5|The change is over.|next||color,5||anim,-4,Surprized||anim,-5,Surprized|Good morning! We look forward to the challenge! Welcome to the |color,1|test|color,5|!|next,-6||call,10|I don't think there is a need to change ...|next,caller||call,9|Here we continue our instructions to give credit |line|and praise to many of the enemies we have seen before!|next,-4,Happy||anim,-5,Idle||call,10|Hi! ??? I appreciate that! ??? Hi!|next,-5|It will be fun, old fashioned tradition!|next,caller||call,9|Normally! Can I provide the service?|next||color,5|... Error! There is no information!|next,-4,Angry||call,10|The ball.|next,caller||call,9|- Other safety information ...|next||color,5|Do not worry!|next||color,5|We decided to score all fights!|next,-5||call,10|A decision to commemorate our struggle?|next,-6|We did that in the beginning.|next,caller||goto,11|
+They are not using it
+|boxstyle,6||color,5||glitchy|
+|glitchy||boxstyle,0||color,0|
+|call,9|Did you decide to end the war?|pickitem,1,0,true,false,12,13,5|
+|checkvar,0,27,14||color,5|No data was found for this project. This provides some data |line|to read.
+|color,5|Add crystals to your test plan.
+|color,5|The search ends.|line|Check the network layout.|next||color,5|Contact us if you want to complete this project or have questions about the system.|next,-4,BattleIdle||call,10|Think! Price, praise, magic ... labels are everywhere!|flag,414,true|
+|boxstyle,3||spd,0||color,5|You took the test:|color,0||line|Cent:|var,43||line|Merit:|var,38||line|Current path:|var,39|
+|boxstyle,3||spd,0||color,5|War logistics:|color,0||line|The war:|var,40||line|Avoid war:|var,42||line|The greatest destruction in history:|var,41||next||spd,0||color,5|Library:|color,0||line|Found crystal fruit: |cberrytotal|/50|line|Winner: |Medaltotal|/107
+Thank you for this challenge. Are you ready to try cave?
+I am ready.
+Come again.
+How it works?
+What do you get?
+|color,5|This interface can attack different enemies with crystal data.|next||color,5|If you do not see enemies in the mirror, they will appear in |line|the picture. Excuse me.|next||color,5|You can heal every ten fights and reduce your experience with |line|stereoscopic enemies.|next||color,5|Well, if you reward yourself after 10 battles.|next||color,5|Always change your plan until you leave!
+|color,5|In the first ten points, you get a special prize or paradise that merits your trip.|next||color,5|There will be no penalty to win!|next||color,5|But he will not give up until he reaches the top 10 secrets. Try to |line|save time!|next||color,5|Don't be afraid to eat, because when the war ends, they will return to their places! Use this!
+|color,5|If you decide to do another, skip to the next step!
+The data is not yet fully tested, and the current system has been upgraded to Level |var,0|.
+|color,5|Good job! Download the test program!
+Collect @VAR@/@VAR2@, let's go!
+Congratulations! But there are still @VAR@ battles.
+Do you want to continue?
+Error. Missing data.|next||color,5|Excuse me. There is no additional data for the new job, so you cannot continue with it!|next||color,5|Go back and collect more data!
+That's your business.
+|call,9|Next time the enemy will always be here! I want to go back!
+A difficult challenge? Find out what the latest award-winning package does!
+Take responsibility here!
+Congratulations! This is another challenge!
+|color,5|Need treatment before starting!
+On the road
+Top right (left |var,0|)
+Help you
+We have to try it!|next||color,5|If yes, see here.
+Exceptional! Congratulations! The beta test is ready!|next||color,5|I am so happy that I received this award and award!
+|call,9|Friend, the journey is not over.|next||color,5|So if you want to continue the struggle, we'll start this process again.|next||color,5|There are no surprises, but you can get strawberries, |line|so you can come back anytime!
+Come on, you're done with another challenge! She is beautiful!|line|Use it to celebrate success!
+Usually or do you want to start?
+Ordinary people
+Issue
+The first test in the second test, |color,1||sound,ItemGet1|You can add humor in the future using the current blending mode!
+Exceptional! The next battle is the last! Ready?

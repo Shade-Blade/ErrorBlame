@@ -1,0 +1,1 @@
+|tail,-6|I want to know why cancer makes so many statues.|next,-4|If you are rich, you will do many things!|next,-5|It has nothing to do with the economy and is close to cultural issues. I'm not afraid or proud ...|anim,-4,Angry||minibubble,@For example.,-4||breakend|

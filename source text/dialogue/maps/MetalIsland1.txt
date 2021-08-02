@@ -1,0 +1,91 @@
+Sir! They built colorful islands!|next,-6|Is it beautiful?|next,-5|Everyone seems calm.|next,-4|Sorry for everyone you know flew!|next,-6,BattleIdle|Not you. You are drowning.|anim,-4,Flustered||minibubble,@Not him!,-4||breakend|
+What is this do you want to return to the water?|prompt,map,1.25,2,2,3,@Good job!,@One more time.|
+Easy Strada!|break||event,107|
+Not every day.
+I've never seen my sister ... wait, I never told her ...
+|event,true||align,right,true||tail,-4||face,caller,-4|Hey! Are you a sister, my brother is missing?|next,caller|I am ...|next,-6|Game mode, Vi.|next,-5|Excuse me. We will see your request.|next,caller|Yes, I accept. Thank you so much!|next,-4|... What is going on?|next,caller|My sister is strong and courageous. Learn from me ...|next|I saw him |color,1|walking on the floor|color,0| ...|next|I'm not afraid. Incidentally ...|next|Do not come back! |wavy|Too late|wavy|!|next,-6|What about bullets? This is not a decision.|next,-5,Angry|Good job! We even have to save each other!|next,caller||anim,-5,Idle|I heard them talking about the |color,1|app industry|color,0| ... coming soon!|next|I am optimistic all this time. |color,1|Free yuan|color,0|!|next,-4,Surprized|Wait! ???|next,-5|Here we are, be careful!|call,6|
+|flag,638,true||break||hide||fadein,0.1,99,kill||event,false||end|
+I came here and saw a lot of progress in the best game.|next|... I lost the ticket! ??? Good morning! ??? My special card!|next|I am talking to you this is the whole plan. Everyone wants you to be Jerry's fool!|next|... When he gets angry ...
+The whole island is eating cherries.|next|But I would like to say that the flavor here is mixed with other rare fruits and berries.|next|Let's see this tasty!
+Welcome to divine tea.|next|Am I your friend? flammable ...|next|Mix well and show off the original flavor.|next|Do you want to see it? Press the |button,4| button to point to the edge of the beer.
+Do you need |string,0|?|line|Eat |currency,var,10|.|prompt,yesno,11,12|
+|checkmoney,var,10,13||checkinvqtd,0,full,39||money,var,-,10||additem,0,var,0|Thank you for the quality tea in the Bulgarian region! back!
+Think about this ... crazy dick for everyone.
+Um ... sorry, I can't get out of the car.
+A group of snakes want to meet you. If you wish to comply with these requirements, please write to the administrative authorities.
+Do you want to get this program?|prompt,yesno,16,17|
+We believe in you.
+You are.
+And therefore. If you want to return, you can find me.
+Good morning! Great product!|next,-5|One of the guards ... I was very surprised.
+|hide||event,162|
+Good morning! Great product!|next,-4|Hey there it is!|next,-6|If you sell games, show them.|next,caller|There are three great things here! That is for you!
+This is not a storehouse for bad things, but ...|next,-4,Happy|Close, the wire. How much does it cost?|next,caller|Satellite 4 is an interesting game that uses creative elements in the east.|next|Today, half of the 400 seeds.
+Yes No ...
+... V-Vi ...|next,-6|Do you know anything else?|next,caller|This is a special price! The search for prices starts from 600.|next,-6|Come, come.|next,-5|There should be other businessmen ...|next,caller|I know I didn't do anything!|next,-4|Piraccanai.|next,-5|You try. It will be fun.|next,-6|We know.|next,-4,Idle|I am doing.
+Here are four hundred. Sorry, I got it!|next,caller|This is not a wash!
+Happy work!
+Do you have a lot of fruit?|next,-5|We have good money.|next,-4,Angry||face,-4,-5|This container.|next|I want to be rich in traveling, eating and buying great things ...|next|So no one can say I do not know!|next|But a lot of time passed.|next,-5|Did you send more?|next,-4|Beautiful blond. Nobody understands!|next||anim,-4,Sad|But he knew him for life ... I want to solve the problem.|next|We are a great team! Then another generation grows.|next,-6|But friendship is important. We are surprised.|next,-5|I am a young man ...|next,-4,Angry|Go to Anna to get rid of all the adults!
+|tail,-4|This is a |wavy|beautiful|wavy| place! Instead it looks like a big tank bag!|next,-5|I heard it was like an insect in the eastern part of the earth.|next,-6|We go to the city from time to time. Do you think there is fruit?|next,-5|But you do not know ...
+Yes, a confused man! These are the |color,1|Tonga seeds|color,0| of the East!|next|There are 40 different pieces! Do you want to?|showmoney||prompt,map,1.15,2,30,31,@Good job!,@A couple.|
+|checkmoney,40,32||checkinvqtd,0,full,33||money,-40|!!! Sorry!|break||giveitem,0,77,34|
+Forgive me! It is so rare wherever it is! Your death.
+What is that ! Is not this gone? Well, not for sale!
+They will not go anywhere! Build a house!
+If you have more gold, buy more!
+|flag,501,true||define,15,s||define,14,d||flip,d,true||flip,s,true||igcolmove,15||igcolmove,15||parent,14||align,right,true,2.5||tail,s,instant|Oh, that's a snake's mouth. Oyvetukkava?|next,-6|Good for us. Will I be back on vacation?|next,d|You can ride the boat!|next,-5|A ship? What are you doing?|next,s|There is a lot of ice here.|next|I heard that large animals live in caves on nearby islands.|next,d|He disappeared after he left.|next,-4,Sad|Wow ... the pool is not good.|next,-6|Thanks for reminding you during the trip.|next,-5|Run on board, be careful and safe!|next,s|So if we find a container, just keep it.
+The river is dangerous, but some are trying ...
+Sometimes you need one or two jobs. So buy a boat ...
+Stratus and Delilah.|next,-4|I want to know what they are doing ...
+Difficult to carry. But do not forget to drink tea!
+Land. Beautiful house! Going to Bukhara is really complicated, but it's always fun!
+|wavy|Wow!|wavy| There's something new for Metal Island!|next|I don’t know what I saw today! |wavy|Good job!|wavy|
+On Metal Island I felt tired. Get Hotel Tickets Now!|next|Oh, and it’s amazing! When you return to the ant colony, you will be forced to share it with your sisters!
+Really look in your pocket.|next|If you do not have a lot of fruit, there is no entertainment here.
+Will they attack the fireplace? I do not care. We pay the |line|guards well here.
+The kingdom of the Inu colonies is peaceful and attracts many tourists.|next|Money is the best!
+My mom told me to throw that dark rot out of what I wanted!|line|I do not know what else to do ...
+Thanks. That’s John’s food.|next|I'm far from the Olcolton Hills, but I have to thank the beautiful gold stars before any meal!
+|hide||event,214|
+|shaky|Hey|shaky|, hello.
+Are you interested in the product?
+Now ... I am selling this |string,0|.|line| There will be |currency,var,0|!
+Give it to me.
+There is no alternative!
+Oh, thank you for being here.
+Coins. Do not talk about past sins!
+Coins. Not enough strawberries ...
+Coins. You can't take this. How sad.
+There is something you want. Will you come back later if you want to know the content?
+It must include everything! Thanks for saying that.|next|No one seems to be paying attention to old mistakes.|next|This depends on the bad day of playing cards. I am not fine!|next|Hey, let's go to the store here. Don't forget to visit it in the future!
+Nothing to sell. But remember the man I met.|next|A patient eats my old body in the pool. They paid a hundred dollars for the money.|next|I don't understand why this happened ... I finally heard her head north.|next|Oh, come to me! You have a lot! rest assured!
+Do you need more applications?
+law
+bad fruit
+last thing
+Welcome to Metal Island. The most beautiful and distinctive aspects of Bucharest!
+|boxstyle,3||spd,0|"I want to benefit from this paradise and live for heaven."|discovery,44|
+|tail,-4|Wow! Cherry is expensive. But many!|next,-6|I do not like it.|next,-4,Angry|But ... I don't understand how wealthy they are.
+There is no way to escape, be careful when cutting wood!
+|tail,-6|Um, of course, yes, I know that, why is it something that was previously known.|next|This is similar to the price of the ship the customer requests.|next,-5|They are protected by insurance. When Satan comes, who will |line|protect Copper Island! ???|next,-4,Happy||anim,-5,WeakBattleIdle|...Gu! Rich!
+This island is a symbol of food ... but the food is delicious.
+|tail,-6|If you want to file a complaint, you must be safe and avoid |line|eating.|next,-5|Does the teacher feel the language? Tasty!|next,-4|I think you are c.|next,-5|Wrong ... there is food ...
+|tail,-6|Very bad. We could not find this good car.|next,-5|Five flies spray my wings for a good rest!|next,-4|I need a bitter taste! I will use it later!
+|tail,-4|Wow! Sami is here! Was there an accident?|next,-5|OK!|next,-6|This is a popular customer of Egle, Vi.|next,-4,Happy|Thank you for your efforts!
+Thanks to the other guests!|next,-6|Yes, everyone knows this procedure.|next,-4|I think I've consumed great things. ... OK?
+|tail,-4|This is another Motiva game. |fwait,0.2||anim,-4,Angry|Mariam.|next,-6|... which way? Hello, big flower.|next,-5|Maybe there are other food gods!|next,-4,Idle|My friend, do you want to know if there are people?
+Do researchers support their current plan?|next,-6|Look at the table. Do not do what you want.|next,-5,WeakBattleIdle|He was arrested ...!
+|tail,-4|At an unknown price! bad thing!|next,-5|B- But what happened? Are you stupid?|next,-6|Strawberry, I'll take care of it.|next,-5,Angry||shaky|Not him! You need to know what to sell!|shaky|
+Did you hear that Elizabeth II wanted to break the barrier!|next|We are waiting for the ant field!
+I can't explain these two levels, but I think they are friends!|next,-4|They want everything, but they can't fight it! Oh fools!|next,-6|We look forward to seeing you in the ant yard in the future ...
+Clean the site and delete the text. Need!|next,-4|Let's play ... "VIP"!|next,-6|Really, really .. Oppa must be rare .................... Ok ..... ok .....|next,-4|I am a tax collector. Games in general!
+|boxstyle,4||spd,0|A company. Perfect printing!
+|tail,-6|This snowboarding technique looks like a wolf.|next,-4|I am the same person! Mu.|next,-5|I hear justice.|next|I think about many complex patterns. Let's cook very slowly!
+|tail,-4||anim,-4,Happy|Welcome everybody! Yeah.|next,-6|Is that what it is?|next,-4|Can.|next,-5|This is useless.|next,-4|Nobody knows what a "thing" is!|next,-6,BattleIdle|The East.
+"Cheese"? What does that mean ... network card! ???|next,-6|The color of the card is not bad. False.|next,-4|Do people pay more attention to these counterfeit goods? ....
+|tail,-6|We know this is a real golf ball.|next,-4|Why do you eat money and food?|next,-6|Most people are themselves, but they do not want to sacrifice.|next,-5|Honestly, I thought I would eat ...|next|If I don't travel here, I won't take much for the owner!|next,-4|If you feel strong ...
+|tail,-6|Our anger does not seem to hurt the relationship.|next,-5|Good job! The reason for my divorce ...|next,-4,Happy|... Forgive me. OK?|next,-5,WeakBattleIdle|... Yeah.
+Metal Island is beautiful, but ... you can buy a home in England ...
+Hmmm ... I'm glad my sister did a good job.|next|But I think about playing sports. The third bone will never last.
+Indeed, our rebels will soon live together!
+|tail,-6|This puts a little pressure on the human island.|next,-5|You should be in trouble ... can we help?

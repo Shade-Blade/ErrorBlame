@@ -1,0 +1,123 @@
+Not much has changed. I want to see a different place ...|next,-4|Really, if you don't like pubs, you are usually in town.|next,-6|We don't know this part very well. What is Kabbu in society?|next,-5|North of the business district. The baker makes delicious honey!|next,-4||face,-4,-5|Stupid! !|next,-5|The market is closed, so if you have the opportunity, welcome.
+|boxstyle,3||spd,0|Visit the clinic!|line|The first offer is free!
+Tourists are welcome. Come, have a look. The name of the village comes from the roots of a large tree covered with snow off the coast.|next,-4,Angry|... You already know.|next,caller|I only work.
+|boxstyle,3||spd,0|The old museum.
+Is this fun|prompt,map,0.5,2,5,6,@Yeah,@Not|
+Too much tea!
+Choose one!
+|shaky|Wow! You are! Want to know ...|next|I have a hot salad .... 16 popular seeds. Do you|showmoney||prompt,map,3.075,2,8,9,@Eighteenth? Exceptional!,@There is no other choice!|
+|checkmoney,16,10||checkinvqtd,0,full,13||money,-16||shaky|You are! OK ...|shaky||break||giveitem,0,2,11|
+|shaky|This is good. Do not tell any one!|shaky|
+|shaky|I have to buy it from here! Back to more strawberries! In the future!|shaky|
+|shaky|Ha ha ha ... wait! Do not talk to others!|shaky|
+|tail,-6|Highly affected|minibubble,@Yeah!,-4|! ... Not. We have never seen her.|next,-5|An interesting place. this is?
+|shaky|Bring a lot! All garbage is clean!|shaky|
+Ginkgo will go ... I'm afraid. It didn't take long to complete this task.|next,-5|I think this is awesome!|next,-6|Can ...|next,caller,Angry||boxstyle,1||shaky|Open your mouth! She is beautiful!|break||anim,caller,Sad||end|
+Explored ants?|line|Make sure that you are interested in your daily work or other activities.
+|hide||minibubble,@{wavy{Manassu ... Close button,caller||waitminibubble||end|
+Oh ... the best bakery in town.|next|Make the flour by mixing the flour and other ingredients.|line|Eat all kinds of food! Keep trying!
+Come here.
+The thief caused me so many problems! If you are not tired ... I think I will go to prison now.
+Enjoy before you run away. The best way to work without problems.
+Due to its proximity, we attract many animal tourists. However, we do not support him.|next|I planned a trip. But this is difficult.|next,-4|(However, it is not good ...)
+Uh! Only passive root museum!|next|Art or pottery ... we are proud of you!|next,-6|Wow ...
+Hello Hello! What makes us anxious?|next,-6|We did not have a bad time.|next,caller|Swallow it well. If you feel unwell, stay here. The first offer is free!
+|event,true|Not! This is a Morty retirement package! good morning!|next,-5|Defective ... for rent? What does this mean?|next,caller|Each name. The drug problem is very surprising.|next|If you are tired, you can fall asleep and recover!|next,-6|We do that, Tim.|next,-4|Stupid! ! What a big scam!|next,-6|But that worm ...|next,caller|... See, if you have faith, then ...|next|First free interest debt. What's the matter when you sleep, come back to me.|next,-5|The real conversation here ...|next,-4|Well ... if the original gift is free, you can't get rid of it!|next,-6|E!|next,caller|I will never regret it. Let me tell him his strength!|next||flag,157,true||kill,25||flag,150,true||giveitem,1,89,25|
+You do what you can, so you must be careful.|next,-6|Oh, to no avail.|next,-5|Don't forget to come back ...|break||event,false||end|
+|checkflag,150,27|Yes, how is the man?|next,-6|I couldn't be happier.|next,caller|You know this is not very old, is it?
+|showmoney|You are back there will be 80 this season!|prompt,map,2.5,2,28,29,@Give it to me.,@Come again.|
+|checkmoney,30,30||money,-30|Good job!|next||kill,25||flag,150,true||giveitem,1,89,25|
+I miss you until I return!
+I trade. Do not curse!
+Oh ... you think you are right. Do I know?
+!
+|tail,-4|Doesn't he refuse to go to the mayor's house?|next,-6|Hmm, let's just say I've seen better.|next,-5|Beautiful home to visit.|next|See, you can see the entire city quickly!|next,-4|You know, you may pay for the steps.
+Distance! I agree to that! Do you want to visit?|next,-5|Thank you for your work, Mayor of Al. More nights.|next,caller|Bring wrong or bad friends!
+|tail,-6|This fruit is home to other ancient elements.|next,-4|Hey, we shouldn't be talking about aging!|anim,-6,WeakBattleIdle||next,-5|Vi!|next,-4|Sorry ...|next,-6,Idle|Fate.|minibubble,@Pump ...,-5||breakend|
+This girl has nothing.|next,-6|Been confirmed? ...! Look twice...|next,-4,Sad|Ah ... we will close.|next,-5,WeakBattleIdle|Sorry, do not listen to us ...
+|checkflag,157,38|I must say that Morty's performance was better than expected.|next,-4|Worthy of comfort everywhere! I will pay for this person!|next,-6|This is an important idea to make mistakes and return with other mistakes ... team, we always use it all.|next,-4|Remember, nothing.
+Do you see what it sells?|next,-6|There is only one way to find it.
+|tail,-4|Wow! This dress is awesome!|next,-6|Hmmm, do you have the space to put extra food in your body?|next,-4,Angry|Is that correct? It can make 20 threads!|next,-6|Yeah? Attempt.|next,-4,Flustered|I love everything! Let's go to the belt store!|next,-5|We think he left when he was looking for prices ...
+Is not my life against ants?|next|... This is not my job. If they don't go there. Excuse me.
+|tail,-4|Happiness is the skin ... in the end, they don't know anything about this rule.|next,-5|Hmmm ... he's a good man, but it's hard to get rid of nonsense.|minibubble,@...,-4||next,-6||destroyminibubble|It will be fun. However, we can help.|next,-5,Happy|Life, Vi ... I'm more interested in the past!|anim,-4,Angry||minibubble,@Miles / hour,-6||breakend|
+|tail,-4|No, I don't want to talk to him!|minibubble,43,-5||breakend|
+Vi...
+|tail,-4,Angry|Well ... here it is.|next,-6|I asked him what he was doing.|next,-4|Do not worry.|next,-5|Is not this war?
+|tail,-6|Searching for Maggie ...|next,-4|Good, but better not to forget your business!|next,-5|If you knew, there should be. It was so beautiful on |line|Maggie's day.
+|tail,-6|Oh ... I don't like this post.|next,-4,Angry|Life, don't worry, you can play together!|next,-6|Wool? We can ask something ...|next,-5|But let's unite!
+I have a good government.|next,-6|Update everything important ...|next,-4|But it is good for us. You can get amazing things with the next step!|next,-5|Is that correct. Always check.
+Very clean!|next,-6|Is that correct? I know I covered the wound.|next,-4|I can't believe I'm bored!|next,-5|Wait, you say goodbye!
+Mostly moghariya m. He healed several wounds.|next,-6|I found it a fun trip to the north.|next,-5|...|next,-4|Really ... you do not care?|next,-6|I don't want to discuss that.
+|checkflag,157,51||tail,-6|Oh delicious meat ...|next,-5|Kojo?|next,-6|This is called. Isn't this perfect?|next,-4|Life, I have gone. Suna! Like the Bush River!|next,-6|O Vi's name is Ugh.|next,-4,Flustered|Hey!|minibubble,@Yeah.,-5||breakend|
+|tail,-6|...|next,-5|Wow, faith? Have an idea, have an idea, have an idea?|next,-6|We need it.|next,-4|We have no animals!|next,-6|We really need it.|next,-4|What needs to be said to clients. But do not buy it!
+|tail,-5||event,true|How are you?|next,-6|I didn't say when I came here.|next,-4|So we are close!|next,-5|Life is full of amazing things.|next,-6|Hey, that should be good ... how was your posture echo?|next,-4|We always act. There is a good lift here!|next,-5,WeakBattleIdle|How are you?|next,-4|This is good because nothing can fail! Let's solve this problem!|next,-5,Idle|Venus ... look at me|break||event,false||flag,170,true||end|
+|align,left,true||face,caller,-1|Go! Several years. Delilah is happy.|next,-5|No, i'm happy! Thank you for what you did for me!|next,caller|Ha ha ha! Do not worry!|next,-6|More information about the sand castle?|next,caller|He said the main house was on the |color,1|north|color,0| slope of the lost beach.|next|Very many priests for me! There is a difference between the two.|next,-4|This is our only guide, so ... How did you come up with an idea?|next,caller|Scientists say access to large buildings requires a |color,1|global key|color,0|.|next|I only know one of them. He was accused of fraud.|next,-5|They solve many problems.|next,caller|There may be a place to hide when some people sue society.|next|There is no news for anyone anymore!|next,-6||destroyminibubble|Time is of the essence if Elizabeth does not lie. It's time to throw it and move on.|next,caller|Watch out. You can not forgive without powder!|next,-5|There is something there. Don't worry about protecting it!|next,caller|I have no doubt. However! Get a small prize in the old market!|next||giveitem,-1,45,66|
+We pray for your safe arrival. Hope you learn more about this community!
+Sand sand? I followed a little thief.|next|The poor depend on business.|line|Try Askin?
+Good morning! Did you come to the museum?|next,-6|Of course, we want to ask if you have information about large sand dunes.|next,caller|Sand sand? Yes ... it was fun.|next|The ancient city of Roche is said to be located to the |color,1|south|color,0| of the city.|next|Check for cracks, large houses, or anything. |line|I am too big to explore the desert!
+Sand sand? The story of the child? The museum owner told me about the tourists.
+?? A key? Sorry, I did not understand anything.
+|boxstyle,3||spd,0|Which device? -|line|Bury unspecified mountains in the desert.|next||spd,0|Historians say that the British or heroes did these jobs.|next|In terms of usage, they can be used as traps to prevent their invasion during these wartime times.|next||spd,0|There is no agreement to use or write.|discovery,29|
+|boxstyle,3||spd,0|First! -|line|At the end of the last test, many fishermen and people came here to search for a new land.|next||spd,0|The combination of these two components forms the famous castle houses.|next||spd,0|If you are interested, donate pottery!|next||spd,0|Perfect home decor, don't forget to visit our amazing home!|discovery,29|
+We want to continue our journey ... but they say there are |line|many invaders in the desert.|next|We try to enjoy it!
+The girl's face! This bracelet will take some time ... at least it is delicious food!
+I heard that the theft has been solved! they know. good morning!
+Unfortunately, we can finally travel!|next|But eat more than you eat, the food is delicious!
+This scandal has slowly reduced attacks in recent years.|next|I think they get a prize when they hide the company.|next|You don't need to worry about theft at this time.
+|minibubble,@Wow!,-4||minibubble,@Thank you.,-6||tail,-5,WeakBattleIdle|Mayor today! Lots!|next,caller|I told him!|next,-5,Idle|... Thank you, Mayor. We will shut up again!|flag,250,true|
+Look at the desert! Wow ...|next,-4|We know that those who disagree do not support them.|next,-5|Major, we'll be fine, don't.
+Real estate until ...|next|I hope people never stop. Let's see ...
+Wow! The old story is correct! There is an old teaser here!|next|?? Searching for? There is no other choice! I love life!
+Legend? I think you should pay attention to the old lessons.
+|tail,39,Sad|How do. What should I do now?|next,40,Idle||wavy|Wow!|wavy||next,39,Angry||boxstyle,1||shaky|Say "yes, yes"! I know you're looking for Maggie!|next|You don’t want to do something fun. Otherwise, |line|I will stop you! !|next,40,Sad||boxstyle,0|Think! Wow!|shaky||next,-6|We want to be respected.
+I remember being told that the cat was evil.|next,-4|Is the lack of cats old-fashioned?|next,-6|We speak magic in our hearts. I think this indicates the fry humidity.|next,-5|After completing this message, ask Macy for more information.
+|tail,-4|Jenna doesn't like that.|next,-6|Mickey protects the borders.|next,-4|Speak loudly, it will affect us!|next,-5|Wise wisdom ...
+I heard that the ax attacked the kingdom of ants ...|next|I want to cancel this trip ...
+|tail,-5|Tepia! Is it beautiful?|next,caller|Why not! So ... did you see the question?|next,-6|Yes, we want to know more about miraculous healing.|next,caller|Bukhari tree plants have been known for several months.|next|Find a compound that can cure all diseases!|next,-4|Hey, plant bag!|next,caller|No, I hope to be treated with radiation ...|anim,-4,Flustered||minibubble,@Wow! ???,-4||next,-5|The true soul! I believe in my strength!|anim,-4,Idle||next,caller|Thank you.|next,-6|We thought we wouldn't get it soon.|next,caller|Do you feel snake day?|next,-6|... Yeah. We know a lot about that.|next,caller|OK! I asked Sophie about the white paper she wanted to produce in this study.|next,caller|I have never seen the road to this point.|next,-6|So do we want to raise the bar?|next,-4|Leave us alone!|next,-5|We will not go to the fifth airport!|next,caller|I believe you. patient!|flag,395,true|
+Oh beautiful. Looking for an ATM in Snakemouth Ten?|pickitem,1,78,77|
+Do not worry. Take time to adjust.
+|checkvar,0,127,79|Hey, I do not think so. Will I return to snake's day?
+|removeitem,1,127||flag,396,true||face,caller,-1||face,party,caller|White silk bag! Exceptional!|next,-4|Relax!|next,-6|We have magic. Stay with us according to your needs.|next,caller|Oh, how do I pay? ???|next,-5|I do not want- |anim,-5,WeakBattleIdle|Malta!|anim,-4,Flustered||minibubble,@Like him!,-4||next,caller||anim,-5,Idle||anim,-4,Idle||destroyminibubble|Your support is very valuable! I hope these small fees are enough.|break||giveitem,2,64,80|
+|tail,-4|... Was thought to be good. But is this enough?|next,-5|Emela, you are!|next,caller|No, yes, their help is very valuable!|next,-6|It always happens. Do not worry|next,caller|Stupid. A little bit here!|break||giveitem,-1,20,86|
+Thank you, this review was successful! I tried to fail ...
+I told myself I was fighting against the empire ... What does |line|this world look like?|next|How long does it take to enter the house to the door so that we can enter our old city? |shaky|I don't want to think about it ...
+The bees have exceeded the limit! What does the guard do?|next|We need to protect society!
+|anim,caller,Happy|... I feel you won a bad fight ...|next|... Thank you so much!
+This is my fault, but it cannot be denied.|next|How to take care of the queen ...! ???
+|tail,-4,Happy|Hey!|minibubble,@Truth.,-5||next,-6|Exceptional ...|next,-5|Thanks. Jesus wants to continue the search.|next,caller|I am. For all errors ... are they? How is that.|next,-6|Are there any errors?|next,caller|I think this card is fruitful! I'm young, you know?|next|I play Sofia here. This brings a number of challenges for researchers!|next,-4|Amazing, looks good!|next,caller|Hey, let's taste the wine!|break||completequest,37||end|
+|align,left,true||event,true||face,caller,-1|Distance! ! Life! Several years!|next,-5|I am always happy to return.|next,-4|You didn't save your work, right?|next,caller|Well, but no problem. I think you need to do more important things.|next,-6|RENDBEN ...|next,-5|For several reasons!|next,caller|... Thank you.|next,-4|Let's do it! With a gift ...|next,caller|Oh, do not worry, the market will not fail!|next|Yes, the receptionist is amazing! I don't expect much from Wake-A-Warm!|next,-6|You need to find another level.|next,caller|Energy! I want to see |color,1|20 heads|color,0|!|next,-4,BattleIdle|Trust yourself! I need to shout!|next,-5|Repairs are done well. Can you control it?|next,caller|Yes, thank you very much!|next||move,this,8.5,6.48,12.2|Enjoy!|anim,-4,Angry||minibubble,@Akbela!,-4||fwait,1.5||flag,557,true||event,false||addfollower,this|
+I hope you enjoy my safety! Sign up
+I'm leaving today! I can't walk in the sun ...
+Oh, hot! There are no fans.|next,26||face,26,caller|Or not.|next,-6|This should be an area.|next,caller|Yes me!|next,-5|How can I help with this storm?|next,-4|Life! Geez!|next,caller||hide||anim,-6,111||sound,OverworldIce||particle,mothicenormal,caller,0,1,0||fwait,1||anim,-6,0||hide|Wow! Christmas Day!|next,-6|Message complete.|next,-4|There she is!|next,caller|More! It's hot again!|next|I am so grateful, but ... I ignore what I need!|next,-6|Make sure ...|next,-5|Is this a holiday? Or any sun protect the sun?|next,caller|I can do anything. Sorry!|next,-4|There are so many places to see ... you can find them, so sit back!|next,-6|Do this until you are finished.|flag,571,true|
+|tail,-4|This is a great requirement!|next,-5|Life, loves to cook. Alone?|next,-6|When we ask for something.|next,-5|You can wear beautiful clothes!|next,-6|No ... How does it work?|next,-4|You don't want to try it!|next,-6|Why do we use this?|next,-4|My God, this is work!
+|call,93||pickitem,0,94,95|
+Oops ... did you see the flu?
+|checkvar,0,97,96||checkvar,0,42,99||checkvar,0,167,97|The benefits are not great. Thank you ...
+Oh ... soon! Black fishing!
+|setvar,1,30|Unfortunately, this is a great result!|next,-5|Need long-term care!|next,caller|This is a good binding tool, but it's good today.|break||goto,100|
+|removeitem,1,167||flag,574,true|Wow! Beautiful girls!|next,-5|It's ethical, but it adapts to your needs!|next,caller,Happy|Hahaha are they beautiful?|next,-4|Beautiful went! Shut up now!|next,caller|You will be amazed! I hope you like it!|break||giveitem,-1,50,106|
+|call,93||pickitem,1,94,95|
+|setvar,1,15|I don't think this number will last long ...|next,-6|This is ice. He never agreed.|next,caller|Is it permanent? Wow! Maybe it helps! Although I love the sun.|break||goto,100|
+|itemname,v0||tail,null||boxstyle,4|Do you offer |string,0|?|prompt,yesno,102,104|
+|next,-4|Good job! Pay now!|next,caller|OK.|break||giveitem,-1,20,100|
+|tail,-6||boxstyle,0||removeitem,0,var,0|Sorry, perfect, but possible.|next,caller|Yes that's right! Sorry, the heat is bad for me. Keep trying!|next||hide||fadein||fwait,1||fadeout||fwait,1||hide|Hi! Thank you so much!|next,-4|There is no problem! Shut up now!|next,caller|See a lot of work here again!|break||giveitem,-1,var,1,103|
+|tail,-4,Happy|Thank you so much!|next,caller||call,105||flag,573,true||completequest,53||setvar,52,2|
+|boxstyle,0||tail,-6|We'll see if you can find it every day. But wait.|next,caller|We want to try! Irrigation increases resistance!
+I'm down now. Good morning!
+Oops, come on!|break||giveitem,2,61,107|
+|tail,-4|Wow! This will give you a lot!|next,-6|Many examples ...|next,caller|This spider gives me more than 20 dollars! OK!|next,-5|Thank you very much Mrs. Jeremy and I hope you have a beautiful winter.|next,caller|Ha ha. thank you all. I am going now!|completequest,53||flag,573,true|
+Good morning! I hope that everything is fine!|next|It's fun to look around when it's drowned!
+Are you sure, rest assured!
+The ant kingdom appears to be back.|next|Do you want to visit?
+Vaspa mode is similar.|next|He is tired now.
+Your team can solve the trumpet problem. Love it.|next|... Be careful if you want to drink alcohol.
+|tail,-6|Are city dwellers not wearing such clothes?|next,-5|The food is light but very tasty ... I know why it is so popular.|next,-4,Happy|Therapy. We need to expand our way! Use circles, not triangles.|next,-6|There is no other choice. The place is beautiful.|next,-5|You have a triangle. thanks.
+|checktrue,572,115||goto,108|
+Diaries!|next|Protects from sunlight. Will you donate?|prompt,map,0,2,116,117,@Good job!,@Not.|
+|anim,caller,Happy||removeitem,1,167||flag,574,true||updateanim,caller|Thank you so much! very nice!|next|Thank you so much!|break||giveitem,-1,30,118|
+Come see and enjoy yourself!
+Thank you all!
+The desert is full of peaks ... I hope you fly.|next|I can make a big bubble ... I'll test it and see it in my head!
+Goodnight all ...?|next,-6|. I analyzed the boxes.|next,-5|No, I think so, but ... maybe that's my opinion.
+Both cross the desert.|next,-4|I hope to meet thieves ...
+|tail,-6|Maintain large areas of land, depending on weeds.|next,-5,Angry|Life! How foolish to laugh at such words in their powerlessness!|next,-4,Flustered|Yes Life, you are |shaky|so bad|shaky|!|next,-6,WeakBattleIdle|Hey, here's the form ...

@@ -1,0 +1,2 @@
+|tail,-4,Angry|I do not understand.|next,-6|The only way to do this is to think.|minibubble,@Damo.,-4||next,-5|The method on board is simple. Dust must be everywhere!|breakend|
+|boxstyle,3||spd,0|"At first I turned into water, and my fingers fell to the ground."|next||spd,0|"After the explosion before the tree was closed."

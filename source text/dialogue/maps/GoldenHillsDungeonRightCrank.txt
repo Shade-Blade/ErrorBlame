@@ -1,0 +1,4 @@
+I've never seen a woman before.|next,-4|It's snowing!|next,-6|Durability.|minibubble,@??,-4||next,-6|"Didn't you find a mixture on the way?"|destroyminibubble||next,-4|Yes, what does that have to do with frustration?|next,-5|Sheet music ...! We will freeze it for distribution!|next,-6|Finally, a solution without violence.|next,-4|Yes, that's good. What ...|fwait,0.2||anim,-4,Angry|But I have something to do.|breakend|
+|hide||event,103|
+|tail,-5|Shoulders ... are you sep?|next,caller|Ha! May I have a message for you? I'm relieved ... I have to fear that he will get sick|next|I'm afraid it's a shame to run away from a monster ... I'm sorry.|next,-6|Don’t worry that he wants to see you.|next,caller|Do you really think so? ... Do not remove or save.|next,-5|I will send my contacts closer.
+|tail,-6|The oil seal is marked on it.|next,-4|(... Say. I'm getting old!)

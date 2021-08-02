@@ -1,0 +1,9 @@
+|checkpos,z,10,5||anim,-5,WeakBattleIdle||shaky|I'm tall ... no one is connected!|shaky||next,-6|Kabu is definitely not long.|next,-5||shaky|The above ...|shaky||next,-4|Watch out. If so, let me check. OK? Eremo!|next,-5,Idle||shaky|I am ...!|shaky| ... not everything. I will not leave!
+Abbreviation?|prompt,map,0.75,2,2,3,@Yeah,@Not|
+|event,68|
+We look forward to hearing from you!
+Did you save your flight? If not, there are normal people and tourists.|anim,-4,Angry||minibubble,@How do.,-4||breakend|
+Enjoyable trip!|next,-4|Most monkeys only see this place. Most are just their own honey.|next,-6|Is there honey? Let's check ...|next,-4,Flustered|This is oil!
+Oh, the Queen will come to you. Keep it up.
+Isn't it easy to get out? No one was hurt!|next,-4|Make sure ...|next,-6|Have an idea, have an idea, have an idea?|next,-4|Jin Tian Malvie and the Prince of War did not accept me. |line|Change their mind!|next|So I did not understand. I can work with my sister!|next,-5|I already said that, but what is it?|next,-4|His name is God. It is stained with honey! |anim,-4,Sad|We are in a terrible war ...|next,-6|Chaos has ended. We do not complain, but it depends on you.|minibubble,@The truth is!,-5||next,-4,Idle|... Thank you. Think. Frankly, I am leaving!
+|tail,-4||anim,-5,Surprized||face,-5,-4||face,-6,-4||face,-4,-5|Durability!|next,-5||shaky|W! Do not go!|shaky||next,-4,Flustered|Unbelievable love! good morning!|next,-6|Not the best part of good clothes.|next,-4,Idle||anim,-5,WeakBattleIdle|Watch out. All facilities are expensive! They do not divide the other half!|next,-5,Idle|Can I buy this in advance?|next,-4|Energy! Come on, go to the strawberry!|next,-6|Or spend money ...|flag,660,true|

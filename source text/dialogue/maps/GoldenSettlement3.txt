@@ -1,0 +1,58 @@
+|checktrue,555,56||tail,-4|Bad here! I want to know where they live.|next,-6|This is not Evo. But it is safe.|next,-5|We are not waiting to see everything.
+|boxstyle,4||bleep,2,1,1|There is a notebook on the table. Step by Step|prompt,map,0.5,2,2,-11,@Yeah.,@Not.|
+|boxstyle,3|10 days:|line|I think the story of Venus ...|next|I always paid attention, but I didn't know.|next|That would be myths.|line|Follow your mother and your student.|next||boxstyle,4|Do you want to continue your education?|prompt,map,0.5,2,4,-11,@Yeah,@Not.|
+It was a difficult day. I can't move the stones ...|next||anim,caller,Happy|But tomorrow will be a new day. Let me try too!
+|boxstyle,3|YY Date:|line|What did you see during practice?|next|I don't believe in this city on Venus.|next|Will they become other priests? It can be found all over the |line|mountain.|next|But he is still on the mountain.|next|If you are not sure about something, ask permission.|next||boxstyle,4|Do you want to continue your education?|prompt,map,0.5,2,5,-11,@Yeah,@Not.|
+|boxstyle,3|XXY. History:|line|See her.|next|Friday. Yes, that's amazing ...|next|Of course, you do not deserve to be a slave!|next|Mother ... I'm a new priest, everyone shoots Venus.|next|I think it is worth seeing that day.
+Soon some goats go behind the mountain. He threw me out of the window. But they did nothing!|next,-6|OK. Do you need quiet needs?
+|tail,-4|Any disease ...|next,-5|Definitely. The use of wings leaf bush is special!|next,-6|Always visible. Finally, we lined up.|next,-5|Nguta. Your dad should be beautiful too!|next,-4|You know!|next,-6|You will not be happy if everything goes well.
+Very friendly and beautiful!
+|tail,-6|Only women are allowed to have fun.|next,-4,Happy|Oh, everyone wants a rest!
+Creative hugs here!
+Hey, I will not forgive you!
+|align,left,true|... Isn't this spy card holder?|next,-6|We. You too?|next,caller|Good morning! Permission! I am a big card holder!|next,-6,BattleIdle|This is what we are looking for. Will they fight for us?|next,caller|Come on, you're hungry! I do not deny it!|break||flag,249,true||goto,13|
+Ready?|prompt,map,2,2,16,17,14,15|
+St!
+One more time.
+Time is over!|next||cardbattle,this,-1,@5||tail,caller||battlewon,19||goto,18|
+Tell me when it ends!
+We won! I will never forget, I say!|next,-6,Idle|They are connected.|next,caller|Hi, this is Ari. This is an innovative version of the card update.|break||event,106|
+|anim,-6,WeakBattleIdle|Is winning good? If you win next time.|next,-6|Sk ...
+Your boss advises, |line|"Please always beautiful."|next,-4|What does this mean?|next,caller|I hope you know!|next,-5|But thank you for achieving the goal of the game.|next,caller|In other words, the cards, if you wanna play again, can you send them to me?|next,-6|Soon we will go ahead.
+The card is over! The whole world can.|next,-4,Happy|Found!|next,caller|It shows the difference.|next,-6|We run programs online. Secret information.|next,caller|Be careful, Life! Will this be a random witness?|next,-6|All gatherings of elders left.
+|align,left,true|Hello message! Shoes to call?|prompt,map,2,2,23,17,14,15|
+Weave! Get up!|next||cardbattle,this,-1,@5||tail,caller||battlewon,19||goto,24|
+Fight again! It's scary, isn't it?|break||giveitem,-1,10,-11|
+Do not miss the music festival. my friend is here!
+|tail,-4|This is ...|next,-6|Not like this.|next,-5|Nature loves magic in our eyes. Even if you believe in the beauty of the womb.
+|checktrue,684,55||checkflag,139,28|From where he came...|next,-6|Who you know?|next,-5|The sound of worms with fruits and tomatoes.|next,-4|I've heard! Well, is this a fairy tale?|next,-6|Maybe this story is correct ...|minibubble,@... We will leave one day.,-6||break||destroyminibubble||end|
+|tail,-4|Unbelievable bay!|next,-6|No, Vi. She is very beautiful.|next,-5|It is interesting to see the various shortcomings of the Music Festival!
+|tail,-4|I want to know how to play.|next,-5|Of course not, but it is extremely hot!|next||anim,-5,Angry|Summoned the devil! Do not mix!|minibubble,@Wow ...,-6||next||destroyminibubble||end|
+|align,right,true||face,caller,-1||wavy|Make sure ...|wavy||minibubble,@Not taller...,-4||next,-5|With the earth's fruit ... Sean!|next,-6|We think Rock does that for you.|next,caller||wavy|X-Fuki ...|wavy||next,-4,Angry|Choice, why do I say that. If not, nothing can be done!|next,caller|Haha and - beauty. If you say so.|next|I want to break this stone, it will be solid! But he broke my legs.|next|He was injured, but several thieves were injured. There is no cure!|next,-6|What is the gunman looking for in you?|next,caller|D- Blue. But I have to. Anyway, I can't get rid of it!|next,-5|This is your biggest fear!|next,-4,Idle|Leave the real one. Get rid of thieves!|next,-6|Do not damage anything until you return.|minibubble,@Make sure ...,caller||next||destroyminibubble||end||flag,273,true|
+|wavy|Make sure ...|wavy||pickitem,1,0,true,false,33,32|
+You should see it because the scent of orange oil is moderate!
+|checkvar,0,112,34|D- No, the scent of orange oil raised ...
+|anim,caller,Angry||event,true||hide||sound,PingShot||deathsmoke,caller,2||fwait,0.5||hide||removeitem,1,112|Good job! Found! I'm stable!|next,-5|Believe me, I have to rest!|next,caller|I want. I need a stone!|minibubble,@Much more!,-5||next||destroyminibubble||hide||fadein,0.05,999,kill||flag,274,true||event,false||end|
+Friends often feel like they don't want to go
+Oh, I said that I can break rocks!|next||anim,caller,Angry|Now I want to find something new I want to kill!|next,-5|... Not.
+A hero! Biological mother! I want to see!|next,-6|Starfighter? What are you doing here?|next,caller|Oh, raise your head, follow the Queen's footsteps |line|and decide to stay a little.|next|Nice place I think I will go there too.|next,-4|Do you like to work?|next,caller|Reader! I love it so much ... I think it will be very successful!|next,-6|You are right.|next,caller|Buy the event because the Guardian gets a special gift!|next,-4||anim,-4,Happy|Wow!|next,-5||anim,-5,WeakBattleIdle|W-us!|next,caller|No need to say! This will help you to travel.|flag,461,true|
+|showmoney|Biological mother! Do you need water? There are 25 pieces here. Big money!|prompt,map,0,2,39,40,@Sorry!,@Thank you} but sorry!|
+|checkmoney,25,41||checkinvqtd,0,full,42||money,-25|Over there! How do!|break||giveitem,0,120,43|
+A ... well, one day I will answer you if you need anything!
+Excuse me. I can't downgrade it.
+Well, there is nothing you can do. I can do anything.
+I cry all the time, heroes!
+|align,right,true||face,caller,-1||checktrue,86,45|This festival brings everyone together. |line|We got peace one night.|break||goto,52|
+This festival brings everyone together. We got peace one night.|break||goto,52|
+|align,right,true||face,caller,-1|Yes I do not want to be here. Not like this.|next,-6|There is real peace like gold.|next,caller|When I see the world, I think it is my favorite place.|next,-4|Make sure.|next,caller|Beautifully. Nice to meet you.|next,-5,Happy|Several years!|next,caller|I knew it from the start, but I hope so.|flag,603,true||break||giveitem,1,52,50|
+It should end and continue.
+There are no parties after the update.
+|tail,-6|... It's been a long time.|next,-5|Stupid, Life?|next,-6|Hope it works soon.|next,-4,Happy|This message is not happy!|next,-6,BattleIdle|Damo
+|anim,-5,Idle||tail,caller|Sorry, thank you|next,-4,Happy|Thank you so much! We will give you something.|next,caller|Yes do not worry, give me this.|next,-6|There are many types that are difficult to say.|next,caller|I am doing. We hope you enjoy the trip!
+Oh, I said that I can break rocks!|next||anim,caller,Happy|Now I want to find something new I want to kill!|next,-5|... Not.
+In fact, he's always looking for a place to live.|next|We know where he went.|flag,598,true|
+|event,true||tail,19,instant||face,18,19||face,19,18||anim,18,Happy||anim,19,Happy||bleep,5,2.5|Good job! I found a match!|minibubble,@Then back to the corner ...,-6||next,18|Good job! Cherry loves me!|next,-5|Not longer. This is called "Tania".|next||anim,-5,Happy|Fortunately, they met!|next,-4,Angry|I think that is clear.|next,18,Idle|Why do you always come to me?|next,19,Idle||bleep,5,2.5|He is good, it is good! You have to take it east.|next,18|Yes, now it is strengthening and going down, but how does it go? ...?|next,19||bleep,5,2.5|Make sure ...|next,-6||destroyminibubble|Here I have no quality. Can we help? We see our city with our own eyes ...|next,-5,WeakBattleIdle|Z.|next,-4|Yeah.|break||event,false||flag,684,true||end|
+|tail,18,instant||face,18,19||face,19,18|Get out ... leave ...?|next,19||bleep,5,2.5|I'm going?|next,18|No, I think this is my left hand.|next,-4,Flustered||shaky|Permission! Uh!|shaky||next,18||face,18,-4||face,19,-4|Right? Are you mine?|next,-5,WeakBattleIdle|How did you come to Bulgaria?
+|tail,-6|We are glad that the Danji horn is good ... if everyone is together in peace.|next,-5|I ... don't even know if that's possible.|next,-4|They become addicted to this habit.|next,-5|Well, but where did you find it? Small and expensive.|next,-6|You can hide in your house.|next,-4|This explains why he did that.|next,-5|But he did not explain how to earn money!
+Oh ... you know, it's over ...|next,-4|We want to build a vacation home!|next,-6|Too much? We are not rich ...|next,-4|Heroes, we make money! Let's try!|next,-5,Happy|Oh fun!
+|tail,-6|Was he assigned here?|next,-5|I am glad it does not matter.|next,-4|You just have to distinguish more than you help others.

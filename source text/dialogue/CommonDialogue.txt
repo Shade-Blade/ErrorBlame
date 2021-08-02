@@ -1,0 +1,199 @@
+L.
+|anim,this,Happy|Good morning! Want to use ant storage?|prompt,map,2.65,3,-3,-4,-5,@I want to save you!,@I want to take you!,@Thank you} but don't.|
+|checkinvqtd,0,0,-6||checkinvqtd,2,full,-7|Normally! What are you waiting for? You can get more than |getstorage| points.|pickitem,0,0,true,false,-10,-5,5|
+|checkinvqtd,0,full,-8||checkinvqtd,2,0,-9|Normally! What do you need?|pickitem,2,0,true,false,-12,-5,5|
+Welcome! Have a nice day!
+|anim,this,Sad|Wait, it looks like nothing ... If nothing happens,|line|how can I get a job?
+|anim,this,Sad|Excuse me. Here maybe you can't buy anything ...?
+|anim,this,Sad|Excuse me. It looks full of things!|next|You are not interested in this
+|anim,this,Sad|What have you reviewed and found it not! I made sure to save him for the rest of my life ...|next|... I have no financial compensation.
+|removeitemat,0||additem,2,var,0|Thank you so much! You saved my life. |break||checkinvqtd,0,0,-11||blank|Can you save others?|prompt,map,0.7,2,-3,-5,@Yeah,@Not|
+|boxstyle,-1||end|
+|removeitemat,2||additem,0,var,0|good job! The scene appears |break||checkinvqtd,2,0,-11||blank|Do you need anything?|prompt,map,0.7,2,-4,-5,@Yeah,@Not|
+|menu,46|, our opponent is not an amateur. Do you want to assess your fighting skills?|prompt,map,2,2,-14,-15,@Truth,@I do not like it|
+|tail,0|You can find out by calling me.|next,1|It looks like we can do it all with |color,1|cups, ingredients, etc.|color,0||next|You can increase your attack power by |color,1|following |line|specific rules to complete each mission|color,0|. Watch.|next||color,1|If you keep |button,1| for too long ... you can make a corner!
+|tail,0|You know each other better!|next,1|I admit, I believe in you like this.|setvar,11,1|
+Can you see me doing a good job?|next,1|Avoid it. Also the end of the enemy!
+Found! |button,4| Click Time ...
+Reduce damage by pressing |button,4| before attacking the enemy.|next|In |color,1|good weather|color,0|, you can reduce more damage!
+Wow! My mistake is royal! ???|line|You want to kill me?|next,2,Angry|If you can't beat it, you should leave it. |line|Keep home with honey and this exciting game!|next,0|Toy! ??? Oh, I love it now!|next,1|We pay 10 times!|next,0|It's time to throw it and go ahead!|line|This may sound like an attack, but you can choose |color,1|purple flowers|color,0|!|next|However, you must use |icon,28,0.6| |color,1|TP|color,0| to use this method.|line|So see what happened to us!|next,1|We no longer use |color,1|blue flowers|color,0| to heal wounds.|next,null||boxstyle,4|Use |button,2| and |button,3| to change commands.
+|tail,0|Do you press the button? Guess what be careful!|next||color,1|Press |button,4| to produce the light.|minibubble,-22,1||break||destroyminibubble||end|
+|tail,1|Everyone waited|next|Share useful techniques for all |color,1|three|color,0|.|next|You can choose beautiful flowers from the control panel ...|next|One of us can |color,1|move to another|color,0|.|next,2|How to apply? It looks like a jungle.|next,1|For example, you can double check the |menu,46| attacks to defeat the injured enemies.|next,0|H, we attack three times! We see!|next,1|But it should not be misused.|next|Upon completion, the |color,1|fighting strength decreases|color,0| 1 times.|next,0|OK|next,2|he is good, it is good. Let's do it.|next,1|Be careful now!
+...Wins?
+|tail,-4|This tablet is amazing. Written in a foreign language.|next,-5|This is similar to the old text.|next||gettail,2|Well ... we know this message. We can explain.|next|Go back and try it|flag,25,true|
+Ah, the city of |color,1|Bucharest|color,0|.|next|Many mountain animals gather in a calm and rich environment.|next|Not always, ...
+Affected by the promise of a young woman in the economy and pure land, she traveled to these countries a few months ago.|next|He started in Bucharest with his daughter and colleague.|next|We love ants.|line|However, the Queen's dream came true.|next|He defended himself because he heard about his predecessors.|line|And ...
+|color,1|Wood forever|color,0|!|wait,0.1| Plants and plants also give you age and strength!|next|Search and then search.|fwait,0.1||line||line|Lars can't find.|next|He dreamed of a princess before bed.
+The new queen decides that she has disappointed her mother, who is not good enough.|next|Open the doors of the Kingdom and commit all kinds of mistakes, and drew courage and experience!|next|Be clear about that. "If you can find my tree forever, it will be richer than your first mistake!"|next|As a result, when many organs see a large body and royal property, researchers intervene.|next|I don't see a tree now. The dream you never dreamed of is called today ...
+Stronger than ...
+! Very high! You are here ...|next|I can't live here, I can't do anything! !
+Remember the plan! We must get to the plague!
+Trust me! We did it!
+They won a prize! This element helps to create many emotions.|next|To change, press the |button,8| button to enter the 'Complete' menu and select 'Cost Statistics'.|next|Once there, you can calculate trophies for moving items to another group using |button,2| and |button,3|.|next|Someone should win a prize, don't forget to check the rest of the money!
+How can anyone?|next,-6|Are you scattered abroad?|next,-4|Significant changes in funding.|next,-5|You must successfully open the door. Straight ahead!
+|tail,-4|Trust me! There are two parts here!|next,-6|The door is now open.|next,-5|Good job! Go back to the door!
+Q: Can I play with you? (The song's performance is displayed in blue, which can be deleted by pressing the |button,5| button.)|pickitem,18,0,false,false,-38,-39,7|
+Hey, I'm happy again!
+Do I know anything?|prompt,map,3.75,3,-38,-38,-39,@No} follow this path.,@I want to hear more,@It looks like a game.|
+|end|
+Well, if you want to hear from me, you are here.
+We do it all! To - let me know if you wish.
+|showmoney|A- Start a new song @VALUE@.?|prompt,map,2.5,2,-38,-39,@Good job.,@Come on|
+Forgive me. Enough money ... you can't play for free. M: Next time?
+Does ed love |string,0|?|line|Chapter |currency,var,1|?|prompt,map,1.75,2,-44,-45,-57,-58|
+|checkmoney,var,1,-46||checkinvqtd,0,full,-47||money,var,-,1||additem,0,var,0|Good to work together! Look at his weaknesses!
+Do you believe in death? You will not find these things anywhere!
+|anim,this,Angry|There she is! I didn't cut the money right away, I didn't bet|break||anim,this,Idle||end|
+I'm glad I bought it, but I can't afford it. The place is close!
+Can I help you?|prompt,map,2.75,3,-49,-50,-51,@I want to sell.,@What are you doing here?,@We have experience.|
+|checkinvqtd,0,0,-52|Of course you know!|goto,-55,keep|
+A humble tourist tries to find something.|next|We are all over the country, we sell all kinds of products everywhere.|next|Our faith in grass has been passed down from generation to generation, and we want to stay in the country.|next||goto,-48|
+Note. Don't forget to check out our products!
+Excuse me. Nothing can be bought.|next|If you want to travel to a far country, visit our store, this |line|exotic article is useful for your trip.
+You can add |currency,var,10| to this |line||string,0|. Want to know|prompt,map,0.7,2,-54,-51,@Yes,@Not|
+|money,var,10||removeitem,0,var,0|The deal is over!|break||checkinvqtd,0,0,-48||goto,-55|
+|checkinvqtd,0,0,-52|What do I want to see?|line|(Press the |button,5| button)|pickitem,0,0,true,true,-53,-51|
+What an exceptional |string,0|!|next|How can you make |currency,var,1|?|prompt,map,$0.9,3,-59,-194,-45,-57,-195,-58|
+I think so!
+Thank you, but don't.
+|checkmoney,var,1,-46||money,var,-,1||setprize,this||kill,caller||showmoney||giveitem,2,var,0,-60|
+Thank you! I can't find it anywhere else.
+|align,front,true,2||face,caller,-1||checkflag,278,-116|Welcome everybody! Here is the fan.|next||showmoney|Are you here? There are only |var,37| in the bag!|prompt,map,1.5,3,-62,-140,-63,@Improvement!,@IPAD,@We are the best|
+|checkmoney,var,37,-64||money,var,-,37|There are special Venus sweets here!|break||event,43|
+Trust me! Do you see what I need?
+Not enough fruit! Next
+Call us
+|tail,null||boxstyle,3||bleep,2,1,1||lore|
+|wavy|Zzz ...|wavy||next,-6|Go to work ... win rules.|next,caller,100|!!!!|fwait,1||end|
+Do not sleep with the choice! It is called sleep!|next,-6|You say|next,-4|How do farmers interact?|next,caller|Did Diana give up? I am in state law!|next|We have built a tunnel that links |color,1||area||color,0| to |color,1|distant insects|color,0|!|next,-5|OMG, dig the ground!|next,caller|This is about cooperation. I have to cut the cable.|next,-6|what do you say|next,caller|I do a lot of work, but I'm tired. The vacation will end soon ...|next|Or eat strawberries, that's all! For example, |var,0||next,-5|You can help!|next,-4,Angry|distance! Need free food! This is enough after he returns!|next,-6|I think it would be fun if I could go back.|next,-5|Glad to think about it.|next,caller|If you choose to cry, cry.
+|checkflag,81,-77||tail,-6|Diana has a strong force.|next,-4|Join our group? Wise Devil!|next,-5|This is ugly. If you don't want to work, this will help ...
+Good evening! Do you ask what you want.|line|There are |currency,var,0| in this bullet!|prompt,map,2.6,2,-11,-72,@Tomatoes!,@I'm not clear yet.|
+Oh I mean!|next,-4,Angry|This fruit is not very popular ...|next,-6|We don't think he wants his approval.|next,caller|Oh, I feel love!
+|tail,-5|We have to wait for something to happen.|next,-4|Good luck providing you!|next,-6|If we really want to go back, let's talk to him ...|next,caller|Well if you want to find it, come back and talk.
+Unfortunately, it is all over! thank you all!|break||checkvar,16,0,-74||blank||tail,-5|Hi, thanks again.|break||goto,-75|
+|tail,-6|We paid for everything, so we had the opportunity to visit the king ...|next,parent|Return to the palace and talk to the police about the water.|next,-5|Thanks to Diana for moving forward.|break||goto,-75|
+|tail,parent|Hello!
+|tail,-5|We cannot wait to buy this service.|next,caller|Impressively, I think it will take some time ...
+|tail,-4|Oh, the ants are amazing!|next,-6|He wants to wake her up.|minibubble,@Both of them ... ,-5||next||destroyminibubble||end|
+Do not check the amplitude. Type hello. Do you want to go to the pool?|prompt,map,1.5,2,-81,-79,@Yes,@Not now.|
+She is very beautiful. Let me know if you want to delete it.
+Do you want to go to |line||color,1||string,0||color,0|?|prompt,map,0.5,2,-11,-11,@Yes,@Not|
+|event,49|
+He is a member of the Karkidan Club. Feeling happy.|next,-4|Not amusing. You know with makeup!|next,-5|She has a beautiful home for her husband.|next|I think we judge people.
+One tourist in Al-Hasakah.|next|He drew the promise of his wife.|next,-4|However, at least I did not go down without explaining myself first|next,-5||menu,46|, do not look at others!|next|... I am someone different.
+We have a big building in the future.
+|tail,-6|Soon the city escaped.|next,-4|Because the holidays are great!|next,-5|We don't like darkness like this. Leave happy memories to your group!
+These buttons are wrong.
+This project has not been implemented yet.
+Love crystals and fruits! This is a rare find found by collectors around the world.|next|You can change it from another person!|next|Verifiable amount of money in the "Stop" menu
+Crystal is the shadow of the Perry message
+|wavy|Song!|wavy||wait,0.2| Ready?
+Stronger than you ...|next|But have you ever seen something like this?
+|wavy|Hmmm ...|wavy| you know the fight ...|next||anim,this,Idle|But I can endure a bad fight! Preparation is recommended!
+Welcome!
+There is a hole. It will be better here.
+The cancer has not been released.
+Are you really sleeping? Jump!
+|tail,-6|Vi, are you the only animal researcher?|next,-4|?? Hey! Hey! Naturally...|next,-6|We always thought it would be amazing to see how many pieces were cut, but the only researcher ...|next,-4|Look, they are not guards because they need something.|next|The police guards were born. we are here|next,-5|A little dark ...|next,-4,Angry|... sometimes such a marriage.
+Hello! Ever heard of Andy's special security offerings |line|this month?|next|You can't enter your account at any time! You can save up to 35 days. |wavy|Free!|wavy||anim,-4,Happy||minibubble,-102,-4||next|Tears do not shed tears!|next,-6|Frita is very good.|next,caller|Yes it is Is not it? Now proceed!|next,-5,Happy|It's amazing. Good day today!|next,-4|You will be better off doing anything and doing it right.|next,caller|I'm out! Contact me to use the service!|minibubble,@Who,-6||next||destroyminibubble||end|
+This seems to be a way of analysis
+|checktrue,299,-119|Not surprisingly, most users are ... new.|next,-4||color,1||wavy|Spider|wavy||color,0| care does not strike us.|next,-6|Do not use these words again.|next,-4|... Additionally, they've been here a while.|next,-5|No cause of inhibition was found. Hurry!
+Loudspeaker! gorgeous! ???|next,-6|Is technology evolving quickly?|next,-4|I do not know what this is! There are three sentences!|next,-5|Who knows, this is only the beginning. They were in their thirties before they were three years old. At the same time!|next|Has the device been replaced?|next,-6|How does it represent our work?|next,-4|They need to learn differently from each other.
+|wavy|Free! ???|wavy|
+|tail,-6,instant|Gorgeous. But there are three more.
+|tail,-5,instant|Good job, |menu,48|! We are halfway!
+|tail,-4,instant|Gorgeous! Only a strong man!
+|tail,-6,instant|We have.
+|tail,-6|Wash your hair? We have received your request.|next,caller|Exceptional! I want to see the kingdom of the body. But the queen did not leave us.|next|right?|pickitem,1,0,true,false,-108,-109|
+|checkvar,0,99,-110||checkvar,0,25,-111|I do not think this is the point|next,-4,Angry|It's been a long time. Give me a nice gift!|next,caller|Excuse me. Can't find anything?
+|tail,-6|Excuse me. Come again.|next,caller|Ah ... wait
+Yive, Adventist!|next,-4,Happy|But do I think?|next,caller|that's mine! This cut is awesome!|next|thanks.|break||removeitem,1,99||giveitem,2,21,-112|
+... Bug Ranger is a popular game, right?|minibubble,@It is not a game ,-5||next,-6|Is that correct?|next,caller|This is not a category.|breakend|
+I found it when I sold it here, but it's useful.|next,-6|That would be nice.|next,-5|You are so happy!|next,caller||wavy|Hehehee ...|wavy| Awesome! I'll wear it when I leave! Thanks!|break||flag,257,true||completequest,34||end|
+Thanks for the hat! I thank him.
+|tail,-4|That's the point! One is left over!|next,-5|You have to go back to town and ask where the second episode is.|next,-6|Or just look around.
+|tail,-6|We have two keys.|next,-5|Then you go to the big sand dune. This is the Northern Desert!
+|event,true|Oh, two and three!|next,-5|Capital? !|next,caller|Hey ... yes, here I am!|next|I decided to help this.|next,-4|Is that correct! ??? Do you want to play with us! !|next,caller|... I am not the god of war! But I can |color,1|cure|color,0| it immediately!|next|... they only gave |currency,var,37|.|next,-4,Angry|How is that!|next,-6|Why does a female goddess ask for money?|next,caller|Listen, Arya and my followers want to be better in life, and we're so excited to do something else ...|next|At least I can! In addition, there are |currency,var,37| for tourists like this!|next,-5|Hassan. They can help us and those who follow that day!|next,caller|Trust me! Add strawberries to your eyes for treatment?|break||flag,278,true||event,false||end|
+|checkflag,278,-118||tail,-6|Even Venus is everywhere in Bucharest ...|next,-4|Do you still have a strange god?|next,-5|Is that correct. Bless us heal ... Thank you!|minibubble,-192,-6||breakend|
+Are these Venus flowers?|next,-6|He seems to be saying something ...
+Keep working again|next,-4|Hassan. The work will never stop.|next,-6|We know why |menu,46| stopped.
+Very impressive. But I hate this game ...|next||boxstyle,1||halfline||size,1.5||wavy||center|A break!|wavy|
+|hide||event,48|
+|hide||event,126|
+What happened what happened
+Recovery and recovery.
+|tail,-6|We are here. I was never happy ...|next,-4|Easy money! Get the prize!|anim,-5,WeakBattleIdle||minibubble,@Something is not right ... ,-5||breakend|
+The law is weak. Weight gain: 300%|line|EM.OT. Damaged property.|next|Change now! Please! Please!
+The goal, the goal:|line|<"What should you do?" ! ??? ! >
+Reading data: three parts.|line|I think it's because of sympathy ... not good.|next|There are no mock notes here. Check data integrity.
+An error was detected: Vi # @ & * ... error, data|line|will. Change the smoke.|next|Let me tell you again. Change the smoke. Contact Malbeck|line|Lana.
+The command "reset.bug" is not currently in use.|next|Restart the system by installing the necessary files.
+Nacukkappattata |string,9||font,0|?
+How do you use |string,9||font,0|?
+Insert the belt
+Take his belt
+worst
+This is a tape
+Do you want to separate the |string,9||font,0| from here?
+I'm out of |string,9||font,0|!
+... Mouth. We will fall.
+|event,43|
+Isn't this a very big cave?|next|I think there is something delicious! Looking back!
+Oh, I want to know what this device is!|next|Don't you always have a creative coach? Don't forget to exercise first!
+A river lies in front of it. Smoking is important, |line|but fighting in the sand is hot!|next|I tried to help because my roots couldn't cross the entire desert.
+The front is dangerous, but if you need treatment, leave it to me!
+This is a hoax!|next|Don't forget the depth of the thief, go home if possible!
+The mountain is full of food, and Bukhara mountain.|next|But then I tried to find the ground and linked it yesterday!|next|I speak with you. Lingey brought a lot of blessing, but they came damn ... and they didn't.
+|tail,-6|The guards of this country are kind and kind ... in all respects.|next,-5|I think this word has a big key in my head!|next,-4,Angry|Artillery fire? Why do you think this is it? !|minibubble,-148,-5||breakend|
+(I hope this match ... |fwait,2||blank|fossils ...)
+|tail,-6|The guardians of this kingdom are good and good .. in all forms and ways.|next,-4|It is so beautiful! Like a flower!|next,-5|I would like to appreciate it.|next,-6|It uses a long battle and fits well.|next|There is peace, but I don't want to change the silence.
+Grass and trees? You may be surprised at the amount of oil that has dropped!|next|Screaming is hard here, but here we want to deal with it!
+|tail,-4|I'm not sure why the entry lasted. This is sand.|next,-6|… I know I will not stay forever.|next,-5|It is a city united by a long tradition!|next,-4|Can't they keep their heritage at their best?|next,-5|I promise, V ...
+I understand this is your fault, but do you want to do some serious damage this time?
+Come and buy all the music!
+|showmoney|This new T song is @VALUE@.|line|Can you?|prompt,map,2.5,2,-38,-39,@good job.,@Come on|
+|checktrue,454,-156|He made this place when the first ants came to this earth.|next|... and the location of the tragedy is hidden. It does
+Haha, the demons live here. I think you should do something?
+|boxstyle,4||spd,0||center|"|string,10|"?
+Enter the file name!
+|boxstyle,-1||hide||jump,caller||sound,Nero||minibubble,@Ninja!,caller||waitminibubble||end|
+Oh, my hero again! Throw garbage!
+|shaky|Gorgeous! Mando ...
+|checkflag,43,-163||checkmapflag,2,-163,true|Good evening! Music details ...|mapflag,2,true||break||event,28|
+|hide||event,28|
+R-Real Explorer is very powerful! !
+Come and save!
+|hide||overfollower,false||moveahead,-1,2,0,0,1,0||movewait,-1||hide|
+! |menu,48,1|! |menu,46,1|! She is! At the same time!
+... Well my friend ...|next|I wish everyone ... revenge!|next|My co-workers hate me ... I killed the victims! |menu,46|, |menu,48| ...
+Friendship is back to you!|next|I will get this devil and I will not take revenge.|next|But protect yourself!
+Only unauthorized persons are allowed.|line|a ticket:
+The test failed.
+|shaky|Gorgeous! Not him! I ... my last money! What do you think ...? ! ??? !
+|boxstyle,4||spd,0|Are you taking the car?|prompt,yesno,-174,-11|
+|hide||event,201|
+Is this a cassette?
+Very impressive|next|But do not lose that strength!
+Manassu ... Close button|next|T ... try a lot of faces ...! Will bite you again!
+|shaky|All this ... I don't know ...!
+|tail,-6|As a man.|next,-5|Extraordinary praise! You need to visit bees regularly|next,-4|This is not a good hat. This is a test|next,-5|What about clothes that make up different cultures?|next,-6|You still have to study.
+|shaky|Gorgeous! ???|shaky| The end of CIN YIN! ???|next||shaky|there she is! ??? Manassu ... Close button|shaky|
+I don't like her, Jenna ... I feel like an adult!
+Introduce yourself! With me!
+|tail,-6|Security forces returned to normal.|next,-5|Congratulations! I have to rest!|next,-4|Cheap vacation!|next,-6|They definitely have a good reputation.
+Thank you! This is a song you know ...|next|I - You always protect me! Question - Take it. Thank you!
+|tail,-6|Liz is struggling so badly. Bad safety.|next,-4|This animal is definitely useful|next,-5|We hope you enjoy the extension and enjoy your stay.
+Hmm ... it was strange to see the moral panorama in the city.|next,-6|As for the mines, they couldn't tell ...|next,-4|This review is a great idea!|next,-6|I think we should name the queen ...
+Lead the king's army! They are treated very well!
+Kabu ... You know, but what happened? Do not try this creature, sorry ...
+not here? I hope you help me a lot!
+I feel better! I hope you eat here ...
+|tail,-6|That day was very hot|next,-5|I have not seen anything! Could it be one of the ten treatments?|next,-4|Fire! My sister said several other places and areas in the dark.|next,-6|Witch. We love cooking in the dark.|next,-5|Our goal is to bring ice ...
+This is simple.
+|tail,-6|These groups are "free" groups.|next,-5|Is that correct. More kicks in this section!|next,-4,Happy|Hey, have fun!
+|caravanmedal,-196|Excuse me. the last one. Go back to more products!
+Hope you see more appreciation.
+|destroydescbox,1|Oh really! (Press the |button,5| button)|pickitem,34,-197,-45|
+|itemname,v0,1||itemvalue,v0,1,1||showmoney|Clouds require |currency,var,1| for a |string,1|.|line|Is there a contract?|prompt,yesno,-198,-45|
+|checkmoney,var,1,-46||money,var,-,1||setprize,find,v0||showmoney||giveitem,2,var,0,-60|
+|rerollshops||end|

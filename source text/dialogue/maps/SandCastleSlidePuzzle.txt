@@ -1,0 +1,2 @@
+|tail,-4|This big ice cream!|next,-6|It looks like a rectangular wall.|anim,-4,Angry||minibubble,@Example! !,-4||next,-5|Easy to push ... I can walk like a balloon!|breakend|
+|boxstyle,3||spd,0|Note: Always check for high humidity and clean glass.

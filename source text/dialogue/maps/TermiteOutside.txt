@@ -1,0 +1,6 @@
+|tail,-4|Don't you live here? Is that correct?|next,-6|This is clearly not the most attractive door.|next,-5|Do not judge. These dome friends are used in this amazing process!|next,-4|It can be ugly and ugly.|next,-5|Not me. |wavy|Balloon|wavy||checkflag,384,4|
+You are here.|next,1|You can write whatever you want. But the Queen of Ants ... |line|I suggest you go upstairs.|next|Close to the square. Get angry if people meet you.|next,1000|For the day. Thank you, we include.|next,0|We have had peace for years. Don't worry about stopping smoking.|next,-5|(Attitudes toward the Empress are here ...)
+While eating ...
+I am waiting for you.
+|minibubble,5,1000||breakend|
+|wavy|(* Rose)

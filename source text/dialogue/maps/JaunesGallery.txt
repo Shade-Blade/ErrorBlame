@@ -1,0 +1,26 @@
+|checktrue,437,21||tail,-4,Sad|Q: Can I leave?|next,-6|Is there any problem?|next,-4|That's all ... I don't want to be here ...
+... Is over.|next,-4|... He is.|next,-5|We miss you.|next,-6|We give them two cards.|minibubble,@Confidence.,-5||next,caller|What do you need? We are busy. A girl gave me a birthday gift.|next|This weak mountain that I hate is |wavy|beautiful|wavy|!|next,-4|D- very beautiful. My team and I work hard at the company.|next,caller|Output? Has anyone solved the lock problem? Yes, no, it's different.|next|Then he joined the research team. I am surprised.|next|I did not expect this child to be like this.|next,-4,Angry|He always behaves like a kid! ???|next,caller|Yes, if you want to get angry in the middle of the month, please forever!|next,-4,Flustered|Sorry, very difficult!|next,caller|Do not forgive me! At least you cannot leave without |line|explaining yourself.|next|This will continue. Play with friends. There is a problem that needs to be solved.|next,-4,Sad|Is that correct? Follow me! ??? Sorry!|next,caller|I like filling in this part, but I can't find the |color,1|color|color,0|.|next|Now I am worried about something. Not long ...|next|Misery, fatigue and more for you!|next,-4,Flustered||boxstyle,1||shaky|I love everything! Stupid anyway!|shaky| Congratulations to|line|all.|next,caller|You did a better job in my life. leave me alone!|next,-5||boxstyle,0|D- Not good ...|next,-4||boxstyle,1||shaky||flip,-4|Become.|shaky||next,-6||boxstyle,0|This is ...|next,-4||boxstyle,1||shaky|Right Now!
+!! promise! Play with the team!
+Do you live here?|next,-6|Do you need money?|next,-5|We help!|next,-4|OK. I think you should do the same. Wait!
+! I can't wait to go back ...|next|I did not see it clearly on the last link!|next|The pain affects my ability.
+Mother of all birds! Come on ...
+Goldencha bright red!|next,caller,Idle|Leave us here and straighten your face! !|next,-4,Angry|No, I don't want to be here.
+Sorry sir, I saw your beautiful picture.|next|I am going now ...
+Durability!|next,-4,Sad||flip,-4|Yeah?|next,caller|It will turn red over time.|next|I know you can't buy ...|next|Why do you cry when I call you?|next,-4,Angry|If you have questions, I will return immediately!|next,caller|....|next,-4|Excuse me. You call it a weapon. else.|next|Do not believe me, you have to throw it everywhere!|next,caller|Automatic ...|next,-4,Sad|B- Yes, you can say I was deceived too!|next|I have a dream.|next|I am so lovely person! I go to great demons like this!|next|I know I can do this quickly!|next,caller|And ...|next|Piraccanai.
+My brother for me|next|Excuse me.|next,-4,Idle|Sorry!|next,caller|... There is a sound. Back home.|next,-4|Uh!
+|anim,caller,102|Standard size.|next,-4||anim,caller,101|I don’t want to be a villain, but I don’t wear this shirt.|next|... I missed you.
+How old are you and can you go with friends?|next|I have to say something.|next,-4|Yes, good to see you. I tell you!
+Good morning! Nice to meet you.|next,-5|Hey, let's get this done.|minibubble,@My heart is very kind.,-6||next,-4|What do you do as a gift from the king?|next,caller,Happy|For several reasons. The sound is muted.|next|I've been doing this for a long time, but I haven't finished ...|next|Good to show.|next,-4|What is this reality! Feeling we run out of fuel emotionally.|next,caller|Ha ha ha, great! Ready!
+I call it "a stronger bond than honey"!@EVENT@Ha ha ha! You lost your beauty!|next,-4|The ...
+... What are you doing ...
+|wavy|Hard ...!
+|anim,caller,101|This animal is a famous artist!|next,caller||anim,caller,102|You are the best researcher!|next|Can we stop or stop the discussion?|next,-4||anim,caller,101|Entiyu!
+You can use |color,1|good combat|color,0| skills!
+Hey, spend more time with the Queen's Gift ... You can rest here!|prompt,map,1.5,2,19,20,@Thank you so much!,@Thank you} but sorry!|
+Don't forget to do something!|break||innsleep,-0.8,0,-1,true|
+Trust me If you want to see him in the office, call.
+|checktrue,445,22||tail,-4,Sad|Mint leaves. No one will return until you get the color ...
+|anim,-5,Happy||anim,-4,Happy|All is well!|next,-6|I did this. We are happy for you.|next,-4|Everything is worth it!
+|checktrue,445,24||anim,-4,Sad|He is my sister.|minibubble,@...,-4||next,-6|Are all women the same?|next,-5|Yes, but even in cities, they depend on others.|next,-6|I think this is correct. You don't need to think too much.
+|tail,-4|I am looking for my brother.|next,-6|Are all women the same?|next,-4|Yes, but I grew up! That’s why we are special sisters!|next,-5|Isaac family support so far.
+|hide||event,162|

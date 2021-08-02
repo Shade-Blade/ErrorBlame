@@ -1,0 +1,23 @@
+|checktrue,555,1|Cars that cause illness ... Heroes can do bad things.|next,-6|You can kill all our kingdoms.|next,-4,Sad|A hero! Let's do whatever we want!
+|tail,-6|The Hornet may be defeated, but these countries are still very aggressive.|next,-4|Do you want to see that tree? Acceleration!|next,-6|Yes, we do not want to run this again ...
+We cannot be separated from friends. Somehow we can burn ...
+|tail,-4,Angry|... There is no problem!|next,-5,Idle|We haven't left yet ...|next,-6|Let's look around.
+I know this is a serious test, but ... Thank you for keeping.
+|tail,-4|Choose the category of intelligence that best suits you.|next,-6|Crazy people don't fly all day in old fire circles.|next,-5|Anyway, I found the test! Kejia!
+This is a team. I ask you to follow this path from the beginning.|next,-6|Sorry, this is out of control.
+It all depends on us. We must start a fire!|next,-6|Easy to say, hard to say ...
+This smile does not hurt. We.
+Annoying place. Mickey Mickey is very happy with this game.
+|shaky|Asking for help ...
+|tail,-5|Hi! ???|next,roach||shaky|Satan shot and cut him ...!
+|tail,Zasp,Angry|OK! ??? Come on ...|next,-6|This is not a secret bubble to achieve this goal ...
+|tail,roach||shaky|NGH ... so ...|shaky||next,maki|Energy saving. Everything is okay now!
+|tail,mothiva|Whatever it is. We did not say it.|next,elizant|Look at this big beetle!|next,-4|I hope you do it!
+|tail,roach|I do not think ... from religion to the temple!|next,-6|It's like standing in a sandbox ...|next,roach|They are dangerous, but the appearance of large animals is very annoying.|next,zasp,Angry|They do not burn, they deserve it.|next,elizant|I want to find a way to pass or close.
+|tail,Mothiva,Angry|Plus! !|next,roach|WH- what are you doing ...|next,maki|This is a team. My sister left Kina.|next,zasp|Do you always do your best?|next,kina|Don't get me wrong, you have to shoot!|next,elizant|Conflicting members. This is a team. I continue to support the Makimari Association.|next,roach|A girl lives with us! ???|next,-5|-Are you fine? We can wait until!|next,elizant|Times of life. Team players stop this language!|next|Eremo! Al-Bukhari's sincerity!|next,-6|We will be back, you know.|next,-4|Yes let's go!|next,mothiva,Idle|Gradually, of course. |wavy|You know!
+|anim,caller,Angry|I hope the Queen trusts me not to eat!|next,-4|Yes good job so come back!
+It is very difficult to protect this fire because it is the power of animals.|next,-6|Vegetable motif. Will not stay long.
+Wha- that's it! Click to extinguish the fire ...|next,-4|Trust yourself! See the others!
+|tail,mothiva|Sir, take your time, I hope.|next,-6|Who is Queen Elliot and what is comedy?|next,elizant|We put out the fire and sent it home.|next|There are many "structures" here, but they all destroy the structure.|next,-4|Good job!|next,kina|Hornet needs to fix it now.|next,maki|I heard that you won the phone with your hands.|next,yin|!|next,-5|Nobody can express it. Hope and power Bucharest to us!|next,elizant|A word. Time for the final battle!|next,-4|Hey, we have no choice but to be together!|next,-6|OK. He can help adults.|next,mothiva,Angry||wavy|Sorry! ???|wavy||next,zasp|Undoubtedly. We have a lot to do.|next,elizant|Generally. Distance!
+The system remains hot when it fails.|next|I do not think they have.
+|tail,-4|However, it failed! !|next,-6|It is not like the other stupid Kings passing by.|next,-5|But the evidence is still possible! Kijia!

@@ -1,0 +1,15 @@
+|checktrue,19,1||checktrue,376,7|... Great tracker!|next,-4|Do you think you couldn't be better?|next,-6|Why do you agree?|next,-4,Angry|How is this impossible! Let's look at it differently!
+|tail,-6|Do you know salty and the like?|next,-4,Flustered|I do this because the Queen needs me!
+Excuse me. Go! But shall we move forward?|next,-6|Come and see we're looking for ways to do that.
+You can never win.|next,-4|OK|next,1000|These countries have disappeared. Is the door missing?|next,-6|As we have seen, this is not a sign ...|next,-4|Am I 100% sure?
+If we fill this small gap ...
+Vi.|next,-4,Sad||face,party,1000|Girl.|next,1000|It brings us well to the valley.|next,-4,Flustered|Wow! ???|minibubble,6,-6||next,-5|Come on, try this ...|next,1000|If it's the Grand Canyon, I think again, but you don't have time. |next|Vi, it is true. You should try it|next,-4,Angry|I can't do it alone! Get the pumpkin!|next,-6||face,-6,-4|We recommend VI. Come on|next,-5||face,-5,-6|Could you?|next,-6|Ready.|next,1000||face,party,1000|So there is no reason! Tell me, prasaka!|next,-4|Grrr ... It hurts ...|anim,-4,Flustered|OK! Give it to me!|next,null||boxstyle,4||sound,ItemGet1||spd,0|You can |color,1|fly|color,0| now! |button,5| can be downloaded by pressing the |button,5| button!|next||sound,ItemGet0|You can |color,1|manage your escape|color,0| by using your abilities!
+You are kind
+|tail,-6|Too late ...?|next,1000|I started to speak. Come and see
+|shaky|Hello ... God ... God ...|shaky||pickitem,1,9,-11|
+|checkvar,0,145,10||tail,-5,instant|N ... no ...
+|removeitem,1,145|...... Very nice ...! All of these ...? !|next||hide||fadein||fwait,1||transitionsort,-10||anim,caller,Idle||minibubble,12,caller||waitminibubble||fadeout||fwait,1||hide|Why thank you! Save me|next|Did your sister send you here? If you forget to eat when you get tired of work.|next|Thanks for protecting me!|break||giveitem,2,64,13|
+It must be Yatanda's brother. We have dinner with him!
+|wavy|Munch Munch
+It's time to throw it and go ahead! good morning!|break||goto,14|
+|hide||fadein||fwait,1||kill,caller||fadeout||fwait,1||completequest,44||flag,476,true||end|

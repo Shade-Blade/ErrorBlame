@@ -1,0 +1,30 @@
+|checktrue,370,9|It is like sitting on a chair.|next,-4|Good job! We can see him on the chair!|next,-6|The work presented here is aggressive. Let's look around.
+|boxstyle,1||shaky|You are!|next|I can't take him to another pub!|shaky||next,-5||boxstyle,0|... People! ??? Show yourself!
+|boxstyle,1|Malta! Stay with us!|next|I am very afraid! Attention! |shaky|Ultimax|shaky| is waiting for you!|line|Exceptional!
+|shaky|Hi|shaky|, I don't think crazy people can enter the house!|next|We'll see work!|next|I'm here! I look forward to hearing from you soon!|next,-6|Yes, the ticket.|next,caller|Hunting and brutality! |shaky|The creator! The merchant!|shaky||next|We'll show you how to deal with foreigners in the waste field! !|next,-4|Unused! We are crazy!|next,caller|It seems to be moving in one direction ...!
+Friend! Same as before!
+We are lost!|next,-4|You can save a lot of money by uploading videos!|next,caller|Stupid! The same applies to our king!|next|You can enjoy the beauty and security of the home ... it shouldn't bother you at all!|next,-6|When the kingdom fell, the king ate and rested. Is there a delegation?|next,caller|Beware everyone who serves the king. This traitor did not do anything!|next,-5|Q: We cannot speak to the enemy. We found a way!
+|boxstyle,2||shaky|Not him! My group! We are happy! ???|shaky||next,-4,Flustered||boxstyle,1|Open your mouth!|next,-6||boxstyle,0|This is too tired. He went quickly.|minibubble,@Tendency!,-5||breakend|
+Assassin the opposition!|next,-6|The regulator, b. honey.
+|boxstyle,1||shaky|Your Excellency!|next|Ultimax wins the season!|shaky||next,-4,Angry||boxstyle,0|Dowry!
+|checktrue,555,17|The regulator, b. Terms of use.
+!!
+Stupid!|next,caller|Not my name!|line|Worth the wait! Fighting ants will not end for the first time.|next|Second, you and the army ...|next|In the end, our noble king promotes everything!|next,-5,Hurt|Example! We can not go back!|next,-6|Go to them ...!|next,-4,Flustered|! Abroad!|next,caller|Please! I don't like her, always let her go!
+Do not be late! Let's meet Magi and enter the Kingdom of Anti!
+|wavy|Malta!
+|tail,-4,Happy|At least one person is present.|next,-5|Look more attractive ... accustomed to ships.
+Autumn reaches our trap! I don’t know, but I |shaky|laugh|shaky|!
+Kill him by the game! What happened wrong?@EVENT@Maggie, I don't have time! Now let's go to the kingdom! We see ...
+I don't really like her, but the memories come home.|next,-4,Happy|OK. We know now!|next,-6|Some believe ... but we agree.
+Multiple sclerosis. Vanessa brought the kingdom into his hands.|next,-6|We don't know if Rani Vasa will attract everyone ... It's scary.|next,-4|Has anyone returned to normal? Everything is important!
+Made by Snakemouth ... I ask a lot of questions.|next,-4|Well, you saved me from hell!|next,-5|Because ... let's go back.
+|tail,caller|This is justified. Ready to confess.|next,-6|This is the lost royal inheritance. There is no.|next,caller|Thanks. But it is useful when traveling.|next|Will there be more security? do not worry.|next,-5|Vanessa Andrea ...! Yes no, you can count on it|next,caller|Remember me.|break||giveitem,-1,150,21|
+|tail,-4,Surprized|Wow! |fwait,0.2||shaky|Wow! ! !|shaky| |fwait,0.2||anim,-4,Happy|Thank you so much!|next,-6|Princess, I hope you do your best. Operation completed.|next,caller|I know I'm good, and if something happens, they trust me.|next,-5,Happy|Definitely! Don't be shy with us!|flag,644,true|
+Thanks to recovery.
+The Kingdom of Cooperation and its allies exchanged information with each other.|next|It is true that this can be prevented, but you don't have to be a technician to know what to do.
+|tail,-6|We are happy that the words of the authorities were not in vain. I found the joke a place to live.|next,-4|People do not want to be affected! ??? This is fake.|next,-5|When you say that.
+... Sorry.|line|I have a logical job.|next|Refrigerator.
+Kill them at the end of the game! That girl is our friend!
+|tail,-4|I can't be a better person now ...|next,-6|Take time to adjust. Olunkamaikkappatuvom.|anim,-4,Angry||anim,-5,Happy|
+|tail,-4|The ball is a good man.|next,-5|Looking forward to working with Ultimax General in the future.|next,-6|They do not appear to have been injured.
+|hide||event,212|

@@ -1,0 +1,4 @@
+|checktrue,502,2||tail,-6|What is that?|next,-4|What?|next,-5|Homepage? Music? AC Luster ...|next,-6|Let's see if we can find the source.|next,-4|I did not listen to anything ...
+|boxstyle,3||spd,0|"Everyone got off the boat ... but I decided to stay here."|next|"This is a great song ...|line|How did I get here? “”|next|"I need proof ... I ... I ..."|discovery,46|
+These big animals enjoy this beautiful island.|next,-4|It's over ... maybe you can go here!|next,-6|Do not miss a vacation.|next,-5|Better a poor horse than any horse ever.
+Because the river is slow! Do you have good rights?

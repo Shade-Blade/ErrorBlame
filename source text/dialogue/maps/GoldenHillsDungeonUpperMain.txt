@@ -1,0 +1,13 @@
+|checktrue,88,8||tail,-4,Sad||face,-4,-5|I hope it's good ...|next,-5||face,-5,-4|Yes, Vi, we have to keep checking.|next,-6|(... Listen.)
+|tail,-6,Hurt||wavy|Abrushkyle ... Trospatki curse!|wavy||anim,-4,Sad||minibubble,7,-4||next,-5|Hi! ???|fwait,0.2||anim,-6,WeakBattleIdle| This event has been going on for a long time ...|next,-4|Can we get close to taking pictures?|next,-6|Eh, let's just say I saw better.|next,-5|Stay there until the way is clear.|next,-6|No, yes, but we are not very close.|next,-4,Flustered|Hey, you do not know! This trip will be fun!|next,-6,Idle|Previously, Vi. Ma simu be. Ja.|next,-5|We thought we were still weak. Bin Tim!
+Feel the pain of lying on the tree trunk while waiting.
+|spd,0||boxstyle,3|"When the sun rises ...|line| Eat the address|line| It just seems. ""
+|boxstyle,4||bleep,2,1,1|Flying saucers are happy with the food.
+|hide||event,72|
+This article ... should be green light!|next|Good job!|next,-5,105|Vi, Life, What happened?|next|Attempt!|next,caller|Return the product! ??? Thank you so much!
+Life?
+Life, don't you think this is limited?|next,-6|This is good when we use magic. Escaped.|next,-4|If you don't get a service like this, that's bad!
+|align,left,true|This is a beautiful golden paradise! I want to come after the event.|next|See you later ...|next,-6|Is this a good trip here?|next,caller||face,caller,-6|God is a scholar! Exceptional! This is the truth.|line|Is the purple book good?|next|The whole area is full of beauty, but it is dangerous. Be careful when you visit.|next,-5|Thank you and good luck!|flag,662,true||next,caller||checktrue,576,10||end|
+... Wait a minute!|next,-4|Oh what?|next,caller|It looks like you're looking for something here.|next,-6|It makes you stronger. That really.|next,caller|Do you think I can help?|next,-5|... I cannot say for sure. Thank you for your advice.|next,caller|Eremo! I know this mountain inside and out.|next,-4|The report reflects our information ...|next,caller||hide||minibubble,@......,-5||waitminibubble||hide|Does anyone live in a small cave?|next,-4|Is it still interesting?|next,caller|... Can you find me?|next,-6|Why?|next,caller|No ... I think they can help. Think.|next,-5|All small app operations ... very good.|next|Call us. What do you think?|next,caller|Don't be afraid of the movies that come here!|break||flag,577,true||follow||end|
+This journey will go on forever. I can't stand this |line|golden tomato ...|next,caller||checktrue,576,10||end|
+Kirkdan Ball appears to be protected by Venus on the mountain.|next,-4|Is it not visible?|next,-6|What is the value of a flower?

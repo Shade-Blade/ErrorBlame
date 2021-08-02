@@ -1,0 +1,11 @@
+|checkflag,260,1||tail,-6|Do you think this is related to coverage?|next,-6|This would facilitate the commission of the crime.|next,-4|Send!
+|tail,-6|So we got here ... not really.|next,-4|Yes, this is just a pile!|next,-5|The ...
+The good news is spreading fast. Are you looking for an old key?|next|Can I help you? There are a total of 30 seeds.|showmoney||prompt,map,2,2,3,4,@Add strawberries.,@Indifferent|
+|checkmoney,30,5||money,-30|This clever one here.|break||flag,239,true||giveitem,1,111,6|
+Active m.
+I don't do smart things.
+|tail,-4|Which key?|next,caller|Thieves hid in the |color,1|southeast|color,0| of the desert. This is your post.|next,-6|How are you?|next,caller|...|next,-5|Not a good idea to plan your trip!
+See you again.
+|tail,-6|Nice shopping mall.|next,-5|Can I help you. They don't want to be anywhere!
+This love on my nails ...|next,-6|Do you need to visit the zoo before departure?
+Yes, the situation is complicated and very good!|next|Let's see if we can solve this problem ...

@@ -1,0 +1,22 @@
+|checkflag,41,9|Ah, this is Chuck.|next,-4|Yes, nothing happened.|next,-6|Did you go?|next,-5|He spoke to support the American alliance, but said maintaining|line|independence was important. We must be close!
+Spray on the skin. Is it beautiful|next,-4||face,-4,-5|Kabu! Our cube! Aquo Mus Ten? Unlimited resources?|next,-5|Sorry, old errors cannot be ignored or corrected.|next,2|His name is Chuck. I am two years younger than you!|line|But if you wanna know ...
+I almost lay among tourists on Snakemouth Day. I can't get|line|rid of these herbs!|next,-4|Is it easy to say?|next,-5|The wedding day is more dangerous than chicken water. Are we not aware of passengers?|next,2|... Can you help me?|next,-4||anim,-4,Angry|I will not participate. At least it's free.
+Statue, Vi. The goal of the limb or small leg ...
+Wow! All is well.|next,-5|There is no such thing as different from Cantonese!
+You are not mistaken.|halt|
+|anim,-4,Happy||tail,-4,instant|Strawberry, clean strawberry!|next,2|You can buy good things in the future.|next,-5|We will be happy. Warning others from danger!
+Sign up!
+Will! It helped me a lot! Lasts for a week!|next,-4|Did you get a gift?|next,-5||anim,-5,Idle|Incredible home! My prize is helping others.|minibubble,5,-5||next,-4||destroyminibubble|Not right.|next,2|Ha ha ha don't be afraid. Great help, thank you! Not much, but it is necessary.
+This is an old royal province.|next,-4|If you knew how to throw a snake!
+|tail,-5||face,-5,-4|Where did the snake go through the western region!|next,-4||face,-4,-5|I know.
+.
+.
+.
+.
+.
+.
+.
+|tail,-4|Oh an ant we saw at the door of the club?|next,-5|Definitely. If you can find something to do, |line|I think you found it here.|next,-4|Actually, it's fair, I don't think anything happens here.
+Whatever it is. This article is shameless. They found results, but none.|next|Old insects are evaluated at least once in a while.
+|boxstyle,3||spd,0|According to the latest rules, the law prohibits access to ski days.|next||spd,0|If you have a complaint, please contact the British Security Council.
+Bathroom! If you are close to something, you can speak |color,2|orally|color,0|. |line|He appeared in the team.

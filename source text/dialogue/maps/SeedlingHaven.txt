@@ -1,0 +1,2 @@
+|checktrue,143,1|This is a real step! |flip,-5,false|Good friend ...|anim,-5,Surprized|In a! |flip,-6,false||flip,-4,false||anim,-6,BattleIdle||anim,-4,Surprized|Distance!|next,-4|Wow! This is a beautiful garden!|next,-6|Before we start, let's go to Ka.
+|tail,-4||anim,-4,BattleIdle|Trust yourself! He has a king!|next||anim,-4,Happy|Children?|next,-5|Yes ... this building has a lot of search engines.|next,-6|Everything is fine, you are. We can always see Jin Miao.|next,-4,Angry|For example.

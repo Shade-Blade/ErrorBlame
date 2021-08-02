@@ -1,0 +1,1 @@
+|tail,-6|You cannot stand this cloth layer. Blind plan.|next,-5,Happy|All swimming is fun!|next,-4,Angry|Hair loss? The girl's face!|minibubble,@Think about you.,-6||next,-5,WeakBattleIdle|Religion ...|breakend|

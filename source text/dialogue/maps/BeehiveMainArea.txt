@@ -1,0 +1,74 @@
+|tail,-4|I am still waiting ...|next,-5|Anyway, do you think you're happy?|next,-4|Well ... I don't see the source I need.|next,-6|We will lose ...
+So you have to reach the hotel on the balcony.
+This path leads to the |color,1|manufacture of honey|color,0|. Beware of your steps.
+|boxstyle,6||color,5||glitchy|Good morning! Hello Dr. H. B. The first site is a new device!
+|tail,-5|That!|next,-6||face,-6,-4|Vi, okay?|next,-4,Sad||face,-4,-6|He did not do. .@EVENT@Wait a minute for everyone!
+|face,-6,-4|The testers are different from you.|next,-4,Sad|How is that?|next,-6|We?|next,caller|Definitely.|next,-5|What is Life?|next,caller|Do it after the couple put it here. Can you come with me? I will be here.|next,-4|Life, do you really think?|next,-6|Yes, you do not know anything now. Nothing to lose.|next,-5|Chief, doctor!
+Unfortunately, the option ... Explorer is fun!
+Is the ball really funny? I look like Motiva!
+Umm ... this is an adventure day. At least the rumors are optimistic.
+I ... are always honest. But clothes can do amazing things. Not!
+Good morning! Motiva's most popular accessories! They will bring you the best!|minibubble,@Suspicious.,-6||break||destroyminibubble||end|
+Beautiful girl makeup! Take care of yourself
+Easy for a nurse! Take care of yourself
+Pictures of our Lord ... Beautiful. But does that mean something beautiful? ... We checked|next,-6|Well, whoever bought this movie ...|next,-5|Wait until you think it is judgmental!
+Hey! What do you think of our most beautiful groups? |line|Is over!|next,-6|Thanks for not forgetting them.|minibubble,@Amazing value ...!, -5||next,-4,Sad|Thank you ...|break||destroyminibubble||heal,tp||sound,Heal2||end|
+|flip,caller,true|This is divine.|next,-4,Flustered|The King's Tower is mortal!|next,caller|The hole fell. I am a researcher with you.|next,-6|Can you steal your debts?|next,caller|If you want to apologize, you don't have to.|next,-5|Am I proud to be together?|next,caller|I am not proud. Dedicated to the growth of Motiva.|next|We saw an opportunity and seized the opportunity. This does not work, but it is not the end of the world.|next|As you can see, they are respected even if they are not traditional memories.|next,-4,Angry|Who appreciates the city! If they know the truth, they will not be destroyed!|next,-5|! I don't care about others!|next,caller,Happy|It is worth noting the madness of the great butchers.|next,-6|We do not want to know. Are you going to the meeting room?|next,caller,Angry|So it should be done. After all, business. My style is not right for you.|next,-4|Yes try
+We will also post about. Do not wait long.|next,-5|We meet here.
+However, Motiva should wait. We meet here.
+|tail,-4|Well, everyone should do that. Come to the meeting!
+|tail,-5|You need to find a web browser. Come and see
+|wavy|Not!|wavy| Now we all have enough motivation!
+Register the farm!|line|Register the farm!
+Unfortunately, how famous he was when he was a statue!|next,-6|It is very satisfying that these people have not seen them.|next,-5|Um, see Rami?|next,caller|Damn fans
+What are |shaky|you|shaky| doing here? !
+??
+Do you see morty?
+Been confirmed?
+|wavy|Truth
+|wavy|Good for me!|wavy| Sorry, the movie is over! Come on an adventure with us.
+Thank you for the perfect trip.|next,-4,Flustered|We did nothing! Yuno is amazing!|next,caller|Your presence disturbs my mental state. !|next,-6|If we don't see it, we can steal it.|next,caller|Why ...|next,-5|There she is! We do not know. Can we work together if we have information?|next|We don't want to clap. Everyone knows you when you work!|next,caller||wavy|Nag.|wavy| Why do you share with your dear friend?|next,-5,Hurt|Manassu ... Close button|next,-4,Angry|Do you know salty and the like? Then you can fix it.|next,caller,Idle|I entered and did not call. Let's see what you think.
+Yassin also sent him. OK? I have seen her three times and I want to know
+Really stupid! I didn't know anyone saw her!|next,-5,Idle|Sorry, failure is not an insult ...|next,-6|We must be careful. We don't know how to plan ...
+|hide||event,86|
+|tail,-4,Flustered|OK!|next,-5|We start the meeting. They can confuse them!|minibubble,@Doubt.,-6||breakend|
+This is my picture ... private.|next,-4|Sometimes you need to add color to the salt water.|next,-6|We agree, but if you think we should not be happy.|next,-5|Happy people in the gray world ... is this possible?|next,-4|Miss is really missing ...
+|face,-5,-6|(S! Get it!)|next,-6||face,-6,-5|(How is she? Why are you chewing?)|next,-5,Happy|(I said Vi ... You don't like birds?)|next,-6||anim,-5,Idle|(Yes, yes, you know? I'm sorry)|next,-4,Flustered|Talk to you immediately and keep good content.
+How do. Clean children!|next,-6||face,-6,-4|You are here|next,-4|I don't feel that way.|next,-6|Not fun if you don't answer.|next,-5|Life, when we live here.|next,-6|Honestly ...
+This lovely animal will make you happy!|next,-6|Lots of dust and joy.|next,-4|I can't bother Ferman, but ...|next,-5|However, at least I didn't get off without explaining myself first. This oil is free ...|next,-6|Not us. We are eating.|next,-4,Angry|Are you physically fit?
+|tail,-4,Happy|Look beautiful!|next,-6|The style is wrong, but knowing the clothes is good.|next,-4,Sad|Wait a minute, isn't it just a red ball?|next,-5|A little icon seems to help him ... this is the Sharpa area!|next,-4|Excuse me. I will not buy it.|next,-6|You can collect stamps.|next,-4,Angry|U! I do not eat strawberries!
+|boxstyle,3||spd,0|I went for lunch
+Make sure ...|next,-4|How are you today?|next,-5|This is no thing. I mean clothes ...|next,-6|I want to buy?|next,-5|In addition to. I am very satisfied with my looks.|next|I don't want to change someone else's picture ...|next,-4|They can do whatever they want. If you want to wear a hat, you can do it!|next,-6|I am not saying that we are against the idea.|next,-5,WeakBattleIdle|You are right, he is not alone, but he is not a place to judge others.|next,-4,Angry|Oh, it looks like me to my mustache, sorry!
+Everyone can attend this meeting!
+|tail,26||face,25,-1||face,26,-1|Perhaps before a group meeting full of honey.|next,25|Honestly, her husband. Do not be afraid!
+If you don't remember my time, why do you want me now?|next,-4,Flustered|This is noise
+It does not matter if it is a good sugar cane plant.|next,-4,Flustered|People like you have no place to go!
+|tail,-5|Only in China ...|next,26||face,party,26|However! From here he gives us some details. We are very good people|next,25|This is bad!|next,caller|The builders must open the throne.|next|Providing great events is a good way to take back our king.|next,27||face,party,27|In fact, be careful! We love the Queen and we will never forget|line| her kindness! |wavy|Fe|wavy|!|minibubble,@! ???,-4||next,-6|Are the goals the same?
+Noise and go home.
+|tail,18||face,party,18||face,18,-1||flip,18|Good morning! Do you have a |color,1|souvenir|color,0|? This is the best gift for those who love animals!|next|Only 40 seeds can be used! Am I a successful boss?|showmoney||prompt,map,2,2,48,49,50,51|
+|checkmoney,40,52||money,-40||flag,251,true|I don't mind buying!|break||giveitem,1,99,53|
+Remember - the deal won't last long!
+Give it to me
+Impossible!
+Deep voice! Sorry, you must remember a business trip.
+Thank you so much! Back to fashion week again!|break||kill,caller||end|
+|checkmoney,50,52||money,-50||flag,252,true|Thank you so much! Good job!|break||giveitem,1,94,53|
+|tail,18||face,party,18||face,18,-1||flip,18|Good morning! I have a new app! Additional |color,1|belts|color,0| you can wear or give to your pet!|next|There are only fifty of them now!|showmoney||prompt,map,2,2,54,49,50,51|
+Beekeepers and veterinarians of the last generation.|next|They have brought in a new generation. Is this the power of science?
+... Do you accept my question?|next,-4|Beautifully. This is no thing|next,caller|... Certainly. I see |shaky|darker dark|shaky| colors.|next|You have completed this course. Follow the best of God's nest.|next|Can you handle this?|next,-4|... Action. Where do you find?|next,caller|Your soul is dark ... but ... I told myself that I am |line|in the middle of the city.|next|He hates dark and pure air. She is beautiful ...|next,-6|I think the performance is better|next,caller|Don't say this is funny ... I respect him late, so let's meet face to face.|next|Vi, complete. This is a good monthly salary.|next,-4,Angry|Too late ...|flag,431,true|
+Look at the |shaky|bright|shaky| colors of the city.|next|Not knowing where to start, you can find the worst place in the city.
+... Did you find your thing?|next,-4|Yes, but it does not end there. Sorry ...|next,caller|... Angry, I was worried this would happen. Tania ...|next|My friend lives in an ant field. Find out how it feels ... to |shaky|be|shaky| a group. You know what to do.|next,-5|A friend's explanation is still ...|next,caller|We have ... sweet food. You know when you see it. Now your salary is waiting ...|next,-4,Angry|Both methods are available at other costs.|flag,436,true|
+My friend lives in an ant field. Find out how it feels ... to |shaky|be|shaky| a group. You know what to do.
+... Did you find your thing?|pickitem,1,62,63|
+|checkvar,0,139,64|... Do not waste your time.
+It does not take long. You need to show Jain's other work.
+|wavy|The goods ...|wavy| So this is the most colorful and color ...!|next|You never know ... you know. I wait in the hole!|next,-4,Happy|I hope not worth it!|next,caller|Zibuzinnet is great for smart people. Seeing darkness like this, I no longer need it.|break||removeitem,1,139||giveitem,3,35,65|
+It looks like a good ad. Easy to change the worst part ...|next||wavy|Haha ...|wavy| Our artistic kingdom will soon be over, and the kingdom of meaning will begin ...|next,-4|Yes, I think so|next,-5|Fortunately, we had no problem ...|completequest,43||flag,435,true|
+Soon God's covenant ended and my darkness started ... Thank you all ...|wavy|Ha ha ha ...|wavy||next,-5|... OK?|next,-4,Happy|Sir, he was not hurt. I always liked the game.|next,-6|Hmmm ... I think it helps God.
+|shaky|RR?|shaky| My mistake is royal! There is no way to take care of the family!|next,-6|What did I do to him?|next,-4,Angry|He said it smelled like the nose.|next,-5|! It's hot! I can not say!|next,-6|We think this is a new shame ...|next,-4,Angry|Well, call me something! Weak, short, and shy ...|next|I cannot tell you this question!|next,-5|The analysts are great. Their families lost many lives.|next|I do not know|next,-4|How do|next,-6|I have an idea to solve the problem. We are not upset.|minibubble,@Normally! ???,-5||next,-4,Sad|Yeah|next,-6|Don't they talk about |color,1|red|color,0|?|next,-4|Hard to get to. This is the past.|next,-6|Let's start.|next,-5|This is new!|next,-4,Idle|Yes that's right! I'm so excited and tired!|next|Maybe we can have a good conversation. |anim,-4,Angry|Miles / hour|next,-5|Where are we going? Not an image.|next,-4|Not much ... It happens in the golden rule.|next|If you lose, check the counter.|next,-6|Then remember. My lord is very important.|next,-4|Swallow it well. Straight ahead!
+"What are you doing?"|next,-4|Beautifully. I always come back!|next,-6|Leave ... then get to know your sister better.
+|wavy|Not!|wavy| I think it's worth this week!|next|This feeling will help you defeat the Wasp King brand!|next,-6|... Good for you.|minibubble,@Make sure ...,-4||breakend|
+Not bad ... just a good day with Motiva.|next|Many thanks to Snakemouth. You will find peace of mind.|next,-5|Manassu ... Close button|fwait,0.2||anim,-5,Happy|She is beautiful!
+|tail,-4||anim,-4,Angry|Everyone seems to be learning something other than Morty Bar! |line|Yassin is real!|next,-6|Maybe you know something. I am glad you do not understand.|next,-5|Help us on the big day ...|next,-4|This is popular! However!|next,-5|These distant thoughts cannot work against ancestors.|next,-6|I think you are right ...
+|tail,-6|Real jasper. Could you.|next,-5|It will be fine.|next,-4|I don't know ... Mozilla will probably be okay|next,-6|This is his life.
+Is over!|next,-4|Click himself. I do not know now!|next,-6|We can't believe it ...

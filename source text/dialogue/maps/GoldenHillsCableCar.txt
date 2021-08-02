@@ -1,0 +1,16 @@
+Silver hero! I have heard a lot about this place.|fwait,0.2| They say that Venus will keep the divine world clean!|next,-6|Where did this book come from?|next,-4|look for it! This is a wild tree!
+|boxstyle,3||spd,0|Opposite! Don't leave the ground!|next||spd,0|Sign the contract using the security door!|line||line| Jenson Travel|next||spd,0||size,0.8|(Socialist Party: If you don't believe, let your partner hope.)
+|tail,-6|I don't know who the man is doing his job.|next,-4,Angry|Always work hard!|next,-5|Find another investigator.
+|hide||event,91|
+Yeah.|next,-5|Hey, staff! He saw his name in the group.|next,caller|OK.|next,-5|... Good good.|next,-6|Make sure ...|minibubble,@...,-4||next,caller|I came here. How can you solve this?
+|tail,-4,BattleIdle|Trust yourself! No need to hurry!
+Everyone knows this.|next,-6|Needless to say, it relieves a lot of anxiety.
+|anim,-5,WeakBattleIdle||anim,-4,WeakBattleIdle||anim,-6,WeakBattleIdle|I almost finished.|next,-5|Oops ... h ... don't worry!
+Ready. Thank you here
+|tail,-4,Happy|Well, it's worth it!|next,-5|Eh, let's just say I saw better.|next,caller||goto,11|
+|tail,-6|This is a big mistake.|next,-5|Are they different?|next,-6|What does this mean?|next,-4|More information!
+You can also use this with a USB cable.|next|Run the harvest. Pay.|next,-6|Thank you.|next,caller|All is well. I will go with you.
+Do you use a USB device?
+And
+Progress
+Does not start

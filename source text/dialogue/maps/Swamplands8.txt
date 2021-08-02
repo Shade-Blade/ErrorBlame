@@ -1,0 +1,10 @@
+|tail,-4,Happy|Trust yourself! Let's jump to the grass!|next,-5|OK? I think he is in danger of falling into the water!|minibubble,@We really are.,-6||next,-4,Idle|I want to do something extraordinary ...|breakend|
+|call,3|Come on!|next,caller|Your wife left you again. Excuse me.|next,1000|Make sure there are no problems ... but you have a big problem too! ???|next,caller|Birthday! How do I make this mistake?|next,1000|Umm ... when you go home, tell the story of that dinner!|next,caller|I don't want to let you down!|next,1000||face,party,1000|Congratulations to Snakemouth! I will use it again!|next,-4,Happy|OK! Will return if you want.|minibubble,5,-5||next,1000|This is fear. Do you want to go to my house?|next|I stood before the researchers.|next,-6|Once you know this, get out of this terrible place.|next,1000|I hope not to go again. Leave us alone!|next,caller|I will follow your footsteps!|next,1000|Join the snake group!|call,4|
+Apples are here! Hi!
+|event,true||teleportparty||move,1000,33.5,2.4,4.3||align,left,true||face,caller,-1||movewait,1000||face,1000,caller||tail,1000|
+|break||hide||fadein||fwait,1||flag,390,true||removefollower,76||loadmap||fadeout||fwait,1||event,false||tail,null||boxstyle,4||blank||spd,0|Will the ants return?|prompt,map,0,2,7,6,@Yeah,@Not,none||end|
+* * Voice engine
+|event,false||end|
+|warp,16,-2,0,2|
+.
+|gettail,76|Network, are you here? Wait!

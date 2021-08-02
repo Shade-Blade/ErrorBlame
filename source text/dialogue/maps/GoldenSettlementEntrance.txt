@@ -1,0 +1,26 @@
+|tail,-4,Happy|Beautiful to enter and repair! I love flower dresses!|next,-5,Happy||face,-5,-6|Once you see them ... are they a new race?|next,-6||face,-6,-5|Beware of hearing your voice. If not, we should not ask for goals.
+Continue! Continue! There is something that cannot be sold anywhere! Press |button,4| while standing.|next|If you want to sell something, Contact your husband. Over there.
+Hey! Try our product! You can't find it anywhere else!|break||goto,-48|
+|event,48|
+|tail,-6|Very high.|next,-5|I think you are using it?|next,-6|We must admit that this is not true. Not very good.|next,-4,Angry|I wonder why others do that?|next,-6||face,-6,-4|What do you prefer?|next,-4,Flustered||face,-4,-6|You want to fight, go! ???|next,-5|(He raises his head.)
+Hi!|next|Don't miss it ... see it here!
+Each party will be better ... I can't wait to attend more concerts!
+Hmmm ... it's amazing to see examples and social events in this city.|next,-6|For me, we can say it is far ...|next,-4|This tunnel is a great idea!|next,-6|I think we should call her queen ...
+|event,true||align,right,true||shaky|Make sure ...|shaky||next,-5|Sorry, this project is only available in Magier.|next,caller||hide||fwait,0.5||anim,caller,Idle||fwait,0.5||face,caller,-1||fwait,0.25||hide|Unbelievable love! Not expensive! I want to move the stone!|next,-5|This rock is very strong! Trump is playing!|next,caller|This is brave without a generation!|line|You can do this by moving the stone!|next,-4|This person works!|next,caller|I do many things! I came to war!|next,-6|Excellent. How can we not be afraid?|next,caller|I came to show you the grass in the yard!|next||anim,caller,Happy|We will break this stone. I will be strong!|minibubble,@Is it beautiful?,-6||next,-5|I like your idea, but they don't put too much pressure on the bull. We see.|next,caller,Idle|I have good strength to move my legs! I will be back now!|flip,caller,false||anim,caller,100||next,-4,Angry|It was cold at first, but it's scary ...|break||hide||destroyminibubble||event,false||flag,139,true||end|
+|shaky|Um ... I know ...|shaky||next,-4|A small fruit like many trees.|next,-6|Why do you want to know?|next,caller,Idle||face,caller,-4|Hope there is more work! Worst!|next|Others come.|next,-5|OK? ... where are you from|next,caller|The East.|next,-5|I told you. But what about Timur?|next,caller|I don't know what that means. the East! I came and came here!|next,-6|Oh, that's not very fair.|next,caller|Open your mouth! Make!|flip,caller,false||anim,caller,100||next,-5||wavy|Ri promises ...|wavy||next,-4|Oh, Kabu is not angry!|next,-5|Do it.
+|checkflag,139,11|He came from far away.|next,-6|Who you know?|next,-5|Yes, live where the worms are with fruits and tomatoes.|next,-4|Ask here! Now, is this a myth?|next,-6|Maybe this story is correct ...|minibubble,@... We will leave one day.,-6||break||destroyminibubble||end|
+|tail,-4|The Perry's donkey is amazing!|next,-6|No, Vi. She is very beautiful.|next,-5|What are you doing ! ??? Heavy stone!|next|We must believe it is too late!
+|hide||event,110|
+Thank you. Now we need to break this stone.|next,-5|Think again! I am dead!|next,caller|Well, in your head!|anim,-5,Surprized|Think!
+|face,caller,-1||anim,-5,WeakBattleIdle||tail,-6|Well, not wrong ...|next,caller,Angry|I did this! I'm bankrupt! Human competition! Honor!|next,-4,Happy|Congratulations!|minibubble,@I apologize to everyone.,-5||next,caller|I have the right to this vacation to help him! Thank you so much!|break||hide||fadein,0.05,999,kill||end|
+Gwcw ... I see children and groups. But it didn't last long.|next|Achieve business growth. Crane ... I'm trying to buy a sleeping bag! |line|Click |button,4| with your hands!|next|Cookies ... Sweet Bombs and Sweet Bombs Work Together!
+Do you need |string,0|?|line||currency,var,1|!|prompt,yesno,17,18|
+|checkmoney,var,1,19||checkinvqtd,0,full,20||money,var,-,1||additem,0,var,0|For E! Thank you |wavy|so much|wavy|!
+Sir! So stop shopping!
+Hey! Do not lie!
+For E! Thank you again!
+|flag,500,true||define,15,s||define,16,d||flip,d,false||flip,s,false||igcolmove,15||igcolmove,16||parent,16||align,left,true,2.5||tail,d,instant|Hello, do you have a big party this year?|next,-4,Happy|Do I know?|next,s|This time we heard some interesting news.|next|Did you know that air pollution is the cause of this problem?|next,-5|Yes, will Bukhari help you to run?|next,d|Some workers were injured in what became known as the Cold War.|next,s|Devil need to avoid gold!|next,-4,Sad|We can't find anything here ...|next,d|Of course, this is a good area. Is this a song?|next|... But yes, I will return this place. Maybe they can move the air.|next,-6|If so, we'll see.|next,-5|Thank you for the information. over there!|next,d|Do not worry. Enjoy along the way!
+I want to do something about it.|next|There is a warning and not a call. watch out.
+I am very happy to see this devil. Will the war begin? Not
+Stratus and Delilah.|next,-4|I want to know what they are doing ...
+|tail,-4|He is wearing!|next,-6|Do not do anything if you want to stand beside you.|next,-5|Eremo! I know this is an honest job!

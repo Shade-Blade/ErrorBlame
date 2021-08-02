@@ -1,0 +1,11 @@
+|checktrue,336,1||tail,-6|This is like a seasonal episode. Does anyone understand?|next,1000|I don't want to take this opportunity. We headed north and had to go there.|next,-5|(It would be nice if you could be more stable ...)|anim,-4,Angry||minibubble,@I've heard!,-4||breakend|
+|tail,-6|Complete or destructive information in the diagnosis of the |line|disease.|next,-5|Follow the relics. More dangerous animals!
+|boxstyle,1||shaky|Like him!|shaky| Who will leave? This is a personal account! |shaky|Abroad!|shaky|
+|boxstyle,0|We are not on the way. We will not prohibit this agreement ...
+|boxstyle,0|Wow we move ...|next,caller||boxstyle,1|I will not say twice! I will protect this place ... get |shaky|away|shaky|!
+I'm wrong!
+Excuse me. Distance!
+|tail,-5||boxstyle,0|Sorry! We are now.|next,caller||boxstyle,1|Bye bye not go, I'm moving!|next,-4,Angry||boxstyle,0|What to do you can hide your belongings or possessions!|next,caller||boxstyle,1||shaky|I know! Author!|shaky||minibubble,8,-6||next,-4,Sad||boxstyle,0|Stop, we're not masters!|next,caller||boxstyle,1||shaky|HRAAAAAAGH!
+Itinerary, Vi ...
+|shaky|No, this is a city.|shaky||next,-5|I'm a fan! You think your head hurts!|next,-4,Flustered|Yes unfortunately.|next,caller,Idle|...|next|Don't have a bag?|next,-6|Z.|next,caller|...|next|This is my crime. Many people are afraid.|next,-4,Angry|Are you fine?|next,caller|This is my family, we will never see ...|next|I think this is a catch. Excuse me.|next,-5|Reporters. I lost the price!|next,caller|What do you need?|next,-6|Want to see you maybe it will help you?|next,-4,Idle|Price!|next,-5|Nothing happens!|next,caller|Ask for advice.|next|We need to know the family will come. But sorry.
+Where do the |shaky|hunters|shaky| come from? !|next|Our people ... what did you do?|next,-4,Sad|We do not.|next,caller,BattleIdle|Higadj le! I can't draw anymore!

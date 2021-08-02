@@ -1,0 +1,2 @@
+Are there treasures in this house? so interesting ...|next,-4|There are animals! This is just a salad.|next,-6|There are no external students. We have God. Starving.|next,-5,Angry|Do not miss the food!
+|tail,-6,instant|Well, we've lost below.|next|We are looking for work.|next,-5|He remembers this life. You shouldn't be arrested. Enemies are strong in the enemy's axis.|next,-4|Hey, do we have a chair?|next,-5|I don't think Hornet will make technology easier.|next|Do your job! OK!|flag,367,true|

@@ -1,0 +1,1 @@
+|tail,-6|This is good news.|next,-5|There seems to be no way out ...|next,-4|No, no, you can find a lot of cranes!|next|We need to know P-Merang!|next,-6|A.P.B.D.|next,-5|Literature. I am.|next,-4,Angry|This is P-Merang!

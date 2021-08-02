@@ -1,0 +1,8 @@
+Hidenzo goats in the woods ...|next,-4|See where it goes!|next,-6|(... Who are they?)
+|tail,-5|... OK?|next,-4|Am I surrounded?|next,-6|How do you feel it?
+|tail,-6|Great mosquitoes! ???|next,-5|There is electricity everywhere!|next,-4|Many problems!
+|tail,-4|Not here! To late!
+Vi! Do you know the cause of this blockage?|next,-5|This appears to be a problem with Middler.|next,caller|Do you understand before the baby is born again, it lays eggs.|line|Good job!|next|We will pay to help this kingdom!|break||giveitem,-1,40,5|
+|tail,-4,instant||anim,-4,Happy|Exceptional!|next,caller|There is so much to do, so let's get started!
+These materials are difficult to remove. How can you save water?
+I swear I've seen this team before.|next|They can come ...

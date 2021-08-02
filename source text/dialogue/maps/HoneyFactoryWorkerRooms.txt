@@ -1,0 +1,31 @@
+|checkpos,x,-20,1||checktrue,218,29||tail,-6|It's called the transportation system, but we think it's a military office.|next,-4|Confidence.|next,-5|Unused! how do you know!|next,-6|... Nsyname.|next,-5|E, Vi, could the participants hide here?|next,-4|Of course I think that too. It makes our life easier.|next,-6|Then they disappear. But look around.
+Many here! Need something close to a fire?|next,-4|Employees leave the company until the changes are complete.|line|Sometimes for years ...|next,-6|Conquer. This is illegal.|next,-4|OK! I am on vacation!|next,-5|Why do not you give up being an employee? This will give you all the fruit you need.|next,-4,Angry|There is no other choice! I feel bored! When your life is enough!|next,-4,Flustered|I can sleep every second! A weak horse is better than a horse.|next,-6|More than ...
+|checkmapflag,0,5|Usually tourists can sleep here ... but this is important.|line|Do you want to sleep?|prompt,map,0.5,2,3,4,@Yeah,@Not.|
+If something happens, you wake up.|break||mapflag,0,true||resetregion||innsleep,-58.25,0,1.15,true|
+Watch out.
+What about darkness? I hope to see you soon ...
+Watch this dear! Very addicted and pay for the h|line|ealth of a |color,1|disabled|color,0| car!|next|Do not forget when the tower is gone!
+|tail,-6|Responsible for the book? Low price ...|next,-4|No, this is a picture of a respectable employee!|next|This is difficult, it takes several days.|next,-5|Do all employees have names?|next,-4|Beautifully. He was in the crematorium, but no one saw him.|next,-6|Is Kabu really our team employee?|next,-5|Do you have to do that?|next,-4|Not me!|next,-6|(... Waiting for the meeting ...)|discovery,15||flag,223,true|
+|tail,null||boxstyle,4|This tool is very powerful ...
+|boxstyle,4|Hero photos.
+OK. I know we're stuck, but if you like |color,1|magic beans|color,0|, use more than 25 eggs ...|showmoney||prompt,map,2,2,11,12,@Give it to me!,@There is no other choice!|
+|checkmoney,25,13||checkinvqtd,0,full,14||money,-25|Now great.|break||giveitem,0,11,-11|
+If you want, come to me.
+The move may not be economical. not you
+Sentence or judgment on. Nothing else to eat.
+I am happy that this ban has ended! I think we will stay here forever ...|next|What? Magic fruit? I do not know what to say, Vi. Ha ha ha!
+Let's get the bag back, let's get to work!
+Excuse me. Tourists cannot sleep here. Also, if you run quickly, wear it.|next,-4,Angry|Weight loss function.
+In important moments, the contract will be modified to |line|prevent closure.
+|tail,-4|This is the evidence!|next,-6|Yes, we saved him, remember?
+|call,28||tail,10|Yes, you can! back!|next,-4,Angry|Maybe right, then ...|next,-6|Is there a problem with Android?|next,9|Definitely. There are many problems in solving all problems.|next|Shepherd's work is long-term and stable, but despite my efforts, some are still collapsing.|next|I don't have time to find anyone, so I need my name.|next,-5|We are not experienced engineers ... What do you owe?|next,9|Relaxation click to improve your style.|next,-5|What? Gibuan h? How do they feel? ???|next,-6|Kabu, you can't see the car.|anim,-5,WeakBattleIdle||minibubble,21,-5||next,9||destroyminibubble|Stay here. Come see and enjoy yourself!|next||color,1|Three|color,0| people need treatment.|next,-4,Idle|Prepare to return! I'm Tim!|breakend|
+One ...?|halt|
+3 repairs must be made in the farm area. Believe me at first sight, |line|you know it's broken.
+Often tourists enjoy, but sometimes it's a little bit silly.|next|In this case, you do not have to worry about uselessness.
+|call,28||tail,9|Idosi, right? He is looking for my radar.|next,-5|This is a step ...|next,10|Car importers work lightly, not war.|next||anim,10,Sad|Thank you for your mobile phone. I just raised my hand.|next,9,Angry|Ekale, you are. I hope we go back and do our job.|next,-4,Flustered|In your dreams!|next,-4,Happy|Test your knowledge.|next,9,Idle|... I am glad to find a phone for any race.|next|Yes, thank you again for your help.|break||giveitem,2,49,25,-4|
+|tail,-4,Happy|Wow! Too small!|next,10,Idle|You know, I'm calling you again. But you know you hate that ...|next|We hope you enjoy the trip!|next,-4|Thank you.|next,-6|Come out. watch out.|completequest,35||flag,330,true|
+I think the future is here. Vi.|next,-4,Happy|Learn more fun adventures!
+Thank you, this is not a problem you should worry about!
+|parent,9||igcolmove,10||align,left,true||face,9,-1||face,10,-1||flag,325,true|
+|tail,-4|Now we have bowel movements, let's call ...|next,-6|Do you like this office?|next,-4|Yes, I hate it.
+|tail,-4|Accept that giving you another job is his job ...|next,-6|So, if you have money, you can make more money.|next,-4,Happy|Great idea!|minibubble,@You too ...,-5||breakend|

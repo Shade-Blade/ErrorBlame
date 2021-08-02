@@ -1,0 +1,11 @@
+|checkflag,221,9||tail,-4|If he is angry, Motiva can escape.|next,-6|Sign up.|next,-5|Do you want to overdo it?|next,-4|They are very good! Shut up!
+Hmm ... what's up?|next,-4|There must be something!|next,-6|Is it the secret to find such empty space?|next,-4|... Yeah!|next,-5|...|next|Honey ... how ...
+A T, be careful! Above us!
+Yes, I hope it is always empty!|next,-6||boxstyle,0|I am ready!
+|wavy|Yeah ...|wavy|Be strong!|next,-4|Wow! This is ...
+... Did not say anything.|next,-5|What happened?|next,4|We found this main card ...|next,5||boxstyle,1|Do not say anything! I'm embarrassed! For design.|next,-6||boxstyle,0|"Thank you" is enough.|next,5||boxstyle,1|Entiyu! Not everything! Wow!
+What happened to him?|next,-5|It's hard to be humble ...|next,4,Idle||face,party,4|I really appreciate it when it disappears. We owe him a lot.|next,-6|Good morning!|next,-5|You will be great!|next,4|We use. Let's think about ...|next|Do you want to talk? The reason for this is fear.|next,-4|Why not?|next,4|Shut up.
+... Do you think this makes sense?|next,-5,Happy|We are at the beginning. do not wait!|next,4|... The words of the python team.
+Hopefull.|next,-5|It is important to have a card. I hope this helps protect those interested!|next,-6|Difficult to wash his face. But we think this is the best. Ja.
+I must say this time is worse than before.|next,-6|This is like a drawer.|next,-4|Oh, I recommend it based on We Merang procedures!
+|boxstyle,3||spd,0|Wow! A.D.B.P 63 Printing Paper Organization!|next|He stopped and went back to the original call.|next|Or let's say it is broken ... it's service!

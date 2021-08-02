@@ -1,0 +1,1 @@
+|tail,-4,WeakBattleIdle|I call it C-C ...!|next,-5|Expand the elevator, VI! Keep your body warm!|next,-6|Well, cup oil needs help.|next,-5,Angry|Capital!

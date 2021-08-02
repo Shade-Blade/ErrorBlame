@@ -1,0 +1,18 @@
+|checkflag,260,15||tail,-6|I slept a lot. They have a fake village that killed this ladder.|next,-5|We are optimistic. But we are careful, we have wisdom!|next,-4|A race.
+|anim,-4,Happy|Relax!|next,-5|... Do you own it?|next,-6|More beautiful-|end|
+We've got! We've got!|minibubble,@I am!,-4|
+OK|minibubble,5,-5||next|Take a hole and get something!|minibubble,@Leave us alone!,-6| Tonight we will eat like kings!|breakend|
+Ha ha ha
+V-Vi! Life!
+... is to blame for this misunderstanding. This is a group.|next,-5|What an amazing balance! You are black.|next,caller|Very Difficult.
+My name is Astotel. Like I said, I will take this bag.|next,-4|There is a nerve leading to imprisonment!|next,-6|You can forgive him if he gives you the key.|next,caller|I think there is nothing wrong with that. This will hit you because it is not for sale.
+You are a bad guy. I swear that your imprisonment will be my people's gold.|next|Removing it will ensure the |line|seeds come back.|line|But I can sleep.|next,-5|The valley plan makes sense. Do you really deserve to be interviewed?|next,2|The daughter of an innocent princess. There is no |line|agreement between us.|next|But it will be a big fight. Do bad, bad!|minibubble,@A curse ...,-5||next,-6|Child.|minibubble,@Distance!,-4||breakend|
+... I help her. I can't fight anymore. Laughing like a bell ...|next|To do. Stop.|next,-5,Idle|You need the right competition. There she is.|next,-6|This struggle is enough for us.|minibubble,@...!,2||next,-4,Happy|Yes, do not be afraid! We need a head!
+Executive Director! ! !
+Yes, thank you.|next,5|Sir, why did you call? We can do this beautiful job!|next,7|But we can always do that. @EVENT@Let's do it!|next,-6|When the conflict increases ...|next,2|There she is!
+Come on, fight. Free.|next,5|Who is the president? Welcome!|next,2|... Friend. Is the park open? We are on the beach.|next|We will not publish here anymore.|next,-4,Angry|You can report here.|next,7|Sir, sometimes I do not understand you.|next,2|Is there no crime in the century?|next,-5|Definitely. All budgets are at risk.|next,2|Then it could be good. I believe in it.
+|face,5,-1||face,6,-1||face,7,-1|As part of this grasshopper ...|next|However, this tool betrayed our contract. Underground.|next|I hope you find the truth. There is no time or resources to follow.|next,-6|If so, then we do not think we will pity you.|next,2|Thank you for this key. Travel now and we will be in prison when we return.|minibubble,@Let's try again!,-4||next,5|Asked. Abroad! Do not shoot yourself!|next,-6|This will have a negative impact on the white team.|next,-4,Sad|I don't know ... good or bad?|next,-5||flip,-4||flip,-5||flip,-6|Now I don't think we got that answer ...
+... I'm not talking about that anymore. Abroad
+Watch out. We are in the theft forest!
+|tail,-6|Elliot is reading a haha ​​magical fruit.|next,-4|Fight with one hand.|next,-5|Hope you learn more about its history. We try not to miss our work.
+|boxstyle,3||spd,0|"XXX. Day.|line|A rat is ready near the well. Too much fruit. ""|next|"Sorry, this money will be successful this month."|next|YYZ days.|line|Our flowers bloom in our garden. Our secret is home. ""|next|"ZZZ Day."|line|Now I am sad. Unfortunately, I have not shown it to anyone ... "|next|"This is something I should think of. I have a trusted counselor."

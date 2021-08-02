@@ -1,0 +1,5 @@
+|tail,-6|So this time the horse went through the tunnel?|next,-5|Let's just eat. It is dangerous for bones, but ...|next,-4|They are on the ball!
+|hide||event,48|
+We do not allow dogs to enter the city ...|next|I think this is the longest part of the tunnel.
+Finally I got to the town ... but I have a role.|wavy|* Sighs *|wavy|.
+Catch the hero and the woman. The yellow ...|next,-5,Angry|Sometimes I wonder if the Queen will change?|next,-6|We need it. But there is something else to do ...

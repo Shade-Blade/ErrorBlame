@@ -1,0 +1,14 @@
+|checktrue,555,7||tail,-6|The bullet is heavy.|next,-4|We are pranksters.|next,-5|Trust me, let's move on!
+|hide||event,209|
+|tail,1000||shaky|C-CIS!|shaky| Avoid |shaky|punishment|shaky||minibubble,@Hey!,18||next,19|Uh? Do they know them? You say.|next,-4,BattleIdle|There is nobody here! Umetra theft!|next,19|Uh? I have power ...|next,18||shaky|Water!|shaky| Something is wrong! ??? Ordinary people!|anim,-4,Surprized||anim,-5,Surprized||next,-6|... You know? Did you do it?|minibubble,@....,-5||next,1000|Yes, I have a date! ? You said nothing! I agree ...|next,18|Perfect for business people! OK?|next,19|Uh! This is a different company.
+|tail,-5|The company is still alive!|next,18|Who is interested in this assumption? We want to be together!|next,1000|Because that's what they say?|next,18,Sad|... I do not think so ...|next,1000,Idle|Definitely! Protect from all sides!|next,19|Oh, the ideal, rebellious sister.|next,-5,WeakBattleIdle|Excuse me.|next,18|No, it's my fault. I mean, rubbish.|next,-4,Happy|I think everything is working fine.|next,1000|You can stay on the peninsula until the conflict is resolved.|next,18,Idle|Yes, I think we have time.|next,19|Thanks Ripple for the admiration. There is a lot here.
+|tail,-5|N-No, the Hornet Kingdom is open to all ...|next,18|Who is interested in this assumption? We want to be together!|next,1000|Because that's what they say.|next,18,Sad|... I do not think so ...|next,1000,Idle|Definitely! Protect from all sides!|next,19|Oh, the ideal, rebellious sister.|next,-5,WeakBattleIdle|Excuse me.|next,18|No, it's my fault. I mean, rubbish|next,-4,Happy|I think everything is working fine.|next,1000|I live? Look at the kingdom.|next,18,Idle|Well I want to tell you a great place!|next,19|Thanks Ripple for the admiration. There is a lot here.
+|tail,-6|Sorry, I was given this scary.|next,19|Batman, there are many things ...|next|Watch carefully!
+|tail,1000||shaky|Warrior! ! !|shaky|
+After a while we can get out of the kingdom.|next,-6|Slightly slower than that, but that's a fact.|next,-4|Multiple sclerosis. Vanessa has a solution ...
+Yes, Vanessa's wife allows others.
+The tree is beautiful ... when combined it will be beautiful and mature.
+You can't move, but you can do anything ...
+Kill the game! Thanks on behalf of all friends!|next,-5|I am not a good soldier!|next,caller|Tricked! I'm free! We will never forget!
+|tail,-4,BattleIdle|Yeah-|fwait,0.2||anim,-4,Idle|Dr..|next,-6|Nothing is lost from old habits.|next,-5|I hope the kingdom will forgive the previous conflict!
+|tail,-6|Then he laughed again.|next,-5|This is the first time I've seen the new ones! We can |line|learn a lot from them!|next,-4,Happy|Yes, they need to learn from us!

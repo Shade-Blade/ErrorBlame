@@ -1,0 +1,1 @@
+|tail,-6|These flowers use snow ...|next,-4|Well, they took Snakemouth from Snakemouth ...|next|Rest assured!|next,-5,Happy|Come now. Use water wisely to clean this place!|next,-6,BattleIdle|Temporarily prevents allergies.

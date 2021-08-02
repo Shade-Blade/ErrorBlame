@@ -1,0 +1,5 @@
+|checktrue,555,4||tail,-4|This post is not bad.|next,-5|This is a popular tourist destination. Pretty woman.|next,-6|This place appears blank ...|next,-4,Sad|Does anyone want to use that woman?|anim,-5,WeakBattleIdle||next,-6|Do not ask.|next,-5|... Above them. We decided to focus on our work.
+|shaky|G is back!|shaky||next,28|Damn, you |shaky|bastard|shaky|! ???|next,caller||shaky|Blood mask! You stole a gasoline engine!|shaky||next,27|You have to do it.|next|Otherwise, we will not return!|next,28|So what did |shaky|Punk|shaky| do?|next,caller||next,caller|Will ... hit ... I will!|next,caller||next,27||shaky|Ha ha ha ha!|shaky||next,28|He wants to fight with us, you fool! ??? Do you want to restore?|next,27|There are no worms and no masks. Forget that!
+...
+|wavy|* Sniff *|wavy|... I can not ...|next|Do I have to go back to my old place? ...|next||flip,caller|I need |color,1|help|color,0|!
+|tail,-4|This post is not bad.|next,-5|This is a popular tourist destination!|next,-6|We are told that women are interested here too.|next,-4,Happy|Sometimes we need a garden!

@@ -1,0 +1,15 @@
+The mud area looks like a big house. But I was surprised when |line|I washed the clothes ...|next,-4|Citizens are exposed too!|next,-6|He claimed that his confession was obtained through torture.
+! Unbelievable love! World Health Organization! ??? How do we get there?
+We are ready to accept changes ...|next,caller|...!|minibubble,@???,-5||next|...! ??? ! ???|minibubble,@Confidence.,-4||next|And much more! Worms are considered! ??? Oh, how small!|next,-5||destroyminibubble|???|next,caller|Yes, see the staff!
+I am glad I |flip,caller|finally heard your order!|next,-4,Angry|What is thea? We have to attack you!|next,caller|No, I was so naive when she immediately left the Queen!|next|Better than a horse than any horse.|next,-6|You mean, like, salty and the like, right?|next,caller|Looking around? Everything is complicated ... we all focus on wrestling!|next|Dano told him he was coming to Dano, but it spread quickly!|next|But can you help? Loss!|next,-5|Good job! Yeah! thanks for your appreciation!|minibubble,@Beautifully..,-6||next,-4,Idle|For help ... you need old art! Fifty.|next,caller|They did not give me anything useful. It is better to ask the king.|next|Half.
+|tail,-6,instant|(If this helps me ... I don't know)|next,-5|Durability! Let us return our kingdom!|next,caller||wavy|What|wavy| you normally do!|next,-4|Hey! With this, you are ready for the best gift!|next,caller|I'll give you a famous free opportunity!|next|Or maybe I thought, but now I suffer. The economy is not good ...|next|They get superheroes!|next,-4,Angry|... Very nice.|minibubble,@It doesn't hurt to have fun.,-6||next,caller|It is called Jet. I am white wood! Come home steward!
+Biological mother! How can I help?|prompt,map,2,3,6,7,8,@A story,@More,@Not|
+Nomara is a great soul.|next|If the ax is strong, then it's a little brave ... me too!|next,-4,Angry|Call me baby?|next,caller|Hey!|minibubble,@Cross,-6||next,-5|I hope we don't go anywhere!|next,caller|I'm honest. I want to meet another queen and thank you for all the flowers and gifts.|next|The great hero returns to us!
+My bed is comfortable! You will not regret!|break||resetregion||innsleep,-0.5,0,-1,true|
+I help everyone!
+This is one of the |string,0|.|line|My hero has only |currency,var,1|!|prompt,map,3,2,10,11,@Welcome to health!,@Som.|
+|checkmoney,var,1,13||checkinvqtd,0,full,12||money,var,-,1||additem,0,var,0|This is an honor for me!
+OK. This is completely possible!
+What a tragedy! There is no other place in the bag!
+Prices cannot be lower ...
+|tail,-6|(It's funny lying on a cabaret.)|next,-5|(This is an accident!)|next,-4,Happy|Wow! The food is delicious!

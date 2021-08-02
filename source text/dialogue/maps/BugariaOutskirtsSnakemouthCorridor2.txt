@@ -1,0 +1,2 @@
+There are pine trees everywhere.|next|These problems can be solved quickly.|next,-4|I am looking for your injury and do not want to repair it!
+|boxstyle,3||spd,0|Do you want to know more about the enemy you are against?|line|You can |color,1|watch|color,0| the attacks using your |color,1|strategy|color,0|!

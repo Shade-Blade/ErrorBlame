@@ -1,0 +1,2 @@
+|checktrue,502,1|This mountain from here! We have reached the peak!|next,-6|This requires special equipment for ice production.|next,-4,Angry|(I was born ... |anim,-4,Flustered|why don't you ask?)
+If we do not see, we will stop the spider.|next,-6|It makes us really interesting ...|next,-4|I will never hear!|next,-5|In essence, the soul does not die.

@@ -1,0 +1,15 @@
+|checktrue,553,14||tail,-4|Why the whole building? Seemingly ...|next,-6|Something must be hidden here.
+Note: Soft generator.|line|Run away ...
+|tail,-4|Allow? Why not?|next,-6|A lot of time.|next,-5|This is in the interest of the country! We do not know|fwait,0.1||blank||tail,-6|... !!
+There is a yellow card here.
+|tail,-4|What really works!|minibubble,@Happiness?,-6||next,-5|... First. Let's see what we can do ...|breakend|
+Do you want to change the location of the tree?
+|shaky|What are you doing?|shaky| We brought here! Something closed the door. |line|We can't escape!
+I know I have a problem, but this is the next generation.|next|This damages the clean work system, but the only way to enable security is to open a click.|next|Do you have an idea?
+We recommend restarting your computer.|next|However, this is an unwanted message. If it does not open after reading, read it until you use it.
+I am a security guard. Then she completely retired. Disappointed
+|tail,-6|Currency. Here he pulls things into the water and covers them in a small room.|next,-5|Look for the trash!
+Must improve the monitoring system, no longer exist this disaster!
+I can not believe that! The road is worse! Send a technician to the mayor immediately!
+Next time I will go to the capital and announce his resignation.
+Find your time elsewhere! Unused!|next,-6|Strange but a little scary. Think of a home that can be found anywhere, anytime.|next,-4|Does Venus have eyes?|next,-6|... Yeah.

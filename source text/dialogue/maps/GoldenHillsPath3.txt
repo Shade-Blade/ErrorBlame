@@ -1,0 +1,3 @@
+This place is awesome!|next,-6|This place is famous for its mountains.|next,-4|It is not a problem for me. I can serve you!|next,-6|... General?|next,-5|Wouldn't that stop?|next,-4,Flustered||anim,-5,Happy|Sorry, Snaemouth! I will not leave!|minibubble,@...,-6||next||destroyminibubble||end|
+|boxstyle,3||spd,0|Gold Cup
+|boxstyle,3||spd,0||center|Opposite! |line|Do not go to the mountain slope |line|on the river!

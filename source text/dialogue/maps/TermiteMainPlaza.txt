@@ -1,0 +1,71 @@
+|tail,-6|There was another princess in the building, but that was |line|tragic.|next,-4|My home, my kingdom, is full of color. Then the city!|next,-5|Remove the plants growing here, you will not find Bulgaria's most famous pasture ...|next,-6|We have said that many words do not like the sun. They are not interested.|next,-4|Errors are a number of different errors. I think this is the culture.
+Located in front of the Balkan Chamber of Commerce, this event received special attention.|next|We arrested him immediately.
+Foreigners do not belong to the royal family.|next|The difference is that the Queen swore.|next|Always talk about the Queen and the King!
+The road to the police station and the pyramid. You can leave at any time.
+Be a good person in the community!|next|Outdoor.
+|anim,this,Idle||end|
+|anim,caller,Happy|Bear. Tea is welcome in March. What is that?|prompt,map,2.7,3,7,8,9,@We live here.,@We sell here.,@In the city.|
+Do you know how to use self-evaluation? Click the |button,4| button next |line|to the item.|break||goto,5|
+OK? Not in this store ...|break||checkinvqtd,0,0,14|But when I buy something, I buy it.|pickitem,0,0,true,true,10,11|
+Yo.|break||goto,5|
+I think you can give me |currency,var,10||line| for that |string,0|.|line|Is not this right?|prompt,yesno,18,11|
+What are you doing ...|break||goto,5|
+|boxstyle,2||glitchy|There are always |string,0|.|line||currency,var,1|.|line|Do you not agree?|prompt,yesno,13,21|
+|checkmoney,var,1,15||checkinvqtd,0,full,16||money,var,-,1||additem,0,var,0|That's it.
+Wait a minute, can you get something from here?|break||goto,5|
+|anim,this,Sad|There is not enough money for the audience. get up!|break||anim,this,Idle||end|
+|anim,this,Sad|Can't bring a whistle. Build a house!|break||anim,this,Idle||end|
+|tail,-4|In fact, Maria will learn to trade!|next,-5|This business is automatic, so you don't need to do anything.|next,-6|I feel shy ... when will unemployment happen?|next,-5|We have got the message. The media does not acknowledge our sins!
+|money,var,10||removeitem,0,var,0|Thank you so much! |break||checkinvqtd,0,0,19|Do you think you need to sell more?|pickitem,0,0,true,true,10,11|
+Do not talk to the defendant.|break||goto,5|
+Forgive me. I need information. More stories ... You need to edit this guide ...
+You will find more products!
+Moses the snake Moses, work done. Thank you for your work.|next|You are waiting to speak.|next,-4|Good morning Lisa!|next,15|Yes, look here.
+You call the ants "Lisa"?|next,-5|Possibility!|next,-4|You have the opportunity to study! Look around you!
+Wait a minute! |wavy|Princess|wavy|?|next||wavy|Not helpful!|wavy| Don't wait for your friends to fight in the next semester!
+Is this energy for the Roman field?|next|What does the hero do! Our forces will destroy, register and distribute stations!|next|I can't wait to send a message to your friends!
+Can this tool provide instant information?|next,-4||checkflag,409,70|Don't wait for guards to exchange books!|next,-6|This appears to be a mistake in the media.|next,-5|Hope you don't take off your glasses soon.
+|tail,-4,Flustered|What makes this poster?|next,-6|Kabu says they have no money.|next,-5|Against. You can enter if you do not have ants.|next|However, this is still a long process. Can their idols help?|next,-4,Angry|There are no laws ...
+|tail,-4|Dynamite is a great site! Uh!|next,-6|We cannot help this poor worker.|next,-5|Is the situation good?|next,-6,WeakBattleIdle|It is amazing! We will go crazy in a few hours!|next,-4|He said that ... even though I know I care about you!|next,-6|No, we dry our mouths.|next,-5|Wait here ... get out of the car!
+He is the patron saint of Colossi!|next|Good morning! Be proud of your terminal with your friends!
+|shaky|Many days ... many days ... a short time ...
+Your address is correctly associated with the Bukhara support card.|next|How do we see things ...
+Do you want to get this app?|prompt,yesno,33,34|
+Wow, I'll move on to the next step.
+There is a call, but the need for change.
+... Remember?|next,-4|I do not know.|next,-6|It depends on the technology that the community determines. Designed to communicate.|next,-4|Watch HB!|next,-5|(I don't know how it works.)
+Sixty.|next,-4|Super rejects you.|next,-6|The overall experience was perfect, haha.|next,-5|If you are poor, you will not work! |wavy|Captain himself|wavy|.|next,-4|The portal is also global.
+She left the bed and ended up. I'm very happy!
+The speaker makes me tired, but the food is annoying.
+Is there no dynamism in this country? Hey, how do you eat?
+Not supported, ask for help.|next,-6|This device has no technical access.|next,-4|Written by Kirispy! Contact your service provider.
+|tail,-4|Are there separate papers?|next,-6|Many thoughts.|next,-5|English ...!
+I love this man.|next,-4|The mobile phone is ready. You are lucky|minibubble,@Currency ...,-5||next,-6|I do that! They are on your site.|anim,-4,Flustered||minibubble,@Hey!,-4||breakend|
+|showmoney|Welcome to Dynamite! Serve healthy and delicious food in one place!|next|Five light hamburger cakes. It says the best miracles, right?|prompt,map,0,3,44,62,45,@Add 15 bags of hamburger buns,@12 slices of fruit flavoring,@Bear.|
+|checkmoney,15,46||checkinvqtd,0,full,47||money,-15|MITEBURGER is coming!|next||giveitem,0,154,45|
+Go back and enjoy explosive food!
+That's it. Hamburgers were discontinued last week.
+Do you want to go somewhere? Will I return to Dynamics later?
+Hey, I accepted my order. !!|next,-5|Definitely. What makes us anxious?|next,caller|I can't sleep ... it affects the effect!|next|But I will not stop! But if you work ... !!|next,-4|Dear, learn to use time!|next,caller|I can not ...|next,-6|Solve sleep problems first. Is this the key?|next,caller|Yes, I would say that mixing flour with sleeping pills can improve a special mechanism to help people.|next|Do I like sweet books? Can it be bought?|next,-5|To see us again when we see something.|flag,625,true|
+Hey! Cake from?|pickitem,0,51,50|
+Gee buttons ... what did you forget? Shabnam slept asleep
+|checkvar,0,147,52||goto,50|
+|flag,626,true||removeitem,0,147|Yes ... but wait!|next|What if someone sleeps? !|next,-4,Angry|You will need it. I can not hear!|next,caller|But I can't quit my job! Wait.|next|I've heard that there are ways to |shaky|move|shaky| coffee, use fire and dough!|next,-6|Is it good to eat?|next,caller|Perhaps if you ate this cake at once, it would move|next|You can sleep and sleep!|next,-4,Flustered|Ineffective!|next,-5|See what we can do. wait ...|minibubble,@OP! !,-4||breakend|
+Is this something |shaky|impressive|shaky|?|pickitem,0,55,54|
+Please ... I sleep or damage the nation! But I can't sleep!
+|checkvar,0,75,56|Not good ... you need a |shaky|waterproof|shaky| preservative!
+|flag,627,true||removeitem,0,75|Beauty! I will sleep!|next,-4|So ... do you appreciate that?|next,caller|Thank you so much! Not much, but this can help!|break||giveitem,2,1,57|
+I hope this business will be better in the future. This will be |line|better!|next,-6|My God, I hope this does not force you to work hard.|next,-5,WeakBattleIdle|The parties ...|completequest,59|
+I hope your business increases. At least the bread is not bad.
+These countries have special fruits. This word is called pumpkin.|next|They met Luda in the woods for a short walk.|next|The food itself is good, but the flour mixture is good.|next|What if we mixed the pumpkin carefully?|next|I think my appetite has increased.
+|tail,-6|This is a man.|next,-4|In the dining room.|next,-5|He is happy with your efforts.
+|tail,-6|Samira did a good job and went with him.|next,-4,Happy|Fruit this effort!
+|checkmoney,12,46||checkinvqtd,0,full,47||money,-12|Order immediately!|next||giveitem,0,66,45|
+|bleep,13,1.75|I have a friend who lives in a forgotten country|next|He felt so shy that he disappeared in the woods.|next|I am not late.
+|bleep,13,1.75|No, my friend's house?|next|Think how it goes.|goto,68,keep|
+All is well. We start right away.|break||flag,675,true||warp,189|
+Excuse me.
+|tail,-6|I want to know if this scarf is popular.|next,-4|Can. But I really don't like her.|next,-5|You can buy the page if you check it out.|next,-6|Thank you, but sorry. we want to know.
+|prompt,yesno,65,66|
+|bleep,13,1.75|Bear. Have you seen my friend?|goto,68,keep|
+Yes I think ...

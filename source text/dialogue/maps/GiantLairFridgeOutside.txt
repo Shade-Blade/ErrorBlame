@@ -1,0 +1,15 @@
+|checktrue,593,8||tail,-4|Look, there is a fire!|next,-5|The situation? See you later!
+|tail,mothiva|Great place! I sang in a tense pub.|next,kina|The dead are not buried.
+|tail,elizant|I hope people don't climb mountains.|next,zasp|Like the car. Motorists use large amounts of energy.
+|tail,-5|A: This is amazing!|next,-6|Remember the missing victim.|next,-4|You can stay calm. Distance!|next,mothiva|The idea is simple ...|minibubble,@Durability!,Yin||next,maki|We are looking for a store ...|fademusic,0.1||anim,this,BattleIdle|! Durability!@EVENT@|next,elizant|What is that?|next,maki|All of us!
+|tail,-4|E-IIPI! Sorry! ??? Until that time ???|next,-6|Durability!|next,zasp|There is no way out. They lock the door to us!|next,-5|You have no choice! Fighting like a man!|next,elizant|Well, the article helps!
+|tail,zasp|Good things come from other people. See you again ...|next,mothiva|For some reason ...|minibubble,6,mothiva||next,maki,Idle|You all do a good job. The gutter is clean!|next,kina,Idle|Yes, you are with us!|next,elizant|We need to find a way for others to come.|next,-6|We are happy to help ...|next,-5|Gordon beheaded the king hornet. Come fishing!
+|wavy|Pump ...
+|tail,-5|Jas, tell me ... where do you do another search?|next,caller|They are waiting. Dead sleep.|next,-6|Maybe we can help them?|next,caller|Can. But here ... he is concerned about our safety.|next,-4|This would be great! We are all strong!|next,caller|... Thank you.
+Venus, if we fall ...|next,-4|We will be fine!|next,-6|I need a lot of help, you.|next,-4|... I know, but I don't want to go!
+We have a good car. The legend should be big enough, so this car should be the required size.|next|How can they carry so much energy?|next|How dramatic is the current situation?
+This device has expired but is still working. Grandfather worked hard!
+...|wavy|! Durability!
+See you later! The queen's ax cannot be made like wood in front of us!|next,-5|(But it's hard to do ...)
+This place has no role for everyone.|next,-6|This increases the risk when walking.|next,-4|We can't stop it! If Hornet can, we know!
+Then Z-Joseph! When they offend us, I must be evil!|next,-6|Am I wrong?|next,caller|Not him! This would be great! It will be fun ...|next,-5|... OK. I promise you. We protect!|next,caller|We don't want ... yes! Stupid!|next,-4|Hey, we still need it!

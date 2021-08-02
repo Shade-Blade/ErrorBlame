@@ -1,0 +1,145 @@
+|tail,-4|Yes, I love going to the neighborhood.|next,-5|Is that correct. The purpose of these instructions is to return safely to the church.|next,-6|Was this place newly built?|next,-4|I don't know why they stayed here for so long|next,-5|That causes longing.|next|At that time, everyone thought you were useless!|next,-4|Stop! The journey of longing is over!|next,-6|...
+... Or at least tell their country.|next|Unfortunately, despite many incidents, these personal stories |line|give me hope.|next,4|I promise you. Legend, not a true story.|next|Expand this relationship with the researchers' amazing journey.
+If so, Mr. Nuqul, can you reconsider your original plan?|next,4|Kabu, respect your mountain. But this is very dangerous. The army can't take my team either.|next,-5|I do not know! ??? Dear God, you have overcome many difficulties on the mountain!|next,4|I often talk. |fwait,0.1|Like La Kalpa, the truth is that we are very excited to understand our culture and our journey.|next|But I want to ask them, that is not the reason.|minibubble,@Make sure ...,-5||next||destroyminibubble||end|
+|shaky|How|shaky| to say that |shaky|again! !|shaky||next,5||boxstyle,0|Like I said, we can't try children! Good |color,1|snake bag|color,0|!|next||gettail,0||boxstyle,1||shaky|I am not a child!|shaky|
+... Exhibition. |fwait,0.1|Kabu, do I know you? This is the |line|responsibility of the investigation.|next,-5|Are you sure?
+|boxstyle,4||button,0|, |button,1|, |button,2| and |button,3|.|line|Click |button,4| to start or chat with people.
+Eat, cut, come on! What is going on?|next,caller||face,caller,4|The man called me and my son did not check me out!|next,5|Contact and shouting does not change this rule.|next,caller||face,caller,5|Turn off the device. This is not about age, it is about technology!|next||anim,caller,Idle|It always hurts!|fwait,0.1||anim,caller,Flustered| I am not a pet!|next,-5|Is it raining?|next,caller,Angry|Is there any problem? We are talking about native animals. Are you waiting for this colorful wedding?|next,-5|I dont mean ...|next,4||face,caller,4|Be quiet the president has no place to fight.|next,5||face,caller,5|Watch out. I can't buy this mini. Nobody has money. This group consists of two analysts.|next,caller,Flustered|I want to be like your skin
+... Yeah. Vi?|next,caller,Angry|What do you need?|next,-5|Why can't we continue?|minibubble,@...,4||fwait,0.1| We both need a license, but the work is done.|next,caller|What you read, do not know you!|next,-5|I promised to save him, so he wanted to meet me.|line|How bad is that?|next,caller|Worse than staying home.|fwait,0.1||anim,caller,Happy| Lana.|next,5|Wait, |flip,5|you two are crazy! Don't stop at Snakemouth for a while!|next,caller,Flustered|I can!
+Not.|next||face,caller,4||anim,caller,Angry|If everything is new and maybe close.|next|If you leave today, they will put it in your bag.|next,-5|Maki, we must not underestimate the best.|next|I arrived a few hours later.|next,caller|Yes, I'm amazed at the mistakes of others like you!|next,4|Come on You can prove your decision.|next,caller,Flustered|Do you want to try it? Did you call on behalf of the group?
+Because the royal family looks like a princess!|minibubble,@Can ...,5||next,-5,BattleIdle|Welcome to the competition! I already know!|next,caller,BattleIdle|Then I look forward to the trumpet and I am glad I was born!
+Use as much art as possible!
+... Is over.
+|boxstyle,1||bleep,0|Wow! ???|next,4||boxstyle,0|He did a good job attacking a scientist who lost his will to fight.|next|Nothing can prevent you from getting a "licensed browser".|fwait,0.1| Ethel, you can leave it.|next,5|Did I really talk about that?|next|... but the king’s beard. |flip,5,false|It will be here.
+|tail,-4,Happy|I did this! |minibubble,14,-5|Happy Snakemouth Day for all prizes and prizes!|next,4|Snake's Day, to the |color,1|west|color,0| of the community. The road will be easy, but it can be dangerous.|next|There are many |color,1|sources|color,0|, but there are.|minibubble,104,-5||next||destroyminibubble||end|
+We have.
+The new sound is great.|next,-5|Then he made a number of films. Struggle strength ... how old are you?|next,-4||face,-4,-5||face,-5,-4|I think it is you. In a large tree next to a beehive.|next,-5|This is a bad dream. I left the mountain about a month ago.|next,-4|Beautiful.|next,-5|Is that correct.
+According to Sir Margi, the snake mask is located in the |color,1|west|color,0|. Are you going?|next,-4|Energy! Yes, let's go now! Don't wait until it happens.
+...
+Press the |button,6| button to change the page layout.|next|Click the |button,8| button to see schools, statistics and more!
+|tail,7|Husband, why is Mickey in this dream?|next,8|Earth outline, its roots! ! I'm very proud!|next,-4|Tell me.|next,-5|He is very proud, but at least there is a way to show it.|next,8||face,8,-1|However. He does that for everyone. I see it once a week.|next,7|Truth. |wavy|Study ~|wavy||next,-4,Flustered|Wow! Who is responsible for that stupid game? I will see!|next,-5,Angry|Ineffective!|next||anim,-5,Idle|I need a challenge. Our path to glory!|next,7||face,7,-1|Hey! You don't need to go far!|next,-4,Idle|Oh, send it! Is that correct.|next,-5|OK. Sports. Of course this is a game.|next,7||face,7,-1|Be good!|next,-4|Look, Kabu|flag,26,true|
+|face,8,-1||face,7,-1||tail,8|Avoid problems.|next,7|Avoid beautiful trees!
+|tail,-4|Yes, can not stop the investigation?|next,caller|You can be proud of that if you want to, but it worries me.|next,-5|Thanks.|next|Analysis is not a game. Many people lost to find the treasure.|next,-4|Found! But he will not be one of them.|next|Mickey also thinks we are right.|next,caller|I hope your intention is correct.|next,-5|There is no problem.|next,-4|Don't be afraid to return.
+Hey, wait two!|next,-4||face,-4,5||face,-5,5|Is there any problem?
+Do you know where Snakeemo Market is?|prompt,map,2.2,2,24,25,@Normally!,@Not.|
+... Certainly. We found an |color,1|ancient legend|color,0| that follows the Queen|next|Good luck.|next,-5|Thanks for coming back soon. I promise you.
+Wow! ??? I don't know where to go! ! I think he died!|next,-4|Silence, Eatl. I moved|next,5|The goal is to find |color,1|ancient artifacts|color,0| that we can hide on Snakemouth Day.|next|Many people tried it, but nobody saw it. Most people do not go home.|next|I didn't know what the Queen needed, but decided to find him.|next,-5|Come and see do not worry|next,-4|Yes, that's the end!|next,5||size,0.5|I am worried
+|tail,7|Hey jeans ready for justice!|next,8|No, he wants to remember this place. As usual.|next,-5|Has this happened before?|next,7|Hey, right? Don't wait, I will pay!|next,8|You're confused, you lied to me! You are not a fan of fan club!|next,7|M!|next,-5|(I want.)
+|tail,-5|Thanks.|next,caller|You don't need to wait for the witch to do what she wants.|next,-5|(Well, why did you come here?)
+Well, not many crocodile people.|next,-5|Why do you think he believes in torture?|next,caller|People in the community can talk a lot.|next,-4|Wow, so all the fool here!|next,caller,Angry|Or, they may find someone to trust.|next,-4,Angry|How do you say that?|next,caller|Enter the reason. If you are angry, express your concern.|next,-4,Flustered|What would you do? ??? I want to fight! ???|next,-5|There she is! Vi, I have a license. Do not touch the problem.|anim,-4,Angry||minibubble,@OK,-4||next,caller,Idle|Yes hello, I need two.|flag,92,true||next||destroyminibubble||end|
+Yesterday it rained a lot. We are busy, we regret the problem.
+Welcome!
+|flip,caller,true||align,right,true|Leadingo leads |color,1|Sneakmouth Den|color,0|. Only a recognized research team can log in today.|next|He is right.|pickitem,1,0,true,false,32,35|
+|checkvar,0,27,33||goto,35|
+Box! I opened the door. Secure login and login|break||event,17|
+Learn from the Queen
+Excuse me. The permission does not expire. This is the law.
+Oh, why did you make such a decision? Cuts.|next,14||face,14,-4|?? I cannot say for sure.|next,-4,Angry|Tell the reason.|next,13|Forgive my husband Celia. The mountain is very slippery.|next,-5||color,1|Old hair|color,0|? They are unique in this city.|next,13|Beautifully. If |color,1|something is missing|color,0|, they can keep their previous flight.|next|Lilac to |color,1|heal the crystal wounds|color,0|!|next,-4|Do you agree? Is everything alright?|next,13|Yes, there is no hope.|next,14|Levi, show me!
+Preparation|next,-4||anim,-4,Happy||face,13,-4|Wow! Normally! rich!|next,14|This will take some time.|next,13|Only the Queen of Ants launches the stone.|next|It is hard to do this, even if you find yourself in the desert.|next,-4,Angry|Congratulations for this idea ...|next,-5|But the look is amazing! Use it at any time.|next,-4,Idle|Of course this is possible. Continue.|next,13|Hi!|minibubble,@... Trustworthy.,14||next||destroyminibubble||end|
+What?|prompt,map,0.6,2,39,40,@Yeah,@Not|
+|event,20|
+She is very beautiful. Let the Queen run.
+Let me know if you can do that again.
+It's good to be with friends, but laugh with us.|next|We will be back soon, we are read.|next,-5|Good luck.
+Will I come back later? Try these pictures!|next,-5|(Do not stop working.)
+Oh ... it's over. Sometimes everything does not end!|next,-4|Who are you?|next,caller|Sorry! I am an artist and me too.|next,-5|Wool? Thank you for your effort.|next,-4|Thanks.|next,caller|Am I Maggie? I hope you find it easy|next,-4|You know!|next,caller|Yes, he sees this as a challenge. It's been a long time ... hello.|break||giveitem,2,11,45|
+|tail,-5,instant|What is the certificate?|next,caller|Let's say you want to be new. The higher the risk, the greater the benefits.|next|If you can defeat the big enemy you brought in, look, right?|next,-4,Happy|I haven't heard anything! This agreement was reached!|next,-5|Thanks for trusting us. Be careful, Artemis.|next,caller|He shot someone to ensure his safety. Let's meet several times.|flag,32,true|
+What did you say yet! You need to do something about the service|line|that helps.
+Makky! ! !
+Dear brother! How long have you waited? ???|next,4|Sorry Chinese.|next||face,4,-1|The Gbas River is gone. You see, it is.|line|You can do better.
+Geez! Where is she now?
+|event,true||align,left,true||face,caller,-1||tail,-6|She is crying and we need to be in the right place.|minibubble,51,-5||next,caller||destroyminibubble|Are you an investigator?|next,-4|You know we love your message on the wall!|next,caller|Sir!|next,-6|Is your brother far?|next,caller|Yes, you gave me a birthday ...|next|I have nothing to say!|next|No longer! Tomorrow Princess Snakemouth!|next,-4||minibubble,@...,-6|Don't worry, Levi|next,-5|Is that correct. I will participate in your safety. I think that is correct.|next,caller,Idle|Why thank you! I don't think so!|next,-6||destroyminibubble|... Yes let's go.|break||event,false||addfollower,this||flag,54,true||end|
+Life! Soon!|halt|
+|checkflag,53,54||tail,-4|Did you order a bulletin board?|next,-5|Yes, we need to know what he needs.
+|tail,-4|Yes, they both seem to be having fun lately.|next,-5|The joy of being an analyst is the joy that we bring.|next,-4|Best use.|next,-5|...|next,-4|Stomach ice! Very happy.|next,-6|Good luck
+|tail,-4|He started to cry. I want to know what happened ...
+Thank you all. I am telling the truth!
+Thank you for saving me. One day I will be very critical!
+Thank you all.|next|We hope you do not mind.|next,-5|There is no problem. Both are not good.|next,-4|Details!
+Be careful, both of you
+|checkflag,32,44|Hey, let's see how I act again.|break||event,33|
+Think! Good job, sir! Hit the |line||string,0|!|next|Very Difficult.|line|He deserves it. Dirt.
+Hmm ... Did you kill a powerful enemy?|next|Do not worry, there is no one in the world.|next|This is life?
+Hope something wins.
+Sir! Diligent! Did you come to the |string,0|?|line|Believe it here!
+Ethel oversees the workgroup and assists the company in the work.|next,-6|Let's just eat. But we did not understand what we needed.|next,-4|We have to accept!|next,-5|Yes, not you|next,-4|I do not know! ... if not.
+Is he working?|prompt,map,0.7,2,66,67,@Yeah,@Not|
+... Come on! Do it!
+Swallow it well. I want to change my mind.
+Shame on the team! Looking for a job?|next|See this picture. You always win!
+Explorer Explorer fake version
+Wow! Stay with us! How crazy to do this!|next,-4|What?|next,caller|How are you?|next,-5|Wow ... isn't it that bad?|next,caller|Not him! No war experience! A mysterious power stops ...|next,-6|You can do magic. Hey, we did a good job ...|next,caller|She is beautiful now! You will not learn or advance without closing |line|your bag!|next,-4|I miss the grand prize! How do we deal with it!|next,caller|You can read a book, not to break the curse! ... and fruits.|next,-4|Can you get it for free?|next,caller|Excuse me. Empowering citizens will cover costs. Yeah?|next|Don't be too expensive! Come see and enjoy yourself!
+We have a group of songs, do you care about the search?|next|You need to eat |currency,var,1| to get to the next step.
+Do not worry!
+|boxstyle,3||spd,0|North: the same kingdom|line|The sun: the way of the snake|line|Right: Through gold
+Wow! This jewel hinders our business trips!|next|If they do not fix it right away, we will lose! Hello ants! Not everything! ! !
+My wife comforted me, but I couldn't do anything until she was |line|so strong.
+Hey, I have to go to the city right away. Now you have to wait for this driver to be removed.
+Movie! Amazing work! Stand with something and press |button,4|.|next|Call your husband if you want to sell something.
+Hello, we have been invited to our place! Forgive my wife|next||goto,-48|
+The port is one of the largest operators in the world. I feel happy.|next,-4|I was not invited as I thought!|next,-5|She has a beautiful home for her husband.|next|I think we judge people.
+One tourist in Al-Hasakah.|next|He won the contract and promised his wife.|next,-4|After all, how do you do all these wonderful things?|next,-5|Vi, do not look at others!|next|... I am someone different.
+Religious goats. This is a social problem full of fun and challenges.|next|I was advised to invite members who worked hard for a short time.|next,-4|Finally there are no shipping costs!
+|checkflag,61,89|Well ... Jenna takes care of her brother, right?|next,-6|Do not take revenge. Maggie ran for herself.|next,-4|The fear. Do not blame him!
+|camspeed,0.02||camtarget,-20,4.75,18||camoffset,0,2.5,-9||removemaplimits,true||event,true||flip,caller,false||align,left,true,2|Do not do that again! ???|next,-6|I saw him at the royal meeting.|next,-4|Did you go to Comson?|next||tail,caller|I do not need. On the phone!|next,-4,Sad|Already one! !|next,-5||anim,-4,Idle|In this photo, your brother is one of the most respected researchers. This would be great!|next||tail,caller|I know ...|next|But your nerves do not interfere! We are a special team! I love that!|next,-6|Maybe you need time?|next,caller,Angry||boxstyle,1||anim,-4,Hurt||anim,-5,Hurt||sound,Wam,-1,1.1,0.6||shakecamera,0.1,0.25||shaky|Wow! ???|shaky||next,-5|Hi!|next,-6||boxstyle,0|Nothing nothing|next,caller||boxstyle,1|Think!|next,-4,Sad||boxstyle,0|Get out of here scary!|flag,61,true||break||event,false||anim,caller,Sad||resetcamera||resetmaplimits,true||end|
+Leave me alone and I'll go too|next,-5||wavy|*|wavy| Good job, Life.|next,-6|We did nothing ...
+|checkflag,72,92||tail,-6|Jenner and Power differ.|next,-4|Fortunately, we have support!|next,-5,Happy|Is that correct. Those who think so are the researchers!
+|tail,-4|This is too dark.|next,-6|Come on.|next,-5|Stupid. I believe in you, I understand!|next,-4|...|next,-6|...|next,-5|Good morning!
+|boxstyle,3||spd,0|I am not at home now.|line|If you need me, leave a link to the beautiful woman next to him.|line|                Madeleine
+|gettail,48|Sheehan! Tramindoy! Any thing else!|next||gettail,47|Yeah ... we'll do something!|next||gettail,48|Come on
+Well ... Jenna takes care of her brother, right?|next,-6|Do not take revenge. Maggie ran for herself.
+|event,true||tail,7|Shame on the team!|next,8|Are you really afraid? Nice to meet you!|next,-6|... The river is not fun.|next,-4|Yes, we have a God ...|next,-5,WeakBattleIdle|Thank you for your interest!|next,8||anim,-5,Idle|At least we can carry it.|next,7|Your team is reliable ... sometimes needs help!|next,-4|Hmm ... this is a valuable benefit!|next,-5|... Michigan, Vi. Adult researchers can always count on our support.|next,8|Exceptional! I promise to ask you if you need help.|next,-6|Naturally ...|next,-4,Angry|Something is wrong or wrong!|next||anim,-4,Idle|However. Time to visit again!|next,-6|Get out of the river ...|flag,72,true||break||event,false||end|
+|tail,8|Avoid trouble!|next||tail,7|Found!
+A- Note: Our husbands do not treat this plant.|next|They agree with me.|next,-6|Hey! Come on.|next,-5|Life! Planting time!
+|tail,-5|No, no kidding.|anim,-4,Angry||minibubble,@Miles / hour,-4||next||destroyminibubble||end|
+My God! This is no thing! I scared you when he left!|next,-5|The journey is difficult. Flood.|next,-4,Flustered|Do not play! I don't want to see the beach!|next,-6|We are glad to finally arrive.|next,1000|The sea! ??? This is a big mistake! ! !|next||anim,1000,Idle|But ... you know, the cup, who are you?|next,-5,Idle|Eatl, this message. We saw the snake trapped.|next,1000,Flustered|Then go to Snakemouth! ???|next||gettail,48|Frankly, I think you should pay compensation. Stupid Snakemouth Toja!|next,-6|Winning is a good idea. Naturally...|next,-4,Flustered|We did it! I hate it!|next,1000,Idle|Wow! How are you, Vi. This river hurts.
+Impossible! Snake inside! ???
+Yes correct! Idle in your hands!|next,-6|Like a pipe.|next,-5|Vi, the news is meaningless.|next,-4,Happy|This is shameless, I can't say anything!|next||gettail,47|Yes correct?|next,1000,Idle|Yes, just like the machine we were born into. You need |line|to be a good seller.|next||flip,1000||size,0.75|(... Like now ...)|size,1||next,-5,Idle|Been confirmed?|next,1000||flip,1000|I think I will see the Queen soon! We loved it!|next,-6|We met the last queen.|next|... If you look a little, you will not see its structure. New?
+What is the link? There are already many satellites!|minibubble,@...?,-6||next,1000||face,1000,-6|Are you out here?|next,-6||destroyminibubble|We. We know he's here. But because of its effectiveness ...|next,-4,Happy|Clouds and caves! Hope it comes to you!|flip,-6||minibubble,@(...),-6||next,-5|Ethel, what about the papers? The research team was told that there |line|may be two members.|next,1000|Oh well, this is extraordinary, but you won ski snakes. It's been a long time coming ...|flip,-6||destroyminibubble||minibubble,@(... annual?),-6||next,1000|I mean ... make her the CEO who remembers your activities ...Congratulations |line|to |color,1|SnakeMouth|color,0| on all three teams!|sound,ItemGet1||next,-5|The Shisui team?|next,-4,Happy|The name of the manager!|next,-6|Yeah.|next,1000||anim,-5,Idle|That's all, that's all! Run away from the girl! You need to know that he found the ship.|next||gettail,47|Wow, I'm bad! I hope he gets a good gift.|next,-4,Idle|Good morning!|next,-5|Continue.|next,-6||destroyminibubble|Yes, crossing the field is very useful.|next|(I need more information ...)
+Oh, where are you going? ! The city is located in the north!|next,-4,Angry|Hi! Hi!
+|boxstyle,3||spd,0|North: the same kingdom|line|East: Lost, Lake
+Debya, don't do anything. Watch both!
+I'm not another guy, Libby! We can help!
+|checktrue,348,54|Both reflect the true feelings of the two brothers.|next,-4|Because he always behaves like a kid!|next|You can do whatever you want!|next,-6|Vi, you may not be interested.|next,-4,Angry|Think about what you need.
+Hey boy!
+This is straight ...
+You find! Several years!|next|I don't know, thank you for your support ...|next|Think.|break||giveitem,-1,30,106|
+Give it for free! Prepare the tea!|completequest,39||flag,391,true|
+|checktrue,571,128|Good morning! Ask if you need anything!
+A man in m. I need to pay more|next|Thank you for defending me twice. I will pay it one day.
+|event,true||define,55,s||define,56,d||igcolmove,55||igcolmove,56||parent,56||align,right,true,2.5||face,55,-1||face,56,-1||flag,478,true||tail,-5,instant||goto,110|
+My class! Telila! how are you|next,d|Oh, Suzuki! We are the best. Let us explain the bank secrets!|next,s|It looks like a sack covered with ropes. If you want to get there, you have to cross the river.|next,d|Is that correct. But we have no time to try it out! There are so many unresolved secrets!|next,-6|So you can not handle it?|next,d|You will miss this opportunity to learn more!|next|For this reason, I heard that "vegetable paradise" is the perfect place to meet |color,1|Jinmiao|color,0|.|next,s|However, Jinmiao is strong and cannot be ignored.|next|However, they are known to have an amazing fruit, so you have to decide who to fight.|next,-4|Never deny love! Thank you for the gift!|next,d|There is no problem! Watch out!|break||event,false||end|
+There is a "paradise" in front of the fruit area.|next|I don't know why, but it seems that Jinmiao is easily accessible!
+There is better access to the beach.|next|Watch out.
+Stratus and Delia.|next,-6|They seem to be busy searching. See if you have information.
+|align,right,true||face,caller,-1||anim,caller,Surprized|Snake d! You do my job! ???|next,-5|Is it bad? We need help ...|next,caller,Idle|No, I think you do something else.|next,-4,Idle|Not good! If we pay, we will!|next,caller|Well, thank you for being stronger than you and your team.|next|This is a very easy task. Hold this bag.|break||flag,480,true||giveitem,1,149,115|
+|tail,-6,instant|How do.|next,caller|Open. Faith!|next|My friend Bukaria is a boxer to the |color,1|east|color,0| of the audience.|line|Continue.|next,-4,Happy|Do you owe it now or is your friend paying you?|minibubble,117,-5||next,caller|He is waiting for something. do not worry|minibubble,@Beautiful.,-4||next,-6|We leave here. Good luck with the paper|breakend|
+|checktrue,613,137||checktrue,671,142|Thank you for your help. Do you think the team will develop?|next|If you need to organize your data files, check out the schedule
+Vi!
+When they met, they beat their bodies on the way to the lost river. Be careful along the way.
+|tail,-4|Snake controller?|next,-5|Hmmm ... no, it's like someone else.|next,-6|How do you know that most groups are the same.|next,-5|Nour in his eyes! The post has been published!|next,-4|There are a number of shields.
+Wait and happy birthday!|next,e1||face,e1,gen||face,e2,gen|How fast did you find it?|next,eri|What a good researcher!|next,e2,BattleIdle||anim,e1,BattleIdle|Come on, Ken!|next,eri,Surprized|No, you shouldn't!|next,-5|Good night! Looking for a good job to buy!|next,-6|There is no lack of energy in the conversation.|next,-4|OK.|next,e1|Weak. What do we do? ???|next,-5|Like him! Why Maki asked all the questions!|next,e2|What all princesses found!|next|Nobody has the right to teach!|next,-4|....|next|I understand your feeling. But ... the answer is not a sin!|next|Teaching and encouragement can cause bad things!|next,e1|He did not teach us! So see which one is stronger!
+Like him! perfect!|next,e1||shaky|...
+|shaky|Hey|shaky|, he did not find our plan.|next,e2|We are on the run!
+Highly affected
+|wavy|Shoot ...|wavy||next,gen|Batman, you think our responsibility is the best! ???|next,eri|We do not know our plans!|next,-5|I do not believe you! Good job!|next,gen||face,party,gen|We will send them for inspection. Thank you for your help!|next,eri|Let's see if we support this license ... they have.|next|Hi!
+|tail,-6,instant|Energy.|next,gen|I will be back. I hope to finish working again!|next,-4|Good morning!
+Thank you all! Can we help each other?
+If it weren't for you, we wouldn't have missed it! Straight ahead!
+Good morning! How can I help?|next,-4|I want you to know that you gave me one day!|next,caller|Does this hurt?|next|I am a beautiful god! There are old ones that are no longer used. only you!|break||giveitem,1,167,129|
+|tail,-5|M! ! You have to pay!|anim,-4,Sad||minibubble,@(Not!),-4||next,caller|Not! At least after the help!|next,-6|Thank you for your help.|flag,572,true|
+Good morning! Hope the diary helps!|next|I want to know if I can live with these brothers, but ...
+Sorry, but you cannot add one without tomato ...
+As a bodybuilder, I recommend a snake mask team of |sound,ItemGet1||color,1||var,2| levels|color,0|!
+Good morning! At this level, you can tame the |sound,ItemGet0||color,1||string,0||color,0|!
+Good morning! You can publish this post to promote your portfolio! |line|You can get |sound,ItemGet0||color,1||string,0||color,0| points now!
+I do not believe you! MAX A MAX RANK Check now!|next,-4|Open your mouth! What a beautiful gift! ???|next,caller|He did not do. Initially, only Maggie's team came ...|next,-6|This is ridiculous.|next,caller|However, you are now the best researcher! Congratulations!|next,-5|Ethel, thank you. We can not do without you!|next,caller|Do it well and safely!
+I can't stand it, you alone!|next|If you don't want to do something new, look for the media.
+|hide||event,208|
+Please say, how are the large puppies ...
+This level can handle an additional |sound,ItemGet0||color,1|1|color,0| megapixel by adding 1 megapixel!
+|tail,68|Yes is it scary?|next,69|Yes, a team usually saves Sheshui!|next,68|It helps build trust ... We do our best!
+|tail,-4|I think I need to be a better researcher ...|next|Good job!|next,-6|The general and her husband are very helpful.|next,-5|Energy! Men of the same mind are one of many fun games!
+Shame on the team! Best.|next,-6|Didn't you see her last time?|next,caller|Been confirmed? Yes ... they are really unemployed.|next,-4,Happy|Energy! Enseemy!|next,caller,Flustered|Stupid! !|next,-5|The news is not true, but it is true. We helped a lot of people.|next,caller,Sad|He is the best!|next,-6|Yeah.|next,caller,Idle|"|color,1|Roig|color,0|"|next,-4|Who is Ricky?|next,caller|According to Artemis, "horse symbol" was released by researchers |line|this month.|next|Did you do it?|next,-5|Thank you so much! What is "specific code"?
+So Madeleine made a big mistake here ...|next,-6|Why are we so generous?|next,-5|This is part of efforts to prevent accidents.|next|Put it next to the house!|next,-4|Do you have a gift? I do not understand ...|next,-6|... Do not be afraid for a few days.
+|tail,-4|This post is not an important thing Do you really need?|next,-6|You are not pure. Sometimes he just wants to be together ...|next,-4|Yes, but you do not pay!|next,-5|I know they have a close relationship ...

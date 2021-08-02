@@ -1,0 +1,4 @@
+|tail,-6|This is not the same. Not. Very unlucky.|next,-4|This prison is waiting for you! ???|next,-5|You deserve to be honest citizens ... I don't want to grow here.
+We can deal with prison.|next|Now we need to restore the Queen's confidence.
+|boxstyle,3||spd,0|The gun knocked on the prison door.|next|Do not care.
+|boxstyle,3||spd,0|Researchers and tourists do not check the permits.|next|Otherwise, we are considered prisoners. Have a nice day.

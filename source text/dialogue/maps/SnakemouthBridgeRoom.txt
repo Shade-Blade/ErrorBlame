@@ -1,0 +1,11 @@
+One day in the synagogue was dangerous, but the building was |line|comfortable.|next,-4|Let's do it!
+Lighter. The house should be close to the top of the gap. We are very excited!|next||tail,-4|Make sure ... |fwait,0.1||anim,-4,Angry|Flight? |face,-5,-4|Do I talk about all the little things?|next||tail,-5||anim,-5,Hurt|!!!|line|And ...|wait,0.2||anim,-5,WeakBattleIdle|Excuse me.|next||tail,-4||anim,-4,Sad|Do not do! |wait,0.2||anim,-4,Idle|What is going on?|next|Press |button,9| to learn more about the site, object or person.|line|Are you fine?|next||tail,-5|....|wait,0.2||anim,-5,Idle|Yes No.|fwait,0.1| This will always spread the information.|next,-4,Happy|OK. Straight ahead!
+|face,-4,-5||flip,-5,false|This is like a stairs. Where are we going?|next||tail,-4|That's all, that's all. Game over. |flip,-4|I can sleep.|next||tail,-5|Dear|face,-5,-4| Vi. Durability!|face,-4,-5| Time will answer! We must find a way ...|next||tail,-4|Land. Touch that, you know? watch out!
+This is one of the old keys! Click!
+Can you still fly?|next||tail,-4|Attempt. There is a better project.|next||hide||anim,-4,BattleIdle||fwait,0.3||hide|Really |color,1|Caro|color,0|!|minibubble,@And therefore.,-5||line|Press |button,6| and then press |button,5|.|next||destroyminibubble||tail,-5|I believe you. Attempt!
+|boxstyle,4|I think it is broken.
+Doing so is a big risk.|next|"One of us was lost in this dreadful place ..."|next||tail,-5|Example! This comfort is soft. Our trip is not easy.|next||tail,-4||face,-4,-5|Shelter is not good.|next||tail,-5|A lot of people started looking for wealth. You will appreciate it soon.|next|(I understand, I understand).
+|face,-4,-5|Thanks. I can't wait for that!|next||tail,-4|Normal! Idea!|next,-5|I am still so happy to trust someone.|anim,-4,Happy||minibubble,@Normally!,-4||next||destroyminibubble||end|
+|tail,-4|Capitalism portal.|next|"He is driving."|next,-5|! Even in! Soft comfort. Our trip is not slow.|next,-4||face,-4,-5|Only GUOTG.|next,-5|This is more treachery. We think competition is a treasure.|next|(I tell a story)
+|boxstyle,3||spd,0|Capitalism portal.|next||spd,0|"He is driving."
+|boxstyle,3||spd,0|Some enemies can protect and reduce the attack force.|next|You will raise its wings, some defenses and some enemies will |color,1|fly|color,0| and destroy you completely

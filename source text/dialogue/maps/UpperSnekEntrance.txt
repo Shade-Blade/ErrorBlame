@@ -1,0 +1,6 @@
+|checktrue,517,2||tail,-4,Angry|Is this a river?|next,-5|Comedians love to cover everything.|next,-6|...
+|checkflag,650,3||tail,-5|Do not argue! Life, this place may be a point in the past!|next,-6,Hurt||goto,4|
+|checktrue,532,5||tail,-6,Hurt||wavy|Jantgb VI.|wavy||next,-4|How are you Life? This will be important!
+|tail,-5||flag,304,true|Bloody hell! Life, this place may be a point in the past!|next,-6,Hurt||goto,4|
+|face,-5,-6||face,-4,-6||wavy|Rhskg, bbtukdertan wfdyik.|wavy||next,-4|Ready to go?|next,-6||wavy|Something ...|wavy||next,-5|True.|next,-6||wavy|... Rick?|wavy||next,-4,Flustered|Isn't that long?|next,-6,WeakBattleIdle|....|next|Grace lives here.|next,-5|We try great websites at your own risk.|next,-4,Idle|I hope there is still one or two!|next,-6|Finally ...|flag,304,true|
+|tail,-6|Are we really back here?|next,-4|So? There is no way.|next,-5|Life, you can stop us. Do not use force.|next,-6|Not very good. But wait not long.

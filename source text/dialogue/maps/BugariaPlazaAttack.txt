@@ -1,0 +1,3 @@
+|tail,-4,Sad|All ...|next,-5|Inspiration, Vi! see you later!
+...
+|tail,4|I'm here! Enjoy!|next,6|Shoot us!|next,5|Kill them and don't forget!|minibubble,@Found!,4||breakend|

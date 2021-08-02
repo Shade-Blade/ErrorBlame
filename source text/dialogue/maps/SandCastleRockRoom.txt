@@ -1,0 +1,1 @@
+|tail,-4,Surprized|Perfect! D Impala!|next,-5|This house is not very beautiful but it is real!|next,-6|It looks like they haven't been called anywhere.|next,-4,Sad|This is not a factory defect.

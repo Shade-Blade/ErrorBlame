@@ -1,0 +1,101 @@
+|tail,-6|There are many families.|next,-5|Is this really what it is?|next,-6|It's a small thing, it's like a public place ...|next,-4|Well, did you change the field?|next,-6|There are a lot of people you need. But I miss the park ...
+Wow, are you a snake?|anim,-4,Happy||minibubble,@Energy!,-4||next|Be careful when you go out! One of the strongest animals when both creatures are defeated!|next,-4|There is no problem. I'm the queen of the mass murderer!|breakend|
+Hey! Do I have to be deaf? I wrote some letters myself!|next|There are many seeds. But not everyone has a card.
+|tail,-4|Ants need to grow their hair! ???|next,-6|Vi, these letters.|minibubble,@(Is that correct?),-5||next,-5||destroyminibubble|Perfect ...
+|wavy|Yeah ...|wavy| What is the introduction? The sun is very strong ...
+|tail,-6|Yoyo. The animals walk with you.|next,-4|Your condition must return to Khiva ...
+Make sure ...|next,-4|Do you want to be fair?|next,-5|Try the green color with a veil that covers your heart!|next|Maybe I can write a message to myself and copy the image?|next,-6|Have you |wavy|thought|wavy| |anim,-5,WeakBattleIdle|about it?
+|tail,-6|We find it very interesting.|next,-5|Life, do not know your mistakes!|next,-6|This works with you |anim,-4,Angry||anim,-5,Angry|...
+|checktrue,86,89||tail,-6|He is a handsome man.|next,-4,Angry|We must decide what a beautiful Nietzsche!|anim,-5,Happy|
+You know, this is a beautiful place.|next,-4|Listen to music!|next,-6|This is a long chat ... leave.
+|tail,-4,Angry|I have full confidence in this person. Yellow rain!|next,-6|If she had cultural resources, she wouldn't run out. Mission.|next,-5|OK. They were not brought.
+|hide||event,160|
+Do you accept my order?|next|Well, I think I know what will happen next. Clean the sea!|next|Look, I love the sea ...|next|It is time for me to greet one of you!|minibubble,@The girl's face.,-6||next|I want revenge now! But he could not refuse. Then return to my place! Because angry!|next,-5||wavy|Why|wavy| do you hit them?|next,caller|Yes, I got @VAR@.|next|The pool is finished, so you need a way to pass the water.|next|Reward the project while waiting for the work to be completed. Let's go now!|next,-4|Relax! Distance!
+Do you have it|next||shaky|Wow!|shaky| Weight loss! @VAR@ of them should win! He went quickly.|next,-5|Now we see the number of books in the library.
+Oh, here it is! I think we all should win.|next,-4|Yes, now the gift!|next,caller|Is that correct.
+Oh, my friend, come here.|next|Not much, but there is one thing.
+Oh, I'm fine. good night!|next|Thank you, I will never forget what you did.
+Wh- which side?|next,-4|The Snake Mus team, ready to go!|next,caller,Idle|Or looking for? Do you see my work?|next,-6|I can tell you.|next,-5|Do you know what you know?|next,caller|The confirmation is very simple. The thief stole my friend's mask!|next|It must be closed! But I can't play it alone.|next|You have to pay!|next,-6|Durability. True.|next,caller,Angry|Yes, you will not run!|next,-6|Do you want to start the browser?|next,caller,Idle|The ...|next,-6|However, you will be left alone.|next,caller,Angry|Ask!|next|They will think you are with me even when they meet!|next||anim,caller,Sad|Is fighting! What a tragedy!|next,-5|This is the hunger for justice!|next,-4|You can not fall|next,-5|Good people but then we did that!|minibubble,@Is that correct ...,-6||next,caller|Think! Then he left!|break||flag,512,true||addfollower,this||destroyminibubble||end|
+Swallow it well. You made a list. You have to wait now.|next|Is there a weakness?
+|tail,27,instant|Then I ... |shaky|periodically|shaky|!|next,28|K?|next,27,Idle|Here I wear this mask too!|next,28|...!|break||event,177|
+Thank you so much! Maybe broken ...|next,27|OK! OK!|next,-6||face,27,-6|Yes, I am glad you are beautiful.|next,27|I think a friend!|next,-5|Mongolia, this event is amazing!|next,-4|Although he forgot the prize...|next,27|Excuse me.|next|Haha ... but good.
+... Thank you. I was amazed by the money.|next,-4|Ineffective!|next,28|Instead of talking to my brain, I sat down and made a new mask.|next|If you think it's worth it, I'll steal it.|next|You have to believe me!|next,-6|No one will blame you.|next,28|Sorry, is this a secret?
+You will find my hidden breed!
+Yes, he died.
+|boxstyle,3||line|"This only comes upon our notice|line||line|               Happiness|next|It affects many states of war. The most common are:|line|Nutrition, collision, sleep and freezing.|next|It hurts you at the end of the poisoning phase, but you can also |line|face physical attacks.|next|However, the other three are still suffering.|next|The attack is over, but your strong body gets one protection!|next|Sleeping is normal when HP returns and recovers after a rest.|next|If the falling ball cannot move and the hand is shortened to 1. |line|If it attacks, it must be destroyed quickly. Need to!|next|Each person is different. To explain, trees do not sleep!|next|Dealing with social passion is the key to professional wrestling!
+Hi how are you! You don't need to do anything but relax.
+Hi how are you! Am I a researcher?|next,-5|This is really the question.|next,caller|Why thank you! I have to work on this book.|next|... In a day!|next,-4|?? Isn't it ants? What do you think?|next,caller|Oh, I begged Jin and her husband to help me get the book. They are busy and cannot return.|next|This book. Stay here!|break||giveitem,1,93,27|
+|tail,-4|Dad, I hate this tragedy.|next,caller|Pay! Even for quick providers ...|next|Wow, did you send Liburn? Brooke feared wasting time ...|next,-6|Of course, you can leave it in our hands|flag,241,true||breakend|
+Send now! Count ...
+Pal thanks a lot!|next,-6|Walk in the park.|next,-4|Give us a gift!|next,caller|Is that correct. I think that's enough!|break||giveitem,-1,15,31|
+Not a book.
+|tail,-4,instant|Good job! Fruit is solid and cool!|next,caller|In other words ... I have another book ... I forgot ...|anim,-4,Angry||minibubble,@Stupid! !,-4||break||destroyminibubble||giveitem,1,52,33|
+Good morning! I feel at home!
+|tail,-4|They look weak! Well, the price doubled!|next,caller|Sorry! But I give the remaining strawberries.|next,-5|Well, you can go back after separation!|next,-4|Does not matter!|next,-6|He was presented on the indictment after the deadline.|next,caller|Bon Grazie!|break||completequest,33||flag,243,true||end|
+Hopefull! Look beautiful! Hey, it's time to eat!
+!!! M- Moses! ???
+Discussion
+Ma'am, are you going to die soon?|next,19|You eat this fat, huh! This will give you the power to play all day!|next|I hope you have it! The breakfast is delicious!|next,18|Wow! Thank you mom!
+Create? So is this a mixture?|next,-6|This is our wife|next,-5||anim,-5,WeakBattleIdle||anim,-4,Surprized|His wife! ??? But the message ...|next,-6|Impossible for me.|next,-4,Idle|Then he needs his niece!|next,-5,Idle|Yes ... well? You can meet your relatives!
+Enter the reason. How do you defeat them?|next|Shows times when you didn't understand ...|next,-4,Sad|Not bad ...|next,-6,Idle|There is something strange about us. If we want to end our lives ...|next|Nietzsche San T Ne Ho oma s.|next,-5|Life, I will help.|next,-4,Idle|OK! When we are ready, we can return to them!|next,-6|... Thank you. Let's take a look at the instructions.|next|But we cannot forget the work. Continue|next,-6||flip,-6|(Of course ... we are glad that you survived and died.)
+Hey! Not pretty dear!|next,-4,Angry|How is that?|next,-6|I pray for you.|next,-4,Flustered|I did not ask him.|next,caller,Happy||anim,-5,Happy|! "There is nothing I can do!"|next,-4,Angry|I am going now. Good morning!
+|wavy|Sigh ... * sigh|wavy|. How can I appear without my favorite hat?
+|tail,-4|Hey, we love your message!|next,caller|Is that correct? Could this beautiful meat help?|pickitem,1,0,true,false,44,46|
+|anim,caller,Happy|Hey!|anim,-4,Sad||minibubble,@This can be done here!,-4||breakend|
+|checkvar,0,117,45|I'm not sure ...! This is not my favorite hat!|minibubble,@Something is not right ...,-4||breakend|
+|removeitem,1,117||anim,caller,Happy|Ready? Yes, here is a nice hat! Listen to my magic again!|next,caller|Hello, animal! Thank you for your help!|next,-4,Angry|I am not a "beautiful honey".|next,caller|Excuse me. I can't do anything!|minibubble,@No need.,-6||next,-4|Watch out. Paid for.|next,caller|A gift for my beloved beloved Savior!|break||giveitem,2,20,47|
+Oh, please ... find my hat!
+|tail,-4,Sad|How do. I do not want anymore.|next,caller|These solids make you feel at home!|next,-5|It takes a few days ...|next,-4,Sad|Network, open here!|next,caller|Eta, c. Me, my real name. Come back on time.|minibubble,@Your wish!,-4||completequest,38||flag,308,true||breakend|
+Do you still have researchers?|next|Suggestion: protect the water.|next|I don't know which animal is hiding underground.
+|wavy|Esik *|wavy| i|next|Oh, what are you looking for? He said he worked as a missionary in the suburbs. But he is not an analyst.
+I'm confused now, but ...|next|When the door came back, he had a problem. I hope you can help me.
+|checkmapflag,0,52,true|Hi! Do not be late or relax.|mapflag,0,true|
+With me ... strangers came last season.|next|I didn't know what they would do, but I was glad I left. Do you still feel their presence?
+|tail,-4,instant|Oh, oh, double it!|next,27|??|next,-4|If E-Err ... 20 ... 20?|next,27|OK|next,28|Thank you again. Good evening!
+Y- What do you need? Don't pay much attention to the door and the carpet!
+Well, you can't be below your full potential.
+I care about my work. The door cannot be opened ...
+...|anim,-6,Idle|Yes come on, we know ... we know.|next,-5|We came to the rescue!|next,-6|Thank you never.
+Hmmm ... don't do that. We are not ready ...|next,-5|She is very beautiful. Come back if you understand what's happening to everyone in Snaemouth.
+|tail,-6|Vi, Kabu. We can see the flight here.|next|Who are we in front of you?|next|... We do not know ...|next,-5|...|next,-6|I feel that I am not a victim of political change.|next|Good or good.|next|Memory loss and behavior ... valuable ideas disappear.|next|He cannot escape even if he tries.|next,-4|What would you do?|next,-6|... We love seeing the family. Moses forgive me. Another Elijah.|next|Life wants to do the same!|next,-5|So do it! Watch the message! I think it will be fun at least!|next,-6|Yes ... we are sure.|next|I am not a paper, but we are still a sheet.|next|Waste of time and cooperation with Cordyceps ...|next|We live like scorpions!|next,-4|I am glad I did not go!|next,-5|Our friends, so they did not change!|next,-6|... You are welcome to enter. This did not happen.|next,-4|Are we here?|next,-6|No, I hope my family will visit our friends.
+You find! What brings you here?|next,tod|Madam, this is the Shisui team! Save us hatred!|next,oldman|Sir! Oh, that's an honor!|next,-6|These are my friends Kabu and Vi. Ku Kara ... message.|next|Several years.|next,-5|Gloria!|minibubble,@Energy!,-4||next,oldman||face,oldman,-6|Been confirmed? ...|next,muse|This is like a father. when I was young ...|next,tod||flip,tod|Is that correct! ???|next,-6||flip,tod|We are here ...|next|We think you are distant relatives. We always check ...|next,muse|How is that, Dad? What does this mean? ???|next,oldman|You know your sister! I am back!|next,tod|Am I my uncle? There is no idea!|next,-6|We are here.|next,muse|Oh, millions of ants!|next,oldman|I can not believe that!|next,-6,WeakBattleIdle|Excuse me. You give your life to her.|next||flip,-6|Let's go now ...|next,muse||hide||fwait,0.5||hide||flip,-6|Kattiruppatarkillai! But amazing!|next,oldman|Good luck and lunch! Your friends are the same!|next,-4|Sorry, this is bad!|next,-5|Forgive your wisdom.|minibubble,@Unbelievable love!,-4||next,-6,Idle|You really can|next,muse|Normally! This is the family!|next,-6|Of course not ...|next,oldman|I don’t know how to do it. But I understand that this is true! do not worry|next,tod|You are the best researcher! My mom is amazing!|next,-6,WeakBattleIdle|Thank you for your patience.|minibubble,61,-6||breakend|
+|wavy|...*sniff*
+The food scene ... food in the world!|next|Nice to meet you.|next,oldman|This is not a problem. I always come back!|next,muse|Share and check your story!|next,tod|Warning!|next,-6|We must be careful first.|next,-4,Happy|The food is delicious. Thank you so much!|next,-5|Thanks for your hospitality.|next,muse|This is the house. Is this trip safe?
+Hey!|next,-5|How do you feel, Life?|next,-6|Fortunately, we can’t bother you.|next,-4|Oh forget it.|next,-5|This is a wonderful gift to make you happy!|next,-6|Several years.|next|This is the situation.|next,-4,Happy|... Well, crazy page.|next,-5|If you have other questions, please contact us!|next,-6|Yes, something. So let's watch it. Many things will happen.|next,null||boxstyle,4||sound,ItemGet1|In addition to experience, the team can handle |color,1|Frost Bowling|color,0| attacks!
+Yes, I tried to get to the door, but I was nervous.
+|anim,caller,0|But first?|next|Good morning! Failure.|next|Would you be angry if your wallet was not wrapped and made tomato?|next|What to do if the thief is afraid of stealing money?|next|My job is yours!|next|You can provide bank loans and guarantees to ensure the safety of tomatoes.|next,-4|I don't know ... it's good fruit for me!|next,caller|This process is not inspired again!|next|Sometimes adding strawberries here is fun.|next|You will receive your account every 30 minutes! Waste of money!|next,-4|Free dark money!|next,caller|Can you wait?|next||flag,253,true||goto,66|
+|anim,caller,0||checkmoney,50,67|One more time? What do you say we think there are fifty.|showmoney||prompt,map,3,2,68,69,@List!,@I recommend.|
+... Hold the fruit?|next|Well ... fill your wallet and wait for it to come back. Then I can talk.|break||anim,caller,Sad||end|
+|money,-50||flag,254,true|It will be fun. Thank you|next|Your account is ready. Talk to him every time he undergoes surgery.|next,-4,Angry|Good to pay later ...|break||anim,caller,Sad||end|
+... Do not be warned if you lose.|break||anim,caller,Sad||end|
+|anim,caller,0|Hey, there ... you should go!|next||checktrue,630,83||checkvar,moreand,26,500,82||goto,83|
+|checkvar,atleast,26,1,74|She is very beautiful. How much do you want to buy?|line|She counted |currency,var,26|. |line|Press |button,5| to cancel the service.|numberprompt,0,3,78,73|
+|checkmoney,1,75|She is very beautiful. How much does the search cost?|line|There are |currency,var,26| in the tray. |line|Press |button,5| to cancel the service.|numberprompt,0,3,76,73|
+Your seed is not good here. Always return.|break||anim,caller,Sad||end|
+... someone. Stay here!|break||anim,caller,Sad||end|
+... You have no fruit. If you don't follow them, they won't be able to save you.|break||anim,caller,Sad||end|
+|checksum,v0,v26,10000,95||checkmoney,var,0,77||money,var,-,0||addvar,26,v0|Ready. Now there are |line||currency,var,26|.|next||checkvar,moreand,26,500,82||goto,73|
+... I want to be brief. Sorry, no help.|break||anim,caller,Sad||end|
+|checksum,v0,money,999,95||checkvar,atleast,26,var0,77||addvar,26,v0,-||money,var,0|Good job. Now she has |currency,var,26|.|next||goto,73|
+|boxstyle,3||spd,0|Bukhara Bank|line||line|50 new accounts!
+|checktrue,254,81||tail,-4|Puro ...|next,-5|According to Beans in Unds, this is great if you have a problem.|next,-4,Angry|I don’t know, I don’t think others practice it. Did they go too far and flee from us?|next,-6|Queen Anta accepted the chair. I think I have an account.|next||anim,-6,WeakBattleIdle|... but I think the account was deleted ...
+Are you fine?|next,-4,Angry|What if we stole a lot of money and acted in the flow?|next,-5|Be more confident in our cost accounting system!
+|checktrue,630,73||flag,630,true|Wow, I really saved you! 500 tomatoes for you!|next,-4|Yes, money is very important!|next,caller|Now a |shaky||color,1|platinum|shaky||color,0| member!|next,-4|This is like a league ... amazing prizes! ???|next,caller|Enjoy |color,1|twice|color,0|! You can get this great card!|break||giveitem,1,176,84|
+You have |currency,var,26| in your|line|account. What is that.|showmoney||prompt,map,2.3,3,71,72,73,@Tell me.,@Deposit.,@Received.|
+|tail,-4,Happy|Think! Good return on investment!|next,-5|Vi, do you agree with the bank?|next,-6|... Do you know the benefits of investing?|next,-4|... We become rich! Sign up.
+Beautiful discovery! Perhaps ... can I be a human?
+|tail,-4|Haha, we were honored by other researchers!|next,-5|Yes, but ... I cannot disturb you. Is it safe?|next,-6|We share this concern.|next,-5|(... OK ...)
+|checktrue,300,98|Books can grow beautifully! This is a beautiful mask!|next,-6|It does not grow well. There is a good god.|next,-4|This mask makes it more effective!
+Nails on the door really increased!|next,-4|We do everything ...|next,-6|There is more than a thousand glory.|next,-5|Fortunately, she worked safely ...
+|checktrue,308,90||tail,-6|A handsome man lost his hat|next,-5|Herb. We help!|next,-4|(At least not a joke ...)
+|tail,-6|He is a handsome man.|next,-4,Angry|We have to decide what the beautiful Nietzsche is!|anim,-5,Happy|
+|tail,-6|Gosh ... I don't think the name is the same.|next,-5|I'm not a star ... but I have to succeed!|next,-4|Do they do the same?|next,-6|... Not everything. The Qur’an is strong, confident and friendly. In other cases similar to in.|anim,-4,Happy||next|He has strong training.|next,-4|Both of them must be a great team!|next,-6|In fact, he does many things. There were no pages at the time.|next,-5|Yes ... I know your charm. I forgot.|next,-6|(Such as ...)
+Life, do not be strong! Break!|next,-6|Thank you, I will do the right thing.
+Life, are you a father?|next,-6|Well, it looks like a bag covered with ropes.|next|His father is tall and narrow.|next,-4|Oh, taller than you! ???|next,-6|Yes, weak.|next,-5|Looking forward to meeting your family!|next,-6|(... Hello Dad.)
+I am happy for my family and have fun!|next|Good job in the lab after her husband leaves, |line|I can even meet him!|next,-6|Well, we wrote a good story.
+The work seems to have gone too far. Should we try again?|break||anim,caller,Sad||end|
+Everyone is fine, but the attack calls on all of us ...
+Ready? Thank you ... I can enjoy life now.|minibubble,@There is no problem!,-5||breakend|
+|checktrue,514,99||tail,-6|The mask helps me to look better.|next,-5,Angry|There is no! But he stole!|next,-4|Oh, do you need eyes?|next,-5||anim,-4,Angry|Impossible!|next,-6|Now you have to break the limiter on the device.
+Books can grow beautifully! This is a beautiful mask!|next,-6|It does not grow well. There is a good god.|next,-4|This mask makes it more effective!
+|checktrue,514,88||tail,-4||anim,-4,Angry|The door is open! It seems to be paying off!

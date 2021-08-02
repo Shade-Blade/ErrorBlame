@@ -1,0 +1,21 @@
+|tail,-6|Dreams come true! Not recommended!|next,-5|I'm very happy to see you!|next,-6|Women often ask Abe to buy them. But it is expensive.|next,-4|Third, who wants to pay it? They don't have to work!|next,-6|But if you are an expert. Can ...|next|... Yes, we will not go back anymore.|anim,-4,Sad||anim,-5,Sad||minibubble,@Life...,-5||breakend|
+|align,right,true,2.5||anim,caller,Angry|
+|break||anim,caller,100||flip,caller,false||end|
+|call,1||tail,-5,instant|Now, can you save time?|next,caller|Anya! ??? Am I unemployed?|next,-6|The door is closed. We are inseparable.|next,-4|Not broken ...|next,caller|Not longer. |wavy|Tragedy|wavy| ... stupid. I love him, Elijah.|next|Now open.|next,-6|... All of these?|next,caller|I am an expert! Refusal?|next,-5|Thanks for the comments. Excuse me.|next,caller|But beer is worth it!|flag,450,true||call,2|
+|call,1||tail,-5,instant|Leader?|next,caller|A hero! This |shaky|too! ???|shaky||next,-5|Yes, this seems to be a problem. Are we not researchers?|next,caller|That.|anim,-4,Angry||next,-6|I think he needs help.|next,caller|What is modern magic?|next,-4,Idle|H.|next,caller|I think you can help me!|next,-5|Well ... what happened?|next,caller|...|next,caller|I need an electrician. But the truth is ...|next|I want to go everywhere! He asked me to leave the tower!|next,-6|What is that?|next,caller|"This only comes upon our notice|line|Fruit is not the fruit of life.|line|Ice alone! “”|next,-4|Excellent! What ingredients are used?|next,caller|MPH if you need help with repairs.|anim,-4,Angry||minibubble,@Good help.,-4||next,-5|The secrets of the top ten wizards!|next,-6|We have proven that this is worth our time.|next,caller|Gates, there is no respect. The countryside is incredible |line|this big thing!|flag,543,true||addquest,52,1||call,2|
+|call,1||call,14|
+|tail,caller,instant|Why? Have you seen three options?|prompt,yesno,-11,12|
+Something is missing! Is this useful?|next|"These little animals eat small animals on the ground.|line|Fruit is not the fruit of life|line|The beauty of ice cream! “”|call,2|
+... |shaky|Congratulations!|shaky| do not miss! Go quickly!
+Uh! This kind of magic!|next|Help me, thanks ... I'll give you a lot of strength.|next|Are I disappointed that I can use the application? Dear, you |line|have games.|minibubble,@There is no child.,-4||next,-6|What are you doing on fire? Yes, it is magic.|next,caller|Over there. more than ...|shaky|Express this feature in the dark!|shaky|
+Can I help?|next,-4|OK! I suddenly understood!|next,-6|His amazing power!|next,-5,WeakBattleIdle|(In the garden of my photo?)|next,caller|Wow, the movie. |anim,-5,Surprized|The girl's face.|next|Hi Gordon. I have the right idea.|next,-4,Happy|Thank you so much! Now America!
+|call,1|Wait a minute and get a book!|call,2|
+Cha disappeared from Chen.|next|"This only comes upon our notice|line|It says twice|line|Come on, ice! “”|call,2|
+|anim,-4,Surprized||anim,-5,Surprized||anim,-6,BattleIdle|Paper and power |color,1|transfers|color,0| can now be used.
+|hide||event,166|
+Good morning! Do you need capsules? Fruits need |currency,var,50|!|prompt,yesno,-11,-11|
+Very sad, I do not think there is another way.
+|wavy|Wow!|wavy| Unfortunately, they are tomatoes, not capsules!
+|tail,1,Sad|A hero! This book ... is not good! Pregnancy.|next,-4|If you are not beautiful, I will not love you.|next,1||anim,-4,Surprized||shaky|It is amazing!|shaky| Do you want to read my article?|line|Save the cake!|next,-4|C-go ...|break||blank||checktrue,618,19||end|
+|tail,-6|Maybe you are interested in Reves?
+|tail,-6|This tower is amazing. Did you do it?|next,-4|Think. The most expensive to buy ...|next,-5|It looks like noise. This will be a game for children!

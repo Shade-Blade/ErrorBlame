@@ -1,0 +1,27 @@
+|checkflag,16,10||tail,-6|There is a beautiful house.|next,-4|Yes, it is blue and beautiful.|next|Here it becomes an iceberg.|next,-5|This will empower you to fight.|next,-4|If something happens, it may be easier.|next,-5|Definitely. Together we will give it.|next,-6|Is being ...
+|checkflag,25,-23||boxstyle,3||spd,0|Use different flowers in battle to |color,5|change|color,0| each other's style.|next||spd,0||color,5|Those who have the ability to |color,5|resist economic attacks|color,0| care about their enemies.|next||spd,0|If |color,5|someone is tired|color,0|, there is |color,5|no need to change them|color,0|.
+|checkflag,25,-23||boxstyle,3||spd,0|You can change the |color,5|current character|color,0| without changing the group's location by pressing |button,5| during the war.|next||spd,0|Each group has a |color,5|different method and attack ability|color,0|.|next||spd,0|Players who now play cannot lose their passion against evil enemies.
+|checkflag,25,-23||boxstyle,3||spd,0|The enemy is |color,5|very angry|color,0| on the battlefield.|next||spd,0|When the enemies fight, the |color,5|team leader does other things|color,0|.
+|checkflag,25,-23||boxstyle,3||spd,0||color,5|Dry enemies|color,0| are not surprising, but they are |color,5|used to sleeping or pressing buttons|color,0|.
+They all worked hard-
+Life! watch out!
+|boxstyle,1|There is something wrong! ???|next,-5,Idle||boxstyle,0|Adult, adult ... this charm! ???|next||tailextra,0|Isn't that clear? There is something new here.|next,-4,Flustered|We believe!|next||tailextra,0|We are right and fair.|next,-5|Magic is a special way to work. The ten most famous characters in the story!|next,-4,Angry|Isn't he a sinner?|next||tailextra,0|Do you trust me?
+Speak quickly and follow good content. Do you think he will fight now?|next||tailextra,0|We try.
+|face,-6,-4|My God, this is no joke.|next,-6|Wow.|next,-5|If you can't do that now, the dust will be more personal than you think.|next,-4,Angry|Let's just eat. I do not think so.|next,-6|Let's be honest. If there is snow magic, the accused will not be able to catch it.|next,-5|I said that I care about life. You can add your thoughts after saving.|next,-6|Yes No. Click |button,5| to add content.|next,-4,Idle|I think this is good now. distance! |flip,-4||anim,-4,Flustered|Feel the treasure!
+This house is amazing.|next,-4|OK. All wounds are clean.|next||gettail,2|This is a good way to stretch your legs.|next,-5|Lev, let me know if you want a rest. Will come to you.|next,-4,Angry|Does not work.|next||gettail,2||wavy|Oh, tired of crime...|wavy||next,-4,Flustered|Not me!
+|boxstyle,1||shaky|Please! Big animals follow me!|shaky||next,-5||boxstyle,0|Don't worry, we'll take care of you and keep you safe!
+|checkregional,3,11||checkregional,7,11||hide||event,31|
+|gettail,62|Over there! I saw him in the corner of the house! Eremo!
+Large! Wow, security!|next,caller|Also known as!
+How can you escape on your own? ! This is a game!|next,caller,Angry|Want to donate!|next||gettail,62|No gift needed! I hope you are sure!|next|Only you ...|next,caller,Sad|Also known as.
+Love it ...|next,-5|Give me time to speak.
+However. Give it to me!
+OK!|next,caller|Excuse me. IM angry.|break||anim,caller,Angry|But hello.|next|Give me the best food, wait for the meal!|next||gettail,62|....|next,caller,Sad|I am not a child. This also helps in forming a family.
+Yes you are right, I will trust you more in the future ...
+I have no money to pay. This is my mistake.|next|Is it okay Are you looking for ...
+|tail,-6|Forgive me.|next,-5|I swear, thank you, my brave son.|next,-4,Flustered|Get out of here until the devil comes!|prompt,map,3,2,24,25,@Get out of here!,@One more time.|
+This person is close! There is no time to talk!
+|checkregional,3,22||checkregional,7,22|Water is not good. Select these two options.
+|tail,-5|Get out of here!
+|tail,-6|We will not surrender. We are still working.|minibubble,26,-4||next,caller|W value is with you, but i think we can get it back.|next||gettail,62|Yes, I see it in the field of ants.|next,-6|Be careful, it would be nice if we worked together.
+|anim,-4,Angry|Is that correct?

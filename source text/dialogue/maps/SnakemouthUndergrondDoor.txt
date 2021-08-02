@@ -1,0 +1,10 @@
+|checkflag,35,1||tail,-6|He would open the door. Hopefully, there is no other way.|next,-5|Are you satisfied with your previous product?|next,-6|Yes ... we fell to the ground. The rest is history.|next,-5|(Is this a mushroom? ...)|next,-4|Believe me, I am here.|next|If there are other traps, you can fly!|next,-5|Yes Egle, Vi.
+|tail,-4|This house is amazing!|next,-5|Definitely. It is hard to know where to go.|next,-6|When in doubt, turn left.|next,-4|This is not a fact!|next,-5|To build this cave ...|next|I think we are alike.|next,-6|I'm tired.|next,-4|I'm not joking. Read for free!
+EEP!
+Not funny! The team!|next,-5|Sorry, I did nothing. |anim,-5,Idle|It looks like the house has collapsed ...|next,-4,Angry|Oh, why is the water full! We are low, above us ... |anim,-4,Flustered|no problem!|next,-6|Even if it is good.|next,-5|What do you think?|next,-6|If the spring ...
+Freeze.|next,-5|Exceptional! If possible, open more options!|next|You can also use it for |color,1|printing|color,0|.|next,-4|Well, Life!|next,-6|The enemy, the water surrounds us ... as a barrier, but we must use it.|next,-5|Appreciate all the snow you see.
+|checktrue,586,9||tail,-6|Job design is very important. At least compared to something.|next,-5|Unfortunately, this statue goes beyond the Creator.|next,-4|Yes, now I have heard the riot of the people.|next,-6|Nice face?|next,-4|Wait before he is born.|next,-6|So?|minibubble,8,-4||anim,-4,Flustered||next,-5|There is something new here. But no one knows.|next,-4,Angry|This is frustrating. We need to find a way to escape!|next,-6|(... Maybe worse ...)|breakend|
+|boxstyle,4|Old statue.
+|checkflag,25,-23||boxstyle,3||spd,0|If you get lost, the |button,9| button can give you the advice you need!
+|shaky|Hey!|shaky|
+|tail,-6|Job design is very important. At least compared to something.|next,-5|Unfortunately, this statue goes beyond the Creator.|next,-4|Maybe they went to a big cave?|next,-6|I didn't know you could register here later.|next,-5|Definitely. We have.

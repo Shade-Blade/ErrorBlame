@@ -1,0 +1,90 @@
+d@1
+Damage: 1. Save|line|1 damage is|line|repaired.@1
+Attack: 2|line|Inigas phone|line|This is called|line|Jelly House@0.675
+Attack: 2|line|Flying vein +3@0.675
+Attack: 3|line|OK: Attack + 2@1
+Attack: 2|line|If any: 1. Treatment@1
+Attack: 1|line|Coin (3): Cole|line|Venus Bird@0.9
+Attack: 3|line|Attacks (7): |line|1. Treatment@0.65
+Currency Protection (1): +2@1
+Coins (1): Guard +4@1
+d@1
+d@1
+d@1
+d@1
+energy@1
+Money Protection (1): +3@1
+Attack: 1|line|VS Competition (ATK +2)@1
+Vampires (1)@1
+d@1
+Attack: 1|line|Drilling machinery (3)@1
+d@0.8
+Attack: 1|line|One Place (1)@1
+d@1
+d@0.75
+The more weight,|line|the +1 is damaged.@1
+Coins (1): Attack + 1 or Defense + 1@1
+Vampires (2)|line|+2 Exceptional|line|(not ready)@0.7
+d@1
+Change to a|line|small card.@1
+d@0.75
+Attack: 1|line|(1) coins: spelling@1
+d@1
+d@0.9
+Money (2): Abomehouni@0.9
+Robot (4): 1 treat life@1
+Security: 2|line|+2 Permissions (robots)@0.55
+Attack: 2|line|+2 updates@0.95
+Power +3 (innovation)@1
+Attack: 7@0.8
+Attack: 2|line|All actors are completely covered@1
+Power +2|line|(generator)@0.8
+Security: 2|line|Nightmare: 3. Treatment@1
+d@1
+d@1
+Attack: 1|line|This is called machining|line|Call the police@0.9
++3 improvements|line|(intended)@0.75
+d@1
+d@1
+d@0.7
+d@1
+Figure 2@1
+d@0.7
+d@0.85
+Unit 2, Daily Motion@0.8
+Combina (1, grass brush)@0.75
+Attack: 2|line|Character Set (3): The First Body@0.7
+Money Protection (2): +3@1
+Attack: 3|line|Per capo: ATK + 4@1
+d@0.8
+d@1
+Attack: 1|line|But the same@0.75
+Damage: 8@0.7
+Attack: 1|line|Financing (1): Cheap Time@0.8
+Attack: 2|line|Jumping: Attack + 2@1
+Safety: 1|line|Capacity: +3 defense@1
+Attack: 3|line|+2 Permissions|line|(Legend)@0.75
+Guaranteed +3|line|(Flying Mo)@0.75
+d@1
+d@0.8
+Safety: 1|line|energy@1
+d@1
+d@1
+d@0.8
+d@0.8
+Attack: 2|line|Total: The first body@1
+Security: 2|line|Shin: Defense + 4@1
+Attack: 3|line|Safety: 1@0.75
+Attack: 2|line|Coins (1): Attack +2 or|line|Defense +2@0.75
+Attack: 3|line|Security: 3@0.75
+This is a bike victory@0.55
+Damage caused by the attack: 6@1
+Attack: 2|line|Jenkins case: 3 attacks@1
+Safety: 1|line|For Genx: Treatment 2@1
+Energy +2 (volume)@1
+Attack: 1|line|Level (ATK +2)@1
+Attack: 3|line|VS error (ATK +3)@1
+Attack: 2|line|Coins (1): Incorrect|line|Coins (1): Attack +1@0.8
+Attack: 4|line|Drill Bit (2)@0.9
+Currency protection (1): +6@1
+Vampires (1)@1

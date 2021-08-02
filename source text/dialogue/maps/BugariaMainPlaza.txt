@@ -1,0 +1,96 @@
+|checkflag,67,54|Ah, most of the ant kingdom. Health of tourists and citizens.|next|This is a bridge between commercial, residential and |line|residential buildings.|next|Most importantly, there are many historical sites such as hotels, theaters, and institutions.|next,-6|Kabu, you should study the life of the problem.
+|checkmapflag,0,8,true|Oh ... the market. good morning|next|If you want to sleep today, there are 3 types of fruits and fruits with a hard shell. So ... 9 bags? Too much.|showmoney||prompt,map,1.9,2,2,3,@Let's Fall in Love,@Then.|
+|checkmoney,9,6||money,-9||anim,caller,Happy|Is that correct! ??? Rejoice! Upstairs from your home!|break||goto,46|
+Unfortunately, |wavy|geez|wavy| ... again.
+The eater helps to manage.|next|Make sure the team stays steady and reminds them of other responsibilities.|next|Sometimes he is asked to help others!|next,-6|He is like a very good citizen. You can learn a thing or two.|next,-4,Angry|Sell!
+|checkflag,1,9|There are a lot of new jobs.|flag,2,true|
+Have you seen this place? This is not love. Return the money.
+|checkflag,67,56|Unfortunately, he is the owner of this hotel. The hotel is in seventh place!|next,-6|Summer is very fun here. Our help is very useful.
+|anim,caller,Happy|Oh, how do you do that? Come back next time!
+|event,true||teleportparty,2,Center||align,left,true||face,caller,-4||tail,-4|Hey! Are there conditions?|next||tail,caller|What is that? Not far from the ground?|next||tail,-5|I can see everything if possible.|next||tail,-4||face,-4,-5||anim,-4,Angry|GH may not be useful.|next||tail,-5||face,-5,-4|We need the other six.|next,-6|Therapy. Very good ... interesting. Jin Tian|next||tail,caller||face,-4,caller||face,-5,caller|Think! I'll give you this job.|next||tail,-4|Well ... I hope you thrive!|flag,1,true||break||event,false||end|
+|checkflag,1,9||checkallquests,90|There is no new job. I will leave you in time!|next|Do you have other help?|prompt,map,0,2,13,91,93,94,none|
+Want to get?|prompt,map,3,2,12,13,@Yeah,@Think again ...|
+Swallow it well. Keep trying!
+Do not worry. Don't forget to check out the other content as well.
+Hey bazar ... welcome.|next||tail,-4|Hey, write a review!|next||tail,caller||anim,caller,Happy|Queen! I'm really happy!|next||tail,-6|Fortunately for cash.|next||tail,caller|3 bases of tomato a day.|next|So all three should be - homemade honey is decreasing!|next|However, if you see a free list, you can stay here.|next||tail,-4|Is this free? Do not complain ...|next||tail,-6|Try to break the rules.|next||tail,caller|Wow ...|next||tail,-5|Don't worry, one is full of space. We accept your offer.|next|Try to enjoy the same experience as all guests.|next|Don't forget the price.|next||tail,caller|Your house is upstairs. Good night!|next||tail,-6|Think.|next||tail,caller|Get up and talk.|break||flag,4,true||goto,46|
+|anim,caller,Happy|Good morning! Good morning!|next||hide||minibubble,@Make sure ...,-4||fwait,0.3||minibubble,@Make sure ...,-5,1.2||fwait,0.3||minibubble,@Make sure ...,-6,1||waitminibubble||fwait,0.3||hide||wavy|Ll ...|wavy||next||tail,-4|Did you sleep well? The pumpkin oil you left behind is amazing!|next||tail,-6|There is no good bed for a long time. Some amazing beds. Love it.|next,-5|Good job|minibubble,16,-5||next||destroyminibubble||tail,caller|Think! excellent service! You need to build confidence ...|next||tail,-4|You are extraordinary! I can't go back!|minibubble,@Mhm.,-6||next||tail,caller|Oh come back!|next||tail,-5|A race.|completequest,1||flag,5,true||breakend|
+|wavy||size,0.55|(My bed |line|hurts my shoulder ...)|halt|
+|event,true||align,left,true||flag,6,true||wavy||face,caller,-1|A little ice ... a little ice ...|wavy||next||tail,-5|Excuse me, okay?|next||tail,caller||wavy||wavy|Not him!|wavy| Enter the reason. I want to play in the theater for a long time ...|next|I thought they could finally ... but now Motiva has become popular ...|next|They say that I will not be better than him. I don't know what to do now, how do I make money.|wavy||next||tail,-4|Continue? If someone says I can't do anything ...|next||face,-5,-4||face,-6,-4|You are wrong! |anim,-4,Flustered|Sorry!|minibubble,@Vi!,-5||next|Call me if you want! Good job! Who needs a stupid test! ???|next||tail,caller|Yes that's right!|next||anim,-4,Idle||face,-5,caller||face,-4,caller||face,-6,caller||hide||anim,caller,101||fwait,2.2||hide||anim,caller,Idle|I need my fan! Hmm… hope to be my first!|next|If you like music, I can call you. Bring strawberries and listen to my performance!|next||destroyminibubble||hide||move,-4,7,null,6,1,1,0||move,-5,8.5,null,5.35,1,1,0||move,-6,5.85,null,5,1,1,0||movewait,-4||movewait,-5||movewait,-6||tail,-5||face,-6,-4||face,-5,-4|Vi|face,-4,-5|, this is awesome!|next,-6||face,-4,-6|We’re excited… we have to say we were surprised.|next,-4||anim,-4,Angry||face,-4,-5|I'm telling the truth! You don't have to pay!|next,-5|I know a lot has changed today!|next,-4|Yeah, all of a sudden ... it all depends.|next,-6|That would be nice. We will see you after the action.|break||event,false||end|
+|checkflag,6,19||tail,-4|Okay, okay.|next,-6|We pay well.|next,-4|Not right. You may hear other weaknesses while playing!|next,-5|Yes, I hope I have more followers.
+I do not know what this is. But he seemed very interested, so we talked to him.
+|checkflag,67,56||tail,-4|I think you protect ants ... 7?|next|He previously played with Ann. However, Figure 4 needs to be changed.|next,-5|Most of them work without problems.|next,-4|Understand!
+|checktrue,648,88|This scene ... I've never seen!|next|I may have no idea.|next||tail,-6|And.|next,-4|Do you think Janet, Kabu?|next,-5|Venus in the hands of Venus! Janet forgot!|next,-6|Scary but scary.|next,-5|Sorry ...
+This is a belt.|next|These pets are known for their small, soft and flexible nature.|next||tail,-6|The animals, ...|next||tail,-5|Sick naughty and beautiful!|next||tail,-6|Maybe we can ...|next||tail,-4|I didn't even think about that. I don't need it!
+Ah, Ann! Grow every time you see it!|next|It was a huge mistake, in fact I have never complained and have |line|never heard of my story!|next||tail,-6|Blame.|next||tail,-4|We are not strong in the Kaaba, right?
+|tail,-4|She would be strong!|next,-5,Happy|He is a good guy too!|next,-6||anim,-5,Idle|Sorry. This is what we think.|next||tail,-5|C ederra, go away.|minibubble,25,-4||next||face,-5,-6|Easy to boredom and sleep.|next,-6,BattleIdle||face,-6,-5|... you have to go|break||destroyminibubble||end|
+Do not enter.|fwait,1.5||blank|Do not save the pictures of beautiful children!
+|hide||minibubble,@Kojo,caller,0.5||waitminibubble||end|
+|hide||event,28|
+!
+Eh, let's just say I saw better.|next|It must be displayed in the gold mine.
+|tail,-6|Don't you see that we received your request?|next,caller|Is that correct! ??? Do I like bullets in the tunnel?|pickitem,1,0,true,false,31,32|
+|checkvar,0,25,62||checkvar,0,24,33|...... Not right! Hurry ... I will be very angry if I know |line|my mom is gone!
+Excuse me. If you miss him, he will be angry!
+I really found it! Thank you so much! My mother is no longer angry ...|next|I didn't say it myself.|next|Please!|break||giveitem,2,12,35|
+|tail,-6|Get rid of the problem. Do not worry, madam|next,caller|I promise ... Thanks again!|next,-5|Hello my friend.
+|tail,-4|Think! Another gift, another gift!|next,-6|Get rid of the problem. Do not worry, madam|next,caller|I promise ... Thanks again!|next,-5|Hello my friend|removeitem,1,24||completequest,4||flag,52,true|
+Hey, you have to search, right?|fwait,0.1||line|Mountains too! I want to be creative one day!|minibubble,@Excellent!,-5||anim,-5,Happy||breakend|
+Hey, do you want to hear a clear sound?|line|Press the |button,6| button to quickly activate multiple lists!
+Good evening. Let's try it.
+|boxstyle,3||spd,0|For sale.
+|tail,-6|Oh, the founder of the hotel.|next,-5|Is that correct. She has a beautiful bed.|next|They were surprised that the crowd took control of lives in the same way.|next,-6|Tell me why do you think that?|next|How do we do things normally?
+I do not think organization is important.|next|Maybe they have a better idea.|next,-4|Both seem to be asleep!|next,-5||wavy|Curse ...|wavy| I might be tired ...|next,-6|Should we call at night?
+This is a picture of the founder of the hotel
+Fortunately, the indigenous population has not changed. nice color.|next,-4|A stranger? I feel like the Queen is moving forward.|next|Why not create your own statue?|next,-5|It seems that when the ant disappears, the Queen appears to be moving in the other direction.|next|Instead of giving in, he decided to meet people with ants.|next|After recovery ... lay on the floor.|next,-4|Well, did you build a whole community to use ants?|next,-6|Life works in mysterious ways.|next,-5|The first queen is very simple. Even if you don't suffer ...|next|People become great.|next,-4,Happy|When I rule the world, my beautiful face will always be!|next,-6|Well madam.
+The first immigrant statue.|line||line|"Thanks to the ants who love this country."
+I hope Flick prepares this oil for dinner every night ...|next,-6|Hmm, I think we'll give him two drinks instead.|next,-4|But the tree! This is dangerous!|next,-5|What makes you drink more honey?|next,-4|Watch out. I did not ask, no
+|createitem,0,1,-15,7.65,11.7,-1||mapflag,0,true||innsleep,-13.6,6.81,14.16,true|
+Wow! World Health Organization ...
+Excuse me. I feel it is growing with pain ...|next,-5,Angry|Sorry! ??? Justice is not bad!|next,-6|... in the event of inflammation, it may have a profound effect.
+|tail,-6|This is one of the most exciting moments for us|next,-5|How many needs of this kitchen? Business will be better.|next,-4|It's okay I think you need a better place!|next,-6|Nobody will replace you ...
+Unfortunately, Kabu
+Sorry! This small hotel can be a beautiful hotel!|next|Most published ...
+|event,true||tail,1000|Where are you going the waiter |line|waiting for us.|break||hide||overfollower,false||move,-1,0,null,18,1,1,0||movewait,-1||event,false||end|
+|tail,1000|We can't wait for the Queen.
+God is the capital of the ant kingdom.|next,1000|We can't wait for the Queen.|next,-5|...
+|tail,1000||minibubble,60,-6|Well, |color,1|next|color,0| to your castle.|next,-4|Eremo! This is the time!|next,-5|Ready? Very clean.|next,-6||destroyminibubble|Do not worry ...
+There is no time to go to the castle!
+For visitors!|line|Interested in actors?|next,1000|There is no time to go to the castle now!
+|tail,-6|Excuse me.|next,-5,Happy|Ha ha! more than ...|anim,-5,Idle|Then the leaves become bitter!@EVENTCOMMANDS@Amit, you are not alone!|next,-5|I need something to eat|next,-6|Yes, is this not a good time to travel?|next,-4|Energy! The market is perfect!|next||flip,-5||end|
+|tail,-5|Of course, who knows! Medals, events and chefs too!|next,-6,Idle|Shopping is not bad.|next,-4|Save your budget correctly.|next,-4,Happy|The reporter will come!
+(Yes ... |line|the same, but ... |fwait,2.5||blank|weird ... |fwait,2.5||blank|the walls |line|look long ...)
+|event,true||tail,-6||anim,-6,WeakBattleIdle|Sorry to eat|break||hide||overfollower||move,-1,0,0,-9,1,1,0||movewait,-1||end||event,false|
+Oh, this green fire? Do I know|next,-5,Angry||menu,46,2|! Attempt!|next,-4|Hi!|next,caller|Excuse me.
+|tail,-5|You can check again later. We quickly went to the castle.
+The city seems to have collapsed. There are still a lot of things to do.
+The city is beautiful...|anim,-4,Flustered|Student deceived us! ???|next,38||face,party,38||anim,-4,Angry|No, I think everything is going well. We run to the queen.|next,39||face,38,39|I will follow you. I want to discuss the situation with the Queen.|next,38|Yes, I will go with you.|next||flip,38|Snakemouth team is ready to join.
+Anxiety.|next|Bad things must happen.
+How are you?|next|... we should go back to the palace ... other things happen.
+Animals attack again!|next|The city was not destroyed in any way ...
+Hey, cup! Abroad.|next,-5|Sorry, Anne, can you find me?|next,-4|I can't even imagine kids securing!|next,-6|We can. She is very beautiful.|next,caller|Look what I bought! You saved my money!
+What a beautiful gift! Praise the king of ants!|next,-4|...|next,-6|...|next,-5|Been confirmed?|next|...! Wait a minute, you two ...|next,-6|That's a good game. I do not want. dealer?|next,caller|How is that? No, this is the latest in the store!|next,-4|Wha- What do you care? ???|next,caller|Donna Wonder is friendly|next,-5|Excuse me. admire.|next,caller|The only place that makes a great game is Copper Island.|next|I can not go ...|next,-4,Angry|How do. Boat tour?
+Like a billion pieces
+but what ...
+Welding ... I would say the car park is full.
+You can go underwater! Distance!
+Should we think of buying games here?|next,caller|Yes, that would be a great thing!
+We are burning ... He is waiting.
+The only place that makes a great game is Copper Island.|next|I can not go ...
+|hide||event,162|
+?? Did you find a good match?|pickitem,1,80,81|
+|checkvar,0,25,48||checkvar,0,143,82|Hmm, let's just say I've seen better. Try again?
+Is this independent? ...
+|flag,442,true||removeitem,1,143||align,left,true||face,caller,-1|Wow ... soft! This is the |shaky|best quality!|shaky||next|Touch this action. touch. Contact. |shaky|Link!|shaky||next,-4,Happy|OK? Do you want to replace it?|next,caller|Deep voice! Thank you so much!|break||giveitem,1,142,83|
+|tail,-6,instant|This is the right thing to do, and it should end there.|next,caller|I will respect you forever!|next,-5|Now you can catch this game with Defiant Root!
+This game is amazing! Thank you so much!
+|tail,-4,Happy|Hey ... what is the best!|next,-6|No, wait for it to move.|next,-5|Tim ... Thanks again.|next,-4|Thanks for saying that.|next,-5||anim,-4,Idle|Yes unfortunately ...|next,-6|Without reason.|next,-5,Angry|Good job! I said I want to show you! Listen!|next,-6|How are you today?|next,-5,WeakBattleIdle|After entering the |color,1|jungle|color,0|, it was exceptional.|minibubble,@Yeah...,-4||next||anim,-5,Idle||anim,-4,Surprized|B- But can I go?|minibubble,@!!?,-4||minibubble,@??,-6||next|I would love to see a friend.|anim,-4,Sad||next|We call it success.|next,-4|... Certainly. Yeah|next,-6|Believe it or not|next,-5|Are there conditions?|next||checkflag,445,86||checkflag,533,87||tail,-4,Idle|We know very well that we are honest|next,-6|Yes, it helped us a lot. I will return to it.|next,-5,Happy|... Continue!
+|tail,-4,Sad|Hmmm ... I didn't solve the problem.|next|I apologize for that!|next,-5|Do not forget me!|next||checkflag,533,87||tail,-6|Both are very useful. This helps in this activity.|next,-4,Happy|Think! This is the next challenge! distance!
+|tail,-6,WeakBattleIdle|Frankly, I am glad it was reversed in the past.|next||anim,-6,Idle|Clay particles must be identified.|next,-4|Ready?|next,-5,Happy|Then. Snake Moss, look!
+|tail,-6|Janet's strength is not what we expected.|next,-4|Take part in the competition, you must succeed ...|next,-5|Such events include minimal form!
+Hey, I hope to play Life again.
+There are no new aircraft! ... a lot of time has passed.|line|Does it help in a lot of mistakes?|next|You find it in vain!
+|takeopenquests,92|Good job! Ready to read in the job guide.
+It doesn't seem like it's over, but I'll let him know if I do that.
+Thank you, but don't.
+We want to participate in all public affairs.
+... The statue is expected to be restored soon. I do not know ...

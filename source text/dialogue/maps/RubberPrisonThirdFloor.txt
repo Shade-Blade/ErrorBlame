@@ -1,0 +1,7 @@
+|tail,-6|Prison work is not good.|next,-4|Do you think that the Empress sent this crazy guard?|next,-5|Prison care is no joke! That would be more valuable!|next,-6|(Why is everyone?)
+|boxstyle,3||spd,0|⇦ Ym Hall|line|⇨ Continue
+|boxstyle,3||spd,0|Remember to replace the device after use. Others will use it!
+|boxstyle,3||spd,0|⇨ The Worker|line||halfline|Opposite! The feet appear weak, so be careful when crossing!
+I don't think it happens, it's embarrassing!
+|tail,19,instant|Not! Damaged equipment will not be returned!|next,20|I do not lie! ??? Public services do not make money!
+|tail,-4|In this way, prisoners can benefit.|next,-6|Cheap jobs will benefit them.|next,-5|Some good things happen in bad things ...

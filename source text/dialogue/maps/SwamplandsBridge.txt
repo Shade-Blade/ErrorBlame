@@ -1,0 +1,18 @@
+|checktrue,336,16||tail,1000|Good Lex. Because people own it. Time to travel!
+...! Example! I must be angry!|minibubble,@OK?,-6|
+Not him! Durability!
+Wow, call again! The best they can do
+Uh!
+This is not our time.|next,-4,Flustered|I do not ask ...! |anim,-4,Sad|Stop.
+Maggie Monome!
+Here!
+Kill him by the game! I'm here!|next|... My leg hurts ...
+|anim,-5,Angry||shaky|We hear you feel your charm. ! !|shaky||next,-6||boxstyle,0|I know you should hear his voice, but ...|next,-4,Flustered||boxstyle,1|Do you need to lose weight?|minibubble,@Whatever it is.,-6|
+All is well. I'm here! Pumpkin and help to live!
+|anim,-5,Idle|I'm a fan! We will play soon! See you again!|next,-6,BattleIdle|Wait until you find it. Revenge will be silent.|next,-4,Angry|Yes, it is time!
+You can now use |color,1|pumpkin pumpkin|color,0|! Click to launch Rock Dash |button,5|.|next||sound,ItemGet0||spd,0|So wear the |color,1|heel mask|color,0| perfectly.
+Does not seem to.|next,-4,Angry|GH, we are tired! not like this.|next,-5,Angry|NGH ... GRR ...|next,-6|Gate?|next,-5||boxstyle,1||shaky|... GRRRRRAAAAAAAAAH !!!
+|wavy|Yes ...|wavy||minibubble,15,-6||next,-4|Always strong?|next,-5,Angry||face,-5,-4|We should save Maggie. We can't get out!|next,-6|Yes, but what ...|next,-5,Idle|When I think of my unit...|minibubble,@Yeah.,-6| my annoying anger, is destroying everything!|next|Come on, you must be angry!|next,-4,Flustered|Awesome, what a shame!|next,-6|Everything is still fine. Why you are crazy?|next,-5,WeakBattleIdle|Uh ...|next,-4,Sad|Tell me! We will win!|next,-5|....|next,-5,Idle|... Not. Let me tell the truth.|next|I have already told him what it is.|next|This is the seriousness of a man who drowned in his homeland ...|next,-5,WeakBattleIdle|Nanny, my friend Pete and I ...|next|We want to see the beautiful burgundy kingdom.|next|Despite many warnings, the soil is cleared and trouble areas are avoided.|next,-6||anim,-4,Sad|He is tired,|next,-5,Angry|Are they all right? I'm just one!|next,-5,WeakBattleIdle|Although I am new here ...|next,-6,WeakBattleIdle|Cap Kabu ... why did he disappear?|next,-4,Flustered|Yeah.|fwait,0.2||anim,-4,Sad| You mean, like, salty and the like, right?|next,-5||flip,-5|... I do not want.|next||anim,-4,Sad|The pain of traveling ... I want to feel it. Sorry, I'm alive again.|next|Unfortunately, I found it here. IPEM!|next,-4|Well, Kabu! Let's travel together!|next,-6,BattleIdle|Yes no, Maggie saved us.|next,-5|.|next,-4|K-kabu ... adventure!|next,-5,Angry||face,-5,-4|... Yes that's right! Our mouth will not become a precious nation!|next,-6,Idle|OK. See everyone.|next,-4|You are right! The snake muscle team is ready!|next,-5,Idle|Vi, Life ... Thank you. Distance!|next|(Sorry ...)
+Believe me.
+|checktrue,359,17||anim,-5,Angry|There is no time to continue!
+|tail,-4|They can go and go ...|next,-6|This will take some time. But we know how to fix it.

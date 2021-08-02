@@ -1,0 +1,5 @@
+|tail,-6|We do not believe anyone will live in this home.|next,-4,Happy||anim,-5,Happy|But we succeeded! Lovely snake team!
+|wavy|Metrolzic ...|wavy||next,-5|Finally an object!|next,-4,Happy|We did it! A home for temporary |line|visitors!|next,-6,Idle|... We do not believe it.|next|I have watched since church time.|next,-5|As long as we work together.|next,-4,Idle|Then you can talk. Appreciation!
+ See another |line||color,1|category|color,0|!
+Snakemouth team deceived the desert|line|and managed to find the final battle.|next|The team searched the area|line|and found a thief interested |line|in "Lost Sand".|next|This affects the jump position.|next|But in the end, the last job was taken. Can you reach the eternal tree?|next||spd,0||fadeletter||center||line|End of the fourth semester.|fwait,2|
+Sorry ... I want to find the treasure!|next,-6|We need more plants.|next,-5|Help make the papers!|next,-6|... Energy. Return to New. Mint leaves.

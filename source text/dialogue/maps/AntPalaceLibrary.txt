@@ -1,0 +1,46 @@
+I'm a library! More information! News!|next,-4||anim,-5,WeakBattleIdle|Manassu ... Close button|next,-6|There is a lot to do. I wonder if there is a magic book ...
+|boxstyle,4||bleep,2,1,1||checkvar,15,0,2|Which book do you want to read? Press the |button,5| button to cancel.|pickitem,22,0,false,false,10,-11,8|
+Empty cupboard.
+Yes, this is a profession|next,-6|If possible, I want to read a novel.|next,caller|Ch ... Viotu|next,-5|Nothing. How is this possible?|next,caller|We lend to NGOs, but there are losses.|line|I miss the passengers!|next|They are now scattered in Bucharest.|next,-6|What can we do?|next,caller|If you have a problem, make my life easier and come back. So you can read it!|next,-4,Angry|I'm nervous! Someone wants to clean us!|next,-5|However, this is very important for Life. Please.|next,-6|We have no other choice.|flag,70,true||activateselectedquest,27|
+Good morning! Did you find the book?|pickitem,1,0,true,false,5,6|
+|checkvar,0,25,11||checkvar,0,52,7||checkvar,0,93,14||checkvar,0,174,44|Oh, don't be late
+If you find a book, give it to me. Read this book for free.
+Yes, he is one of us. I put it on the shelf so I could see everything.|removeitem,1,52||librarybook||break||checkvar,15,26,27||end|
+|tail,-4|It is like day and night.|next,-6|Bring up Brook and Ber's offensive attack capabilities.|next,-5|Oh, discover new Lieberan stories!|next,-4|Both are sick|anim,-6,BattleIdle||anim,-5,Angry|
+Portrait of Queen Elizabeth
+It is amazing. It is really associated with beautiful Elizabeth trip.|next,-4|Fortunately, I think the new queen is back!|next,-6|Without being polite. Some demons also approached.|next|His voice is loud and has a bright future.|next,-5|This is a good Idea. I want to see you|next,-4||checktrue,555,45|You will not get married?|next,-6||face,-6,-4|Of all our characters, we think this is not for you.|next,-4,Angry|He has a high reputation. |line|There are a lot of errors, |line|I will not agree at all!|next,-5|They support various political and social problems. It can be said that it reduced Elizabeth's death.|next,-6,WeakBattleIdle|... We know. We know it is not as simple as "The Queen, |line|The Bad Queen".|next||anim,-6,Idle|However, acceptance is difficult, but we cannot be loyal to anyone.|next,-4,Idle|Relax|next,-5|You'll be surprised if you keep it open.|next,-6|...|wavy|Complaint.|wavy| We have had before.
+Very nice ...! Are you responsible for errors? Is the quantity small?|next,-5|Am I ... a shortage fan?|next,caller|Yes I like to read mangoes.|next,-4|I think you found a new friend in the pumpkin!|next,-5,Happy|Haha ... Always a pleasure to see other people love perfect disabilities!
+|hide||event,189|
+Welcome to the library! How can I help?|next,-5|I need to make a book|next,caller|Wool? Thank you so much!|next|It's a little late, but researchers often apologize for the |line|lack of space.|next|Thank you for your help!|next,-6|Swallow it well. Instead of Ali.|removeitem,1,93||flag,242,true|
+Stop, this book is over!|next,-5|Sorry!|next,caller|Sorry! Bring generals to Eric, right?|next||shaky|Oh|shaky|, listen to it!|minibubble,@Deep voice! -4||next,-6|The book has been published. Give me a gift.|removeitem,1,93||flag,242,true||breakend|
+|anim,caller,Happy|Hi how are you! Am I a researcher? Are group articles and guides still in the library?|next|This is the best part. Don't want to copy the same enemy if you describe your opinion?|break||anim,caller,Idle||end|
+|tail,-6|The grant money is amazing.|next,-5|We live.|line|Oh, I love you, I always want to buy!|next,-4|This man is very handsome. You read it|next,-5|This is the first book of the author! The staff ...|next|First of all, I want to know what it looks like!|next,-6|To my knowledge, it reacts.|next,-4|Well, but I don't like it.
+O Creator! Good to handle!|next,-6|Swallow it well. I hope this book is ... "line 20|next,caller|More! This is corrupt!|next|I'm the head of Hunter Explorer!|next,-4|Do you know the truth? Do not lie to the truth ...|next,caller|...|next,-5|Tell me more!|next,caller|Beautifully. Exceptional! This is simple. This world is full of "inventions"!|next|Perhaps you've seen it before. special place!|next|Business information will reward you!|next,-4|Lana. How much information do you need?|next,caller|The library pays the five rupees available. Find herbs, medals and |line|other prizes!|next|That's why regular support is good!|next,-5|It was like a fun school game! Believe me!|next,-6|... I am with you. But can you help me find a book?|next,caller|Not.|minibubble,@We are ...,-6||breakend|
+Hey! Do you stick to this innovation? Leave a message!
+I think we got |var,0| results ...
+This time there were |var,0| searches, and finally |var,54| ...
+It looks like you have a lot of money in the next step! good job!
+There isn't always enough money for other gift bags! good job!
+Excuse me. The prize money does not seem sufficient ...|line|Don't give up! Attempt!
+Look now! Come back and learn more!
+Oh ... 50 love! Overall, a great analyst!|next,-4|Hey, prepare for the next award!|next,caller|Correctly.|next,-4|??|next,caller|Queen's money includes two prizes. Operation completed!|next,-5|It always happens, but we succeeded!|next,-6|The seller, return without giving more.|next,caller|Any help! Thank you so much!|next,-4|Not bad!
+Hunt Hunt Explorer is ready! Thanks for the help!
+A ... so ...|next|Hi!|next,-6|You can read it safely now.|next,-4,Flustered|It takes a long time! Can you give me something?|anim,-5,WeakBattleIdle||next,caller|... cute|anim,-4,Idle| lying a lot.|next|I stopped and hope it helps.|break||giveitem,3,25,28|
+|anim,-5,Idle||tail,-4,Happy|Yeah|next,-5|Thank you for using it.|next,caller|Watch out. It's always a good idea to see what others are reading.|flag,605,true||completequest,27|
+Help with reading. Used a lot!
+Ant Royal Library is one of the best books of our time.|next|What happens is bad books get rid of and forgotten.
+|align,left,true||face,caller,-1|Itching, dizziness and pain? You must be a researcher to access the library.|next,-6|The Hornet said. I see your question.|next,-5|He was looking for a scary book. This is|next,caller|Yeah.|next,-4|But why? I do not like it|next,caller|... Yeah. So there is a lot of comfort about |line|criminal stories in their hands.|next,-6|We will not be judged here. So ... what is in these books?|next,caller|Not right. I think there are negative books on achievement and other penalties.|next|He usually picks up trash.|next,-4|Excuse me. You cannot sell this book ...|next,-5,Angry|Yes Tim! Only good people at home can pay!|minibubble,@A quiet moment.,-6||next,caller|I think this library is my research. If you find something, I will stay here.|flag,618,true||breakend|
+|align,left,true||face,caller,-1|Do you have a problem with your eyes .. Do you find the wrong book?|pickitem,1,33,34|
+|checkvar,0,174,35|I say from afar, this will explain the wrong book. Not like this
+Did I make a mistake?
+This is a catch! Come and see ...|removeitem,1,174||setvar,add,58,1||break||checkvar,58,3,36||checkvar,58,2,41||checkvar,58,1,40||end|
+That's it ...|line|Another party ...!|next||shaky|Not him! This is too much!|shaky||next,-5|President. I'm a library!|next,caller|This book is perfect. Good news ...|next|Amazing prose! Eremo! Those beans!|next,-6|... Wrong book?|next,caller||shaky|This is a bad dream! Then the key hurts the basic functions! ! !|shaky||next,-4|...|next,caller|A lot, and then I have to lose ...|next|Thank you all, explorer, this is my last gift.|break||giveitem,-1,35,37|
+|tail,-4|I hope you like it ...|next,caller|I think I do, right? See you.|flag,619,true||completequest,56|
+|align,left,true||face,caller,-1|I really looked at the path of the reverse book. |line|Warm greetings ...
+|tail,-6||anim,-6,Hurt||anim,-5,Surprized||anim,-4,Surprized||wavy|Not just animals ...|wavy||minibubble,@Cucumber!,-4||next,-5|Life! what happened! ???|next,-6|...|anim,-6,Idle|No, we have this special power.|next,-5|...|anim,-4,Angry||anim,-5,Angry||shaky|Do not worry!|shaky||minibubble,@Sorry,-6||breakend|
+Miles an hour "on the mountain".|next|This is a murder case!|next|How did you reveal the secret! Wow!|next,-6|Do you believe?|next,caller|... Yeah. This is your gift.|break||giveitem,-1,35,42|
+Chapter "finished"|next|It took a lot of time to make this character! ???|next|Three or more characters on page 75.|line||shaky|This is the main character! ! !|shaky||next,-4|Tonight ... yes|next,caller|His actions are difficult and brutal. My wardrobe is very beautiful. This is your trap.|break||giveitem,-1,35,43|
+The other two should do whatever they want. Contact us for more information.
+Another thing that suits my needs ... if you need something, share it.
+How is that! This book is correct in this library! Get out of here!
+These chickens are now very attractive to the new queen.|next,-5|Is that correct. Even if you start differently, everyone is more interested in the empire!|next,-6|Saint Elie, thank you for your understanding of the victory.

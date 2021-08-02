@@ -1,0 +1,3 @@
+Very impressive. Smoke will grow in the area behind it!|next,-4|Shocking!|next||checktrue,384,2||tail,1000|Yes, I like different types of biscuits. It's been a long time ...|next||goto,2|
+|gettail,321|If you go south, you will enter this space.|flag,466,true|
+|tail,-6|Do you still grow in a valuable environment?|next,-5|Look for the flower!|next,-4|At least the gate ...

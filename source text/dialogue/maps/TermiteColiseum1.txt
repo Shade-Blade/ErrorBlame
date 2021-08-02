@@ -1,0 +1,33 @@
+This is a famous gym!|next,-4|Small ... usually different?|next,-6|They decided not to do anything. In the name of culture.|next,-4,Angry|The summer!|next,-6|Historians do not listen to his voice ...|minibubble,@What.,-4||breakend|
+Some people say it is not a good idea to waste time.|next|He said I know them well. Very bad!
+|tail,-4|He said it was warm.|next,-5|I think this.|next,-4,Happy|Permission! I hear people say, "Shut up, look at me."|next,-6|We did not expect.
+|call,8|A hero! Bear. Welcome to Rome.|next|We don't have to go back ... when we get back!|next,-4,Angry|Piraccanai.|call,7|
+|checkmapflag,0,9,true||mapflag,0,true||call,8|Umm ... are you one of the beauty of the ancient world? Gradually ... changed.|next,-5|Excuse me?|next,caller|Everyone faces new challenges.|next||goto,9|
+It does not take long. The king trembled.|call,7|
+Believe me, go to the left door.|next|I hope you play it and win it by denying it.|next,-4|Can I get cash if I receive a gift?|next,caller|... Not.|minibubble,@......,-4||break||destroyminibubble||event,163|
+|break||resetcamera||end|
+|camoffset,0,3.5,-8|
+|call,8|Ready? There are three games in this generation.|prompt,map,2,2,5,6,@They can buy.,@Really time!,$0|
+|call,8|Hey, let's talk about success and happiness!|next|If you want to fight again, come back. If you follow, I'll give you the money too!|call,7|
+|tail,mothiva||size,0.5||wavy|* F ** stupid ...|wavy||next,zasp||size,1|Song from Tajikistan.|next,-6|Private information for individuals.|next,mothiva|Open your oral hospitality. The judge’s speech.|next,-4,Angry|The living environment ...
+In my list. True!|next,-4,Idle|Go to the bar! Come on, speak English!
+Number
+For my last joy.
+The girl's face! Member of the Snakemouth Umo movement! The Colosseum?
+OK! You can be happy!
+I know you do not talk about anything and strawberries! Difficult delivery!
+The staff said that they had difficulty fighting.|line|Evil!
+Good morning! Have you seen the Colosseum? Make sure you |line|have the product.
+Good morning! Have you seen the Colosseum?|next||goto,-48|
+|call,8|Two brothers! Have you tried Colos?|prompt,map,0,2,22,23,@Uh!,@Not him!|
+I believe you! When you're ready, go through the left door!|break||event,163|
+Bad people want to meet you!|call,7|
+Can you see this picture on your shoulder? Colos success story for five consecutive years!|next|Stop, I don't know if there are new challenges.
+|shaky|This is a snake's mouth!|shaky| |wavy|You are the first supporter!
+You are right, this is my paradise!|break||giveitem,-1,50,27|
+Yes, I always love strawberries!
+Extremely. This time I was in a flash!|next|Ask again.
+|tail,-4,Happy|Where are you going, my dear friend!|next,-5|Did you find a hero?|next,-4,Angry|Wow! I'm a hero! I want to be their champion!|next,-6||wavy|* A call *.|wavy|
+Do children see this war?|next,-6|Do not play cards?|next,-5,Angry|Colosseum is a different topic!
+|tail,-6|. I'm glad to be here, you can take the test at the end of the test.|next,-5|Is that correct? I always wanted to be a gardener.|next,-4|I don't want to stop choosing! ... but they do business.
+|tail,-6|Discover almost the entire continent.|next,-4|Efsoka Ntanda ...|next,-5|Can you remove this barrier if you find an eternal tree?

@@ -1,0 +1,7 @@
+|checktrue,454,6|This place is awesome.|next,-4|Why do they want all sins to live here?|next,-6|The bedroom is not the only option.|next,-5|This makes sense ... be careful.
+Make sure ...|next,-6|We do not understand the cause of this error.|next,-5|Is that correct. They look smart, but they don't talk about it.|next,-4|When they are ready, they are very beautiful. Come and see!
+|halfline||size,1.5||spd,0.075||mothfly,5|? |mothfly,2|...
+|halfline||size,1.5||spd,0.075||mothfly,7|!!|line||mothfly,7|!!
+|halfline||size,1.5||spd,0.075||mothfly,3|. |mothfly,4|?|line||mothfly,2|. |mothfly,3|!
+|halfline||size,1.4||spd,0.075||mothfly,8|!|wait,0.1||line||mothfly,3|! |mothfly,3|! |mothfly,3|!
+|tail,-6|All ...|next,-4|Mostly the mullahs and pearls?|next,-5|Seriously ... what's going on here ...

@@ -1,0 +1,30 @@
+|tail,-6|What is the reason for this tunnel church?|next,-5|He wants to connect the Bukhari highway to this tunnel.|next,-4|Clean the working air!|next,-6|In fact, we think there is a second motive ...
+|wavy|Pump ...|wavy||wait,0.2|Finally, we've completed the root of the track challenge. |line|You can visit beautiful animals quickly!|next|Shopping, museums, food ... ah! Why was there medicine when I was born?
+Back!|next|If you use your hands with these substances, you will face problems.
+Or the same person who caught the snake?|next|I am the boss. We dug a well in Bukhara to make it easier for everyone.|next|Now, researchers can only use the mines we have built. We do not publish.|next|We need to open people up, but they can rest.|next|We are not late ... I hope the Empress will not give in.|flag,69,true|
+This group is very meaningful. Always use it when |color,1|you come back here|color,0|.|next|There are many channels now, use the compass!|flag,373,true|
+|checktrue,78@79,29|Do you like Diana? Here you go to the last post.|next|But you can open it here ... you can.
+|wavy|AZZZZZZZZZZZZZZZ ...
+Metal Market Island ... dear! I can't even imagine his mistakes!|next|So why does the Queen build a channel? Get boat tickets ...?
+Option, Suz! Large crystal attacked.|next|We have made the most beautiful app! Do you want to try it?|break||giveitem,1,37,4|
+The stone is rapidly decreasing. However, the hike is a huge challenge.
+Great for farmers and miners. I want to start a business ...
+The forgotten land is better. It requires digesting a lot of money.|next|Very glad we worked here ...
+|tail,-4|Good for the eyes. A refrigerator over you!|next,-6|There are models too.|next,-5|(Should I fix it?)
+|tail,-6|What stops the carbon market? Can't I say "stop"?|next,-5|We do not accept threats or major problems!
+|hide||event,196|
+|showmoney|Hi dance troupe. Place in several places. Some things cost money. Is it beautiful
+Hmm, let's just say I've seen better.
+Shocking.
+Ant Town Square
+Barton-10
+Treat strawberry muscles 5 days
+Strawberry Berth - 8 Bukaria
+Excuse me. If you eat enough strawberries, they won't be free, right?
+Well, but you have to tell him to close his eyes. This song is a big |line|secret ...
+Should I wear clothes and pants?|next,-4|Super dust! We'll bring your coat here!|next,-6|Hope this is a secret ...
+Watch out! This tunnel is connected to a rubber prison and a large cave!|next|Therefore, do not exclude if there are problems!
+Ants don't do everything. Works here.
+How do. Suddenly the ax fell to the bottom of the building ... our mines have disappeared!|next|At the very least, major repairs won't bother you.
+Glad I registered everything! Thank you for your help!|next|I can't believe they slept four. I promise it works when no one cares.
+We are ready ... well! All travel restrictions have expired! Diana is back!

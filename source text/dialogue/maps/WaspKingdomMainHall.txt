@@ -1,0 +1,24 @@
+|checktrue,555,1||tail,-6|Fans ... no one is here.|next,-4,BattleIdle|You can pay for yourself!|next,-5|But they do not find it properly ...
+|tail,-6|I live here.|next,-4|More!|next,-5|It looks like we can't enter his home anymore.|next|This needs improvement.
+|align,right,true||face,caller,-5|Wow, he's my hero!|next,-6||checktrue,461,9|Oh, the jet is good.|next,caller|I can finally keep the fire going! Colash Casino!|next,-4|Do you like to work?|next,caller|Reader! I love it so much ... I think it will be a great success!|next,-6|This is justified.|next,caller|Buy the event because the trustee gets a special gift!|next,-4||anim,-4,Happy|Wow!|next,-5||anim,-5,WeakBattleIdle|W-us!|next,caller|No need to say! Thank you all!|flag,461,true||flag,643,true|
+|showmoney||align,right,true|Biological mother! Omo ref? There are 20 types of fruit for this. From mouth to mouth!|prompt,map,0,2,4,5,@Sorry!,@Something happened to you!|
+|checkmoney,20,6||checkinvqtd,0,full,7||money,-20|Over there! How do!|break||giveitem,0,120,8|
+I ... add. Mesavspetca!
+Excuse me. I know you with them.
+OK. I know ...
+I'm moving, hero!
+We take him home.|next,caller|Yes, you can! ... slow.|next,-4|Do you want to keep selling flowers? Good job!|next,caller|Beautifully. This is so fun!|next,-5|Very happy that we can eat!|next,caller|This is bravery please!|flag,643,true|
+Now I say that it's over ...|next,-4|Make money! ??? There is no other choice!|next,-6|My God, we are always good heroes. Is this small?|next,-5,WeakBattleIdle|This is important ...!
+Many innocent people live in this prison ... and there is hope to change them.
+Usurup left our house. We need to set aside time.
+|tail,-4|What is Omenala tree?|next,-6|No I do not understand ...|next,-5|I think they are cruel because they were imprisoned for a long time ...|next,-4|Is that correct?|next,-6|Now there is hope and peace. We can read more about us.
+Multiple sclerosis. Vanessa is very excited!
+We earned a lot of money ... but we did a great job in front of the Queen!
+|tail,-6|Our anger cannot hurt a relationship.|next,-5|Good job! The reason for my divorce ...|next,-4,Happy|... Forgive me. OK?|next,-5,WeakBattleIdle|... Yeah.
+The castle is beautiful. I hope this house will come soon.
+Hmmm ... I'm glad my sister did a good job.|next|But I have to consider practice. The third bone will never last.
+Indeed, our rebels will soon live together!
+We can enter this house now, but believe us.
+Violations often occupy our city. We must unite to be successful.
+|wavy|I disappeared ...!|wavy| You can enter the oven all day!
+Business enthusiasm is silent. However, this worries me.|next,-6|I hope he is no longer in prison ...

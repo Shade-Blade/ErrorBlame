@@ -1,0 +1,68 @@
+|tail,-6|Pseudo Induva. Card holder.|next,-4|Choose a great card!|next,-5|Life, we have help!
+Whatever it is. Too bad money comes in from there, but it doesn't expand the hole.|next|I don't think I can follow everything!|next|You can transfer your work to another location.
+... OK.|next|If we do not have it, then our trade will be lost.
+Oh, is this green guy still in the north?|next|They have not returned to my country for years. Don't you know what life is today?|next,-5|....
+Fresh meat? Messengers. This game is not currently available.|next|Here we organize |color,1|spy card games|color,0|.|next|You have a good card, you know.|next|Let's start later if you win, you will reap a lot of fruit.|next|You will also need a memory card. So far, there has been no change.|next|Only then can you decide where you are.|next,-5|Are you playing with me?|next,-4|Well, Life!|next,-6|We are always ready to start.|next,caller|Be prepared to say a few words. Do not expect support.|flag,646,true|
+|showmoney|Are you ready to start the card game? There are 25 tomatoes at the entrance.|prompt,yesno,6,7|
+|checkmoney,25,12||money,-25|Do it.|next||hide||event,210|
+If so, do not be late!
+Dear audience?|next|Then, stop. Of course I will win! This is |shaky|my|shaky| gift!
+Hey! All are amazing! Can't everyone be calm? This is a game!
+Welcome everybody! New to this game? Madam!|next|My grandfather is the best spy card player in history! This also!|next|Before he gave up, he gave me a group he had been waiting for for years! With us|next|Look at me, I got hurt! I will win this special series!
+Yes, no one thought of |shaky|this|shaky| card before me!
+... this is the most amazing thing to hear. Replace or |line|delete.
+Welcome to flashcards! Today 8 games will compete for the best!|next|Discover the game today ...
+This documents the ant kingdom. Let's see where he is today.
+However ... in mysterious, beautiful and special ways!
+By the way ... it's a tree! Lots!
+On the other hand ... leading trends must be created! Hey friends!
+After all ... you are still in touch! Son of a bitch!
+On the other hand, a good game to win or lose! Good morning!
+On the other hand ... it hurts ghosts and makes you iron! Annual!
+By the way ... Janet? Jeanette!
+I brought you to the stage ... but they are still getting beaten!
+Are you my enemy? Embarrassing from the audience ...
+Recommended product! This is a prohibited book!
+From a serious faith ... He wants to defeat you.
+We play a good game.
+I am not comfortable seeing my card!
+A hero! Bear. I am better.
+Excellent. Toy.
+... As we thought.
+Can not you see?
+Very nice! I did this!
+Very nice! Keep it up!
+If you want to be sad, disconnect ...
+Hey, give it a try. This is a real effort.
+... The energy I see is real. Good Game.
+|anim,this,Hurt|What are you doing ? What ... do I need a disco? ! !
+|anim,this,KO|Oh, this works well on math tests ...
+|anim,this,KO|No, everyone ... I ...
+|anim,this,KO|Oh, this is a good game. This is ugly!
+|anim,this,KO|... Is my pain not enough to defeat me?
+Not longer. Not bad, let me try again.
+Now ... the war has begun!
+Exceptional! Life takes the next step!|next|See the current layout ...
+This is the last battle! Did Gatesny not win a prize? Take it now!|next|Restore your account!
+Unused! Great talent! The winner ... Life! !|flag,78,true|
+You keep showing it from time to time!|next|Here is your money, the control card owner!
+I hope I do it over and over again.
+Where to go back, shame.
+The movie is over! See you again!|next,-6|Let's see how far we can go.
+Hit him once, but don't stop!
+My darling, should we sit down?|next,-6|Hello.|minibubble,@...,caller||breakend|
+|anim,caller,Hurt|...! Tell me.|next|That card is |shaky|stupid|shaky|. |shaky|Stupid!|shaky||minibubble,@There she is.,-6||breakend|
+I was amazed to see this stupid system! Good-bye
+Excellent. We do it all!
+... Jungle.
+... Tsk ... Do not hate me ...! ???
+|tail,-6|The girl is in pain. We can hear|next|We do not have to give up our property. The pain spread to the chair.|next,-4|Only a card!
+|tail,-6|This is not the only company that has a lot of support.|next,-5|Everyone works here. This is not easy!|next,-4|But you are! OK!|next,-6|... I think we have perfect support on stage.
+|tail,-6|I hope he competes with her. St.|next,-4|Is calm good?|next,-5|Fight for fame ... It seems you want to play a good game with it!
+|tail,-6|We value creativity, but beauty is the best.|next,-4|If you want to win, don't be late!|next,-5|Not you.|next,-4,Angry|Unbelievable love! I will do my best!
+|tail,-6|Hi forced ... forced too.|next,-5|OK ...|next,-4,BattleIdle|This will be an interesting success!
+|tail,-5||anim,-5,WeakBattleIdle|One from the north ... Blackjack ...|next,-6|Why?|next,-5,Idle|Make sure ...|minibubble,@Piraccanai.,-4||breakend|
+|tail,-6|In that row, his ears.|next,-5|Employees play an important role in the best organizations.|next,-4|I guarantee that the price of this dress will be higher than the price of the trip.
+|tail,-4|Humans have the right to anger! We push the slopes on the walls!|next,-5|I ... want to see content for no reason!|next,-6|Do you think ...?
+|checktrue,647,67||tail,-6|Negative.|next,-4,Angry|Who cares! ???|next,-5|I do not suggest objections.
+|tail,-6|... Jungle|next,-4|The winners are scattered around you.|next,-6|... Continue.

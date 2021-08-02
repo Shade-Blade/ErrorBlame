@@ -1,0 +1,31 @@
+|checkflag,67,2|It is amazing. We enjoyed.|next,-6|The castle has stood the test of time.|next,-4|... I want to know if the oil changed your face ...
+|hide||camspeed,0.03||camangle,-10,-10,0||camoffset,0,5,-9.5||fwait,2||hide|The parties. Is that correct|next|Our ancestors did this, but you can't think of a starting point if you |line|need more ants ...|break||discovery,11||resetcamera||end|
+It is amazing.|next||gettail,46|He built an ant kingdom that respects and respects the Queen.|next|If you ask me, this name is closed.|next,-5|Is that correct. This is an honor for me.
+|checkflag,67,4|Ants stared at the palace.|next,-4|Is this good?|next,-6|They are the speakers.
+What do ants do?|next||gettail,46|Save the tower. Indifferent
+Io, Vi and Kabu will be very beautiful.|next,1000|This is the time!
+Stories spread quickly. Have you had two hits? Have you won the snake bite?|next|Become a friend ...|minibubble,@...,-6||next,-4|We bet! Don't be afraid of anything!|next,caller|I think that's right. I'm worried ...|next|I had a meeting with the queens. He cares about us.|next,1000|I think this will work again, because Maki goes with you.|next,-5||face,-5,1000|Thank you for being with Ethel.|next,1000|No problems. Don't you care about me?
+|face,-5,caller|Well, let's continue!
+|tail,-6|Go there every day and check out the tower.|next,-4|Do you need a little problem? This is|next,-5|Your truth job is amazing.|next,-6|It's easy to call birthdays all day long.|next,-4|Yes, I hope they are guests.|next,-5|If I want to live ... I still ...
+I know I want to guard the tower, but I hope it will make me my endless friend ...
+...|next,-5|Good morning!|next,caller|...|next,-5|I do not speak ...
+This is a group!|next|The work!
+Never believe a wasp attack!|shaky|Wow!|shaky||next|Just ... What did you do? ! ??? What protection do they have!
+|hide||event,207|
+This is the team. I hope you will accept my request.|next,-4|How's that going?|next,-6|Is this already over?|next,8|After this, he got up.|next,-5|Then you will grow faster!|next,caller|I doubt it. He was ...|next|Initially, you will not be this type of caterpillar.|next,-6|Are you afraid he might get caught?|minibubble,@I believe.,8||next,caller|Yes, but I have an idea.|next|After entering |color,1|The grass is gone|color,0|. Head west and continue |line|north.|next|I'll explain everything there.|next,-4|He knows we will meet there!|next,-8||wavy|* Sigh *|wavy| Won't you stay?
+The master. Mickey, Mr. Gina and Mr. A.|next,-6|Beautifully. We can see what happens.
+|align,right,true||face,caller,-1|Ah, thank you for getting there again.|next,-6|You have been very helpful. Suppose we have the right attitude.|next,-5|You spoke in the distance ...|minibubble,@...,-4||next,caller|He had to face an important enemy. Otherwise it's rusty.|next|It is an honor to be proud of the Snake Mus band.|next,-4,BattleIdle|Yes. You want to fight! ? We control the mud.|minibubble,@And many more! ?,10||anim,10,BattleIdle||next,caller,BattleIdle|I'm not good at maintaining fire power.|next,-6,BattleIdle|Did you get hurt?|next,-5|E- Everyone, this is a fighting game.|next,caller|...|fwait,0.2||anim,caller,Idle|Yes. "Friendly Wrestling Tournament." Let me know when it's ready.|minibubble,@Chip...,-5||flag,628,true||breakend|
+Do you want to save it? But be careful.|color,1|We will not go back|color,0|.|prompt,yesno,13,18|
+Don't forget to make it. We are not just enemies.
+If you understand, the yen is not angry.|next||anim,caller,Angry|You did not tell me to tell you! ! !|break||anim,caller,Idle||end|
+Good morning! Thank you for your help!
+Let's do it! Stop!
+Try Moses the Snake.|next,-6|Exceptional ...|next,caller|If you think it has reached its current state, you can attack again.
+I can not believe that. This is very difficult.|next,10|Play ... I can't catch Maggie ...|next,11|Hello ... Q China!|minibubble,@...,10||next,-4|I- You are so strong.|next,-6|This is our compliments.|next,-5|I think ... let's find out!|next,caller|Let's just eat.|next|He probably spent a lot of time in this battle. Use drinks to cool.
+I like ...|next,-5|Mickey, let me try again|next,-6|Haha, the nightmare will be salty.|next,caller|... there is a list of everything that happened.
+|tail,9|Save again. We learned a lot.|next,-4|You're right!
+My greatest honor is to fight Mickey!|next,-4|Hello, especially after the test!|next,-6|This test has been deleted. How was that before?|next,-5|Maki Maki V and being in a safe environment!|next,-4,Flustered|... He said, "They're gone." !!!!|next,-6|Loan term. We will serve you.
+Dear Jen is a good girl! ... Do you want to win?|next,-4|You want to learn somewhere!|next,-6|He also spoke of magic. Don't do it right.|next,-5|He's still young ...?
+|tail,-6|Jenna and Mackey seem to have fallen.|next,-4|Without face!|next,-5|I know this place is a good place to eat ...|next|Aside from the unusual effects, China ...|wavy|* big mouth *|wavy|
+But madam ... I am not right.|next|I am happy that my friend has never gone bankrupt ...
+It was an amazing learning experience.|next|We support your friends!

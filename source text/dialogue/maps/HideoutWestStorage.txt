@@ -1,0 +1,11 @@
+|tail,-4|Look at all the food!|next,-6|Maybe enough money.|next,-4|If they care about us, we can.|next,-5,Angry|Over there! Thieves are always thieves!|next,-4,Angry|Whatever it is. Then you can enter the barrier and go to the Kabu Hotel.|minibubble,@Messengers,-6||breakend|
+|tail,-6|Know that people are against us.|next,-4|Get out here and check!
+Hey, are you strawberry?|next,4|When work is done, you pay.|next,6|We promise to help you protect your business.|next,7|Do you think we are stupid? This was done before!|next,5|Dear, you can hear the sound.|next,6|Are you going to fight here? This cannot make you happy!|next,4|D love.
+Durability! soon!
+|boxstyle,3||spd,0|Make sure you have essential assets at home!|next||spd,0|If you forget your knee, stand on the roof! Don't be fooled by the boss!
+I found P-Merang!|next||spd,0||sound,ItemGet0|Everything!
+|anim,-4,Happy||face,-5,-4||face,-6,-4|Uh! Back!|next,-5,Happy|I will make you happy!|next,-6|I will not return it today. After deletion|anim,-5,Idle|, you will receive a key.|minibubble,@Shut up ...,-5||breakend|
+|shaky|A hero! We hope you enjoy the extension.|shaky||next,12|What are you doing ? Look at us, you |shaky|fool|shaky|! ???|next,14|... You have help!|next,13|Haha, I think we are afraid because you are not alone! ???|next,1000||shaky|I confirm. Only when others choose! This is a nice game!|shaky||next,14|Open your mouth!|next,13|Osuti: Are you fighting for power?|next,12|Correctly. We got this |wavy|role|wavy| and recommend it!|next,-5|Your boss is mad at you.|next,-6|Fanny Zara, Kabu?|next,-4|Come on.|next,1000||boxstyle,1||shaky|HIYAAAAAAAAAAAAAAAAAA!|shaky|
+|shaky|What are you doing? What are you doing? !|shaky||next,-4,Flustered|What are you doing?|next,1000,Idle|Yes wow! We did it! We won!|next,-6,Idle|Land.|next,-5,Idle|Yes, brave guy, we can not do without you!|next,12||shaky|Inflation ...|shaky|
+Exceptional! We did it!|next,-4,Idle|Yeah.|next,1000|I want to tell Eve that I have defeated all my fears! Wow!|next|Thank you so much! ! !
+A hero! Hi!|next,-5|A race.|next,-4,Angry|Uh! Complex!|next,-6|If you really want to, I think you can go to the city and pray.

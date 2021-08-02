@@ -1,0 +1,23 @@
+|tail,-4,Angry|They have a port! We will leave soon.|next,-5|I think the poison is very good ...|next,-6|Catapult, everyone. We are playing.|next,-4,Flustered|How dangerous is it in a safe haven!|next,-5|I know they don't open during the flight, but they do a lot of work in this direction.|next,-4||shaky|Do not talk!|shaky| I'm so angry about that!
+|boxstyle,3||spd,0|Water works.
+Attention!|next|Isn't ship wreck always? |shaky|Husband and wife!|shaky| Water slingshot!
+This court is waiting on a white scientific paper. With his help.
+|tail,-6|Is raining.|next,-5|This is how the words say.|next,-4|About a year ago? Photo Gallery|next,-6|A low rise building with a hole down a tall building.|next,-4|With superior honey tools.
+This is the way! Create a page!
+We had not heard about it before. Good or bad.|next,-5|Can I travel with this order?|next,caller|Change your life.|next|The problem is not that!|next,-4,Angry|I'm good. OK.|next,-4,Idle|Finally we got a tree today!|next|The victorious king!|next,-6|The long journey is over.|next,-5|After all, you will not be destroyed before you succeed!|next,elizant|Sometimes.|next|We went to the park and entered.|next,caller|This is an unintended act. This can be changed often.|next|If you encounter problems, |button,5|. I'm a fan!|next,-6|Suppose we are back. His life is short.
+Click |button,5| to avoid the danger of dyeing. The helicopter can jump!
+The village must be north to enter the cave.
+|hide||event,165|
+This is a good oil for drying water every day.|next|I hope to return to Bulgaria one day.
+Narrated by Bukhari ... I want to know what this is.
+Enjoy!
+Am ... there should be a better place to expand my Bulgarian business ...|next|Oh, the winner of Callas? Did you take us to Bukhara?|next|Come on, it's time!
+|tail,-6|Nice clothes.|next,-5|This time it goes ... I don't know how.
+Girls ... look at one! They are twins!|next,-4|Overtime and air!|next,-6|None of them have blue belts ...
+Finally! Time for me! However!
+I am ...|next|But I love swimming ...
+The water transport system is simple.|line|Press |button,5| at any time!
+|tail,-6|Could you. Wash your hands with water.|next,-4|Call up water and plant clouds.|next,-6|But he did not. Yes, it is good to overcome fear ...|next,-5|You can still swim! We are inspired!|next,-6|... Not.|anim,-4,Happy|
+The device can disperse and purify the water, but it emits a lot of smoke.|next|Did you go?
+They exchange a lot of things for air ...|next,-4|This kingdom of smoke leaves all smoke in the air!|next,-6|... Why can you live a luxurious life in society?
+Uh!|next,-4|Do you want to go with this kid?|next,-5|Then I'm afraid ...|next,-6|....|next,-5|Scientists are following us! This will be a technical revolution!|next,-6|No, of course not.|minibubble,@Yeah.,-4||breakend|

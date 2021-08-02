@@ -1,0 +1,26 @@
+Create your own group and choose playing cards!
+Choose a battle card!|line|You can choose from |var,4| additional cards.
+Do you want to use the latest package?
+The second use
+Create a new package
+Do you want to save this package?
+Yes
+Not
+Choose two small cards!|line|You agree not to make new decisions.
+are you going?
+Do you want to use this package later?
+For the |var,6| time
+You lose
+I won!
+Requests. This is the secret policy of the Charter.
+She plays |color,1|15|color,0| cards. There are |color,1|four|color,0| different cards.|line|Attackers, attackers, teenagers, and bosses
+Simple attack card. Invest on the battlefield and they won't play enough with you.
+Computer cards have different effects. Theme:|line|These cards:|color,1|Stroke|color,0|: stroke card paralysis.|line||color,1|You can make an impact by turning on the X|color,0|: X card.|next||color,1|Attack (X)|color,0|: Displays the results when the number of attacks reaches X.|next||color,1|Alliance|color,0|: Anyone on the planet can be attacked. Between both ...|next|Other effects are listed in the |color,1|Search|color,0| menu.|next|If necessary, you can save most attackers to attack cards and desktop computers.
+Now a small card game. It works like a scorecard, but there are only |color,1|two|color,0| people on board. do not do that again!
+The main card is a missile card. There is only one game per car.
+All cards are paid to use the |icon,28,0.6| |color,1|TP card|color,0|. You will receive |line|all round TP funds.|next|At both ends, the target is returned and then the work is completed.
+This package must contain |color,1|15|color,0| cards: 1 puzzle. 2 special head. There are 12 frequent attack cards or special effects.|next|Try making a package now.
+Cards will appear on the left side of the game. The enemy is on the right.|next|Of course, I want to return, but they may call me.|next|There are many |color,1|bosses|color,0| with |color,1|two bosses or attack cards|color,0|.|next|The card is attacked and the score is the same. Are you still interested?|next|You can use as many cards and browsers as possible with TP.|next|Huipu was broken, this time he got most of the fighting forces.|next|This is fairly straightforward, but if your opponent drops to HP 0, you will win the race.|next|His mouth really shivered. Let's start fighting.|next|Will you be in this game? Choose a card and exit!
+In other words, all cards in the circle will be destroyed. May see you later!|next|He has everything. straight ahead!
+good job.|next|Make sure you are safe ...
+Wow, well, come on.

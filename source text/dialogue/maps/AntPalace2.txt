@@ -1,0 +1,144 @@
+|checkflag,68,134||checktrue,370,94||tail,-6|The throne has not changed, but the environment is very |line|different.|next,-4|What does God mean?|next,-6|I am disappointed. More fonts added ...|next,-5|Bukhara history is incomplete. It is very scary that there will be a problem between these two countries.|next,-4|Very dangerous. From absolute silence to the present.|next,-6|(The story will be scary ...)
+Queen Elizabeth II is under the sea.|next,-6|(Yeah).
+Um, of course, yes, I know this, why is it something that was |line|previously known.|next|... Wonderful!
+Soldiers are shooting. You must participate in your work.|minibubble,51,6||breakend|
+Time is precious. Do not do it as an exhibition. |line|Can you download?|prompt,map,1.75,2,6,5,@Pay a gift!,@She is very beautiful.|
+|tail,-4|Is that correct|next,-5|(Do you think this will continue?)|next,-4|Good job!|next,2|OK.|face,1,2|Now pay and execute the contract.|minibubble,124,1||breakend|
+|tail,-4,Angry|U! I want to see my first prize!|optiontovar||next,-5,105||boxstyle,1||menu,46,1|! You are not a swindler! ???|next,1,Angry||face,1,-4||shaky|Children! How can such a queen help? ???|shaky||next,2||boxstyle,0||wavy|Sir!|wavy| |wait,0.2|Greed? There are very few invaders like me.|next|It is true that you have good quality.|next|Countdown Finder. Regarding success, I did nothing.|next,1,Idle||face,1,2|! The latter is not worth it!|line|No name required!|next,2|Stand now, running. Do their hands do something they don't |line|know about?|next,1|Make sure ...|next,2|If you have a problem, don't forget it. The agreement will be completed soon.|minibubble,125,1||breakend|
+Ah ... my mother needs the key to the tree of life ...|next|Beautiful music. It must be the beauty of the insect kingdom ...
+|tail,-4|Wow! This is a ton!|next,2|Learn about the heroes! Thanks for the heroes. Promote your place|line|in the history of our country.|next||gettail,46|Thanks for your interest in the research!|next,-5|Why thank you|next,-4,Happy|Hey, this is the first time in the famous Hall of Fame!|next,-6|I can thank you|next,2|I think I have time to answer this question. What is that
+|line|Hi! ! !
+How to rest assured! ???|next||gettail,95|The |color,1|same|color,0|! No winds! Plus!|next,2|Come here for what you say
+!!!|line||fwait,0.4|Do you understand ...
+I hope to find a job on the go, let him know that another trip with Artemis is recommended.|next||gettail,46|Is that correct. Greetings, I am leaving soon.
+|tail,1|My statement made it clear that |color,1|ancient monuments|color,0| are hidden in the Cummson Mountains.|next|This is our little rural settlement. This can be achieved from the |color,1|Southern|color,0| Exploration of the |line|Society Explorer.|next,-4|Isn't this the territory of the kingdom?|next,2|Don't stop again.|next||anim,-4,Angry|This whole land is our unity. They really know our journey.|next||anim,-4,Idle|Now... talk to locals, get information and get artwork.|line|It does not matter the cost.|next|Do you understand my commands?|prompt,map,3,2,14,13,@Of course!,@Can you say that again?|
+|tail,1|Remember this map. Hope you know how to go south.|break||giveitem,1,41,22,-4|
+I won here.|break||giveitem,3,5,16,-4|
+|hide||fwait,0.2||giveitem,-1,30,8,-4|
+|anim,caller,Angry|Watch what's going on here. You may be a beautiful creator, but we are|line|serving the Queen.|minibubble,@...,-6||anim,caller,Idle||next||destroyminibubble||end|
+...|next,1,Angry|Three! Do not be afraid of the Queen!|anim,-4,Angry||minibubble,@Kate...,-4||break||destroyminibubble||anim,1,Idle||end|
+|checktrue,68,123||tail,-6|The second is Elizabeth|next,-4|He |wavy|looks|wavy| staring.|next,-5|He is tall. You have the opportunity to talk to him later!
+Garyand ... Royal defense is a real celebrity.|next,-6|So they seem to blame at birth ...|next,-4|What if I say that? Long click on this ...|next,-5|I'm not an expert, but I'm totally different. Maybe fitness?|next,-6|We do not know very well.
+Three ... God bless you first. |face,1,2|Garyan talked about traveling to |color,1|Jinshan|color,0|.|break||flip,1,false||goto,13|
+|tail,-6|Thank you for your interest ...|next,2|However, I hope you will continue to do so. This is the most important thing. Abroad!|minibubble,@We are ...,-6||next||tail,1|Do not talk too much. Let them!|next,-4|Really lost!|next,-5|Is that correct. We are not careful not to disturb our king.
+Do not walk for long. Out of the market.
+|checktrue,348,138|The call seems to be waiting for the throne.|next,-4|Wow, that's bad!|next,-6|He seems to have never seen it in his life.|next,-5|Y-out power ...
+|call,122||checktrue,370,95||goto,128|
+|call,122|Bianca Bianca Leihova.|discovery,7|
+The Shesui team? The queen is waiting for you.|next|If you know what's best for you, don't wait.
+Listen to the queen's voice. Go to the animal kingdom.|next|Do it twice and don’t forget about your height.
+Ah, here it is.|next|The server is waiting for us.
+This is one of the things that makes the Empress happy. Is this true for us?
+We will talk to the king.
+Kabu, Life, Vi ... Thank you.|line|I will be fine here.|next|I hope that everything is fine. It can be used to help you.|next,-4,Angry|Yeah
+Do not get angry. Save the latter as possible.
+Everything is here! Time will answer|next,-6||flip,-6|(People ask ...|flip,-6|These problems will last forever. )
+If you do not have any additional add-ons, inform the Snackmouth team.|line|You have found something hidden in Cummins?|next,-4|Rights! Ready to pay!|next,2|Excellent! His timing was perfect.
+I want to thank and thank him for providing this service.|next|It should be noted that this is the result of other good things. Ant Kingdom and Burger.|next,-5|That is our honor|next,2||face,1,2|Zaryand collects and refines the goods according to tradition.|next,1|Follow the queen's orders
+Ay M: Can you discuss that?|next,2||face,1,2|Yes. Quick, Zariyant
+|flip,-4|The professor is reading with you.|next,14|Hey!
+Yes, my test results are very good!|next|This tablet should contain information on how to find timeless wood!|next,-4,Sad|How is this yellow!|next,14,Idle||flip,14||anim,-4,Idle|Oh, you need it! I mean, a small snake |color,1|mask|color,0|!
+The mask is good! ??? I think it's a rock.|next,-5|Just awesome!|next,-6|I have no contact with Kabu|anim,-5,Hurt|.|next,14||anim,-5,Idle|Now the mask is inverted. The result, |line|these lines are amazing!|minibubble,@(What is that ...),9||next||anim,14,Flustered|I don't know how it works, but her makeup skills are amazing! I am happy!
+Good if good ...!|next|We are looking for treasure. In the end.|next,-6|What is required to produce an eternal tree?|next,2|... You do not know.|next,-6|We are ...|next,2|What I know is that my mother was right.|next,-6|(Elizabeth's dream?)|next,2|Teacher. How long does this tablet take?|next,14,Idle|Despite wearing the mask, the pilot remains a Roche character. Forgive me|next,2|Do you understand? Don't worry, you need more time.
+|tail,12|Anything else?|next,14|Based on my research, there are three traditional reminders.|next|The tree can always be opened with the help of the missing |color,1|key|color,0|!|next,13|Then... almost done!|next,14|Yes! To our knowledge, the key is the |color,1|kingdom of this state|color,0|!|next,-4,Sad|Really?|next,14|Recently, I have used this to build the foundation without understanding the origin of this |color,1|honey oil company|color,0|.|next||anim,14,Sad|Anyway, I'm not sure if they'll give it to us. Blocking stops the entire process ...|next,-4|Is the company closed? P ale ...
+Don't do that, two|next|After opening the key, we send a delegation to the Empire.|next|Finally, we can think of a program change.|next,-5|Exceptional!|next,14,Idle|You are happy! This is not a problem!
+Do they use these features and use modified objects?|next,2|We are here. Another job.|next|Fortunately, some of his young fans joined. |line|This will help a lot.|minibubble,@Vi...,-5||next,-4,Angry|...|minibubble,@OK...,-6||next,12|Are snakes set so good?|next,13|Celia, this is a nice game. We have our own information.|next,2|So everything is in your hands.|next|Besides snakes and abdomen. I have to talk|next,9|Well I think we need to move forward ...|minibubble,136,9||breakend|
+Ask questions about the |color,1|Hornet|color,0|.|next|The teacher said that everyone helped when hit.|anim,14,Sad||minibubble,@...,14|Thanks.|next,13|I don't need it. We do what the Creator should do.|minibubble,@Safety,-5||next,12|But this is worrisome. How do you know this art ...|next,2|This is what I'm afraid of. I do not have time|next|Be careful and avoid the price of Hornet Beach.|next,13|Like what you wish for|next,2|After arriving, residents must take a |color,1|mountain tour|color,0| for the first time, starting from the |color,1|southeast|color,0| of the population.|next|With permission, inspectors can cross the |color,1|lost river|color,0|.|next,1|But be careful. The number of thieves in the desert increased slightly.|next|Quickly join the "Bee".|minibubble,@...,-4||next,-5|Your glory is over!|minibubble,@Uh huh...,-6||next,1|Destroy it!
+However, you have to solve the problem first.|next|By the way, are you trying to find a meeting team ...?|next,13|Make sure to handle the service quickly!|next,-6|This term does not expire.
+Cross the lost river and enter the bee area. The kitchen is located east of the community.
+|tail,1|Snake snake snake, I won|break||giveitem,3,12,49,-4|
+|hide||fwait,0.2||giveitem,-1,30,50,-4|
+|tail,-4|Thank you again! Fifth Bank is still a casino!
+My daughter, I love him.|halt|
+|tail,2|Snakemouth brings other good news.|next,-6|We have learned lessons from Elizabeth.|next,18|This means each of us.|next,-4|-|fwait,0.2||blank||tail,-5|Is that correct. Without Gasp, Motiva and General Warri, you won't succeed.|minibubble,53,-4||next,14|Oh, they are fine!|next,2|Today is history. Finally we found all the cultural treasures! I would like to express my gratitude|next|Charge, pay. I hope today is enough to remind you.
+|anim,-4,Angry|Unbelievable love!
+I am your problem. This is a new office!|minibubble,@!!,-4||next,14|@EVENT@Can you|next,2|Professor of general concept. Watch the end of this long search!
+Sorry for the trip.|next,2|... Monday. Right Now.|next,14|This is no secret!
+|bleep,0,1.5|Wow! ???
+Explain to yourself! Right Now! What is in the article?|next,14||boxstyle,0|The sea, this object has a small structure ...|line|Dies!
+Half? Deep voice! where are we going?|next,2|We are close! It is time ...|next,-6|What does this mean?|next,1|The kingdom became increasingly important. Hope we all unite before we act.|next,-4|Head d? What happened or what happened next?|next,17,Angry|Higadj le. You need to find the other half as soon as possible.|next,16|Really this feels good!
+|tail,-5,instant|Unfortunately Stratos! Telila!
+|tail,-4,instant|H ... who is it?
+|face,-6,2||next,2|This is a popular band. Is there anything you want to share?|next,15|If you ask the wrong question, the half will disappear. Yeah?|next,16|We know it is in the dirt! Today's special episode.|next,14,Idle|Are there other secrets in the sand? I do not believe you!|next,15|A |color,1|sand castle|color,0| is located on the top floor of his house.|next|Only special buttons|minibubble,@Other buttons ...,17| can detect wind.|next,16|We are skeptical.|next|According to my paper, the ladybug lives here.|next,2|Can rabbits be called big sand? here is the key?|next,15|Curse companies have secrets. But he told them to talk to everyone here.|next,2|Good news! I will be back|next|Grow up! Pay. It was planted today due to a major disaster.|next,16|Oh, Queen, don't reveal the secrets of our lives!|next|We will continue with other tests and look forward to another day. It's hot!|minibubble,@Be careful.,15||breakend|
+Maggie's posting, but they didn't answer the letter.|next|The Motiva team, the Snakemouth team ...|next,18|For me, Rina, those keys will be the keys before we realize we are gone.|next,-4,Happy|Like him! Not for use!|next,-5|Q: Can we work together?
+Not him!
+|next,17|Competition Some good games are not bad.|next,-6|Should I do this research?|next,14|Congratulations to all!|next,2|The law is clear. Start talking to the main media!
+That's right, but I'm throwing dust everywhere! It should be like that.|next|Bored stars and critics!|next,-4,Angry|Ohh.|next,17|Come to Motiva and let me try until I get home.|next,18|Hello, yes! We won the snake walking game!
+Who knows? We can help him without accompanying him.|minibubble,@Good night ...!,-5|
+Make sure your business is all set aside.|next,-5|It is good to have some things.|next,-4,Idle|Is it in the desert? If you travel with us, we can find another place!|next,-6|Compared to electricity. Our shields guide us.|next,-5|Good! Let's find new ways to prepare them!
+Don't talk about finding creatures before the queen loses |line|his patience.
+Follow your practice!
+Look for lost items! Ask for error suggestions.
+Watermelon tent?|next,-5|New servants?|next,caller|I met her during my studies, but the queen was always interested in art.|break||giveitem,1,109,72|
+|tail,-5,instant|How was it? Motivation not found.|next,caller|I am not saying it is good, but I think it can be found everywhere. He is looking for him ...|next|I finally came to the east.|next,-5|Look, my new words!|flag,238,true|
+|checktrue,348,74|Always help yourself. Thank you so much!
+|checktrue,650,140||flag,650,true||align,left,true||face,caller,-1||tail,-6|No, this is a bad time ...|next,caller|what is the reason! You have to pay a lot!|minibubble,@Without the first commander!,-5||wait,0.5||minibubble,@Not him!,-4||next,-6|You don't know anything, we saw this stone in the desert.|next,caller,Surprized|...! Yes, I am happy!|destroyminibubble||minibubble,@Sook,-4||next|This is an old black news source!|next,-6|It's always fun.|next,caller,Idle|Where do you see? I think I will never see her again!|next,-5|We bought it from Lost Spy. Which is|next,caller|A stranger. Really, according to my research, This is the basis of the |color,1|classic laboratory|color,0|.|next|They said he was somewhere else on Snakemouth Day, but no one saw him.|next,-6,WeakBattleIdle|Yeah ???|next,-5|Life, you are right! Here ...|destroyminibubble||next,-4|Exceptional!|next,-6,Idle|Thanks Neo, I will see if possible.|next,caller|There is no problem. Tell me what you see! Science!
+|shaky|Relationships ... NGH ...!|shaky||next,20|You can even talk about eliminating murder.
+Delivered, wasp wasp! I do not know what to do|next,20|If you bought from your own collection, you know it very well.|next,-6||shaky||boxstyle,1||size,1.5||halfline|Yes girant!
+I mean, this person can't be trusted ... how wrong I am about your audit policy.|next,2|This "pet" is me who first thought. You can get out easily!
+What is your name. You will soon forget.|next,-4||shaky|Open your mouth!|shaky| Destroy the city!|next,-5|I can't see that!|next,-6|We have taken a step back.
+|wavy|Be brave ...|wavy||next,-4|... Life ...!|anim,-4,Flustered| Is C frozen?|next,-6||shaky|It is amazing.|shaky|
+|hide||minibubble,@At the same time!,-6||fwait,0.75||minibubble,@Anxiety!,-4||fwait,0.75||minibubble,@Life!,-5||fwait,1||end|
+Heck me!|next,20,102||face,20,2|Yes give more to play!
+!!!|next,8,BattleIdle|Girl!|next,2|I hope you'll be late!|next,8|Excuse me. My job looks longer than I thought.|next,20|...|anim,20,Idle|At least mile per hour I got the job.|next,2||boxstyle,1|There is no return or meaning. Do not waste time with possibilities!|next,20||boxstyle,0|Try to enjoy. You can't stop it!|next|Learn from bad bugs and insects. I will return soon
+It seems that the time has come. I am glad you do not know.|next,9||shaky||boxstyle,1||size,2||line|Makky!
+Maki Maki! Here! ! !|next|OK? ! what happened !|next,8|there is a problem. Fortunately, everything seems to be a solution.|next,2||face,8,2|Thank you so much! We are wasting your time now!|next,8|I am not sorry.|next,9|Not your fault.
+Yes, you know what to do. Meet other researchers from the northern king.|next|... Trustworthy.
+... Trustworthy.
+I'm glad the matter is over ...|next,-6,Idle|Thanks. You need yourself|next,-4,Flustered|I think it's a little late ...|next,2|Zariand, things aren't going well. This short life is backed by art lovers.|next,-5,Idle||face,2,-5|Is that correct. There is an error ...|next,14,Sad|W- It is important for all of us to be good.|next,2|Not. You need to restore the opera!|next,-6|We live with other people. Do you want them faster?|next,8|We are building a big house.|wait,1||blank||tail,2||face,2,8||boxstyle,1||shaky|Shut up|shaky||minibubble,@Perfect!,-4||next,1||boxstyle,0|The Spanish|next,-4,Sad|Wa- which is faster?|next,2|This is the second part of the old key.|next|Remember where your team bought?|next,-5|...! This is the scent of honey butter! This support will be amazing!|next,14|Do you understand how to use it?|next,2|No answer. You will see us.|next|They turned north and returned to |color,1|distant grass|color,0|.|next,-5, Angry||shaky|Wow! ???|shaky| Yeah ???|next,-6|Wow, how are you?|next,2|Do you think this is not the problem?|next,-5,Idle|Not him! You can handle it! Let's go now!|minibubble,@Been confirmed?,-4||next,2|The border is east only, so you can cross.|next,-6|Can we leave?|next,-4|This is difficult manta ... my hair is almost burning!|next,8|Girls, we will be with them. We must defeat the enemy.|next,1|I ... and others are working to rebuild this city.|next|Do you want to fight? ... I understand|break||giveitem,-1,50,88|
+|tail,-6|Definition like this. Preparation and competition|next,2|Visiting Moma and Juso. Find things fast!|next,-5,Angry|(I want to go back!)
+|anim,-5,Idle|Yin met us at Hornet Beach. A fast snake line|next,-5|Oh, who is this guy? I didn't mention my name ...|next,9|Nag. Short story. Let's do the first.|next,-5|(More Maggie's Suggestions!)|next,-4|Is Kabu okay?|next,-6|Watch out.|next,-5|I do not understand. Give them time to think ...|next,9|Thank you so much? Do not touch.|line|Think!
+...
+|anim,-5,Angry|The king will not forgive!|next,-4,Flustered|Continue!
+Enjoy the juice! Beware the Queen!|next,maki|D- The Snake Mus team ... sorry he was injured|minibubble,101,antq|
+We have to give! Bucharest must burn the whole country to fulfill its dream! ???|next,waspk|Forgive me. Poured|next|The king has complete control over his people. Can't send ... edited!|next|The rules! Over there! Rest assured! What a privilege!|line|Let's eat it!
+|checktrue,555,139|The throne year is the best ...|next,-6,BattleIdle|Never miss a hornet king. Let's leave the terrible law.
+Second, Elizabeth removes air pollution.|discovery,6|
+Not in class? Will the ice melt soon?|next,-4|We waste twice the energy!|next,waspk||boxstyle,1|You |shaky|KNOW!
+This is a group!|next,neo|Distance!|next,waspk,100||flip,waspk,true|Special!
+Movie! ! !|next,antq|Like him! Do not hurt my people!
+Go to the store.|next|Otherwise, you will lose your body!|next,antq|...|next,zaryant|Not him! Then ...|next,waspk|Till the end...|line||shaky|A word.|shaky||next,antq|...
+... I will be. I ... I'll give you a picture ...|next,waspk,103|Not as stupid as I thought.
+|wavy|World Health Organization ...
+When you return to the power of eternal trees, everything will be the same.|next|I shivered again, but I also had to breathe.|next|Enjoy a perfect and simple life!
+|shaky|Or .....|shaky|Come back to everyone! !
+We lost ... there is no way to finish the movie ...|next,maki,Idle||face,antq,maki|Woman, forgive me for everything I did ...|next,kina|Step Maggie ... You're smarter than me.|next,neo|Psalm: Even though we have no power to remember ...|next,-4,Flustered||face,antq,-4|Not him! We have to cut trees and go back!|next,-5,WeakBattleIdle|Perhaps by her strength ...|next,-6|J. Randall ...|next|No, thank you Rina if you decide to save me.|next,antq|...
+Thank you I left everything. How loyal you are. the brothers|next|This will put you in a real mask.|minibubble,@...,-6||next,zaryant,Angry|My sister ... wrong! We couldn't ask for anything better!|next|They are mothers! A mask of hope!|next,antq||flip,antq|Thanks Zariand, but now we have deleted everything. King Hornet took the key to |line|the tree.|next|I am proud to be the wife and mother of my people.|next,zaryant,Idle|The ...|next,waspq||flip,antq||flip,maki||flip,neo||flip,kina||face,party,waspq|I know I'm a stranger to all this, but are you saying that?|next|When the king took over my city, I hid myself as a victim. |line|I've never been better ...|next|I hope this article always follows me.|next|I don't know what to do, but give them everything ...|next|If you are not a queen, then I am like me.|next,maki||face,maki,antq||face,neo,maki||face,kina,maki||face,party,maki|Without trust and honesty, I wouldn't be able to work for myself.|next,-5|They are given the opportunity to grow in their country!|next,antq|...|next|Your rating is short but unacceptable.|next|As we said, the royal family is eternal ...|next|But this is not our opinion ...|next,-6|Elizabeth, the final answer: Why do you need trees? why did you do that?|next,-5|I think the government's growth will be appropriate ...|next,-4|Nobody wants to grow old!|next,antq|... a reasonable idea. But no, that was for me.|next|Let me tell you why I see you.
+Dear Queen Elizabeth I, Mother's life.
+He sleeps strongly with the crystal. The desire to surrender.|next|It seems that the grass is his dream of finding Bukaria next year.|next|... I want to wear it.|next|Everyone loves beautiful girls. Foreign news halted |line|all attacks.|next|Forgive me. So I can escape.|next|Because it is more important than before.|next,-6|...|next|We believe the impulse is not correct. But the reality is local.|next,-4|Wow! Good job!|minibubble,@...,maki||minibubble,@...,kina||minibubble,@...,-6||next,-5|I'm not sure if that's my reaction ...|next,-4,Angry|We need to make it king! What he needs is not good!|next,-5|Some opportunities to find out where we are going, but ...|next,neo,Idle||flip,neo||face,maki,neo|Of course! I know where it is! May!|next,kina|Can you tell us? Say it out loud!|next,neo|R. on the right. Waiting for the right moment. The king had to have a tree.|next|Considering everything we know so far, I have decided that |color,1|Woods|color,0| will be in good shape!
+|minibubble,@...,antq|Do you mean the largest wall you see in a big tree? Is this a good place? Austria Grande? ! ??? !|next,antq||destroyminibubble||flip,neo||face,maki,antq|It is considered the largest marine mammal in our country. Call the number.|next|Limited permission. No one returned.|next,maki|... Shipping is important. Explore cultural relics.|next,kina|He takes a boat to get there. |line|They think that waste should fly.|next,zaryant|C is a step forward. Suppose!|next,-4,Sad|What can we do? Peas can not be pears or anything.
+...! |face,party,waspq|Why did you ask them to recommend my kingdom?|next,-4|Is this kingdom temporary?|next,-5|They live in cities outside Bukhara, not banks.|next|They do not get sunlight, so there is little contact.|next|Some organisms can be accessed, but insects are not allowed to enter.|next,-6|... or dreaming about for the first time.|face,party,antq|O our king?|next,antq|When my mother was in bed, my qualifications were not eligible.|line|Our relationship has grown.|minibubble,@The Spanish,zaryant||next|But they are our hope. It may hurt, but I will leave. I take the audience and act.|destroyminibubble||next,zaryant,Angry||face,antq,zaryant|Hi! We live in a |color,1|forgotten country|color,0|! Wonderful animals everywhere!|next|Do not understand the wrong idea! I want to train immediately!
+|music,Inside2|If not, then I agree. But there is no other option!|next|There was a problem because he was alone. This is the end result.|next,zaryant,Idle|Make sure ...|next,maki||face,antq,maki|If I had a sister like you I would have done this ...|next,antq|Mekki and Zaryan are both calling researchers. Noise and fear spread.|next|When we turned, we fought with his right hand.|next|As we said, this church has the longest |color,1|rubber prison|color,0|.|next|The only known road on Lake Bukhara.|next|But now we go to a forgotten country. Find a way to reach the empire.|next|Pepper snake, keep |color,1|golden oil way|color,0|. The entrance is unforgettable.|next|Feel free to stay in the castle.|next|We don't have anything to offer, but we promise to treat you the same way.|next,waspq|Why thank Alessand? His appearance |line|seems to be deteriorating.|next|My mother was having trouble before, but we can change the relationship between children, ants, and administration.|next,antq|... Yeah? At the same time we eat|next|As for sesame, you need to speed up. Do not worry.
+Xishui Team ... defends the Queen.|next,-6|Do you trust us?
+Do you remember how you entered the golden age? Also available |line|in other regions.|next|Forgetting the Earth is always a struggle, and there are many dangerous animals.|next,-5|Leave us alone!
+|checktrue,555,127|All this ... in vain.|next,-5|Is that correct. Finally he reached the tree.|next,-4,Angry|The King's Oven!|next,caller|Watch out! Board!
+This is a group! Protect the Queen!
+The queen must have reached the port ...|next|Your entire ant kingdom.|next,-6|Keep working
+|call,122|The shadow of Queen Sheila's second window wins. Fourth head.|discovery,8|
+|call,122||checktrue,555,135|Window of Vanessa I, Queen of the Hornet.|discovery,9|
+We all believe in snake mouths.
+The Queen again sought peace ... well, snake.|next,caller,Angry|If so ... do not miss it!|break||anim,caller,Idle||end|
+We are committed to the Queen's safety.
+|tail,-6|Elliot the second ...|next,-5|Tim, we do it!
+|boxstyle,4||spd,0||bleep,2,1,1|
+|tail,-6|The second is Elizabeth|next,-4|He |wavy|looks|wavy| staring.|next,-5|The message is not perfect, but it looks very difficult.|next,-6|The Queen must respect him.|next,-4|Well, but don't look at the prison!|next,-6|(Music protects ...)
+Follow your training!|halt|
+... follow your steps.|halt|
+How do. The queen goes out again.|next|Create a quick horn to return to the field.
+I am happy that I am silent again!|next,-5|Unfortunately, you did not know the Christmas tree ...|next,caller|I am not saying that I do not regret it ... this is a great find and proves its existence!|next|Thank you for what Moses Snake did!
+Queen Elliot Old Vineyard 2.|discovery,6|
+|call,122||goto,128|
+This is a team. You respect me.|next|I always hope your comments work!
+Snaemouth team ... Thank you. You can count on regular government |line|support in the future.
+|tail,-6|However, our misunderstanding of the Queen is bad.|next,-5|I understand. Sweat disappears in another world!|next,-4|But you are always friendly|next,-6|... The thinker. Our mission is to resolve this suspicion.|next|(Well, gracefully to me ... we don't see that.)
+We are proud of Neo! Trust the royal clergy!|next,-6|Kabu, I'm doing Neo Blushing|minibubble,@The goods ...,-5||breakend|
+|tail,-6|... So I am leaving? We should talk.
+Vanessa Glass Window.|discovery,9|
+I hope Makki|line|will come ...|halt|
+|checktrue,374,138||anim,-5,Angry|The king will not forgive!|next,-4,Flustered|Continue!
+The summons appears to be awaiting the throne.|next,-4|Oh, accept everything!|next,-6|As if he had not seen him in his life.|next,-5|Can you blame me after the attack? it's hard ...
+|tail,-6|He is happy to be on the throne.|next,-4|The Queen is over!|next,-5|More features!
+|checktrue,347,113|Attention ...
+.
+.
+Life ... Is my mother still a queen?|next,-6|OK. But just say that he found mercy|next,caller|... Thank you. I remember that.|next|My mother is resting. I want him to protect us all the time.|next,-6|Let Bukhara be the future.|flag,687,true|

@@ -1,0 +1,82 @@
+|tail,-6|The lab team is weird, but I'm not here ...|next,-5|This is surprising, but not the end of the problem.|next,-4|Kabu again understands why she is so beautiful!|next,-5|No million satellites!
+This is a bad user. Not empty.
+Vi, Kabu and Life are welcome!|line|This is B.O.S.S. There she is!|next|How can I help?|checkflag,163,3||goto,4,keep|
+|prompt,map,1.7,3,6,7,8,@The war,@Stream,5|
+|prompt,map,2.5,5,6,17,7,18,8,@The war,@Prewar,@Stream,@Emergency-EX,5|
+Loss
+|color,5||optiontovar,0|Selected battle options. Choose the type of war.|goto,11,keep|
+|color,5||optiontovar,0|Do not decide to fail. Choose the type of war.|goto,11,keep|
+|color,5||setvar,0,-1||setvar,1,-1||flag,162,false|Out as Enter ...
+Little Sarah
+Executive Director
+|prompt,map,1.25,3,12,12,8,9,10,5|
+|optiontovar,1||end|
+Clarity and purpose
+Joseph and Tel 2
+Joseph and Goal 3
+Choose your opponents from the list below.|line|Press |button,5| to cancel the service.
+|color,5||optiontovar,0|Favorite method of war. Choose the type of war.|goto,11,keep|
+|color,5||optiontovar,0|The emergency was chosen. Choose the type of war.|goto,11,keep|
+Read crystal information ... well|line|A call ...
+Good job! Go to the ground and fight!|next,1||boxstyle,0||glitchy|Come on.
+There are |var,4| enemies in the chosen row.|line|So?|prompt,map,0.5,2,-11,8,@Yeah,@Not|
+Welcome everybody! This is a fierce battle.|next||checkmapflag,0,71||checktrue,166,71|Refer to B.O.R.S.S to repeat the fighting.
+Will i win?|next|Are they ready for graduation or other classes and other things?
+A hero! Excellent!
+Soon!
+Sing! (Wait @EVENT@)
+No, it's too late
+Come on, eat it!
+Well, he will be back soon!|break||hide||heal||fwait,0.6||end|
+For the day. Nightly POS Please try again later. Always.
+Welcome everybody! B.O.P.S. Do you have questions in this process?|prompt,map,4,4,32,33,34,35,@Do you see the CEO?,@How it works?,@What did we find?,@We borrow better.|
+Yes, B.O.P.S.|next|"The Battery|line| Fate|line| Messengers|line| Attempt! ""|next|This way you can fight the ancient with the power of the crystal.|next|I still don't know how the crystals work, but reading this info is fun!|next|Besides tests and crystals, B.O.P.S.|next|It will cost a lot if it works well in an emergency! very |line|important!|next|Try your computer.
+Executive Director Read the license terms in this guide and read the information on former enemies.|next|This will help you recover from the previous war forever!|next|However, Holomachin is not perfect. I obviously like her ... but it works really well.|next|Save everything when the race starts and don't miss a thing after a workout.|next|But be careful not to stop using the first aid kit!
+OK. You may have experience in battle, but with magic, your abilities will drop dramatically.|next|But if you get better results in an emergency, you can save them by giving a saved gift. More fun?|next|There is no risk leaving the game.|next|This is a good way to get old!
+Yes No If you want to try it, try it on your computer.
+You have to read this ...|next,-5|What did d. Life factory?|next,1|Studies show that ancient crystal fragments are present in the body. |line|Can I use it if I study well?|next,-6|Yes, when we left the snake they came to us |line|immediately.|next,-4|Isn't this a lie?|next,-6||face,-6,-4|... Do we have doubts?|next,-5|For more details, I think I am skeptical.|next,1||face,-6,1|As a result, the effect on the body is a miracle.|next|There is still some content, but no comments were found. Others may be in the body.|next,-6|Come again?
+There is a lot of information that makes it. I've never seen it!
+However, |var,9| are still around!|line|Ready?|string,3|
+Exceptional! Coal and so on.|line|I have something.
+... Only a few centuries in general.|next,-6||flip,-6|Yes |flip,-6|unfortunately?|next,1|Sleep quickly
+After we die-
+What are you doing ?|minibubble,@Wow!,-4||next,-5|Life, do you understand?
+Slightly different. Something new ...|next|... Forgive me. We do not know what happened. But we do not want to investigate.|next,1,Idle|Security system ...|next|Think about sleeping. You are very happy.|next,-4,Sad|I started to worry ...|next,-6,Idle||face,-6,-4|This is not necessarily the case.|next,-5,Idle|There are still many questions, but we are closer to the truth ...|next,1||face,-6,1|I want to leave today, sorry to bother you.|next,-6|Well, thank you.|next,-4,Angry|Please ... are we late for the meeting?|next,1|Yes, has the ant kingdom changed?|next|I heard there are |color,1|4 researchers|color,0| about Echo.|next|Can they usurp the throne? There she is.|next|He is a man!
+Call me, doctor?|next,1|Data collection! Not longer.|next,3|Yes doctor!
+The step ... go down the road.|next,-6||face,-6,-4|Forced. We want to know here.
+You can use this message to dismiss |color,1|bubble protectors|color,0|!
+It takes a while to change data. Can I find another browser?|next|You should be in the right place.
+We will meet soon and go to the factory.
+|align,left,true||flip,caller,false|Welcome here!|next|Thanks for supporting the company.|next,-5|There is no.|next,caller|There is no. Let me see one|next|Do you see this great car?|next,caller|With this special machine you can |color,1|defeat old enemies|color,0| on the |line|road!|next,-6|Allow?|next,caller|Yes, until we decided to |color,1|sign up for the game|color,0|.|next|Did you know that old results can |color,1|improve|color,0| the environment?|next|Data storage is used to store data.|next|My computer can learn some of this information from the past.|next|Find the end and explain what you saw during the trip.|next,-5|Where can we find the end?|next,caller|Are you still a researcher?|next|Now they can become crystals.|next,caller,Angry|Wow ... I'm waiting for you to get better!|next,-4,Angry|Can you tell me ...|flag,219,true|
+|align,left,true||flip,caller,false|Can I summon the accused?|pickitem,1,0,true,false,51,52|
+|checkvar,0,27,53||checkvar,0,29,78||checkvar,0,37,78||checkvar,0,116,78||checkvar,0,109,78||checkvar,0,150,78||checkvar,0,151,78||checkvar,0,146,78|Tajikistan. Is this car a real purchase?
+Use the text
+Bingo! Test team warranty subject to change!|next|We must go to war!|next,-4|I don’t know what happened here ...|next,caller|I do not understand. Fff ... Check my PC B.O.P.S.|next,-6|Technology has changed dramatically ...|next,caller|Definitely. B.O.P.S.|next|Come to me if you are in doubt! I want to see how you feel.|flag,161,true|
+...! Am I a card holder?|next,-6|Yes master's number?|next,caller||checkflag,299,55||goto,56|
+Good job ... I'll help you later.|flag,246,true|
+|checkflag,299,55|Yes, I know the owner of the music card, no ...|break||flag,400,true||event,106|
+I am!|minibubble,@Continue ...,1||next,-5|Hello twins!|next,caller|Talk about rubbing salt in your wound - yes! Do not win!|next,-6|We hope to share!|minibubble,@Rest assured ...,1||next,caller|Take action. This pair will last for a long time!|break||anim,caller,Idle||flag,247,true||end|
+|tail,caller,BattleIdle|Ready to pay?|prompt,map,2,2,59,60,62,63|
+|anim,caller,BattleIdle|Do bad, bad!|next||cardbattle,this,-1,@1||tail,caller||battlewon,65||goto,67|
+|anim,caller,Idle|Well ... come back when you change your mind.
+How are you?|minibubble,70,1||prompt,map,2,2,64,60,62,63|
+Come on!
+Come again.
+|anim,caller,BattleIdle|Come talk now! it's snowing!|next||cardbattle,this,-1,@1||tail,caller||battlewon,65||goto,66|
+|anim,-6,WeakBattleIdle|Not me!|next,-4,Angry|Silence is the best.|next,-6|It is a beautiful battle, but I cannot deny it.|next,caller|Come see and enjoy yourself! |anim,caller,Idle|D help.
+No, I drop again ... h, I won!|break||giveitem,-1,10,-11|
+|anim,caller,KO||shaky|GH ... how can you win ...|shaky||next,-6|Is your opponent the strongest?|next,caller|....|anim,caller,Idle|The doctor must find out later.|minibubble,@Beautifully.,1||next|But it was a great fight! I update my card.|break||event,106|
+?? ?? Does she have a card? Does that tell you?|next,-5|Don't worry ... no!|next,caller|Well if you're still planning, tell me.|minibubble,@Not him!,1|
+Pseudo Induva. A full reminder!|next|Show the old harbor and take it to Metal Island at a very reasonable price!|next,-4,Happy|Really this is so good!|next,-6|Finally, you can better control the situation.|next,caller|Hi! Powerful Training, Live B - Instead!
+Tanjit, everyone!
+It's your problem!|string,4|
+Another one is given, B.O.P.S. Soaked again! We can't wait for it to work again!
+Excellent! Do you still feel like breathing?|next|It offers options like |sound,ItemGet1||color,1|EX|color,0|!|next|After trying again, start another interview with B.O.P.S!
+Kali and Kabu
+Thai pub and fish bar
+Noodle set
+Good for you
+This is a decent thing to do and must end there.|next|It does not help because |color,1|all researchers can start the journey|color,0|?
+Wodii H.B. !!|next,-6|Science seems to be a very difficult task.|next,-4|Search like this!
+|tail,-6|Therefore, Professor Aslebek is not only a famous researcher.|next,-4|Both face difficulties. If they are smart, they will grow!|next,-5|(C, V from you !!!)
+Wow! Great gift!|next,-6|Gbute.|next,-5,Angry|Not him! Mobile phone van. H. B. However.

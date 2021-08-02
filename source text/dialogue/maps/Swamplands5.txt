@@ -1,0 +1,3 @@
+|tail,-4|There are a lot of cars ...|next,-6|I think they are confused.|next,-5|Some seem immoral ...|anim,-5,Angry|It might be a demon ...!
+|tail,-5|(Anyone can leave.)|next,-6|(What happened?)|next,-5|(Requests!)|anim,-4,Sad||minibubble,@(E);,-4||breakend|
+The big thing here ...|next,-5,Angry|You must be a beautiful and reserved animal!|next,-4,Sad||face,-4,-5|Is that correct?|next,-6|You may not know. If you are lucky, you will not miss the |line|portal.|next,-4|Yeah.|next,-5|(Do you want to block this? ... No, this time ...)

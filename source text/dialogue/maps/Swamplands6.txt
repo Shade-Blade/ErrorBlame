@@ -1,0 +1,1 @@
+|tail,-6|Is there a fireplace?|next,-5|I didn't know the storm was approaching me.|next,-6|This is not just a flood. Add missing years.|next,-4|Someone ... let's get out of here!

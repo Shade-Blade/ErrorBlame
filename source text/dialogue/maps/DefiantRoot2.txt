@@ -1,0 +1,40 @@
+|tail,-4|Add an elevator to this bee area. When I did that.|next,-6|Complete the mission.|next,-5|When you get to the ground, make sure there is something there.
+|hide||event,48|
+High temperatures cause honey! Do you want to come here?|prompt,map,0.75,2,12,13,@Yeah,@Not|
+If you continue like this, you will get |color,1|gold|color,0|.|next|Pay attention to the condition of the meat.
+|checkmapflag,0,10,true|Welcome to T&W Hotel.|next||showmoney|One afternoon, each insect contains four seeds. So you need 3-12 strawberries. Do you want to write a text message?|prompt,map,2.55,3,5,6,7,@Forgive me.,@Thank you} but sorry.,@Are you fine?,$1|
+|checkmoney,12,8||money,-12|... Thank you. This is in the middle of the house. It's time to throw it and move on.|break||mapflag,0,true||innsleep,-2.75,0,5.85,true|
+We are still open, behind.
+Oh, thank you ... I don't care|next|He began to accept something complicated.|next|Thank you for your patience. Do not worry.|flag,407,true|
+Excuse me. You have no time to live here.
+Happy Dreams Back to T&W ...
+Good morning! Thank you for the gift ...
+This is a long story.|next|I have a partner or a pet.|next|Second congratulations. Elizabeth. Soil conditions are separated.|next|The king chose to remember all operations.|next||wavy|Sorry|wavy| ... we work together in this house ... didn't you come?|next|This is true when I want to draw what is marked.
+|event,68|
+Swallow it well. Tell me if you want to leave.
+|checktrue,408,25|The focus of this disease ... I have a second sense.|next,-4|Hmmm ... damn it?|next,-5|Is that correct.|next,-6|Do you want to talk to him?|next,-5|... Not everything. This type of pain is treated from time to time. Issa Azim.|next,-4|Kabu?
+|checkflag,43,16||checkmapflag,1,16,true|Yes I missed you!|break||mapflag,1,true||event,28|
+|hide||event,28|
+Someone hit him in the well. What should I do ...
+|event,true||align,right,true,1.6||face,caller,-1||anim,-4,Angry|Do you know what you want?|next,-4|Swallow it well. Why not.|next,caller|You can find it, inventor.|next,-6||face,-6,-4||face,-4,-6||face,-5,-4|Your request appears to have been completed, and even not completed. Anxiety for future use.|next,-4|Forget that. There is nothing I can say about that!|minibubble,19,-5||break||destroyminibubble||hide||event,68|
+Vi ...
+A lot of people were attacked today ... What happened?|next|Be careful when you go!
+Uh? Is there a good relationship with the thief? I'm afraid to die ...
+Uh? Is there a good relationship with the thief? Does Vespera |line|attack ant groups?|next|Yes, it is time.
+|align,right,true||face,caller,-1||tail,-4|Yes What do you think?|next,caller|Yes I would say rebellion is mercy.|next,-6|Is it true that Sand did not help much?|next,caller|He is not rich, but people do business secretly to get the vaccine.|next|The community did something close here.|next,-5|Can I call home?|next,caller|... Count. But I hope to see you.|next,-6|Shut up.|flag,600,true|
+I hope to see you again.
+|tail,-6|Hotel chairs laugh.|next,-4|... No refund required at this time. Think.|next,-5|I'm happy for them ... Some friends.|next,-6|You can rest.
+|checkmapflag,0,32,true|We'll be friends! Welcome to |line|T&W!|minibubble,@Good morning!,7||next||showmoney|You will receive a special gift from us. 7 Fruit Garden!|prompt,map,2.55,3,27,28,29,@Thank you so much!,@About!,@How are you?,$1|
+|checkmoney,7,30||money,-7|Shut up! The room is ready!|minibubble,@Good morning!,7||break||destroyminibubble||mapflag,0,true||innsleep,-2.75,0,5.85,true|
+We are always open!|minibubble,@Back!,7||breakend|
+Hey, thanks for meeting me. We are doing well!|next|She left my home.|next||checktrue,604,33||tail,-5|Why thank you!|minibubble,@Good job!,-4||next,-6|Driving.|breakend|
+Excuse me. It warms the stomach
+They have a dream! D&W welcomes you!
+Good morning! Thanks for joining us!|minibubble,@Back!,7||breakend|
+|tail,-6|This is very useful. Thanks. Stay healthy.|breakend|
+Do you trust me, my colleague is back! OP Mangala ...|minibubble,@JJ ...,-5||breakend|
+Hey, isn't that different from the recipe?|next|So we have to work today and have no time to succeed.|next|I see.
+Samira's equipment is safe. Suitable for relaxing on a |line|sunny day.|next,-6|Of course, I've never seen such a weapon. A cultural monument?|next,-4|Isn't this just a stone?
+The founding Queen maintains a balance between the middle path and the road. Can I rent a speedboat?|prompt,yesno,38,39|
+OK.|break||warp,57,0,0,3|
+OK.

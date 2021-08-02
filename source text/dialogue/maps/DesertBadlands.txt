@@ -1,0 +1,2 @@
+|checkflag,301,1||tail,-6|Tch ... no grip pattern.|next,-4|Do they need money?|next,-5|It must be ethical. Regardless of the cost, their actions put |line|everyone at risk.
+What can you do behind the road?|next,-6|The most suspicious person may ask where to enter the city.

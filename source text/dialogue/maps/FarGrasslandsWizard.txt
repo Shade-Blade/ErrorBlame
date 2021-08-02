@@ -1,0 +1,7 @@
+|tail,-4|Dark places, JJ.|next,-6|We cannot say that we do not know anything.|next,-5|I hope to pay attention to this, but ... What can I do |line|to prevent infection?
+|call,4|Stay with us
+|call,4|You do not have a lawyer
+|call,4|Abroad
+|boxstyle,3||spd,0||center|
+|checktrue,546,6||tail,-5|Very Difficult|next,-6|Come down.|next,-4|Normally! Enseemy!|next,-5,WeakBattleIdle|Not alone?|flag,546,true|
+|boxstyle,3||spd,0|Beautiful tower in the desert.

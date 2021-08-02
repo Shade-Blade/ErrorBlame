@@ -1,0 +1,4 @@
+|tail,-6|Strong security ... a little? Certainly ours.|next,-5|This is usually very low. Many people are encouraged to take |line|on many challenges.|next,-4|Now, do I want to hear it?
+|tail,-6|The enemy.
+|anim,-4,Angry|Cucumber cucumber ...
+|tail,-4,Angry|... Will not win without cash.|next,-5|We recommend avoiding this again. Products must be poured |anim,-4,Angry||minibubble,@Stupid.,-4|before research.|next,-6|Make your way, or you will not leave.

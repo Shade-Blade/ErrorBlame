@@ -1,0 +1,2 @@
+This is a difficult debate! After several visits, the vision is a scene ...|next,-6|Relax in the sun.|next,-4,Happy|You must be close to Yuques!
+|boxstyle,3||spd,0|Watch out! |color,1|Century Kingdom|color,0| is moving forward!|next||spd,0|If you're looking for |color,1|another place|color,0|, go west!

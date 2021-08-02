@@ -1,0 +1,4 @@
+|checktrue,339,1||tail,-4|Wow ...|next,-5|Think carefully before continuing ...|minibubble,@Great idea.,-6||breakend|
+|checktrue,341,2|Really live ...|next,-6|These seeds differ from other seeds.|next,-4|What do you think? We can sell it to science or others.
+|checktrue,402,3||tail,-6|Tell me, will |string,9||font,0| come here?|next,-5|I do not know why ...|next,-4|He did not understand all the details.|next,-5|If there is an opportunity, let's start.
+Sometimes |string,9||font,0| was born here ...|next,-6|It seems that he understood somehow.|next,-4|By |string,9||font,0|.|next,-5|Sometimes it does not hurt.

@@ -1,0 +1,1 @@
+|tail,-6|The cave is a beautiful place.|next,-4|Bad Zishan!|next,-5|What a beautiful name! Very nice!|next,-4|Water is only one side!|minibubble,@Alone?,-5||next,-6|This is also called direct perception ... but I think it's important to explain.|minibubble,@Distance!,-4||next||destroyminibubble||end|

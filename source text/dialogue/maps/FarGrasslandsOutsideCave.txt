@@ -1,0 +1,6 @@
+|checktrue,336,1||tail,-5|... Tech.|next,-6||face,-6,-5|Kabu ...?
+Think about it. Fortunately, the wasp did not buy it.|next,-6|There is no way.|next,-4|Without a purpose!
+Did you go to the countryside? I will be with you later ...|prompt,yesno,3,4|
+Well, there is nothing interesting here.|break||warp,144|
+Active m
+Liz Taddle

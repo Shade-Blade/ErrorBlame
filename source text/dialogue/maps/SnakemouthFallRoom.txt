@@ -1,0 +1,35 @@
+|checkflag,27,20|This is a spider web.|next|I don't want to go back here.|next||tail,-4|Did you forget.
+What are you doing ...|next||tail,-4|Don't worry, I'm waiting.
+|anim,-5,WeakBattleIdle|Currency! I was lucky that these fungi hit me.|next||tail,-4|It worked, but that's too big ...|next,-5||anim,-5,Idle|I know it's softer than I thought.|minibubble,@Excellent.,-4||next,-4||destroyminibubble|This |flip,-4|is good news.|next,-5|We have to accept. You can't see it either.|line|We will see.|next,-4||face,-4,-5|Be careful, right? Crazy!
+Center ... Katala?|next||tail,-5|Hello Princess! In short, support for biologists is very good.
+....|fwait,2||blank||wavy|ZZZ ...|Wavy|
+|boxstyle,1||anim,-4,Surprized||anim,-5,Hurt|Durability! Still alive!|next||tail,-5||anim,-5,Idle|Hurry up! Go to!|next||tail,-4||face,-4,-5||boxstyle,0||anim,-4,BattleIdle||flip,-4|Well I want to see if Bemarang is online.|next||tail,-5|I no longer |flip,-5|swear-|fwait,0.6||end|
+|boxstyle,1||shaky|Vi! Watch out!
+|anim,-4,Surprized||shaky|Well spider.
+What will happen to animals of this size?|next,-4,Flustered||face,-4,-5||boxstyle,1|Kabu! Running around! A precious resource!|next,-5||boxstyle,0|Does not matter! We can't miss this nasty sea!|next,-4,Surprized|I am ...
+Finally, I do not know. Do not trust me anymore.
+Vi?!?|next,-4|Look at me.|next,-5|Holy Queen you are! Don't leave me for my signature! This is ugly!
+|tail,-4||anim,-4,Flustered|Hey! Forgive me! You have.|next|They might be allowed to leave the network, but I left.
+I will bring you the future. The situation is bad, but there is a plan.|next|Fight columns and |color,1|Mongols|color,0| in cyber attacks.|next,-4|What if I quit the game when we catch it?|next,-5|Let's just eat. Except for this period. There is nothing left.|minibubble,34,-4||breakend|
+|boxstyle,1|Audi, you evil animal!
+|boxstyle,1|Kabu! They do!|face,-5,-4||minibubble,@Excellent!,-5||next||boxstyle,0||destroyminibubble||end|
+|boxstyle,1||shaky||halfline||size,1.2|Get out of here!
+|wavy|Yes t ...
+E, I'm glad I'm fat here too.|next|Well, a bad dream?|face,-5,-4| Excuse me.|next,-5|....|wavy|Irrigate promises.|wavy||fwait,0.1| Yes, do not excuse me. I understand.|next,-4,Flustered|It takes a long time! Many people are seeking salvation!|minibubble,@....,-5||breakend|
+Are you really awake?|next||tail,1||anim,1,Hurt||wavy|....|break||anim,-4,Surprized|Mecca? Ajax Rock.|line|... Xiaonbacks?|wavy||next,-4||face,1,-4|We are ... oh! |anim,-4,Sad|Well, did you catch it?|next||tail,1||wavy|JSG and Hsjaosidjs ...?|wavy||next||face,1,-5||tail,-5|Can you speak this language in the old language? Perhaps this myth is unclear.|next||tail,1||anim,1,WeakBattleIdle|No, we can say that in a fist.|next||tail,-4||face,1,-4|Did you do that?|next||tail,1|...... Not.|next||hide||fwait,0.5||anim,1,Idle||fwait,0.5||hide||music,Moth|We are ok.|next||face,1,-5||tail,-5|Thank God we are afraid.|next||tail,1||flip,1|Where are we? |flip,1|Where is AIDS?|next,-5|Well ... this will start soon.
+The result ... is old. I swear very loudly.|next|They |color,1|record|color,0| where people go.|next||color,1|Both HP and DP|color,0| will be handled for this. Sometimes they go to school.|next||tail,-5|Believe me, let's go now!
+We have addiction.|next|Terrible place to disgrace.|next||tail,-4|I know I can. Do not leave and do not wait.|next||tail,-5|Excuse me. You don't have to take this opportunity. straight ahead!
+|tail,-6|This is a spider web. The second home is also known.|next||tail,-4|There were arrests and victims during this terrible period.|next||tail,-5|If not, blank.|next||tail,-6|Sweet dream.|next||tail,-4|OP! !|next||tail,-6|If you wait longer, you will be able to enjoy the silky silk.|next||tail,-4|Today! Let them |shaky|go!
+|boxstyle,1|Delicious meat, stay with us!
+Is that correct? We seem to be stuck in debt.|minibubble,24,-5||next||destroyminibubble||tail,-4|There is no money, |anim,-4,Angry|but I feel like I'm being held.|next||destroyminibubble||tail,-5||face,1,-5|Are you looking for evidence from other researchers? What's your name?|next||tail,1|Life. The average. Of course, this is news over and over again.|next,-4||face,1,-4|Do you have a god? Are you a researcher? What is the status of the artist?|next||tail,1|Two brothers? If so, you can proceed.|next,-5||face,1,-5|If we work together, we can make a promise!
+Not him! !|halt|
+We have no other choice. We are committed to supporting services.|next||tail,-5|Can you be king?|next||tail,1|... Noun.|next||tail,-4||anim,-4,Flustered|Not him! ! Download without knowing!|next||tail,-5|We look forward to hearing from you soon.|next||tail,1|Everyone calm down.|next||tail,-4||anim,-4,Idle||face,1,-4|Here you can highlight WAB notifications. |flip,-4|Japan!
+Passport.|next||tail,-5||face,-5,1||face,-4,1|Disclosure?
+Pregnancy pain ...|line|But make some changes!
+In the end I was alone.
+Vi! You know! Example!
+Point X. Let's do this!
+|wavy|Cake
+We open a new Vi character. This is our job.
+|tail,-4,Angry|Do you like to eat spiders? We did not see!
+Sorry!|halt|

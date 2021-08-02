@@ -1,0 +1,24 @@
+Silver! Finally ...|next,-4|This is a treasure! We did it! We create the best! Yeah.|next,-6|It's time to throw it and move on.|next,-5|The shooting session is good, but the place is still difficult. |line|We follow the clock.|next,-4|The last bullet is FAT STINKBUG!|next,-5|Wall! ??? |menu,46,1|, You know!|next,-6|....
+|checkflag,41,0||tail,-6|In good condition, there will be no injury or flood.|next,-5|I miss you so much.|next,-4|Why are we here?|next|This does not mean that their fortunes suddenly appear.|next,-5|Sometimes it comes to traffic, not where they go.|next,-6|This is so delicious.|next,-4|Ikesiike. If you don't have sources, release it.|next,-5|(I can not play ...)
+For example!
+Is this disgusting?|next,-5|We see a better picture.
+Maybe a card?|next,-4|It feels strange. This is more effective.
+|wavy|Soo Esco?|anim,-4,Surprized||anim,-5,Surprized|Our car tricks ...|wavy||next,-4||menu,48,1|??? !|next,-5|Hi! ???|next,-6,WeakBattleIdle|Ah, I say I see better. We interact well.|next,-5,Idle|Pseudo Induva. Maybe the structure is good.|next,-4,Idle|After a brief period. Do not touch the message.|next,-5||face,-5,-4|Queen (Vi) proves this ability.|minibubble,6,-6||next,-4|Yes what?|breakend|
+Women ...|halt|
+Look for the|line|  |color,1|old mask|color,0|!
+Perfect!
+What are you doing?
+This is.
+Example! This is a trap!|next,-4,Flustered|Let them go!|minibubble,23,-6||breakend|
+You are!|next,-4|Lots. ! Unstable! ???|next,-5|This is the worst time in history!|next,-6,BattleIdle||boxstyle,0|We will not miss the best time to return now!
+If we run, we can still win.|next,-4|But we ran last time!|next,-5,BattleIdle|We are strong now, Vi. Live with us. We cannot avoid war.
+At the same time! Trust yourself! |anim,-4,BattleIdle|Let's get the water before we enter the house!
+! ! !
+We did it! Here it is!
+Ha ha ha ... ha ha ha!|next|Is that correct! Amazing ... We worked together and won!|next||anim,-5,WeakBattleIdle|We add ...|next,-6||anim,-5,Idle||face,-5,-6||face,-4,-6|Fortunately, we did not know what was happening. However, hitting spiders reduces stress.|next,-4|OK! I want to win!
+We have a treasure!
+C curse! We forgot the storm!|next,-6|Can.
+For example.
+What are you doing?
+Both way and go in the front pocket of Snakemouth Den.|next|The place is known for its emotional use by researchers.|next|However, the group got up and surprised Lib's close friends.|next|It is a story the Queen is searching for.|next|When the trap fell, the spider failed.|next|What about the three friends you meet in the crowd? Do they agree?|next|Some people know that the journey has begun ...|next||spd,0||fadeletter||center||line|End of the first semester.|fwait,2|
+After a brief period.|halt|

@@ -1,0 +1,19 @@
+|tail,-4|I detest it too|next,-5|This holiday camp is made for jewelry!
+Is it safe to sell there? Hope you don't come back ...
+|tail,-6|What stops the carbon market? Can't I say "stop"?|next,-5|We do not take risks and big problems!
+|tail,-4|Good for the eyes. A refrigerator over you!|next,-6|There are models too.|next,-5|(Do I need to improve my style?)
+A heavy train is coming. I really enjoyed being in the elevator!
+It will be easy to play. Put all the heat ...
+A- Do I want to play there with fear?
+I hate tropical islands. I don't have money to buy food.
+I lost agriculture, but this is not the best solution.
+|anim,caller,BattleIdle||checkflag,81,10|Good job! Thank you for the right time|next,-6|Remember ...|call,15|
+Good job! it's snowing|next,-6|Do we see your work everywhere?|call,15|
+|checkflag,80,13||tail,-6|Then Diana. Really hot|next,-5|I miss you a lot!|next,-4|Anyway, the tunnel is perfect and I'm happy!
+|hide||event,196|
+... Have you seen him anywhere else?|next,-6|Is that correct? How to skip major types?
+|anim,caller,BattleIdle|Good morning! Her name is Diana. first meet?|next,-4|Let's Fall in Love|next,caller|Yes, I do not want to see you.|next|Anyway, hello!|next,-6|Well why did you come here?|next,caller|Unfortunately, I had to get rid of all the channels around Bucharest.|next,-5|Have you completed all channels?|next,caller|He says:|next|Now it's over, you need to rest.|next,-4|Bat champ, lovely. I am happy because this music is so valuable!|next,caller|There is no problem! It just works! Hi!
+|break||anim,caller,106||end|
+|anim,caller,BattleIdle|Hey boy! All channels are ready!|next,-4|Exceptional! It is winds.|next,caller|Normally! Work is tiring, but the Queen is happy.
+Yes, thank you for meeting me tomorrow. I want to hear from them ...|next|This helps us to stay strong!
+I want to be here. I don't know what to do, but I'm going with it!|next|However!|next,-5|Diana, I want to rest!|call,15|

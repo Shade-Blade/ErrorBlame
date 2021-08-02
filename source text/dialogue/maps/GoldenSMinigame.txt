@@ -1,0 +1,20 @@
+|checktrue,276,8||tail,-6|This is a good area.|next,-5|It looks like you should do something here. look for it.
+|flip,caller|Whatever it is. Where is the customer? Because someone is already here! You should turn it off so fast.|next,-5|Forgive me...|next,caller||flip,caller|What is that ! I do not see?|next|Stop, customer ...?|next,-6|Problems What are you doing here?|next,caller|Not him! Welcome to Wake Farm!|next|Let's play the popular |color,1|Wake-a-Worm|color,0| game here!|next,-4|Oh, this is our vacation!|next,caller|Yes, people celebrate music, but you can play anywhere, |line|anytime!|next|Depending on your level, you can taste ten fruits and get one or |line|more tomatoes!|next||flag,276,true||goto,2|
+|showmoney|Bangun-A- Do you care about |color,1|worms|color,0|? Try ten!|prompt,map,2.625,2,4,5,@Let's do it!,@Thank you} but I'll give you one.|
+|boxstyle,3||spd,0|Welcome to Wake Farm! Here you can get strawberries by playing Wake-A-Warm!|next||spd,0|Get over 25 worms and special rewards!|line||line|The biggest impression:|var,32|
+|checkmoney,10,6||money,-10|Trust yourself! Let's go to the stadium!|break||event,54|
+Whatever it is. Confidence. If you change your mind, come back.
+Stop ... no money! Please!
+What? Isn't this the only battle?|next,-4,Angry|That's all ... hates me.|next,caller|Well, there is no compensation! Please try again later.
+|tail,-4|We can say worms again!|next,-5|I can't describe the worm.|next,-6|The mayor said they were shocked.|next,-5|Can you win ...
+Watch out! There are |var,1| worms!|next,-4,Happy|Yes, what do you get?|next,caller|That's your business.
+Thank you for sharing. back!
+Wow! 25 years! What a tragedy!|next|She has 30 worms, but she is still the best!|next,-4,Happy|What are you doing? I have nothing!|next,caller|This is a special price!
+|tail,-4|Did you know that he is a prisoner?|next,-6|Congratulate him. It has been a long time since we lived.|next,-5|Needless to say ... but are you angry?|next|Made without clients ...|next,-4|We can help ...
+|tail,1000|This is a beautiful place! I do not know!|next,-6|You too.|next,-4|Return to the market. But he scored thirty goals!
+|tail,-6|Do you like sports market?|next,-4|Don't have much to eat?|next,-6|Why are you talking ...
+You really are! I think ... I don't think that's possible!|next,-4|This is.|next,caller|Thank you very much for this old and tired mistake!|next,-5|I hope you pay for it.|next,-6|You do everything ...|next,caller|I am not yours, but you can be sure!|next|Now I give you a nice gift!
+Enjoy! Transfer!
+|tail,-4,Sad|...Is it important?|next,caller|AAC! Look at the treasure at home!|next,-4,Happy|This is really wonderful! Thank you for your work!|next,-4,BattleIdle|Will you pay 30 times?|next,-6|To get started.|next,caller|Ha ha ha ha! OK. I need to download too!|next|Take it seriously!
+Unfortunately at the age of 20 ... try again!
+30 worms ... 30 !!!|next,caller|Hey.|next,caller|... "|color,1|CAR|color,0|"|next,-6|What is that?|next,caller|Unique icon for private menus.|next,-4,Angry|Damage! ???|next,caller|You have to count ...|next,-5|Because here ...|next,caller|Oh, take it!

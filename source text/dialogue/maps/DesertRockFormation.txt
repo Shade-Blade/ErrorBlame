@@ -1,0 +1,9 @@
+|tail,-6|This stone is very large. Scary.|next,-4|Always? Did you see?|next,-6|Hmm, maybe this is our first visit.|next,-5|Many researchers want to know the past!|next,-6|If it weren't for us ...
+According to my research, there are things in this field, but it's over.|next|Is there a way that I can't find?
+...! Shocking. Where is Shishui?|next,-4,Happy|Permission! Enseemy!|minibubble,7,-6||next,caller|I want to see. See you here!|breakend|
+This is a lost circle. Legend has it that these sins can be passed on from generation to generation.|next|I haven't seen her yet ...|next,-4|Isn't the picture great?|next,-5|Maybe this post is very different only memories of passing the |line|test of time ...|next,-4|Hey, at least we found something here!|next,caller|Degree?|next|This is a sand-wrapped gift ... so much fun. Great writing info.|next,-5|Are we further?|minibubble,4,-4||next,caller|Now, can you test their behavior right away? There is no problem.|next|The requested data is now available.|next,-6|OK. Thank you.|next,caller||checkflag,302,5|All this will help to solve this problem. Return to Eco Evo.|next|See you again.|breakend|
+|anim,-4,Flustered|There is no other choice!
+After completing exploring the desert, he returned to Eiko.|next|I can recover.|breakend|
+|checktrue,342,8||tail,-4|Or travel.|next,-5|Of course, there is no way to measure this.|next,-6|If we try, then ...
+I don't|line|need it.
+Trust yourself! Let's continue!

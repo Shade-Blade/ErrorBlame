@@ -1,0 +1,46 @@
+... We did.|next,-6|In fact, this cannot be avoided.|next,-4|Great service ...|next|But we all survived! Hey, nothing wrong with being famous!
+|tail,-6|The girl who attended the event?|next,-5|I was amazed to see the excitement in the city!|next,-4|Hey, all we have to do is give a real gift
+Can you keep it a secret?|next,-5|... Once.
+Do you think I forgot the flight. I am Machiavelli. Thank you |line|for protecting your community.
+Saab prison. Then sleep for 3 months.
+They are my heroes! Why not use it for my ID?
+Yes, Hero Burr hit me. So ... |next|I wrote to you s- |shaky|* hit *|shaky|*! Check this out *|next||hide||fademusic,0.1||fwait,1||anim,caller,100||sound,Mandolin||fwait,18.2||anim,caller,Idle||music,Field6||hide|...|shaky|* We see *
+|hide||minibubble,@Blood,caller,0.5||waitminibubble||end|
+What if I have a work contract. What a pleasure!
+You know, here it is. Thanks to our community!|next,-4,Happy|Good morning!
+|hide||minibubble,@Kojo,caller,0.5||waitminibubble||end|
+Oh, thank you for making me happy! Let's practice together!
+Nobody will watch this match!|next|Meanwhile, I sat down and enjoyed live music.
+|tail,24|Wow! You are my idols!|next,25||face,25,24|Normally. My technology is evolving.|next,21||face,21,24|Ha ha ha ha! Kurt, you need to improve your teaching skills!
+|anim,caller,Happy|Such companies are still developing! Thank you for your help!
+Thanks always for my inspiration. Hope my music helps you!
+|tail,-4|Wow! Everything is here!|next,-6|There are people who can help you ...|next,-4,Happy|Good job.|next,-5|Therefore, T. Help others a gift!
+|tail,5|I've heard some policemen ... It seems like people are spending time in this city near you.|next,17|The body ... rest assured ...|next,18|It's nice to see the world, but you can't go home again.
+I've never seen anything so bad! There are many ways to sell Dermagate!
+After two attacks, I am happy with the calm.
+|tail,22|Sold! Many visitors!|next,23|Ha ha ha! This is a valid question.|next|Thank you for listening. Snake skin.
+Each! I can't wait for the future.|next|I mean good!|next,-4|Truth.|next,-5|Thanks Soba!|next,-6|This is good.
+Do you have the toughest weekend?|next|Not here!
+I made it special ... Thank you!
+|tail,-4,Angry|Unbelievable love! Jump from my house.
+Thank you for being a safe place in Bukhara!
+This is a group!|fwait,0.2||anim,caller,Angry| Motivation increases self-confidence!
+|tail,34||face,34,33||face,33,34|You know the game!|next,33|Yes shame is not the island ...
+|anim,caller,Happy|The guy does that! Go!|next,-5,Happy|Ha ha ha. Luckily! spring!
+Oh black really fun! Beautiful destination!
+|hide||sound,Nero||minibubble,@Exceptional!,caller,0.5||waitminibubble||end|
+Hey, do not worry about work today! Enjoy!
+|tail,36||face,36,57||face,57,36|Wow! Good offer!|next,57|Thanks to the Snakemouth team, it's safe to go to the beach!
+|tail,39||face,39,40||face,40,39|Excuse me. Go for lunch.|next,40||wavy|* Sighs *|wavy| ... good then come and search for food.
+We know mistakes can save us! Sir!|next,-6|Wrong, thank you for your confidence.|next,caller|The soup must be cooked!
+Dark cherry produces a strong aroma. Very expensive.
+Oh, you don't call me a real hero!
+So ... happy. Thank you again.
+|anim,caller,Sad|I am happy ... I am happy!|next,-4|Anxiety is very tense.
+Are you going to the sea and defeat the enemy? Good nails ... or bad luck!
+|hide||minibubble,@Girl!,caller,0.5||waitminibubble||end|
+These are your fans. I have free time.|next|Anyway, the same thing happened at breakfast ...|next|...|shaky|What is the lunch?|shaky|
+We slept a lot ... hungry to eat ... zzz ...
+Life does not stop.
+|tail,-6|Is the party gone? We cannot leave now.
+|bleep,5,2.5|Iron fruit! Someone said it was a difficult meeting.|next|But the donkey is not here! This is the biggest mistake you can make!|next,-5|...|next,-6|Leave it there

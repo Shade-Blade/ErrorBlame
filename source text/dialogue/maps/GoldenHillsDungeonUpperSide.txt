@@ -1,0 +1,2 @@
+|checktrue,88,1||tail,-6||anim,-6,Hurt||wavy|Froxtech, Idoel Myurk ...|wavy||next,-4,Sad||face,-4,-6|Life is another mystery ...|next,-6,WeakBattleIdle||face,-6,-4|I am sorry for the mistake ...|next,-5||face,-5,-6|Killing in this area is very dangerous. Do it right away.
+Life, is not that far?|next,-6|If we had a magical relationship, then it would be great. Refuge.|next,-4|If you don't get a service like this, that's bad!

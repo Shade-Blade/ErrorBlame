@@ -1,0 +1,67 @@
+|tail,-6|This place is not fictional.|next,-4|It is amazing. It comes directly from the bee group. Pole.|next,-5|You know ... realtors don't like high-rise apartments.|next,-4|Very cheap! Pay well to eat or travel!|next|Hate investment mistakes, they seem important!|next,-6|Oh, you are so beautiful.|next,-4|What is "the end"?|next,-5|Gloria, F. Considira.
+The bus is part of the traffic in Bucharest.|next,-4|What are you doing here?|next,-6|There are a lot of people here. You can sell more expensive items.|next,-5|We talk to him.
+|tail,-4|Ha ha. Sophie wishes the best then she travels.|next,-6|The food is delicious.|next,-5|I had the honor to meet other friends!
+|tail,-4|Yes, it is an interesting actor! ???|next,-5|In addition to food, there are many prizes!|next,-6|If the food is good, then it will be good.
+|event,true||align,right,true||face,caller,-1|Yes. This sounds like a sensible mistake.|next,-6|Leave it to us.|anim,-4,Angry||face,-4,-6||next,-5|I can help.|next,caller||face,-4,caller|Ha ha. Of course this is possible. There are recommendations that you will not miss.|next,-4,Idle|Go? The sea?|next,-6|The biggest prize?|next,caller|Ha ha. watch out!|break||event,35|
+|tail,-5|...!|break| Yeah ???|next,caller|Correctly. This is a |color,1|limited|color,0| edition of |color,1|Green Bug Ranger|color,0|!|next|Only |color,1|ten|color,0| people have been created!|next,-4|Think.|next,-6|... Who cares?|next,-5|Dear buyer ... a book for sale.|next,-4,Angry||face,-4,-5|Wow!|next,caller|Yes 40 What about seeds?|next,-5,Hurt|Yen! Slow and slow ...|next,-4,Angry|... Kabu, do not regret the use of all fruits used in Snohamut.|next,-5,Hurt||face,-5,-4|....|next,-6|Kabu.|next,-5,Idle|D-Natars, two.|next|Save it and buy it.|next,-4,Idle|Good this is your money.|next,caller||face,-5,caller||face,-4,caller|Yes, I will wait.|flag,57,true|
+|align,right,true||face,caller,-1|Continue? Do you like my gift? Green silk comes with 40 counterfeits edition!|showmoney||prompt,map,2.5,2,7,8,-57,-58|
+|checkmoney,40,9||money,-40|Ha ha ha. I enjoyed working with you.|break||giveitem,1,25,10|
+Ha ha ha. This gift will not last long.
+There is no friendship, money, or work. The industry operates.|next|I use a lot of benefits for you!
+|flag,58,true||event,36|
+|anim,-5,Happy|Yeah.|next,-4||face,-4,-5|Is that correct? Are you happy?|next,-5|I'm not here!|next,-6|I've never seen a bird in this child.|next,-4,Idle||anim,-5,Idle||face,-4,-6||face,-5,-6|Do not miss!|next,-6|... Do not get |wavy|angry|wavy|, do not ignore me.|next,-5|They are the only actors, but they make small mistakes across the country.|line|Even on the mountain!|next,-6|Advertising power.|next,-4|Where sometimes they appear in this game!|next,-5|Tell you what we are all!|next|Blue Guard liked it!|next,-4|Not! Pale yellow is the best!|next,-6|Thanks. Interesting. We will serve you.|next,-5,Happy|(... Yes, very fine.)
+I'm here. If you need more money in the future, you can stay in a tourist spot.
+Good morning! How is your vacation?|next,-4,Happy|Energy! There is a good treasure too!|next,-6|Do you have it?|next,caller|He is ... talented Bukhara, right?|next,-5|Normally! Although the image refused.|next,caller|Yes ... but, we will take the blame again in the future.|next,-4|You are right!|flag,62,true|
+I hope the music gets faster ...
+|boxstyle,1||shakecamera,0.1,0.25||sound,Wam,-1,1.1,0.6||shaky|Oh, BUGLIET. Very shining ...|shaky||next,-5||boxstyle,0|How are you?|blank||tail,caller||boxstyle,1||sound,Wam,-1,1.1,0.6||shakecamera,0.1,0.25||shaky|Oh, Bagemio, you're crazy! ! !|shaky||next,-6||boxstyle,0|Hey!|blank||tail,caller||boxstyle,1||sound,Wam,-1,1.1,0.6||shakecamera,0.1,0.25||shaky|But what is the difference between us! !|shaky||next,-4||boxstyle,0|If you want to move, you should do so.
+|tail,-4|Oh look at this guy!|next,-6|Isn't that a good name?|next,-4|No, but no one knows who he is!|next|Nobody saw the mask!|next,-6|I see half of his face ...|next,-4|This place is closed too!|next,-6|How is that?|next,-5|I do not believe you! I want to cry!|next,-4|Not him! Stay with us!
+|flip,caller,false||teleportparty||align,right,true||tail,-4|Oh, Sophie.|next||face,caller,-4||tail,caller|Vi, do you want to participate?|next,-5|Dear cow, are you an actor?|next,-6|Talented hunters and talented artists ...|next||tail,caller|This is no thing! Everything will be fine! let's try!|next,-6|There is no research?|next,caller|Mm. Few things ...|next,-5|Everything is ready and ready to go.|next,-4,BattleIdle|Distance!|break||event,39||end|
+Wait a minute, be careful.
+V-VI! Watch out! ! !
+..... .....
+|wavy|Nag.|wavy| That's all, I'm done.|next|People come and I believe in you!|next,-6|I hope there is no hope ...|next,-5|We do everything. This game requires a lot of effort!|next,-4,Idle|We pay. Let's Begin!
+|face,caller,-1|Is it later?|prompt,map,0.7,2,23,24,@Yeah,@Not|
+|event,40|
+The participants are very patient. Not for long!
+Once upon a time this kingdom was established in the desert.|next|Tourists from all over the world love to visit. Thanks for the clean water,|line|this is a good base.|next|The princess wants to see her with all her feelings and sympathy.|next|This is a bad boss full of love ...
+I cannot leave my people. I am proud and entertaining!|next||gettail,138|Oh, what can I do?|next|You have no choice!
+I can not stop.
+The country ... the kingdom ...! How do you do that! I will never love you!|next||gettail,138|Now the princess.|next|If you look at all my subjects, you will forget these countries!
+Let's wait! There is no more Queen!|next,-4|Yes, come back!|minibubble,30,-5||next,-5|We- We've blocked you!
+|wavy|(I forgot the way ...!)
+|anim,this,Idle||shaky|Mine!|shaky| Take the medicine. We have a place.
+The crowd got up and ran.
+Well, let's see our rule!|minibubble,34,-5||next,-6|Today we are princesses with the theme of Satan! ???|next|Your choice is wrong. The product!
+|wavy|A call ...
+Please! Someone save me!
+Deep voice! The city and the women flee.|next,-5|What should we do now? How do we treat people! ???|next,-4|Message! And therefore!
+It seems that the heroic queen left the city she loves.|next|Longsoo a long, dry desert ...
+|shaky|I ... oh my god, give me water ...|shaky||next,-6|Do not complain! Our pain is less than the pain of the princess.|next,-4|I know this is the cure.|minibubble,39,4||break||destroyminibubble||end|
+|shaky|(V-Vi! What are you doing?)
+Hey thieves! There is a problem!|next,-6|There is no logic. We have no time to meet.|next,-4,BattleIdle|How or where Beemarang! My sins!|next||gettail,57|Yes, you won't be in the desert ...|next||gettail,58|... Wear expensive clothes like this!|next,-6,BattleIdle|The longing never ends ... that's all!
+... Did you run away? !|minibubble,42,4||next,-6|Ha ... Ha, this battle gives us new strength!|next|We have to move quickly!
+|shaky|Safety!
+Be strong!|next||gettail,57|Professor, leave me here!
+We are loyal! Can!|next,-4,Happy|Good morning!|next,-6,Idle|Eat them all at once because you don't.|next|We have to move quickly!
+Surprise me, monster!|next||gettail,138||boxstyle,0|I do everything outside the mountains in our city ...|next|Reject again!
+Not many hot and cold nights. The eyes in the prince touched the fire.|next|Now let's go back to what we lost ...
+Oh, good, good!|next,-4|Oh, from the princess!|next,-6|Pay for your sins.|next,4|I am doing! Please!|next||gettail,138||boxstyle,0|Why ... why should you deal with conflict?
+Swallow it well. I use everything I need!
+No ... I can fight!|next|I say my strength!|next,-6|No, this is not us!|next,-5|Do we need...|next,-4,BattleIdle|Hey, I can fight!
+AAAAAAAAAAAA-|fwait,0.5||end|
+??
+How is that
+Wait a minute ...
+Make sure ...
+|shaky|Cube it!
+Ras ...
+|shaky|Not him!|shaky| Guess ...
+...|next,-5|Excuse me.|next,caller|I lost my mind.|next|Let's try again tomorrow, thank God.|next,-4|Examination c ...|next,caller|Can we do that again? We can!|next||flip,caller|(... Think ...)
+You stole and harassed me!
+Wow!
+From the article ... Thank you for what you did.|next|Queen, the greatest honor.|next|When we returned to the empire, there were errors.|next,-6|Princess, that's all.
+|tail,-4,Happy||showmoney|No thanks.|next,caller|In fact, most people need oil.|next|I think it would be fun if it was sent.
+Hey, I know you trust me! Exceptional!|next,-6|Best.|next,-5|I don't like my job, but I do.|next,-4,Happy|This is simple. It seems now.|next,caller|Paying for the Snakemouth team can't be trusted! Ha ha ha ...|break||giveitem,-1,30,62|
+|wavy|To our hero Sejuyin!|wavy| I made a special game for you! Do you want to sit and watch?|prompt,yesno,65,66|
+Don't give up! Just a warning!|break||event,204||end|
+We hope to see you soon. I tried really hard!

@@ -1,0 +1,9 @@
+|checkflag,41,8||tail,-6|This house is a memorial.|next,-5,WeakBattleIdle|I think I will get rid of the pain in my shoulder!|next,-4,Happy|I've never heard of a permanent home after the floods.|next|You can download it while downloading it!|next,-6|We do not want ...|next,-5,Idle|I think you have a lot of secrets in this house too!|next,-4,Idle|Let's go!
+Mojo?|next||tail,-4||anim,-4,Flustered||boxstyle,1|What are you doing ? We did |shaky|it|shaky|! !|next|This is not new. Excuse me. Goat is not bad!|next|The theory is developed here! It hit your face! I |shaky|want|shaky|!|next,-5||boxstyle,0|Awesome, shame on you, let's see!|minibubble,@Example!,-4||next||destroyminibubble||end|
+?? ?? What?
+|boxstyle,1||shaky|IYAAAAAAAAAAA--|shaky||fwait,2||end|
+I analyzed the boxes.|next||hide||minibubble,6,-5,-0.5||waitminibubble||tail,-4|Kabu! Hi! ???|next||hide||minibubble,7,-5,-0.5||waitminibubble||tail,-4|Swallow it well. Make sure ...|next||flip,-4|This is the best time to go home. |flip,-4|I don’t know what will happen ...
+Think ...|next|Forgive me.
+|wavy|Make sure ...|wavy|
+|wavy|Loafy ...|wavy|
+We have.|next||tail,-4|However, this did not happen to ancient effects.|next||tail,-5|Beautifully. If you try, I will send you a message!

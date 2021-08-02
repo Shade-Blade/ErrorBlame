@@ -1,0 +1,7 @@
+What do you prefer? I feel like there are a lot of stones ...|next,-6|Yes, it is scary.|next,-4|How are you?|next|B- But this is scary ...
+|shaky|Durability!
+|tail,-5|Lord Venus! What happened?|next,caller|Listen, this is very important.|break||goto,4|
+|tail,-4|?? There is a priest.|next,-6|Who are you?|next,caller|Permission! Come here. Listen, this is very important.|break||goto,4|
+|tail,caller|We hope you enjoy the trip ...|next|But this is my choice. I can not help. Watch it fun!|next,-6|I am very interested in the future ...|next,caller|Oh ... we started |color,1|dying|color,0|.|next|Worse yet, people are not strong.|next|More powerful than other battery products. |line|I don't understand why they haven't tried it yet.|next,-5|The attacker hides a terrible fear or an eternal tree!|next,-4|Does this make any sense? This is a real challenge!|next,caller|Note that this is not a game!|next,-4,Flustered|We are so bad! This is just a treasure!|next,-5||anim,-4,Sad|King Hornes seems to want to move on.|next|This is dangerous, but there is no risk of doing a good job.|next,-6|Yes everyone.|next,caller|I know I love them.|next|Ask if you need treatment. I can't keep it in the future.|next,-4,BattleIdle|Thank you so much! Well, let's keep going!
+I hope he will provide more help, but only in the process the establishment will continue.|next|The dead are very strong! If you want to avoid it!
+Destruction of trees will be embarrassing, but better.|next|What is wind? Trash that failed ... Don't be angry with the boss!

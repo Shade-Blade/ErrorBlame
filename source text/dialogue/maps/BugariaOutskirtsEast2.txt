@@ -1,0 +1,7 @@
+|checkflag,138,2||tail,-6|Hmmm ... the road is empty.|next,-4|Life, what do you think?|next,-6|Of course, we are happy to complete this process.|next|We jumped from a small rock. It seems that Kang left these people behind.|next,-4|Wow, that would be great!|next,-5|Personally, I am very thankful that this happened when I entered the audience!
+|boxstyle,3||spd,0|North: lost sand.|line|East: swimming pool, steam boat.|line|West: a kingdom like this.
+|tail,-6|Hmmm ... the road is empty.|next,-4|Life, what do you think?|next,-6|Of course, we are happy to complete this process. But he rose.|next|We jumped from a small rock. It seems that Kang left these people behind.|next,-5|Thank you personally for sharing with the community.|next,-4|I don't know why I woke up ...
+In the name of God! How does this leg work? ! Where are the employees?
+I can't wait to see other people's lives not so good!
+Wow thank you|next,8|Here we are a little.|next,-4|This is no thing!|next,7|Let's start the competition!|next,-5|Watch out!
+|tail,-4|A different general!|next,-5|He looks angry. Find out how men can walk!

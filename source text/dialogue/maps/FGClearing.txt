@@ -1,0 +1,14 @@
+|checktrue,609,12||checktrue,608,13||tail,-4,Angry|... Of something!|next,-5|Um ... Isn't that really the goal?|next,-6|Here we see this dynamic process. But we do not know now. Come again.
+Thank you for meeting. Let me explain when you're ready ... right?|prompt,yesno,5,6|
+Immediately ... I want to get out of here ...
+-
+-
+|hide||event,207|
+For the day. Come back on time.
+What is your biggest plan?|next,3|Well, Z brought it here. I think he was born here.|next|Maybe it looks mature.|next,-6|What is the reason?|next,caller|Believe me.|next,-5|Why does it help?|next,-4|Yes, I accept.|fwait,0.2||anim,-4,BattleIdle|What a tragedy!|next,3,BattleIdle|Because I think this could happen!
+Let me know first!|next,4|Jinshi, did you explain the explanation? Please ...|next,3|No, China!|next,-6|Others who have been released may be attracted to violence.|next,3|Don't come too close to the yen! Keeps even cleaning!|next,-5|Go!
+Currency. We do not believe it.
+...|next|Mama ... M-Makki ...!|next,3|Yes do you know my name?|next,4|OK. Now I can |wavy|say|wavy| ...|next,2|I finished ... well ... I know!|next,-5,Happy|A hero! Several years!|next,3|Congratulations to Snakemouth. Help protect them.|next,-4, Happy|Sonic is also our friend! Good job!|next,-6|He has a lot of magic ... He wants to know what he's doing.|next,2|What ... a miracle!|next,4|... well ... Continue. Dear brother.|next,3|Come again. I will pay you first.
+|tail,-5,Surprized|Mickey, this ...|next,3|Do not worry about me.|next,-6||anim,-5,Idle|I use it often.|next,3|Is it true that we are always looking for partners?|anim,-4,Surprized||anim,-5,Surprized||next,-4|?? What ... war?|next,4|OK. Brothers and sisters are in serious trouble!|next,3||anim,-4,Idle||anim,-5,Idle|If you want to know what you're looking for from us.|next,-6|He did not do. Always at work ...|next,3|Court bed.|next,-5|Think about it!|next,2|Good morning! Good morning!
+|tail,-6|We still have a sense of magic, but ...|next,-4|Can't you imagine what happened?|minibubble,@Hopefull.,-6||next,-5|I don’t know where other parents went ...|breakend|
+Jensy came to give me one yen.

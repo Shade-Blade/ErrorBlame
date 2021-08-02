@@ -1,0 +1,2 @@
+The sand is gone ... we finally met.|next,-4|The heat is not so scary ...|next,-6|Did you face all this in the era of suffering? In this case?|next,-5|Yes, it is very easy to do with Vi!|next,-4|I.|next,-6|Well, I'm happy with the manager ... everyone guides.
+|common,0|

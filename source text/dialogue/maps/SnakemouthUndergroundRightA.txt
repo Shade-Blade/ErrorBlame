@@ -1,0 +1,2 @@
+|tail,-6|This place is always crowded.|next,-4|It appears here.|next,-5|Residents do not have to travel to the area regularly. This is the |line|biggest port security.|next,-6|Isn't this a big door?|next,-4|If so, it's worth it!
+|boxstyle,3||spd,0||color,5|Low temperature|color,0| of the |color,5|plant|color,0|.|next||spd,0|Many organisms are |color,5|weak|color,0|, and different |color,5|mechanisms|color,0| can alter the |line|outcome of war.

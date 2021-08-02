@@ -1,0 +1,2 @@
+|tail,-6|This is a magic face.|next,-4|I use the same thing, paper! I don't like food ...|next,-5|Certainly not an ordinary home. Remember, no one will take |line|you.|minibubble,@Boiling.,-6||breakend|
+|tail,-5||anim,-4,Surprized|Interesting! ???|next,-6|This is magic. Negative translation.|next,-4,Angry|Introduction! A Jewish miracle.|next,-6,BattleIdle||anim,-5,Idle|Event. Where is that place?|next,-4,Happy|Important information! Over the phone.|next,-5|Expression. The first trainee on the road ...|next,-6|We close our eyes.|minibubble,@Make sure ...,-4||breakend|

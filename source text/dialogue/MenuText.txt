@@ -1,0 +1,271 @@
+Excellent
+Excellent
+Invented |string,1| |color,1||string,0||color,1|!
+So many things!|line|Choose what you want to throw!
+Do you want to save?
+Yes
+No
+|color,1||noskip|Save. Wait a second ...|save,8,9|
+Salvation is complete.
+Unable to save. Check the integrity of the file.
+Gifts
+Prices and figures
+Library
+Establish value
+The benefits of life
+DB
+Fight
+Children
+Experience
+PCs
+There are no related products
+Nothing matters
+Any artifact
+He has no medals
+Article
+The main plan
+Tramankulu
+Degree
+Result
+Full screen
+Shadow quality
+Some sort of text
+Be successful
+The sound of the music
+Capital
+The main entrance
+Return to the menu
+The game is over
+Together
+Turn off
+Less is more
+Well
+Well
+To cancel
+Come back
+Save and return
+Vi
+Kabu
+Life
+|currency,var,10|. Benefits
+Analyze and use the package.
+Check your stats, your abilities,|line|and your credentials.
+Some of the information you wanted|line|to see.
+To change the settings.
+Find
+Oak
+Instruction
+Registration
+Name what needs to be done
+?????
+Fight
+You don't
+Article
+Properties
+Speed ​​control
+It is a bar
+The process of change
+Spy
+Society
+Your character until the next color.|line|Make sure nothing is done.
+Adjust the pages. |line|Or tap the page in the Flower menu.
+Get some information about the enemy.
+Escape from war.
+|boxstyle,4||halfline||spd,0||center|You will not run away from this fight!
+Remove
+Every enemy
+The whole party
+Everything
+|end|
+You don't have to go anywhere.
+The second skull
+30 FPS
+60 FPS
+Join the tour
+Turn it on
+It didn't come
+Please do
+Don't save your money
+Together
+Come
+Left
+In the right way
+Good / throw / touch
+Agility of evacuation / war
+Quickly shoot / change the page
+Show / hide HUD
+Neraminri
+Help
+Click
+|size,0.75|Select to change |line|the key.|line||line|Press the F1 button|line|to reset to the|line|default settings.|line||line|Only the keys|line|on the keyboard|line|will be replaced.
+Major changes
+Please pick up
+Update|line|the tree!
+In summary:
+I am:
+Hard:
+There are |string,1| |color,1||string,0||color,0|!
+Unlimited
+Moonsprout Games -2019
+New post
+There are |currency,var,0|!
+Leku
+Fruit crystal
+Do you really want to quit?
+|exitgame|
+|openpause,4|
+Transformers
+There are |var,0| review points!
+Member:
+Team 1 each gets exercise, so you can live longer!
+Team +3 receives working capital, so you can |line|use a lot of experts!
+He can earn a lot of credits by giving +3 points!
+Choose New Record Support!
+Start the game
+Language
+a
+Yes
+Remove
+Select the file you want to copy.
+Select the files you want to delete.
+Select the file you want to copy.
+Do you really like it?|line|You cannot stop this work.
+An error occurred while working on the file.|line|Press |button,4| or |button,5| to return.
+Please wait ...
+Please try again
+Reset for the first time
+Change the weight and try again
+See
+Beatings
+Files are running. Wait a second ...
+Air pollution *
+|string,0| was born |color,1||string,1||color,0|!
+|string,0| Money |color,1||string,1||color,0|!
+Team |color,1||string,0||color,0| has earned it!
+|backline|For a total of |color,1||string,1||color,0| items it can hold |color,1||string,0| more items|color,0| in your pocket!
+No files are saved!
+Their stories are endless ...
+3D scanning
+* These effects are used when switching the map.
+required things:
+Made by mixing inappropriate material.
+Composition
+Wow
+Cooking
+The ride|line|is over!
+Success!
+High things *
+Using restrictions
+read more
+Degree
+Chat
+Do you want to return to the pool?
+|halfline|You can't play in this field.
+Do you want to return to the |string,0| point of destruction?
+It's not good for monsters to make a hole here.
+|openpause,1|
+|event,29|
+This part prevents things from happening. I can't play here.
+Trump's aide
+Fruit crystal
+You can now find the "Library" status|line|in the "Stop" menu.
+Place:
+Text of @:
+AREA
+LETTER
+Three lines
+The Golden Mountain is sacred
+Product Administration
+The mysterious lost river
+A desert in the distance
+Attack on Rubber Prison
+Trees are perennial
+It was a bomb
+Vertical relationship
+Your order is over!
+Not here.
+Are you relaxing here?
+|event,82|
+The End of Change
+Country:
+Sell!
+Return
+Location
+Want to start a submarine?
+Do you practice in |color,1||string,0||color,0|?
+Island
+This situation
+Ant Hill Palace
+Underground
+The main character
+A group of researchers
+Bucharia dock
+|color,1|Laboratory
+ABC/123/?!$
+ひらがな
+カタカナ
+The Witch Tower
+File |var,0|
+airport
+Press |button,4| to start!
+Dick
+Lore
+Basket
+Stop|line||line|Press |button,4| to continue|line||halfline|Press the |button,5| button to exit the menu
+Go!
+End of competition
+Home @VAR@
+Thank you for this show. Have a good time.
+Complete
+Automatic detection
+The power of the Xbox
+|size,0.65,0.75|Handwritten entry
+Driver used:
+No
+|size,0.65,0.75|Order in advance
+Xbox 360
+Double shock 4
+|size,0.65,0.75|Supply Pro
+|size,0.65,0.75|Manager 1
+|size,0.65,0.75|2. General Manager
+|size,0.65,0.75|Cover yourself
+Console Management Tool
+|size,0.65,0.75|Replace the Joy Coon Switch
+|size,0.65,0.75|Loose R cone switch.
+Apple Alcohol 3 TB
+|size,0.8,0.7|Stroke-3 dB.
+Detection of sleep-3db
+|rainbow|!! Excellent score! !
+Press |button,4| or |button,5| to exit the program.
+Post-war music
+Update
+Recover
+|size,0.6,0.75|Bad Pro Fight Switch
+She is dead
+Help
+The Mash Act
+Fill
+|size,0.65,0.75|The same process
+Click any button ...
+Enter the address ...
+|size,0.65,0.75|The level of exercise
+|size,0.65,0.75|Very analog age
+|size,0.65,0.75|Pad position d
+|size,0.65,0.75|D Vertical Vertical
+. Click the button
+The central line
+Button
+|size,0.75|Press the Enter button|line|to switch to another controller.|line||line|Press F1 to reset|line|the default values.
+Walk fast
+Quick reset
+A tool kit
+Sound
+Mononucleosis
+Stereotype
+The maize is over!
+Hours:
+Life is:
+✰ ♡ ♩
+i m
+Xbox Linux
+Similar mindset

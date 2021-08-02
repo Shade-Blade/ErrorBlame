@@ -1,0 +1,3 @@
+Do not be afraid ...|next,-6|Why? It is very difficult to carry them.|next,-5, WeakBattleIdle|Idea ...!
+Prisoners return to prison! In fact, they will only use this as a last resort.
+|boxstyle,3||spd,0|⇦ This kitchen is a buffet kitchen|line|⇨ Wonderful water

@@ -1,0 +1,12 @@
+|checkflag,211,11|A suspended deposit!|fwait,0.2||anim,-4,Happy||minibubble,@Found!,-4| Chair ... music!|next,-6|It will kill us ... consider the latest technology.
+|boxstyle,2||glitchy|Is reading. Electrical mode: not connected.|next|Malby Repair Request.
+Some rules always swing to the end result. Beekeepers, you can avoid the problems you want to wear on your skin without problems!@EVENT@Spina! ???|next,-4|Hey, the best I can do ...
+There is no other way, Vi. Leave us alone!|next,-4,Angry|There is no other choice. What do you do if you want to cut or cut?
+Life! The girl's |shaky|face|shaky|! ???
+Exceptional! Durability!
+You did something extraordinary again!|next,-6|They need time to think ... but we can succeed.|next|Safely press and hold the |button,5| button.|next|If you can, you cannot jump or run ...|next,-5|I do not believe you! Life, you can save a lot of trouble!|minibubble,7,-4||next,-6|If you run into trouble with the general and her husband, you will find your way. Ja
+|anim,-4,Happy|He will|line|not come!
+Life can now use foam shields!|line|Press the |button,5| button to save the dangerous area.|next|You can use it if you crept into enemies!|next||spd,0||sound,ItemGet0|Life can also use a |color,1|strong shield|color,0|!
+|boxstyle,2||glitchy|Is reading. Car Condition: Online.|line|Conclusion: Room gas.|next|Tok?|prompt,yesno,10,-11|
+|hide||event,68|
+|tail,-4|Now we have a common system! We can take a tram ...|next,-5|It looks like nothing.|next,-4,Angry|Wow! All are bad!|next,-6|Does not work in normal conditions. We must leave.

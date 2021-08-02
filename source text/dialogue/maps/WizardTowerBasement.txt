@@ -1,0 +1,7 @@
+|tail,-4,Angry|Yes ... many books ...|next,-5|This dead spider reads well! There are antiques here.|next,-6|We read books. "Honor the world."|next|Can we be concerned if we don't make a decision?|next,-5,Angry|Definitely! We cannot take risks!
+|face,-6,-4|Booklet? We look forward to more.|next,-4,Angry|When the book came out, I hated it.|next,-5|You must be a resident! We are ... traitors!|next,-6|Break.
+|anim,-4,Surprized||anim,-5,Surprized||anim,-6,BattleIdle|A hero! What is that!?
+What are you doing here? This is a private house!|next|I want to avoid this hole.|minibubble,5,0||next|Who wants to get out of here? Otherwise, it will be amazing!|next|Do not |shaky|occupy|shaky| the village! I will follow!
+|tail,-4,Sad||anim,-5,WeakBattleIdle||anim,-6,Idle|W-passion?|next,-6|He has a three-dimensional friendship.|next,-5|We will be in prison ...|next,-6|I think you should call.
+|wavy|Mble P Mble P *
+|boxstyle,3||spd,0|The best recipes of Elixir Taraxim!

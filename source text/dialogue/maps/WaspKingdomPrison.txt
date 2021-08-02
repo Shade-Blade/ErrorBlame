@@ -1,0 +1,15 @@
+|tail,-4|Is this prison? good job! He was jealous like a thief.|next,-5|The Kingdom is afraid of the space required for the home ...|next,-6|Don't you know that they were stolen after the attack?|next,-5|We strive to achieve our goals!
+|tail,-6|I wondered if he would see me in prison.|next,-4|He is very loyal. But this is not surprising. should know.|next,-5|You know how hard your life is ...
+Them too ...|next,-6|They travel a lot. This is a planned trip.|next,-4|There is no difference from. You have to say the money to get it back.
+|tail,-4|Why is he in the garden prison?|next,-5|The best way to understand this is to ask people.
+|tail,-6|. I am happy to be here.|next,-4|This is madness!|next,-5|Even if he's happy, we'll save him!
+|tail,-4,Angry|Too harsh! One cannot leave without food!|next,-6|Obviously, he didn't get the best results.|next,-5|I need to fix that ...!
+|wavy|Wow ... we are ... well ... I'm hungry ...|wavy||next,null||checkinvqtd,0,0,-11||boxstyle,4||spd,0|Do people need anything?|pickitem,0,11,12|
+|wavy|Ha ha ha ...|wavy|I came here for a purpose. |wavy|Many of you!|minibubble,@(Please ...),3||breakend|
+Everyone is smart. Even my best friend didn't ask me ...|next,-6|Are they coming?|next,caller|This is an accident ...
+|tail,5|We love being in the same place.|next,6||face,6,5|Yes, member. We did a good job together!|minibubble,@Make sure ...,-5||breakend|
+Save me, thank you ...
+|hide||event,215|
+|tail,-5||spd,-1|(... Sorry ...)
+|boxstyle,0|...! Save me, thank you ...|next,-6|The king pays.|next,-5|Pick up the anime. soon!|next,-4|....|next,-6|Which? It could be?|next,-4|Nothing will happen, Tim!|flag,661,true||anim,-5,Happy|
+|tail,-4,Angry|(No, I can let!)

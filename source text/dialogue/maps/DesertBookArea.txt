@@ -1,0 +1,2 @@
+|checktrue,417,1||tail,-6|Do you know who this is?|next,-4|I don't know if there are cards.|next,-5|... talk about that ... I know Neo wants to meet you later.
+|tail,-4|Wow! See you again!|next,-6|At least you can cross the road quickly.|next,-5|You can easily find this graph, unfortunately Neo wants to express it!

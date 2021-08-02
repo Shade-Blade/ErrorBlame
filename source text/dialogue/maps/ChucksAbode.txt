@@ -1,0 +1,31 @@
+|tail,-6|Hmm, do you have a chuck house here?|next,-4|Swallow it well. I think this is an authority.|next,-5|Is this really different?|next,-6|For those who speak of these sins.|next,-5|How is that?|next,-6|This is ugly.|next,-5,Angry||face,-5,-6|Life, stop the game and say something else. Sorry!|next,-6|There is no time, let me tell you later.|next,-5,WeakBattleIdle||wavy|Not him!
+|tail,-6|Old mistakes.|next,-4|Yes, no one cares.|next,-5|You really understand Chuck!|next|We told him that his success went well.|next,-4|Before sleep.|next,-6|The rest.|next,-5||wavy|* The Republic. *
+Yes. I will see you again. Help yourself!|next,-6|Are we friends?|next,-4|Of course!|next,-5|Really. After all the effort, you are confident and confident.|next,-6|... We used to.|next,caller|Glad I didn't disappoint you with the hahaha review. Did you find the treasure?|next,-4|Rights! As expected!|next,caller|Nowadays nobody can say that they are a beginner. I'm happy!|next,-5|Thank you so much, your Chuck Good.|next,-6|Weeds sleep well.|next,caller|You can go anywhere!|flag,46,true|
+|checktrue,231,14|Good morning! Break.|goto,27,keep|
+Well, this paper has a pistol. Another herb!|break||innsleep,-3,0,1,true|
+There is no problem. This error was not found.
+|wavy|* Custom ... *|wavy||next,-5|Chuck, I saw your message in an event.|next,caller|I am hungry!|pickitem,0,0,true,false,7,8|
+|checkvar,0,19,9|Do not eat breakfast! Boiling water!|next|Visit the bakery. I can't think anymore!
+OK? Where do not wait for the hunger strike now!
+|event,34|
+Excellent!
+Motherfucker. Thank you for always helping.|next|I soak and give the grass. They don't like ...|next,-6|There is no problem. Breakfast is our favorite.|next,-4|I have a lot of salt ...|next,caller|This time I will get good results!
+Sounds like an ordinary stone, but not much!|next|Unlike food ...|next,-5|Thanks for seeing Chuck|next,caller|Watch out! If you are tired, offer your service!
+|wavy|I am
+|align,near,true||face,caller,-1|Hey! Do you have a credit card?|next,-6|Is that correct. We are waiting for the card.|next,caller|Not! It's been a long time.|next,-5|Is it permanent? Do you have a high card?|next,-4|The grass is old.|next,caller|That would be nice! This is like a young teacher!|next|In response, it is called Flash Summoner.|next,-6,BattleIdle|Hope to see Flash Summoner.|break||flag,248,true||goto,15|
+|align,near,true||face,caller,-1||tail,caller|Is it really ready for an old game?|prompt,map,2,2,16,17,18,19|
+Isn't it better if you don't think it hit me?|next||cardbattle,this,-1,@4||tail,caller||battlewon,20||goto,22|
+This is a wise choice. Ready.
+We really are!
+Come again.
+|anim,-6,WeakBattleIdle|Do you know him!|next,-4,Flustered|Life! Attempt!|minibubble,21,-5||breakend|
+Could you!
+Currency. He is indeed an adult ...|next,-5|No, it is better to fight!|next,caller|I love it and it has been a long time since I was there. I didn't give it to anyone!|break||event,106|
+Do you always have the main card?|next,-4|Are there any good suggestions?|next,caller|Patient! You need good advice. Take them to a prosperous city. "|next,-6|Is there clear content?|next,caller|Contract card! This brings something.|next,-5|Thank you so much.|next,caller|No problem, it always helps me! Back to the game?|next,-6|While we continue this work. Come now.
+We see! We all hit him!|next,-6|Laughter.|next,caller|Show the card you gave the child at the port. You can go to Metal Island to earn money.|anim,-4,Happy||minibubble,@One more time!,-4||next,caller|Do you know this battle? this is few ...|next,-6|While we continue this work. Come now.
+|align,near,true||face,caller,-1|Are you coming back soon? What did this person do for you?|prompt,map,2.3,3,4,26,5,@This is a vacation.,@Book!,@That is all there is to say.|
+Can't get electricity? Getting ready!|next||cardbattle,this,-1,@4||tail,caller||battlewon,20||goto,30|
+|prompt,map,1.9,2,4,5,@Wait,@Then.|
+|checktrue,231,29|Good morning! Do you breathe?|goto,27,keep|
+Do not worry! Password.|next,-6|For the day?|next,caller|Watch out! But I need food. Do you want to?|next|You sent the old committee to the city ... You can call this phone.|next|It will rise behind you!
+Good job, Life! Here!|break||giveitem,-1,10,-11|

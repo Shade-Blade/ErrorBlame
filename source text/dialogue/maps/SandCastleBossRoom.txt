@@ -1,0 +1,12 @@
+|checkflag,38,10||tail,-6|The stones that we see here are beautiful.|next,-5|Do researchers support rationality?|next,-4|Definitely. Happy message!|minibubble,@Miles.,-6||breakend|
+|boxstyle,2||bleep,@2||anim,-6,BattleIdle||anim,-5,BattleIdle||anim,-4,Surprized||shaky|Me PMK, Trekkaj!|shaky| |wavy|Rjkehoa ONJARLEHK! ! !|wavy||next,-4,Flustered||face,-4,-6||boxstyle,1|Life! Do not be afraid!|next,-5,Angry||boxstyle,0|No paper!|minibubble,2,-4||next,-6||face,-5,-6|Beautifully. There is no chance to speak. This is a black arrow.|next|"This is not the place to smoke.|shaky||anim,-5,105|Bury him or |anim,-6,117|bury him! ! ! “”|shaky||next,-5,WeakBattleIdle|F-Fence?|next,-6,Idle|Yeah.|next,-4,Happy|The warning is in another warning container. Let's do it!
+|anim,-4,Sad|Not longer.
+|shaky||bleep,@2||boxstyle,2|Rjkehoa ONJARLEHK! ! !|line|Rjkehoa ONJARLEHK! ! !|line|Rjkehoa ONJARLEHK! ! !
+|tail,-5|... Interesting?|next,-4|This is bad!|next,-6|Our hearts ... their magic is like ours!|next|Our answer here. We wouldn't love it!|minibubble,@Distance!,-5||breakend|
+|shaky|Not longer|shaky||next,-6|Tell me. How do you take the medicine? Who did you do this to?|next,caller|...
+A curse ...|minibubble,7,-5||next,-4|For example! This thing!|next,-5||destroyminibubble|Life, don't be afraid! You can make many decisions!|next,-4,Happy|Before you do that!
+Life ...
+This is not a dream ...|anim,-4,Angry||minibubble,@?? ??,-4||next,-5|What? What would you do?|next,-6|We don't know, but it's different ...
+Maybe you will arrive on time? I hope not to wear ...|next,-6|But there is evidence to support this claim.|next,-5|Then Niu asked. We have to work hard now.|minibubble,11,-4||breakend|
+|tail,-4|Now it looks like a throne!|next,-5|He never saw him in the box.|next,-6|Cruel people. NB.
+Trust yourself!|line|Distance!

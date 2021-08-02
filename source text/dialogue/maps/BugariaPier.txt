@@ -1,0 +1,71 @@
+|tail,-4|Wow, I've never seen an outlet game!|next,-6|A knife?|next,-4|In the folder ...|next,-5|Really interesting seeing this place yet!|next,-4|A little ... but you don't need much water after the fire |line|comes out of the snake's mouth.|next,-6|He said "We love water and water."|next,-5|N-Attention now ...
+|boxstyle,3||spd,0|Continue! Get the best seafood on the beach!|line|You can use chopped strawberries!
+|boxstyle,3||spd,0|Reduction in Bulgaria:|line||color,1|Return to the island|color,0||next||spd,0|Initially not only bees, but now it only has |color,1|100|color,0| pieces!|line||line||color,1|It is time!|color,0|
+Infection. But when I ask you ...|next|Do you want to go to |color,1|Metal Island|color,0|? Three times.|goto,15,keep|
+Start with a noisy exercise. I do not want to face the sea!
+You got a navigation device! She fell, but she did not fall!
+You can explain the water with this tool.|line|One day I will see the secret of the sea!
+Unfortunately, there are no cars. Oh, the smell of paper and a little water is coming ...
+Today, ladybugs have a party at the sea. Be careful because we don't play ...
+|tail,-6|Let's meet ...|next,-4|It really is everywhere!|next,-6|Well, leave it for a minute.
+This device is very beautiful! I do not lie. I think you |line|should try ...|next,-6|You can handle it very well. He might ask you.|next,-4|There is no other choice! Your savings are over!|next,-5,WeakBattleIdle|...! I do not think about that ...|next,-6|Yes, of course.|minibubble,@Something is not right ...,-4||breakend|
+|tail,-4|I curse this robber! People who want to get in the water! ???|next,-6|Business|next,-5|I'm not saying they have to swim ... but is it safe to push the boundaries |line|of insects?|next||anim,-5,Angry|Explain how much you can play and see the future of your dreams!|next,-4|H! Love drying!|anim,-5,Hurt||next,-6|Sorry friend|anim,-5,WeakBattleIdle||next,-5||wavy|Third.|wavy|
+A weak driver ...|next,-6|How do you feel about that?|next,-4|Dunno ... this is the ocean.|next,-5|We do not want to find the best method. This can be very frustrating.
+|checktrue,370,32||tail,-4,Angry|...|next,-5|OK?|next,-4|How can you bring so much fruit to the ship? Ibo people!|next,-6|We think we hate water.|next,-4|His stomach is tired. Another thing, I never tire of going to the island!|next,-5|Parking fees must be very high.|next,-4,Flustered|Too much strawberry!|next,-5|Save money or provide the best deals.
+|tail,-6|The common meaning of error is correct.|next,-4|I've|next,-6|That must be good|next,-4,Angry|Goodbye choice!
+|showmoney||prompt,map,3,2,16,17,@Distance!,@This is too expensive!|
+|checktrue,245,19||checkmoney,300,20||money,-300||goto,21|
+Rest assured, don't be late.
+Think! Card slot? Could you be the winner?|next|She is very beautiful. Eighty-nine pieces on the |color,1|Metal Island|color,0|!|goto,15,keep|
+|checkmoney,90,20||money,-90||goto,21|
+How is that! Without money and without travel! Leave it here
+... These are fruits. Everything on board! Our aim: Metal Island!|break||flag,419,true||event,107|
+Well here it is, if you want to come back, you know where to find me.
+|wavy|Here they are ...|next|The end of the ax ...
+He told me to put the hornet to sleep. When we arrived, they left again.|next|Even if his life is not in danger.
+Remove ... Try a new buoyancy ... but I don't use the bath or water!
+I think the secret of the sea will return.|next|Trumpet around the lake. They all went to a plastic prison.|next|We hope that Cooper Island is good.
+This animal melts water ... protects the sea ...|next|Don't miss the spy.
+I want to live here by the sea, but I have enough time to stay here.
+Did you accept the request?|prompt,map,0.5,2,30,31,@Small,@Yeah|
+Well done!
+Are your feet cold?
+|checktrue,419,33||tail,-4|Apparently, they boarded their boats.|next,-6|Repent here. Good to go with us.|next,-5||goto,34|
+|tail,-6|His stomach looked up.|next,-4|This trip is too expensive! Ineffective!|next,-5||goto,34|
+Usually we should shoot the bees, even the poor sailors!
+! The last one is back!|next,elizant|Is that correct. This is another experience ...|next,-5||face,elizant,-5|We are all happy.|minibubble,@S-Pad ...,-4||next,-6|His extraordinary strength.|next,scientist|This is a mistake. I heard a green sound.|next,girl1|Dry ...|minibubble,36,girl2||next,owner|The wind, the wind!|next,elizant|Welcome to our community.|next,-6|Then?|next,elizant|I went to this city with my friends as part of our work.|next|Is this a wall?|next,scientist|Yes, a woman.|next,elizant|I think the royal family understands their work.|next,scientist|Yes, I will try to repair the fallen ship! I'll see you later ...|next,elizant|This is a group!|next,-4|Soon!|next,elizant|Forgive me on the water and immediately go to the |color,1|rubber prison|color,0|.|next,-6|Yours.|next,elizant|After the ship is finished, we will send the pipes. But there is another problem. |line|No time.|next|Get the best. Explain how.|next,-5,BattleIdle|She is beautiful! The chicken wants to forgive the bad guys!|next,elizant|Explain clearly.|next|This is a small gift for you.|break||giveitem,-1,100,37|
+But it is very hot
+|anim,-4,Happy||minibubble,38,-4|Hope this helps you collect food.|next,-6|Perfection. Thank you.|next,elizant|We are the key to a long history. Do not eat while preparing.|next,-5|Leave us alone! We will win together!|next,scientist|They shoot! Get started right away!|next,elizant|We all trust him.|next|... A good friend is a god.
+Hey ho!
+Wow! Is this the ship you're looking for?|next|It sounds strange, but you must be strong to keep the trash alive!
+Well ... waste your time! Fix the tank as soon as possible and remove the battery to prison.|next|Be excited and relax before you arrive!
+Hey! Good boat! I've never seen that.|next|This means you can go to Metal Island for free.
+|tail,-6|Clothes ... Are you a friend of Ethel?|next,caller|Been confirmed? Why not? What happened?|next,-5|Good morning! Sir, you have something!|pickitem,1,43,44|
+|tail,caller||checkvar,0,25,45||checkvar,0,149,46|Do you believe?
+|tail,caller|?? You are
+Oh, I don't know what something will happen to him!|next,-5|Wow! ??? I'm sorry, no!|next,caller|World Health Organization ...
+Oh, he finally understood.|next,-4|Wow! ??? The best and rarest medal!|next,caller|This is part of infrastructure development. Ethel, thank you.|next,-6|... Why do you contribute so much?|next,-5|It must be used safely!|next,-4|Cost is important. Kappa District!|next,caller|Action. Thank you|break||flag,481,true||removeitem,1,149||giveitem,2,71,47|
+|tail,-6|We don't know the reason, but we know.|completequest,49|
+|checktrue,350,41||checktrue,347,25|Good luck with your data!
+Good morning! Welcome to the waiting room! Are we happy?|goto,52,keep|
+Good morning! Welcome to the waiting room! We are adventurers, but you can stop here!|goto,52,keep|
+Good morning! Welcome to the waiting room! Thank you again, go back to work!|goto,52,keep|
+|next|What to buy today?|line|There are different strawberries, you need to make sugar!|showmoney||prompt,map,0,3,54,55,53,@Ten pieces,@Juice - 8 bread,56|
+We are always open! I always come back!
+|checkmoney,10,57||checkinvqtd,0,full,58||money,-10|Difficult process will come!|break||giveitem,0,34,59|
+|checkmoney,8,57||checkinvqtd,0,full,58||money,-8|Think! This is the best update in history!|break||giveitem,0,39,59|
+Thank you, but I will listen to you!
+Wow! It seems that there is not enough money. Anyway, I can't wait for your next visit!
+Unfortunately, nothing works! We are always open, so come back later!
+Thank you beach for them! Another goat soon!
+I have prepared my ship properly. I hope all the rubber bands will go well.
+No need to retire now ...
+|tail,-6|There is something to eat.|next,-4|Yes, is this Uppa?|next,-5|Maybe there is something in the water?|next,-6|That is, if you are not interested in food.
+|tail,-6|We don't know where ... how to explain it.|next,-5|Wheelchair, go away!|next,-6|... What are you doing?|next,-4|Buzz in the water!|next,-6|It's hard to imagine how it works, let alone an illustration.|next|At that time, the ship was light.|next,-4|You have to learn a lot to manage the ship ...|next,-6|We thought we were older ...|next,-5|Life! There are many types that are difficult to say.|next,-4|Yes ... Learn ...|discovery,49||flag,654,true|
+|boxstyle,4||spd,0|The perfect tool for controlling the direction of a ship.
+You cannot grow it in the sea. He retired ...|next|One day ... one day I will rebuild a beloved sea!
+|tail,-6|The Queen's footsteps were shortened, but the ship was not returned ...|next,-5|This is a decent thing to do and must end there.|next,-4|If he has a dream, he will climb again!
+Now there is peace and I can tell you again! I want to go to the sea!
+Take revenge on these scary people. You can see it again now.|next,-6|(The beach doesn't do anything ...)
+Wow! Is this the ship you're looking for? Wait a day!
+Your luck comes from the right because it is a nice cone!|next,-6|Bucurian loves.|next,-4|A great treasure!|next,-6|Oh, red. He heard our voice.

@@ -1,0 +1,193 @@
+|tail,-6|We see a golden rush.|next,-4,Happy|Do I know a beautiful place to visit!|next,-5|No matter how beautiful it is, this decoration will also |line|provide you with what you need in this field.|next,-6|Good and useful ... I really appreciate it.
+|anim,caller,Happy||checkmapflag,1,27,true||wavy|Hey!|wavy| Are you thirsty?|next|Can you give me some fresh fruit made of "gold"?|next||showmoney|There are only 9 seeds.|goto,26,keep|
+|checkmoney,9,5||checkinvqtd,0,full,4||money,-9|You know! Do you like it!|next||giveitem,0,39,6|
+|anim,caller,Idle|The sound will be displayed correctly when needed.
+|anim,caller,Idle|Oh ... where do you think? Do you want to go anywhere?
+|anim,caller,Idle|Forgive me. Not free.
+Let me know if you need more!|mapflag,1,true|
+You go.
+|tail,-6|Who is hiding in the woods?|next,-4|!! Listen to our voices!
+|checkmapflag,0,13,true|Good morning! Welcome to the sun!|next||showmoney|Our result is 3 tomatoes, so if you want to sleep all night, 3 will give you 9!|prompt,map,1.9,2,10,11,@Let's Fall in Love.,@Then.|
+|checkmoney,9,12||money,-9|Good job! Nine fruits are here! Hope you enjoy tonight!|break||mapflag,0,true||innsleep,-17.1,6.41,13.41,true|
+Trust yourself! I look to the future!
+Grows well ...|next|Remember us!
+Good morning! Come back later.
+Do you want to achieve that?|prompt,map,3,2,15,16,@Yes,@Think again ...|
+Do well. Problems have arisen.
+Do not waste time.
+The wind is strong! Under conditions of growth!|next,13||boxstyle,0|A cross on the holy mountain. There are no complaints.|next,14|I do not think so? The tongue hits us!|next,13|They are trying. Hat. I will not give up.|next,15,Idle|Ueda ...?|next,13|I will recover.|next,14|Well, at least I didn't get off without explaining myself first.|next,15|We have to relax and think it's stupid!|next,13||color,1|After the festival|color,0|, the road to the mountain will be opened.|next|It did not arrive on time or on time. Durability.
+We are here ...|next,-4|I'm a fan! Other news!|minibubble,@...,-6||next,-4|Life, this is twice for you. See you here!|next,-6||destroyminibubble|All is well.|next,-5|The main event begins at night. Get ready, tell Aria.
+Right? Is there a music festival here? Have a hot day.|prompt,map,2.5,2,-11,20,@Keep trying.,@Think of the gods you want to use.,none|
+|event,52|
+Welcome to the sun!|next|Unfortunately, we recommend books for the entire program! We apologize for the inconvenience.
+I like to work ... but I think we should respect other royal traditions.
+Intel has said the content can be found in Qimson, but the computer was released the next day.|next|We must wait. Brothers and sisters, I enjoy being comfortable with you.
+|checkflag,141,25||tail,-4|Welcome all ...|next,-6|OK?|next,-4|Does this look like shade?|next,-5|Oh my god .. that's right!|next,-6|I do not believe ...|next,-4|Hello, so you have to deal with pictures!
+|tail,-4|Welcome all ...|next,-6|What?|next,-4|How do you feel about your career? This seems difficult ...|next,-5|Vi! You do not believe in many things
+|prompt,map,2,2,2,3,@Normally!,@Thank you} but I'll give you one.|
+|showmoney|You want to come back? 9 strawberries can be enjoyed as a delicious fruit!|goto,26,keep|
+Great place! What do you hear.|next,-6|Many are not in Bukhara.|next,-5|My city is one! More suffering.|next,-4|Like the Capuchin Empire.
+I tell you that Motiva is here. But you miss me a lot!|next|Listen to where the next movie was made.
+|tail,-4|Okepe Okpo! He is famous!|next,-5|I've never heard of it at home, but seeing it again is a special privilege!|next,-6|Nothing special.|next,-4|Enjoy and enjoy beautiful music for life!|next,-6|Ask again and let me know ...|next,-5|I wonder if my wings disappear ...
+|wavy|The light removes your eyes! ♪|wavy||next,-5|If! The motivation is amazing! We will not confuse you!|next,caller|(Very buzz ...!)
+|checkflag,85,116||tail,-4|Oh, businessmen are playing in the city!|next,-5|Do you know the passengers? Look, but ...|next,-6|May be the group's special envoy.
+The animal is angry ...|line|You understand, you don't need to buy anything!|next,-4|This is a very bad condition. He never took money.|minibubble,180,-5||breakend|
+Hmm, let's just say I've seen better. However, this is not a feature of citizens.|next,-4,Angry|We dug well.
+Vi, he seems to understand this error.|next,-4,Angry|Anger, pride and selfishness made me this kingdom!|next,-6|Everything seems to be. Do you?|next,-4|I am a special person the story ended!|next,-5|(We see ...)
+|tail,-4|Samila also came to the party!|next,-5|It is worth organizing what you offer.|next,-6|Yes ... I hope business goes well during the holidays.
+|checkflag,86,38|Good cousin Kurt ...|next,-4|But his position is very scary!|next,-6|Most importantly, we need to avoid policy violations ...|next|The food is larger than the friana.|next,-5|Ok sorry.|next,-4|Find out what's going on here, and if you're really strong, you can do whatever you want!|next,-6|We make it with snow.
+Good cousin Kurt ...|next,-4|But his position is very scary!|next,-6|Most importantly, we need to avoid policy violations ...|next|The food is larger than the friana.|next,-5|Sorry ...|next,-4|Find out what's going on here, and if you're really strong, you can do whatever you want!|next,-6|Do not forget to bring food.
+|flip,caller,true||align,right,true||flag,12,false||checktrue,186,168||checkregional,1,78,true||regionalflag,1,true|Hello do you want to eat gold?|next|Good job for me ... I lowered my expectations.|goto,79,keep|
+|clonestring,0,1||removeitem,0,var,0||flag,12,true|Ocotal!|pickitem,0,1,true,false,76,72|
+Witness! Use your strengths and skills in life!|break||event,3|
+Here this food should not be turned into delicious food.
+You can't keep this bad mixture, but ...
+Lee Wei is strong. There is a problem.|next|Then he took care of the woman.|face,-6,-5||minibubble,179,-6||line|Levay seems to imagine himself.|next,-4|Not for Celia? Maybe I see it.|next,-6||destroyminibubble|Sounds like a friend. Do you think he is an ambassador?|next,-5|If not, we do not know.
+We owe Celia a lot. Helped a lot with the hook.|next,-4|Weak. We will be fine!|next,-6|Easy to say after school ...
+Sit down and play.
+This feature has expired, but you can still request.|next|If requested here, see the table below.
+Make sure ...|next,-4|How are you today?|next,-5|He once said that the language was an older woman who ate her tongue.|next|In other words, he is not human.|next,-4|Who knew that Novosnik would leave?|next,-6|... Does anyone notice that we are busy?
+|tail,-6|It is difficult to recognize your assistant's deep confidence.|next,-5|Golden gardens around the monk worship different gods.|next,-4|But you understand something!|next,-5|Definitely. Dedication rarely happens.|next,-6|There are different cultures in different places.
+It is good to see the organization of the festival. The food is always delicious!
+I am growing, but I don't think you can do anything with it.
+|wavy|Rie ude|wavy|. What do you think they both do? I want to enjoy this vacation.
+|anim,this,Idle|Do you care about this |string,0|?|line|I want to sell |currency,var,1|!|prompt,map,2,2,54,55,@I am doing!,@In the city.|
+|checkmoney,var,1,57||checkinvqtd,0,full,56||money,var,-,1||additem,0,var,0|Excellent!
+She is very beautiful. If you are interested, let me know!
+A snake. There is no choice for clothes ...
+|anim,this,Angry|... Take the money.
+|anim,caller,Idle|Good morning! Welcome to the gold store! The best deals on Qimson!|line|How can I help?|prompt,map,3,3,59,60,55,@We live here!,@Remake,@Lily|
+Relax! Stop anywhere and press |button,4|!|next|This will help you prepare for the purchase.
+|anim,caller,Angry|Sorry, I did not buy anything. I will pay if I leave!|next||anim,caller,Idle|Watch the changes! This is an opportunity to serve the airport!
+|tail,-4|Whatever it is. That man.|next,-6|What is going on?|next,-4,Angry|Do not buy our goods! Very nice!|next,-5|Shop owners may not purchase our products.|next|This is a large area and may contain more products than others.|next,-4|Why do you sell cars? They always know each other when they |line|see you!|next,-6|(Unfortunately ...)
+Amber Yang is also at the concert!|next,-6|He returned from the office.|next,-4|Strangely, I went to the concert ...|next,-5|To make the hunters happy.
+Good job! This is the first vacation! All is well!
+|tail,-4|This was his age when he first came.|next|Everything is better than a big kingdom! We can see the real world!|next,-6|I do not believe him. Moderate.|next,-4,Angry|A joint party?
+Congratulates. Giving a green yard is also fun.
+|tail,-6|Go to the field ...|next,-4|Beautifully. However.|next,-6|Can I wait? We want to catch the cockpit ...|next,-5|Life, you like the look!|next|I'm very proud!|next,-6|The word "friend" can be difficult.
+|tail,-4|I don't know any girl with orange wings.|next,-6|OK. Anise can produce food.|next,-4|....|next,-6|....|next,-5|I play V-|blank||tail,-4,Happy|This is the best job.
+The push button will have less time to refresh the cow.|next,-6|Why do you need an exit?|next,-4|I think it's a steal. But I am not clear.|next,-5|I remember reading a book and hoping for more research.|next,-6|Yes, there is no other way to record the story ...
+Hey, saw that, too.|next,-6|But?|next,-5|Yes I met him on the lost beach and had a good conversation.|next|Nothing new. But at the same time, it gives me great pleasure to be able to speak.|next,-4|Don't jump and stay steady.|next|Not for long!
+|tail,-5|Shocking. It is a beautiful view on the balcony!|next,-4|Yes, this is the best thing about Sunset Hotel! He deserves it.|next,-6|Swallow it well. The Venus statue came out well.|next,-4|I think this is a little bit scary. Don't face it ...|break||checkflag,88,84||blank,-5|We, Arya, and our group are the only ones who love the goddess Venus.|break||goto,85|
+|tail,-6|This is a very happy hotel.|next,-5,Happy|Why here?|next,-4|I wondered if he was tired ...
+All is well|break||checkflag,12,-11||additem,0,var,0||end|
+|checkinvqtd,0,0,80||flag,12,false|Confidence. Gallery, Show.|pickitem,0,0,true,false,75,72|
+|checkinvqtd,0,1,80|A hero! Distance!|flag,12,false||pickitem,0,0,true,false,40,72|
+So ... |color,1||string,0||color,0|.|line|Yeah.|goto,77,keep|
+|color,1||string,0||color,0| and |color,1||string,1||color,0|?|line|Ready to buy food?|goto,77,keep|
+|prompt,map,0.8,2,41,72,@Uh!,@Not him!|
+One more time? What is happening now?|goto,79,keep|
+|prompt,map,3,3,73,74,72,171,172,173,$2|
+Well worth the fun. I have nothing!
+Come, have a look.
+If you have a good one, come back.
+|boxstyle,4|Beautiful Venus Statue.
+|blank,-5|Vi, no one has seen the goddess Venus. I am not happy to eat your face!|break||goto,85|
+|blank,-6|Tell me, aren't you a respectable person?|next,-5|Not enough I want to know where I went.|next,-4|I think he went to the public library and read all the information about the place.|next,-5|... Yeah.|next,-6|Beauty.|next,-5|MPH brings us fun of beauty
+I hope you attend a music festival, but it should be clear. |wavy|Irrigate promises.|wavy|
+Because everyone is busy, they only have basic services.|next|What do you prefer?|goto,100,keep|
+|checkinvqtd,0,full,94||showmoney|We sell this:|prompt,map,3.25,4,91,92,93,90,@Spravra: 20 pieces,,@Number of spiders: 10 strawberries,@Magic fruit: thirty fruits,,@There is no problem.|
+|checkinvqtd,0,0,97|Ondo balloon. What do you offer? If you change your mind, click "|button,5|".|pickitem,0,0,true,true,98,90|
+Fulin! Other people can do it for me.
+|checkmoney,20,95||money,-20|Ha ha! Excellent!|break||giveitem,0,2,96|
+|checkmoney,10,95||money,-10|Ha ha! Excellent!|break||giveitem,0,40,96|
+|checkmoney,30,95||money,-30|Ha ha! Excellent!|break||giveitem,0,11,96|
+Hey! Complete writing! Clean something before buying.
+Excuse me. There is no money, no market. This price is really low.
+I am happy to be at work.
+Hey, do you cut me off? There is no!
+|string,0|?|line|What happens to |currency,var,10|?|prompt,map,1.25,2,99,90,@Wool!,@Thank you} but I'll give you one.|
+|money,var,10||removeitem,0,var,0|Let's just eat.|checkinvqtd,0,0,-11|Is there anything else?|goto,100,keep|
+|prompt,map,2,3,88,89,90,@I want to buy it.,@I want to sell.,@Thank you} but I'll give you one.|
+It's snowing! Nobody sleeps at night!
+He was very interested.|next,-5|Thank you for taking care of us Venus ...|next,-6|Kabu, Breakafe?|next,-5|I think this is important. We need to respect this habit.|next,-4,Happy|Smile after rest! Now the way to represent the local community!|next,-6|You can collect two types of products. This is very important.|next,-5|Look for a party. They can help us with that.|next,-4,Idle|Yes information. beautifully. Let's do it!
+|event,true||tail,-6|We cannot be separated. This is very fun.|break||hide||move,-1,0,0,-13,1,1,0||overfollower,false||movewait,-1||event,false||end|
+Guys, if you drink what you drink, you will lose your ability!|next|It's delicious, I can't grow it!
+Do not worry, it is best to drink as much water as possible.|minibubble,@Not good ...,-6||breakend|
+The |color,1|gold festival|color,0| has begun!|next|Check the goddess Venus and make sure that her harvest is harmless ...|next|We gather to say thank you. Take root and bring joy.|next|When |color,1|two separate guests|color,0| join me ...|next|The closing ceremony begins.|next|Day off! watch out! Everything is right! Another memorable |line|party!
+|wavy|Zzz ... no ... weapons ...|wavy|
+|wavy|Zzz ... I said ... drink ...|wavy|
+Two vacations.|next,-6|Let her go ... shame.|next,-4|H represents all glory!
+Vi|face,-4,-5|, Life|face,-6,-5|... Thank you.|next,-6|What are you doing?|next,-5|New protection. Glad to see you clearly.|next,-4,Happy|Oh, I forgot to ask for a gift from New York!|next,-5|...|next,-4,Sad|I'm playing! I play, go away!|minibubble,@Cross,-6||breakend|
+Welcome everybody! I heard that only one district consultant can |line|attend the event. I can not wait!
+I am not a fan ...|next|But he said the event was a |wavy|famous war|wavy|! I am happy and ready to commit violence!
+|tail,-6|She is very beautiful.|next,-5|What a great way to confuse people.|next,-4|There she is! Wonderful land!|next,-6|Do not jealous, Vi.|next,-4,Angry|I do not envy others.|minibubble,@(Too hot ...),-5||next||destroyminibubble||end|
+The closing ceremony begins when you receive |color,1|two prizes|color,0|. |line|Happy holiday.
+This meeting will be difficult. Lazzíts.
+|tail,-4|Oh, businessmen are playing in the city!|next,-5|Do you know the passengers? It looks like he's making a deal.|next,-6|He has nothing to do with it. Conquer.
+This hotel is great ... worth a visit!
+The balcony offers a beautiful view. I think it calms the soul.
+|tail,-6|Can I go to the Golden Mountain if I can provide regional products?|next,-5|Definitely. It was a vacation, but I want to give up.|next,-4|Collect the treasure!|flag,97,true|
+|checkregional,11,130,true|Producer ... Think about it. Did you bring everything?|next|Do you want to start this event?|prompt,map,2,2,121,122,@I am ready.,@Come again.|
+Wave D. attended only three people. Happiness and my mistakes.|next,-6|So one of us has to sit down.|next,-5|You need two things. Keep it up!|next,-4|Not happy! I do not want to go!|next,-5|I am ...! Thank you so much!|next,caller|Who participated in this event?|regionalflag,11,true||goto,129,keep|
+Prompt D. Take time to prepare.
+|tail,-4||optiontovar,0|Trust yourself! Distance!|next,-6|We do a good job. An exceptional effort.|break||event,58|
+|tail,-6||optiontovar,0|Confidence. We will do the best.|next,-4, Happy|You call a bad dream!|break||event,58|
+Oh, that's Venus.|next|This event is expected to achieve satisfaction and good results for the second year in a row.|next|Our war has fallen to the ground, the origin of joy and fear!|minibubble,190,-5||breakend|
+That's all I know!
+It also reduces stress.
+With the gods!
+|prompt,map,3,3,123,124,122,164,165,@Success.|
+Why? Kpebiela?|goto,129,keep|
+This is a fierce battle. I think Venus loves her.|next,-5|Good help, will you use the golden mountain?|next,caller|It depends on God.|next|About Venus ... If you like our program, go to the |line||color,1|Golden Mountain|color,0|!
+The door is open. There is a sacred |color,1|mountain|color,0| here.|next,-4|Wow! Will open!|next,caller|Whatever your company, you can help Venus.|next,-4,Happy|There is no! We did it! We will get this job soon!|next,-6|Soul: rest. Channels: Open.|line|I can say that this trip was a success.|next,-5|Watch out. We are on the holy path. not easy.|next,-6|It would be nice if we could sleep well ... but we know.|next,-4|Do not worry. We forgot Snakemouth.|next,-5|This is the truth. Distance!
+Venus can provide you with what you need.
+We make a lot of money. I think we should also thank Venus ...
+Welcome to the sun!|next|The holidays are over, but the book is over! Excuse me.
+You know! You can taste the best food after these activities!|next,-5|Oh, Motiva is eating it! Do not worry ...|next,caller|(Very buzz ...!)
+|tail,-4|Tell me yes! He is famous!|next,-5|Although I heard it at home, it is a special honor to look for it!|next,-6|What is important in goats?|next,-4|This is a personal search day!|next,-5|Many errors are difficult to overcome, but not for them.|next,-6|One day we tried music.
+|tail,50||face,50,-1||face,51,-1|That's it! I missed the vacation!|next,51|No need to sleep before starting ...
+Unused! Enjoy the culture! Thanks for helping me study!
+|wavy|A hero!|wavy| Play with a cute green ranger!|next,-5|G is green! ??? There is oil, huh ...|next,caller|Ha ha ha, I hope we also fight for the New Year!|next,-6|Fan.|minibubble,@Into pieces.,-5||anim,-5,Happy||next||destroyminibubble||end|
+|tail,-6|This is not good for society ...|next,-4|Juice and fruit are delicious, but hard to sleep! ???|next,-5|This provides privacy.
+|wavy|No ... no ... the picture ...|wavy|
+|wavy|Celia ... seems to be playing ...|wavy|
+Oh ... bring the party!|next,-6|I still have to admit, but I still regret it.|next,-4|Will it be next year?|next,-5|Definitely. This can be a collective imitation!|next,-6|... Happy to hear that.
+There are many types that are difficult to say. Outstanding physical seeds.|next|When mixed with raw tomatoes or raw tomatoes, there is no risk |line|of explosion.
+Biological mother! Everyone wants the momentum to move forward!
+Motiva works well as a defender.|next,-4|Everyone needs a signature!|next,-5|Welcome to the research team!|minibubble,@Messengers.,-6||next||destroyminibubble||end|
+|checktrue,92,149||tail,-6|Glad to see you for the first time.|next,-4|He doesn't seem to eat much ...|next,-5|Sign!
+|tail,-6|Did you see this error?|next,-5|I'm not saying I'm not a friend, but you do.|next|He is highly regarded among researchers ... but his colleagues are not strangers.|next,-4|I want to be careful that will bring you our team here!
+|hide||event,69|
+|tail,-4,Angry|Greetings to Joseph.|next,caller|It is the Vi.|next,-6|Your friend?|next,-4|Weight loss function.|next,-5|Computer researcher. I met in the union.|next,caller|Thank you for the trip, I must see you again.|next,-4|Thank you for your interest. Glad that you exceeded your |line|expectations.|minibubble,@I am.,-6||next,-5|Excuse me. Will you be active this time?|minibubble,@Hopefull.,-4||next,caller|This will be comfortable. .|next|Simo p. Obviously, the target is the winner.|next|Relax.|next,-6|Where did the DIA go,|next||anim,-6,BattleIdle|Oh, I'm lost.|next,caller,Happy|Wow! Oh, look at the tip of the pen.|next,-4||anim,caller,Idle|! Ara Globe Barge.|next,-5|(... The ...)
+However, the Snakemouth team. I am a member of |color,1|Jaspil|color,0|, I work with researchers. I heard the flight.|next,-4,Happy|Uh? Aren't we okay?|next,caller|He was told to fall from the river and die in the middle.|fwait,0.15||line|When asked, it is a shame.|anim,-5,WeakBattleIdle||minibubble,@Currency ...,-5||next,-6|We never loved him.|next,-4,Angry|Wasef, do you have a question?|next,caller|I sleep because I am not busy.|next||anim,-5,Idle|Our group represented and participated in the food competition. My goal is to win because the winner has decided.|next|I want to calm down in front of him.|next,-6|We will tell you what is missing. It is amazing.|next||anim,-6,BattleIdle|We will not fail in the food competition.|next,caller,Happy|Ha ha ha! Try your luck and look at his neck.|next,-4||anim,caller,Idle|S! I can roll the leaves.|line|We are shy!|next,-5|(We can't say ...)
+Is there venus? Send me a request to open a golden gate on the Golden Mountain.|next|You need to know how to help others.
+|checkflag,132,160|Make sure ...|next,-4|What's up, Kabu?|next,-5|I can judge quickly ...|next,-6|Are you progressing?|next,-5|This does not mean that the browser is not working properly ...|next,-6|Sorry if you are angry.|next,-5,Angry|Wave D. But I turned to my mistakes!|minibubble,@Yeah.,-4||next||destroyminibubble||end|
+Kill him at the end of the meeting!
+We will continue until construction is complete and head to the |line|lost shore.|next|See you here!
+We have never contracted to collect information about art.|next|But we know that he is in the mountains. According to the information collected, Arya was only able to do so.|next|This can be done by traveling to certain areas. This is the only way to get art.|next|Maybe the worst this year?
+|hide||event,75|
+Hey, aren't you a snake mouse?|next,-4,Happy|Where are we?|next,58|Good job! We are also researchers. Have you talked about us?|next,-5|Considering what I hear ... classes and shopping?|next,58||anim,-4,Idle|Yes, this is good for Delilah and Stratus.|minibubble,@He knows you well.,57||next,-5|Didn't you say "stupid"? Did you know that you can't do this?|minibubble,@There is nobody here?,-6||next,57|Not a very fun time. Why is this arranged?|next,-5,Angry|Is it called a researcher?|next,58|Normally! I do research. Where are you going?|anim,-4,Happy||minibubble,@All is well.,-4||next,57|Are we close to this guide? To other researchers.|next,58|Details about the complex activities undertaken by team members. |line|Is it better?|anim,-5,Idle||next|We are looking for a |color,1|large desert house|color,0| on the famous corner of |line|the famous beach!|next,57|He left after the ceremony. This is the time to relax.|next,-6|"Lazy" is different from his name.|minibubble,192,-4||next,-5|This is ...|next,58|Are we going back? We meet them in the desert!|minibubble,@Hopefull.,57||next||destroyminibubble||end|
+Great place for mosquitoes. Hmmm maybe ...|next,-6|Is your friend percussion?|next,-5|Not enough.|next,-4|Hey, it's so big!
+I drank a lot of water yesterday and yesterday to convince me.|next,48|		  We did not see the last vacation ... but we heard that |line|we climbed the mountain!|next,47|Do you think you found psychology?|next,-4|Uh!
+Be strong! Here are two important things you must steal from others!|next,47|Good job! We will be back in the Kingdom soon! The Queen will be happy.
+Yes, we make them difficult to believe.|next,-5|Hey, let's go to the ant world.|next,47|We continue to speak to the Queen and prepare for the hearings|next|You have to go to the |color,1|ants|color,0| in order not to come back.|next|There is only one person in the house.|next,48|Don't wait for the Queen!
+Kabu and Vi.
+Kabu and Life.
+Thanks for coming.|next,-5|Aguletto is our honor. Well ... how did that happen?|next,caller|It is simple and does not last long. In this process, God gave a great product.|next,-4|Enjoy? Do you have a lot of fruit?|next,-6|God does not need money. There is a lot of food.|next,caller|Yeah.|next,-6|Yeah.|minibubble,@Worst?,-4||next,caller|Hope this brings a party.|next|We prepare food. But I miss ... very beautiful things.|next,-5|What do you want to eat?|next,caller|Difficult. What I can not accept better. ...|next,-6|You can't ask fry, good or great job. Maybe this is the advantage?|next,caller|I heard that Chef Fry arranged "his work".|next|Enjoy the holy things!|next,-4|So ... um ... what do you think will give you?|next,caller|Definitely. The flower is gracious and gentle. If you make him happy, he will convince you.|next,-5|The above statement ... the flight, we do.|next,caller|Thank you Mori Rat. I am waiting for you.|next,-6|Don't forget to build a cabin.|flag,185,true|
+Door?|pickitem,0,0,true,false,182,181|
+|checktrue,195,169|Whatever it is. Is there anyone?|next|It takes a lot of |color,1|fruit|color,0| to cook your last meal.|next|But it is small. Only |color,1|guinea pigs|color,0| are said to be consumed.|next|Yes, you can find it. I'll give you the best food!|flag,195,true|
+Back. Do you need a lot of |color,1|fruit|color,0|? Do you cook here?|goto,170,keep|
+|prompt,map,3.5,4,174,73,74,72,@Ask here.,171,172,173|
+Connecting.
+Give it twice a day.
+There is no problem.
+|checkinvqtd,0,0,80||flag,12,false|Let's go.|pickitem,0,0,true,false,175,72|
+|checkvar,0,77,176|Hey ... no berries donkeys! Do not pull your legs!
+|flag,194,true||flag,192,true||flag,12,false|Trust yourself! I really found it!|next|Well, let her go!|break||event,3|
+This ... Master!
+This is the |color,1|only dish I make|color,0|.|next|If you have a bag of tomatoes, we will make it for free.|next|Thanks.
+(Is this very important?)
+Vi???
+|tail,-5|We do not.|next,caller|Take them quickly.
+|checkvar,0,32,183|...|next,-4|Make sure ...|next,caller|As for the flower, it is incomplete.|next,-6|For example.
+|removeitem,0,32|...|next,-5|... Mine?|next,caller|... Yeah. I can say that this food is good for flower.|next,-4|Good job! Can we give it to him?|next,caller|Definitely. We go to the mountains.|next|Come see and enjoy yourself!|next,-5|Glad I saw him on the roof.|flag,393,true|
+Make your face face Mount Venus.
+I am glad that Jin Jing loves this gift.
+The believer, the bright moon! Is this because of the flower?|next|Along the way I see terrible things.
+|goto,-159|
+Wow! This is a beautiful piece!
+Does this person live in the manufacture of ants?|next,-6|I don't know my father Baba.
+It's a war! ???|halt|
+|tail,-6|This is hot fire.|next,-5|I have never seen anything like this! Could it be one of the ten processors?|next,-4|OK. Fire! I heard her somewhere else, lying in the dark.|next,-6|There is a miracle. We glow in the dark.|next,-5|Get ice info ...
+Your dream has |line|come true!

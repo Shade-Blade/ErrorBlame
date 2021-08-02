@@ -1,0 +1,1 @@
+Nariko! he is!|next,-4|Hey, I'm so happy.|next,-6|You are asleep. We must say we are the winners of this bond and |line|nothing can stop it.|next,-5|Good job! Come on.|minibubble,@Make sure ...,-4||breakend|

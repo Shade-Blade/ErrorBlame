@@ -1,0 +1,4 @@
+|tail,-4|So many legs! This prison is too big!|next,-5|Are there bad people in Bulgaria?|next,-6|Well, you don't know if they're all there.
+Wha- that's it! I trust the station, but I am glad I left |line|the submarine.|next,-6|Can you learn more about rubber baths in addition to your worries? We are new.|next,-4|You know! Throw |wavy|them|wavy| in prison!|next,-6|Was Elliot mistaken while sleeping?|next,-5|Watch Is this a protected device? The century is difficult to move forward.|next,-4|We will kill them deeply. Your avar!|next,-6|Yes, a good plan.|next,-5|Bin Tim! We must destroy others!
+|boxstyle,3||spd,0|⇨ Library
+Come on, eat it! Very nice! The old book is broken!|next|How do I get to the office? I can not fly!

@@ -1,0 +1,4 @@
+|tail,-4|Today is a busy day.|next,-6|Our feet feel comfortable.|next,-5|Enjoy the mud flats. Not.|next,-4,Happy|See you!
+|call,-166||tail,-4,instant|She is very beautiful.|next,-6|No need to finish here. A beautiful messenger.|next,-5|Huh ... no. This is a place to relax. When you're ready, you can continue.|next,-4,BattleIdle|Some guards escaped from the time.|next,-5,WeakBattleIdle|You know, we should be careful ...|next,-6|You know our situation. We leave it.|minibubble,@Ri Ude ...,-5||flag,368,true||breakend|
+|boxstyle,3||spd,0||center|Keep the prison clean!
+|backline||boxstyle,3||spd,0||center|Take care of yourself and shut down the food!|line|The hole is closed.

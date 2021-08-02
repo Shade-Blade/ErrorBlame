@@ -1,0 +1,3 @@
+This home is unique.|next,-4|Select the channel. They know we are clean.|next,-6|This is different.|next,-4|OK ...
+Thank you all. It prevents the feeling of soil.|next,-5|Uh?
+OK.|anim,-5,WeakBattleIdle||minibubble,@So I fear ...,-5||next,-4,Sad|Hugh? Are we mistaken?|next,0|This does not mean ... |flip,0,true|So think about it.|flip,0,false||next|Swallow it well. Go to the checkpoint.

@@ -1,0 +1,3 @@
+|tail,-4|Hello, I see a swan!|next,-5|Most of the time I think the heater is hot, but this house is |line|so cool.|next|This place is very special.|next,-6|At least we need to reduce it.|next,-4|Yes, touching ice cubes does not melt!|next,-5|We can use both types of information together ...
+|boxstyle,3||spd,0||color,5|Players|color,0|, tactics, and |color,5|teachers|color,0|.|line|Exercise on the |color,5|right platform|color,0|.|next||spd,0||color,5|Human life|color,0|.|next||spd,0|Q fans |color,5|appreciate the heat|color,0|.
+|boxstyle,3||spd,0|They are the |color,5|enemies of our dreams|color,0|, we |color,5|trust|color,0| everyone.|next||spd,0|Lop van. The bathroom takes you |color,5|to the bathroom|color,0|. Do your homework.

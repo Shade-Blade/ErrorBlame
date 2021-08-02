@@ -1,0 +1,2 @@
+|checkpos,x,-3,1||tail,-4,Surprized||anim,-5,Hurt||anim,-6,BattleIdle|B - Be careful! Don't fall to the ground!|minibubble,@Pump ...,-6||breakend|
+|tail,-6|A snake. Network bar. I don't know who did that.|next,-4|Everything is difficult. Isn't the job good?|next,-5|The past has destroyed the most amazing works of this reconstructed site.

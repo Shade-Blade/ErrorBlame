@@ -1,0 +1,5 @@
+This stone is real!|next,-6|Want to call?
+|call,4||checktrue,384,2||flip,1000,true||tail,1000|As is evident from the article. Kingdom skins|next,-4|... A big stone?|next,-5|You can use this big stone as a base. Vi.|next,-6|We often go north.|next,1000|Dirt. I can't wait for Bukaria to finish work!|discovery,41||flag,470,true|
+|tail,-4|The kingdom was once a big rock.|next,-5|You can use this big stone as a base. Vi.|next,-6|Instead of finding him and Elizabeth ...|discovery,41||flag,470,true|
+|boxstyle,4||spd,0|The best time to ride a bike.
+|flip,-4,true||flip,-5,true||flip,-6,true|

@@ -1,0 +1,11 @@
+|tail,-6|Qerjlsk rbaljae ... "For an idea ... balsorelec!"|next,-4|Good language. I think I am complaining.|next,-5|Definitely. No one invented it!|next,-6|(You should know how to use it.)
+|wavy|Better than Refaqi lost|wavy||next,-5|(... We are worried.)
+|halfline|GRLRWARRFGGH! ! !
+|shaky|Good morning! ! !|next,3|Grlfhank ytreikunb! ! !|shaky||next,-4,Surprized|We? !|next,-5|Yes ... monkey! Come on eat it! ???|next,-6,BattleIdle|....
+Tr, ha ha ha!|next,2|Is this good? |shaky|... Something! ! !|next,3|RBIJLENLJ! ! !|shaky||next,-5|The page you are ...|next,-4,Idle|The language ...|next,-6,BattleIdle|They are not paying attention. Ready!
+I am a broken heart!|next,-6,WeakBattleIdle|What do you mean? Why do you understand?|next,-5|Do not look for results! We need to explain the truth in more detail.|next,-6|... Energy. Continue.
+Big difference. I think even if she wears ...|next,-6|Hmmm ... we have an idea.
+We are lucky or have a blessing, not a blessing.|next|Maybe we can do magic.
+Good job!|next,-5|Is it beautiful?|next,-6|Drinking water. We are angry.|next,-4,Happy|OK!|break||hide||fwait,0.5||tail,null||goto,9|
+|spd,0||boxstyle,4||sound,ItemGet1|Now Life can wear straw clothes! Double-click the |button,5| button to leave the center of the pen.|next||spd,0||sound,ItemGet0|Life can now be used as an |color,1|ice gun|color,0|!
+|boxstyle,3||spd,0|Without clothes.|line|This is the first warning.

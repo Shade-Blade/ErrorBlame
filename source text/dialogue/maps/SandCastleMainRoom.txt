@@ -1,0 +1,4 @@
+|checkpos,y,22,1||anim,-5,WeakBattleIdle|Everyone ... we are on the roof. My group is small ...|next,-6|I've never heard of that.|next,-5|I ... hate stairs!|next,-4|(Dont wait for me ...)
+|tail,-4|Is the house large? I think it's a colony!|next,-6|Does not seem to.|next,-5|Is this video ... an eternal tree? Will this be a place of |line|prayer?|next,-6|If something, then that means.|next,-4,Happy|This tower is not without resources, so check all components and the crane!
+|tail,-4|Yes, I do not know what it is ...|next,-5|The tree looks impossible ...|line|There are also traditional gifts!|next,-6|We are happy. The quality of this movie is not good.|next,-5,Happy|Go back to Noah, |anim,-5,Idle|you'll love it!|discovery,16||flag,306,true|
+|spd,0||boxstyle,4|Description of this perennial plant.|next|Reading this text is very clear.

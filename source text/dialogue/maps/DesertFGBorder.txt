@@ -1,0 +1,10 @@
+|checktrue,348,7||tail,-6|The door is too big.|next,-5|This is the maximum print kingdom. So the environment is good.|next,-4|But I only saw one guard.|next,-5|New development. Not here ...
+|event,true||align,right,true,3.15||face,caller,-1||anim,caller,Angry||boxstyle,1||anim,-4,Hurt||anim,-5,Hurt||anim,-6,Hurt||shaky|Hey! What is your business outside of Cornells?|shaky||next,-5,Idle||boxstyle,0|We are ...|next,caller|What? ! This |color,1|shot|color,0| is on the right!|next|If you don't want to fight, it's best to get out of here!|next|No one has lost my sight!|next,-4,Surprized|Yes, awesome, a nightmare!|break||anim,caller,0||flag,263,true||event,false||end|
+What is that ! I speak! Nobody crosses the border! And:
+|tail,-4|The manager's gift.|next,-6|Suitable for work. We have better comfort than unseen.
+|shaky|They destroyed the road ...|shaky||next,-4,Flustered|Who saw that?|next,-5|! Is that correct?|next,-4,Sad|But managers are their job.|next,caller||shaky|... Yes that's right. For no reason ... This is my only job |line|... in vain!|next,-6|Destroys your mind. Let's go a little further.|flag,263,true|
+|shaky|M- Just stop my work!|shaky||next,-6|Let me go.
+Will.|next,6|...|wavy|! !|wavy||next,-6|Who is beautiful?|next,5|Running down the road ...|next,4|Do not worry.|minibubble,@Miles / hour,5||next|All is well. I need to find it.|next|Very big. I also like his position.|next,-5|... OK? This is unpredictable.|next,-4|Yes, I have never heard of a big caterpillar!|next,5|There is a lot to do. I hope we won't slow down ...|next,4|Go ahead and make sure you're ready.|next,-5|We are not always ready!|next,-6|Yes we meet here.
+That's it! The road is broken!|next,-6|The shameful self-promotion of ballistic products and a great display of a stylish small knife for you.|next,-4|If we allow it, we can go ahead ...
+|tail,-4|Who will visit the Kingdom of the Century?|next,-5|Are you looking for the possibility of happiness in an unknown culture?|next,-6|Yes let's go.
+Don't let stupid behavior stand in my way! Wow!|next||wavy|Balloon|wavy|... I want to see the furnace empire!

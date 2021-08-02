@@ -1,0 +1,2 @@
+I really like this part. she is beautiful!|next,-4|Exhibition.|next,-5|It is recommended to do so. There is a lot of time to |line|prepare.|next|While we're here, it's a pretty picture.
+|boxstyle,3||spd,0|Do you want to fight with small hands? It will be annoying if he does not touch you the other side.|next||spd,0|Ask your friends or can you shoot something?|line|Press |button,6| to change your attitude towards battles and attacks!
